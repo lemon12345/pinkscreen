@@ -19,7 +19,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/blue-screen',
     '/green-screen',
     '/orange-screen',
-    '/pink-screen',
     '/purple-screen',
     '/red-screen',
     '/white-screen',
