@@ -1,0 +1,133 @@
+{
+  "hero": {
+    "title": "Vollständiger Roter Bildschirm | Online-Tool",
+    "description": "Bildschirm in Rot für eine Stimmung. Alle Wellenlängen von roten Bildschirmanzeigen bieten die besten Ergebnisse. Rot wird als die heißeste und umstrittenste aller Farben betrachtet.",
+    "badge": "Roter Bildschirm Tool",
+    "features": {
+      "noRegistration": "Keine Registrierung",
+      "worksOffline": "Funktioniert offline",
+      "allDevices": "Alle Geräte"
+    }
+  },
+  "keywords": "roter Bildschirm, leuchtend roter Bildschirm, voller roter Bildschirm, roter Bildschirm",
+  "colorPicker": {
+    "title": "Wählen Sie Ihre Farbe",
+    "custom": "Benutzerdefiniert",
+    "description": "Perfekt für Monitortests, Fotografie-Beleuchtung und Präsentationen",
+    "launchButton": "Rote Seite starten"
+  },
+  "useCases": {
+    "title": "Die Leute verwenden den roten Bildschirm für:",
+    "description": "Unser roter Bildschirm-Tool dient verschiedenen professionellen und persönlichen Zwecken in verschiedenen Branchen und Szenarien.",
+    "cases": [
+      {
+        "icon": "🖥️",
+        "title": "Roter Bildschirm zum Überprüfen des Monitors",
+        "description": "Überprüfen Sie Ihren Monitor und finden Sie tote Pixel mit dem roten Bildschirm."
+      },
+      {
+        "icon": "🧹",
+        "title": "Roter Bildschirm zum Finden schmutziger Stellen",
+        "description": "Der rote Bildschirm hilft dabei, Schmutzflecken auf Ihrem Monitor zu identifizieren."
+      },
+      {
+        "icon": "📸",
+        "title": "Roter Bildschirm für Fotografie",
+        "description": "Verwenden Sie den roten Bildschirm als Hintergrund für Produktfotografie."
+      },
+      {
+        "icon": "🎨",
+        "title": "Roter Bildschirm für Design",
+        "description": "Der rote Bildschirm kann als Referenz für Farbdesign verwendet werden."
+      },
+      {
+        "icon": "🌙",
+        "title": "Roter Bildschirm für Nachtsicht",
+        "description": "Nutzen Sie unseren roten Vollbildschirm, um Ihre Nachtsicht zu erhalten. Ideal für Astronomie-Enthusiasten oder Nachtwanderungen."
+      },
+      {
+        "icon": "🎬",
+        "title": "Roter Bildschirm für visuelle Effekte",
+        "description": "Unser roter Bildschirm bietet eine einfache und effektive Möglichkeit, visuelle Effekte für Ihre Videos oder Präsentationen zu erzeugen."
+      },
+      {
+        "icon": "👁️",
+        "title": "Roter Bildschirm für Augenentspannung",
+        "description": "Rotes Licht ist sanfter für die Augen. Nutzen Sie unseren roten Bildschirm, um Ihren Augen eine Pause zu gönnen, besonders nach einem langen Arbeitstag am Computer."
+      },
+      {
+        "icon": "🎭",
+        "title": "Roter Bildschirm für kreative Inspiration",
+        "description": "Lassen Sie sich von unserem roten Bildschirm inspirieren. Die Farbe Rot kann Emotionen und Kreativität stimulieren, was ideal für künstlerische Projekte ist."
+      },
+      {
+        "icon": "📱",
+        "title": "um Tiktoks zu machen",
+        "description": "Weil ich blaue LED-Lichter an habe und es perfekt dazu passt, mein Gesicht oder einen Teil meines Gesichts rot zu machen und die blauen Lichter hinter mir zu lassen."
+      },
+      {
+        "icon": "📞",
+        "title": "für Online-Anrufe",
+        "description": "Zur Farbstichkorrektur bei Verwendung von Google Meets."
+      },
+      {
+        "icon": "🔧",
+        "title": "Projektor reparieren",
+        "description": "Es hilft, die Trapezkorrektur eines Projektors zu reparieren"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "description": "Finden Sie Antworten auf häufige Fragen zur Verwendung unseres roten Bildschirm-Tools für verschiedene Zwecke.",
+    "questions": [
+      {
+        "question": "Wofür wird ein roter Bildschirm verwendet?",
+        "answer": "Ein roter Bildschirm wird hauptsächlich für Monitortests verwendet, um tote Pixel und Schmutzflecken zu identifizieren."
+      },
+      {
+        "question": "Wie verwende ich roten Bildschirm für Monitortests?",
+        "answer": "Starten Sie den roten Bildschirm im Vollbildmodus und untersuchen Sie Ihren Monitor sorgfältig auf tote Pixel oder Schmutzflecken."
+      },
+      {
+        "question": "Kann ich roten Bildschirm für Fotografie verwenden?",
+        "answer": "Ja! Der rote Bildschirm kann als Hintergrund für Produktfotografie oder als Referenzfarbe verwendet werden."
+      },
+      {
+        "question": "Warum roten Bildschirm zum Lesen verwenden?",
+        "answer": "Rotes Licht hat weniger Blaulicht-Anteil, was es für Ihre Augen beim Lesen von Büchern angenehmer macht, besonders bei schwachem Licht oder vor dem Schlafengehen. Es hilft, Ihre Nachtsicht zu erhalten."
+      },
+      {
+        "question": "Ist roter Bildschirm gut für die Augengesundheit?",
+        "answer": "Ja, rotes Licht reduziert die Auswirkungen von Blaulicht und fördert den Augenkontakt und die Gesundheit. Es ist besonders vorteilhaft bei schwachem Licht oder wenn Sie die Augenbelastung reduzieren möchten."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Zusätzliche Bildschirm-Tools",
+    "description": "Entdecken Sie unsere Sammlung spezialisierter Bildschirm-Tools für verschiedene Zwecke.",
+    "colorScreens": "Farbbildschirme",
+    "prankScreens": "Streich-Bildschirme",
+    "fakeUpdateScreens": "Gefälschte Update-Bildschirme",
+    "screensaverScreens": "Bildschirmschoner"
+  },
+  "howToUse": {
+    "title": "Verwendung",
+    "steps": [
+      "Wählen Sie Ihre bevorzugte Farbe aus der Palette",
+      "Klicken Sie auf den 'Starten'-Button, um im Vollbildmodus zu öffnen",
+      "Verwenden Sie F11 oder ESC, um den Vollbildmodus zu beenden",
+      "Laden Sie das Bild in Ihrer bevorzugten Auflösung herunter"
+    ]
+  },
+  "techSpecs": {
+    "title": "Technische Spezifikationen",
+    "specs": [
+      "Auflösung: Bis zu 8K (7680x4320)",
+      "Farbtiefe: 24-bit RGB",
+      "Format: PNG, JPEG, WebP",
+      "Kompatibilität: Alle modernen Browser",
+      "Offline-Funktionalität: Vollständig verfügbar"
+    ]
+  }
+}

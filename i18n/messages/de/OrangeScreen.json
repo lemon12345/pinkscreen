@@ -1,0 +1,122 @@
+{
+  "hero": {
+    "title": "Vollständiger Orangefarbener Bildschirm | Online-Tool",
+    "description": "Orangefarbener Bildschirm für eine Stimmung. Orange Bildschirme werden von Farbexperten häufig als aufregend betrachtet. Sie könnten ekstatische und fröhliche Emotionen hervorrufen.",
+    "badge": "Orangefarbener Bildschirm Tool",
+    "features": {
+      "noRegistration": "Keine Registrierung",
+      "worksOffline": "Funktioniert offline",
+      "allDevices": "Alle Geräte"
+    }
+  },
+  "keywords": "Orange Screen, orange screen, blank orange screen, a orange screen, blank screens, full orange screen, pc orange screen, computer orange screen, total orange screen, plain orange screen, orange screen 10 hours, orange display, blank computer screen, full orange screen, total orange screen",
+  "colorPicker": {
+    "title": "Wählen Sie Ihre Farbe",
+    "custom": "Benutzerdefiniert",
+    "description": "Ideal für Bildschirmtests, Erstellung lebendiger Moodboards und Hinzufügen von Wärme zu virtuellen Präsentationen",
+    "launchButton": "Orange Screen starten"
+  },
+  "useCases": {
+    "title": "Menschen verwenden Orange Screen für:",
+    "description": "Unser Orange Screen Tool dient verschiedenen professionellen und persönlichen Zwecken in verschiedenen Branchen und Szenarien.",
+    "cases": [
+      {
+        "icon": "📹",
+        "title": "Vollbild-Orange für virtuelle Hintergründe",
+        "description": "Verwenden Sie unser Tool, um einen lebendigen orangefarbenen Bildschirm zu generieren, perfekt für virtuelle Hintergründe während Online-Meetings, Webinaren oder virtuellen sozialen Treffen. Ein Farbtupfer, um Ihre digitalen Interaktionen zu beleben."
+      },
+      {
+        "icon": "😴",
+        "title": "Orangefarbener Bildschirm für beruhigende Schlafhilfe",
+        "description": "Nutzen Sie die beruhigenden und entspannenden Effekte einer orangefarbenen Anzeige. Reduzieren Sie das harte blaue Licht und schaffen Sie eine schlaffreundliche Umgebung zum Surfen oder Lesen vor dem Schlafengehen."
+      },
+      {
+        "icon": "🎨",
+        "title": "Kreative Projektinspiration mit Orange",
+        "description": "Entfachen Sie Kreativität mit einer lebendigen Vollbild-Orange-Anzeige. Ideal für inspirierende Designprojekte, Kunst und Handwerk oder zum Anstoßen Ihres kreativen Prozesses."
+      },
+      {
+        "icon": "🖥️",
+        "title": "Geräteanzeige-Kalibrierung mit orangefarbenem Bildschirm",
+        "description": "Überprüfen Sie die Farbwiedergabe Ihrer digitalen Displays mit einer orangefarbenen Vollbild-Ausgabe. Es ist ein unverzichtbares Tool für diejenigen, die ihre Gerätefarbeneinstellungen für Grafikdesign oder Fotoediting feinabstimmen möchten."
+      },
+      {
+        "icon": "📚",
+        "title": "Interaktives Orange-Lerntool",
+        "description": "Nutzen Sie eine Vollbild-Orange-Anzeige als dynamisches visuelles Hilfsmittel für den Unterricht. Die kühne Farbe kann wichtige Informationen hervorheben und E-Learning ansprechender und wirkungsvoller machen."
+      },
+      {
+        "icon": "🧡",
+        "title": "Orangefarbener Bildschirm für Stimmung",
+        "description": "Ich mag die Stimmung, die Orange gibt"
+      },
+      {
+        "icon": "🖼️",
+        "title": "Orangefarbener Bildschirm zum Kopieren von Bildern",
+        "description": "Um ein Bild zu kopieren, das mein Klassenkamerad gezeichnet hat"
+      },
+      {
+        "icon": "🎬",
+        "title": "Orangefarbener Bildschirm für Videos",
+        "description": "Weil meine YouTube-Videos mit einem orangefarbenen Bildschirm besser sind"
+      },
+      {
+        "icon": "💻",
+        "title": "Orangefarbener Bildschirm für Online-Anrufe",
+        "description": "Für das Hinzufügen eines orangefarbenen Glühens während des Meetings."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Wofür wird ein Orange Screen Tool verwendet?",
+        "answer": "Ein Orange Screen Tool zeigt eine orangefarbene Farbe im Vollbildmodus an, häufig verwendet für Bildschirmtests, Moodboards, Augenkontakt, Content-Erstellung und zur Verbesserung der visuellen Kreativität."
+      },
+      {
+        "question": "Wie verwende ich Orange Screen für Augenkontakt?",
+        "answer": "Die Orange Screen reduziert die Blaulicht-Exposition und macht es für Ihre Augen beim nächtlichen Surfen oder langen Arbeitszeiten angenehmer. Es hilft, Augenbelastung zu reduzieren und visuellen Komfort zu verbessern."
+      },
+      {
+        "question": "Kann ich Orange Screen für Content-Erstellung verwenden?",
+        "answer": "Ja! Die Orange Screen ist perfekt für die Erstellung warmer, einladender Hintergründe für Online-Content, virtuelle Klassen oder Live-Streams. Sie fügt Ihrem Content Energie und Positivität hinzu."
+      },
+      {
+        "question": "Warum Orange Screen für Bildschirmtests verwenden?",
+        "answer": "Orange ist eine ausgezeichnete Farbe für Tests der Anzeigegenauigkeit und Farbkalibrierung. Es hilft, Farbprobleme zu identifizieren und Monitor-Einstellungen für optimales Sehen feinabzustimmen."
+      },
+      {
+        "question": "Ist Orange Screen gut für Kreativität?",
+        "answer": "Ja, Orange ist mit Kreativität und Optimismus verbunden. Eine Orange Screen kann kreatives Denken inspirieren und als Moodboard für Designprojekte und künstlerische Arbeiten dienen."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Zusätzliche Bildschirm-Tools",
+    "description": "Entdecken Sie unsere Sammlung spezialisierter Bildschirm-Tools für verschiedene Zwecke.",
+    "colorScreens": "Farbbildschirme",
+    "prankScreens": "Streich-Bildschirme",
+    "fakeUpdateScreens": "Gefälschte Update-Bildschirme",
+    "screensaverScreens": "Bildschirmschoner"
+  },
+  "howToUse": {
+    "title": "Verwendung",
+    "steps": [
+      "Wählen Sie Ihre bevorzugte Farbe aus der Palette",
+      "Klicken Sie auf den 'Starten'-Button, um im Vollbildmodus zu öffnen",
+      "Verwenden Sie F11 oder ESC, um den Vollbildmodus zu beenden",
+      "Laden Sie das Bild in Ihrer bevorzugten Auflösung herunter"
+    ]
+  },
+  "techSpecs": {
+    "title": "Technische Spezifikationen",
+    "specs": [
+      "Auflösung: Bis zu 8K (7680x4320)",
+      "Farbtiefe: 24-bit RGB",
+      "Format: PNG, JPEG, WebP",
+      "Kompatibilität: Alle modernen Browser",
+      "Offline-Funktionalität: Vollständig verfügbar"
+    ]
+  }
+}

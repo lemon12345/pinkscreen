@@ -1,0 +1,188 @@
+{
+  "hero": {
+    "badge": "Strumento Schermo Bianco",
+    "title": "Schermo Bianco | Strumento Online",
+    "description": "Strumento schermo bianco gratuito e professionale per testare monitor, migliorare l'illuminazione delle videochiamate Zoom, pulire lo schermo, rilevare pixel morti, copiare disegni, creare flipbook e concentrarsi meglio. Schermo bianco a schermo intero senza pubblicità, funziona offline su tutti i dispositivi.",
+    "features": {
+      "noRegistration": "Nessuna registrazione",
+      "worksOffline": "Funziona offline",
+      "allDevices": "Tutti i dispositivi"
+    }
+  },
+  "keywords": "schermo bianco, pagina bianca, schermo bianco online, pulizia schermo, test pixel, illuminazione zoom, sfondo bianco, schermo bianco fullscreen",
+  "colorPicker": {
+    "title": "Scegli il tuo colore",
+    "custom": "Personalizzato",
+    "description": "Perfetto per la pulizia dello schermo, test dei pixel e miglioramento dell'illuminazione",
+    "launchButton": "Avvia schermo bianco"
+  },
+  "interface": {
+    "livePreview": "Anteprima dal Vivo",
+    "chooseYourColor": "Scegli il Tuo Colore",
+    "clickForFullscreen": "Clicca per Schermo Intero",
+    "current": "Attuale",
+    "perfectFor": "Perfetto per test del monitor, illuminazione fotografica e presentazioni",
+    "launchWhiteScreen": "Avvia Schermo Bianco"
+  },
+  "colors": {
+    "Black": "Schermo Nero",
+    "White": "Schermo Bianco",
+    "Red": "Schermo Rosso",
+    "Blue": "Schermo Blu",
+    "Green": "Schermo Verde",
+    "Yellow": "Giallo",
+    "Purple": "Viola",
+    "Pink": "Rosa",
+    "Orange": "Arancione",
+    "Zoom Lighting": "Illuminazione Zoom"
+  },
+  "useCases": {
+    "title": "Le persone usano lo schermo bianco per:",
+    "subtitle": "Scopri i diversi modi di utilizzare il nostro schermo bianco",
+    "description": "Il nostro strumento schermo bianco serve molteplici scopi professionali e personali in varie industrie e scenari.",
+    "cases": [
+      {
+        "title": "come illuminazione per chiamate zoom",
+        "description": "Per le videochiamate! Non ho una luce anulare facile, ma ho due schermi. Quindi posso usare uno degli schermi per illuminarmi il viso!",
+        "icon": "🎥"
+      },
+      {
+        "title": "per copiare i disegni",
+        "description": "Avevo bisogno di qualcosa di luminoso sotto un foglio, in modo da poter ridisegnare un'immagine più facilmente.",
+        "icon": "📝"
+      },
+      {
+        "title": "come fonte di luce",
+        "description": "Illuminare il retro di un lightbox per la fotografia del prodotto",
+        "icon": "🔆"
+      },
+      {
+        "title": "per controllare il monitor",
+        "description": "Controlla il tuo monitor e trova pixel morti.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "a schermo vuoto",
+        "description": "Non vuoi essere disturbato? Vuoi prendere un freno? Usa uno schermo bianco per oscurare lo schermo.",
+        "icon": "⚪"
+      },
+      {
+        "title": "leggero da leggere",
+        "description": "Per ottenere una fonte di luce ed essere in grado di leggere libri quando è buio nella stanza e l'interruttore della luce è troppo lontano.",
+        "icon": "📖"
+      },
+      {
+        "title": "leggero al trucco",
+        "description": "Come fonte di luce brillante per truccarsi o scattare foto",
+        "icon": "💄"
+      },
+      {
+        "title": "per pulire il monitor",
+        "description": "Scioccoso, ma lo uso per la pulizia del monitor. Rende ovvie le cose sullo schermo. :) Lo uso anche per convalidare la riproduzione del colore semplice per diversi monitor, ma si presenta solo di rado e non sto cercando per color grading professionale.",
+        "icon": "🧽"
+      },
+      {
+        "title": "cercare polvere",
+        "description": "Sfondo coerente per pulire il mio monitor e anche per verificare la presenza di pixel morti o bloccati. A volte anche per illuminarmi il viso quando utilizzo una webcam.",
+        "icon": "🔍"
+      },
+      {
+        "title": "prendere mosche",
+        "description": "Stavo catturando piccole mosche perché erano attratte dallo schermo bianco sul mio display",
+        "icon": "🪰"
+      },
+      {
+        "title": "fare un flipbook",
+        "description": "Sto lavorando su una sequenza animata, e lo sto facendo nel modo tradizionale (a mano), quindi ho bisogno di una superficie bianca con luce che mi permetta di mettere un pezzo di carta sopra un altro e di poter per vedere entrambi, quindi poiché non ho uno schermo professionale per questo, sto usando il mio computer e ci metto sopra lo schermo bianco in modo da non toccare nulla per errore",
+        "icon": "📚"
+      },
+      {
+        "title": "concentrarti",
+        "description": "Durante lo studio, utilizzo 2 schermi, uno con un timer e uno per cercare tutto ciò di cui ho bisogno su Internet. Quando non sto cercando, metto lo schermo bianco in modo da non distrarmi con nulla sul computer",
+        "icon": "🎯"
+      },
+      {
+        "title": "per configurare le impostazioni del monitor",
+        "description": "Utile quando si regolano le impostazioni nel mio monitor secondario (dato che è piuttosto vecchio non si limita a impostare le cose come dovrebbero essere per impostazione predefinita). Impostazioni come posizione verticale/orizzontale e scala verticale/orizzontale. Utile anche durante la ricerca di pixel morti.",
+        "icon": "⚙️"
+      },
+      {
+        "title": "disegnare di notte",
+        "description": "Se disegno su carta, posso mettere la carta sopra la tavoletta grafica del display e vedere cosa disegno di notte",
+        "icon": "🖌️"
+      }
+    ]
+  },
+  "info": {
+    "title": "Schermo Bianco – Strumento a Schermo Intero",
+    "subtitle": "Uno schermo bianco evidenzia facilmente polvere e macchie per una pulizia semplice, aiuta a rilevare i pixel e migliora l'illuminazione in stanze buie",
+    "professionalTool": "Strumento Professionale",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Scarica Sfondo Schermo Bianco",
+    "downloadDescription": "Ottieni schermi bianchi di alta qualità per le tue esigenze professionali",
+    "hdTitle": "Sfondo Schermo Bianco 1920×1080",
+    "hdDescription": "Immagine bianca a schermo intero pura per la pulizia dello schermo, test dei pixel morti e comfort visivo",
+    "hdButton": "Scarica HD",
+    "fourKTitle": "Sfondo Schermo Bianco 4K",
+    "fourKDescription": "Immagine schermo bianco ultra HD per miglioramento dell'illuminazione e test del display",
+    "fourKButton": "Scarica 4K",
+    "proTipBadge": "Suggerimento Pro",
+    "proTipTitle": "Suggerimento Pro",
+    "proTipDescription": "Usa lo schermo bianco in combinazione con schermi neri o rossi per testare la risposta di luminosità e contrasto del tuo monitor."
+  },
+  "howToUse": {
+    "title": "Come usare lo schermo bianco",
+    "subtitle": "Guida semplice per ottenere il massimo dal nostro strumento",
+    "steps": [
+      "Scegli il tuo colore preferito dalla tavolozza",
+      "Clicca sul pulsante 'Avvia' per aprire a schermo intero",
+      "Usa F11 o ESC per uscire dalla modalità schermo intero",
+      "Scarica l'immagine nella risoluzione preferita"
+    ]
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "subtitle": "Risposte alle domande comuni sullo schermo bianco",
+    "description": "Trova risposte alle domande comuni sull'uso del nostro strumento schermo bianco per vari scopi.",
+    "questions": [
+      {
+        "question": "Lo schermo bianco è gratuito?",
+        "answer": "Sì, il nostro strumento schermo bianco è completamente gratuito e senza pubblicità."
+      },
+      {
+        "question": "Posso usare lo schermo bianco offline?",
+        "answer": "Una volta caricata la pagina, puoi usare lo schermo bianco anche senza connessione internet."
+      },
+      {
+        "question": "Lo schermo bianco funziona su mobile?",
+        "answer": "Sì, il nostro strumento è ottimizzato per tutti i dispositivi: computer, tablet e smartphone."
+      },
+      {
+        "question": "Come regolare la luminosità?",
+        "answer": "Usa i controlli di luminosità del tuo dispositivo per regolare l'intensità dello schermo bianco."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specifiche tecniche",
+    "subtitle": "Dettagli tecnici del nostro strumento schermo bianco",
+    "specs": [
+      {
+        "label": "Colore",
+        "value": "#FFFFFF (Bianco puro)"
+      },
+      {
+        "label": "Risoluzione",
+        "value": "Si adatta a tutti gli schermi"
+      },
+      {
+        "label": "Compatibilità",
+        "value": "Tutti i browser moderni"
+      },
+      {
+        "label": "Prestazioni",
+        "value": "Ottimizzato per basso consumo"
+      }
+    ]
+  }
+} 

@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "title": "Weißer Bildschirm",
+    "description": "Verwenden Sie einen weißen Bildschirm, um Duplikate zu erstellen. Um Ansichten oder Details leicht nachzubilden, war eine helle Oberfläche unter dem Papier notwendig.",
+    "badge": "Kostenloses Online-Tool",
+    "features": {
+      "noRegistration": "Keine Registrierung",
+      "worksOffline": "Funktioniert offline",
+      "allDevices": "Alle Geräte"
+    }
+  },
+  "keywords": "weißer bildschirm, leerer weißer bildschirm, einfacher weißer bildschirm, vollbild weißer bildschirm, weißer bildschirm youtube, ein weißer bildschirm, monitor weißer bildschirm, computer weißer bildschirm, weißer bildschirm website, pc weißer bildschirm, leerer weißer bildschirm, vollbild weißer bildschirm, 24 stunden weißer bildschirm, weißer bildschirm 2, weiße seite, leere weiße seite, einfache weiße seite, vollbild weiße seite, weiße seite tool, online weiße seite, weiße seite website, vollbild weiße seite, weiße seite monitor test, weiße seite fotografie, weiße seite fokus tool",
+  "colorPicker": {
+    "title": "Wählen Sie Ihre Farbe",
+    "custom": "Benutzerdefiniert",
+    "description": "Perfekt für Monitortests, Fotografie-Beleuchtung und Präsentationen",
+    "launchButton": "Weiße Seite starten"
+  },
+  "useCases": {
+    "title": "Menschen verwenden weißen Bildschirm für:",
+    "description": "Unser weißer Bildschirm-Tool dient verschiedenen professionellen und persönlichen Zwecken in verschiedenen Branchen und Szenarien.",
+    "cases": [
+      {
+        "icon": "📝",
+        "title": "Weißer Bildschirm zum Kopieren von Zeichnungen",
+        "description": "Ich brauchte etwas Helles unter einem Papier, damit ich ein Bild leichter nachzeichnen konnte."
+      },
+      {
+        "icon": "💡",
+        "title": "Weißer Bildschirm als Lichtquelle",
+        "description": "Beleuchtung der Rückseite einer Leuchtbox für Produktfotografie"
+      },
+      {
+        "icon": "🖥️",
+        "title": "Weißer Bildschirm zum Überprüfen des Monitors",
+        "description": "Überprüfen Sie Ihren Monitor und finden Sie tote Pixel."
+      },
+      {
+        "icon": "🚫",
+        "title": "Weißer Bildschirm zum Leeren des Bildschirms",
+        "description": "Möchten Sie nicht gestört werden? Möchten Sie eine Pause machen? Verwenden Sie einen weißen Bildschirm, um Ihren Bildschirm zu leeren."
+      },
+      {
+        "icon": "📖",
+        "title": "Weißer Bildschirm als Licht zum Lesen",
+        "description": "Um eine Lichtquelle zu bekommen und Bücher lesen zu können, wenn es im Raum dunkel ist und der Lichtschalter zu weit weg ist."
+      },
+      {
+        "icon": "🎯",
+        "title": "Weißer Bildschirm zur Konzentration",
+        "description": "Beim Studieren verwende ich 2 Bildschirme, einen mit einem Timer und einen zum Suchen im Internet. Wenn ich nicht suche, stelle ich den weißen Bildschirm ein, damit ich nicht abgelenkt werde."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "description": "Finden Sie Antworten auf häufige Fragen zu unserem Weißbildschirm-Tool und seinen verschiedenen Anwendungen.",
+    "questions": [
+      {
+        "question": "Wofür wird ein weißer Bildschirm-Tool verwendet?",
+        "answer": "Ein weißer Bildschirm-Tool zeigt eine weiße Farbe im Vollbildmodus an, häufig verwendet für Monitortests, Fotografie-Beleuchtung, Lesen und Erstellen eines sauberen Hintergrunds für verschiedene Zwecke."
+      },
+      {
+        "question": "Wie verwende ich weißen Bildschirm für Monitortests?",
+        "answer": "Der weiße Bildschirm ist perfekt zum Erkennen toter Pixel, Schmutzflecken und zur Überprüfung der Monitor-Kalibrierung. Starten Sie einfach den weißen Bildschirm im Vollbildmodus und untersuchen Sie Ihren Bildschirm sorgfältig."
+      },
+      {
+        "question": "Kann ich weißen Bildschirm für Fotografie verwenden?",
+        "answer": "Ja! Der weiße Bildschirm ist ausgezeichnet für Produktfotografie, Erstellen eines sauberen Hintergrunds und Bereitstellung konsistenter Beleuchtung für Ihre Fotos."
+      },
+      {
+        "question": "Warum weißen Bildschirm zum Lesen verwenden?",
+        "answer": "Weißes Licht bietet guten Kontrast zum Lesen von Text und ist schonender für Ihre Augen beim Lesen von Büchern oder Dokumenten bei schlechten Lichtverhältnissen."
+      },
+      {
+        "question": "Ist weißer Bildschirm gut für Konzentration?",
+        "answer": "Ja, ein weißer Bildschirm kann Ihnen helfen, sich zu konzentrieren, indem er Ablenkungen eliminiert. Er wird häufig von Studenten und Fachleuten verwendet, die ihre Konzentration beim Arbeiten aufrechterhalten möchten."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Zusätzliche Bildschirm-Tools",
+    "description": "Entdecken Sie unsere Sammlung spezialisierter Bildschirm-Tools für verschiedene Zwecke.",
+    "colorScreens": "Farbbildschirme",
+    "colorScreensDescription": "Reine Farbhintergrund-Bildschirme für verschiedene Szenarien",
+    "prankScreens": "Streich-Bildschirme",
+    "prankScreensDescription": "Lustige Streich-Bildschirm-Effekte",
+    "fakeUpdateScreens": "Gefälschte Update-Bildschirme",
+    "fakeUpdateScreensDescription": "Simulierte System-Update-Oberflächen für Streiche und Tests",
+    "screensaverScreens": "Bildschirmschoner",
+    "screensaverScreensDescription": "Klassische Bildschirmschoner-Effekte für mehr Spaß"
+  },
+  "howToUse": {
+    "title": "Verwendung",
+    "steps": [
+      "Wählen Sie Ihre bevorzugte Farbe aus der Palette",
+      "Klicken Sie auf den 'Starten'-Button, um im Vollbildmodus zu öffnen",
+      "Verwenden Sie F11 oder ESC, um den Vollbildmodus zu beenden",
+      "Laden Sie das Bild in Ihrer bevorzugten Auflösung herunter"
+    ]
+  },
+  "techSpecs": {
+    "title": "Technische Spezifikationen",
+    "specs": [
+      "Auflösung: Bis zu 8K (7680x4320)",
+      "Farbtiefe: 24-bit RGB",
+      "Format: PNG, JPEG, WebP",
+      "Kompatibilität: Alle modernen Browser",
+      "Offline-Funktionalität: Vollständig verfügbar"
+    ]
+  }
+}

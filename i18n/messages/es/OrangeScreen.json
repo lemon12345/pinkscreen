@@ -1,0 +1,160 @@
+{
+  "hero": {
+    "badge": "Herramienta de Pantalla Naranja",
+    "title": "Pantalla Naranja | Herramienta en Línea",
+    "description": "Pantalla naranja a pantalla completa para crear iluminación ambiental cálida, probar pantallas o reducir distracciones. Sin anuncios. Funciona en todos los navegadores y dispositivos.",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Sin Conexión",
+      "allDevices": "Todos los Dispositivos"
+    }
+  },
+  "keywords": "pantalla naranja, pantalla naranja en blanco, una pantalla naranja, pantallas en blanco, pantalla naranja completa, pantalla naranja de pc, pantalla naranja de computadora, pantalla naranja total, pantalla naranja simple, pantalla naranja 10 horas, pantalla naranja, pantalla de computadora en blanco, completa pantalla naranja, pantalla naranja total",
+  "colorPicker": {
+    "title": "Elige Tu Color",
+    "custom": "Personalizado",
+    "description": "Perfecto para pruebas de pantalla, crear tableros de humor vibrantes y agregar calidez a presentaciones virtuales",
+    "launchButton": "Lanzar Página Naranja"
+  },
+  "colors": {
+    "Black": "Pantalla Negra",
+    "White": "Pantalla Blanca",
+    "Red": "Pantalla Roja",
+    "Blue": "Pantalla Azul",
+    "Green": "Pantalla Verde",
+    "Yellow": "Pantalla Amarilla",
+    "Purple": "Pantalla Morada",
+    "Pink": "Pantalla Rosa",
+    "Orange": "Pantalla Naranja",
+    "Zoom Lighting": "Iluminación Zoom"
+  },
+  "interface": {
+    "livePreview": "Vista Previa en Vivo",
+    "clickForFullscreen": "Haz Clic para Pantalla Completa",
+    "current": "Actual",
+    "chooseYourColor": "Elige Tu Color",
+    "perfectFor": "Perfecto para",
+    "launchOrangeScreen": "Lanzar Pantalla Naranja"
+  },
+  "useCases": {
+    "title": "La gente usa la pantalla naranja para:",
+    "description": "Nuestra herramienta de pantalla naranja sirve múltiples propósitos profesionales y personales en varias industrias y escenarios.",
+    "cases": [
+      {
+        "icon": "",
+        "title": "Pantalla Naranja a Pantalla Completa para Fondos Virtuales",
+        "description": "Utiliza nuestra herramienta para generar una pantalla naranja vibrante, perfecta para fondos virtuales durante reuniones en línea, webinars o encuentros sociales virtuales. Un toque de color para animar tus interacciones digitales."
+      },
+      {
+        "icon": "😴",
+        "title": "Pantalla Naranja para Ayudar al Sueño Calmante",
+        "description": "Benefíciate de los efectos calmantes y relajantes de una pantalla naranja. Reduce la luz azul intensa y crea un ambiente amigable para el sueño para navegar o leer antes de acostarte."
+      },
+      {
+        "icon": "",
+        "title": "Inspiración para Proyectos Creativos con Naranja",
+        "description": "Despierta la creatividad con una vibrante pantalla naranja a pantalla completa. Ideal para inspirar proyectos de diseño, artes y manualidades, o para iniciar tu proceso creativo."
+      },
+      {
+        "icon": "🖥️",
+        "title": "Calibración de Pantalla de Dispositivo con Pantalla Naranja",
+        "description": "Verifica la representación de color de tus pantallas digitales con una salida naranja a pantalla completa. Es una herramienta esencial para aquellos que buscan ajustar los ajustes de color de su dispositivo para diseño gráfico o edición de fotos."
+      },
+      {
+        "icon": "",
+        "title": "Herramienta de Aprendizaje Interactiva Naranja",
+        "description": "Utiliza una pantalla naranja a pantalla completa como un recurso visual dinámico para enseñar. El color audaz puede destacar información clave, haciendo que el aprendizaje electrónico sea más atractivo e impactante."
+      },
+      {
+        "icon": "🧡",
+        "title": "pantalla naranja para crear una atmósfera",
+        "description": "Me gusta la atmósfera que da el naranja"
+      },
+      {
+        "icon": "🖼️",
+        "title": "pantalla naranja para copiar imagen",
+        "description": "Para copiar una imagen que dibujó mi compañero de clase"
+      },
+      {
+        "icon": "🎬",
+        "title": "pantalla naranja para hacer videos",
+        "description": "Porque mis videos de YouTube son mejores con una pantalla naranja"
+      },
+      {
+        "icon": "💻",
+        "title": "pantalla naranja para llamadas en línea",
+        "description": "Para agregar un brillo naranja durante la reunión."
+      }
+    ]
+  },
+  "info": {
+    "title": "Pantalla Naranja – Herramienta de Fondo de Pantalla Completa",
+    "subtitle": "La pantalla naranja proporciona calidez y energía, estimula la creatividad y es perfecta para fondos virtuales y ayuda para dormir",
+    "professionalTool": "Herramienta Profesional",
+    "downloadReady": "Descarga Lista",
+    "downloadTitle": "Descargar Fondo de Pantalla Naranja",
+    "downloadDescription": "Obtén pantallas naranjas de alta calidad para tus necesidades profesionales",
+    "hdTitle": "1920×1080 Fondo de Pantalla Naranja",
+    "hdDescription": "Imagen naranja pura a pantalla completa para creatividad, iluminación y pruebas",
+    "hdButton": "Descargar HD",
+    "fourKTitle": "4K Fondo de Pantalla Naranja",
+    "fourKDescription": "Imagen naranja a pantalla completa ultra HD para iluminación cálida y estimulación visual",
+    "fourKButton": "Descargar 4K",
+    "proTipBadge": "Consejo Pro",
+    "proTipTitle": "Consejo Pro",
+    "proTipDescription": "Durante reuniones virtuales o presentaciones, combina la pantalla naranja con otros colores para crear ambientes cálidos e invitadores."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "description": "Encuentra respuestas a preguntas comunes sobre el uso de nuestra herramienta de pantalla naranja para diversos propósitos.",
+    "questions": [
+      {
+        "question": "¿Para qué se usa una herramienta de pantalla naranja?",
+        "answer": "Una herramienta de pantalla naranja muestra un color naranja en modo pantalla completa, comúnmente usado para pruebas de pantalla, tableros de humor, comodidad ocular, creación de contenido y mejora de la creatividad visual."
+      },
+      {
+        "question": "¿Cómo uso la pantalla naranja para comodidad ocular?",
+        "answer": "La pantalla naranja reduce la exposición a la luz azul, haciéndola más fácil para tus ojos durante la navegación nocturna o largas horas de trabajo. Ayuda a reducir la fatiga visual y mejorar la comodidad visual."
+      },
+      {
+        "question": "¿Puedo usar la pantalla naranja para creación de contenido?",
+        "answer": "¡Sí! La pantalla naranja es perfecta para crear fondos cálidos e invitadores para contenido en línea, clases virtuales o transmisiones en vivo. Añade energía y positividad a tu contenido."
+      },
+      {
+        "question": "¿Por qué usar pantalla naranja para pruebas de pantalla?",
+        "answer": "El naranja es un color excelente para probar la precisión de la pantalla y la calibración del color. Ayuda a identificar problemas de color y afinar la configuración del monitor para una visualización óptima."
+      },
+      {
+        "question": "¿La pantalla naranja es buena para la creatividad?",
+        "answer": "Sí, el naranja está asociado con la creatividad y el optimismo. Una pantalla naranja puede inspirar el pensamiento creativo y servir como un tablero de humor para proyectos de diseño y trabajo artístico."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "prankScreens": "Pantallas de Broma",
+    "fakeUpdateScreens": "Pantallas de Actualización Falsa",
+    "screensaverScreens": "Pantallas de Protector de Pantalla"
+  },
+  "howToUse": {
+    "title": "Cómo Usar",
+    "steps": [
+      "Elige tu color preferido de la paleta",
+      "Haz clic en el botón 'Lanzar' para abrir en pantalla completa",
+      "Usa F11 o ESC para salir del modo pantalla completa",
+      "Descarga la imagen en tu resolución preferida"
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificaciones Técnicas",
+    "specs": [
+      "Resolución: Hasta 8K (7680x4320)",
+      "Profundidad de Color: 24-bit RGB",
+      "Formato: PNG, JPEG, WebP",
+      "Compatibilidad: Todos los navegadores modernos",
+      "Funcionalidad Offline: Completamente disponible"
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "hero": {
+    "badge": "Alat Skrin Merah",
+    "title": "Skrin Merah | Alat Dalam Talian",
+    "description": "Skrin merah skrin penuh profesional dalam talian untuk penciptaan kandungan TikTok, Instagram Reels, YouTube Shorts dan platform media sosial. Alat skrin merah berkualiti tinggi untuk panggilan video dalam talian, terapi cahaya merah, pemeliharaan penglihatan malam, membaca buku dalam cahaya rendah dan kesan pencahayaan kreatif. Warna merah yang menenangkan membantu mengurangkan ketegangan mata, meningkatkan mood dan mencipta suasana yang menarik. Sesuai untuk content creator, influencer, YouTuber, penstrimer dan sesiapa yang memerlukan pencahayaan merah untuk kandungan kreatif dan kesihatan mata.",
+    "features": {
+      "noRegistration": "Tiada pendaftaran",
+      "worksOffline": "Berfungsi luar talian",
+      "allDevices": "Semua peranti"
+    }
+  },
+  "keywords": "skrin merah, latar belakang merah, skrin merah online, warna merah, tenaga, dinamik",
+  "colorPicker": {
+    "title": "Pilih warna anda",
+    "custom": "Tersuai",
+    "description": "Sempurna untuk merangsang tenaga dan mencipta suasana dinamik",
+    "launchButton": "Lancarkan skrin merah"
+  },
+  "colors": {
+    "Black": "Hitam",
+    "White": "Putih",
+    "Red": "Merah",
+    "Blue": "Biru",
+    "Green": "Hijau",
+    "Yellow": "Kuning",
+    "Purple": "Ungu",
+    "Pink": "Merah Jambu",
+    "Orange": "Oren",
+    "Zoom Lighting": "Pencahayaan Zoom"
+  },
+  "interface": {
+    "livePreview": "Pratonton langsung",
+    "clickForFullscreen": "Klik untuk skrin penuh",
+    "current": "Semasa",
+    "chooseYourColor": "Pilih warna anda",
+    "perfectFor": "Sempurna untuk",
+    "launchRedScreen": "Lancarkan Skrin Merah"
+  },
+  "useCases": {
+    "title": "Orang menggunakan skrin merah untuk:",
+    "subtitle": "Temui pelbagai cara untuk menggunakan skrin merah kami",
+    "description": "Alat skrin merah kami merangsang tenaga dan perhatian untuk projek kreatif dan persembahan berimpak.",
+    "cases": [
+      {
+        "title": "Skrin Merah untuk Filem dan Fotografi",
+        "description": "Gunakan skrin merah kami untuk bereksperimen dengan penapis warna dan kesan dalam filem dan fotografi. Latar belakang merah yang terang boleh menambah sentuhan dramatik kepada komposisi anda.",
+        "icon": "🎬"
+      },
+      {
+        "title": "Paparan Merah untuk Kesihatan Mata",
+        "description": "Alat skrin merah kami boleh digunakan untuk mengurangkan kesan cahaya biru, membantu keselesaan dan kesihatan mata, terutamanya dalam keadaan cahaya rendah atau sebelum tidur.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Skrin Merah untuk Acara Maya",
+        "description": "Cipta persekitaran acara maya yang menarik dengan paparan merah skrin penuh kami. Ia boleh menetapkan nada dan suasana yang tersendiri untuk perkumpulan anda.",
+        "icon": "🎪"
+      },
+      {
+        "title": "Skrin Merah untuk Reka Bentuk Grafik",
+        "description": "Pereka grafik boleh memanfaatkan alat skrin merah kami untuk mencipta reka bentuk yang berani dan berkesan. Warna merah boleh membangkitkan emosi yang kuat dan menarik perhatian penonton.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Skrin Merah untuk Pembentangan Bertema",
+        "description": "Pendidik dan pembentang boleh menggunakan skrin merah kami untuk mencipta pembentangan bertema, menyerlahkan perkara penting dan menarik minat penonton.",
+        "icon": "📊"
+      },
+      {
+        "title": "skrin merah terang untuk membuat tiktok",
+        "description": "Kerana saya mempunyai lampu LED biru yang dihidupkan dan ia sepadan dengan sempurna menjadikan muka saya atau sebahagian muka saya merah dan meninggalkan lampu biru di belakang saya. Saya suka skrin merah sebenarnya, ia keren untuk membuat tiktok atau seperti foto dan mengeditnya untuk membuatnya kelihatan profesional.",
+        "icon": "📱"
+      },
+      {
+        "title": "skrin cahaya merah untuk panggilan dalam talian",
+        "description": "Untuk pembetulan warna semasa menggunakan Google Meets.",
+        "icon": "📞"
+      },
+      {
+        "title": "skrin merah untuk memelihara penglihatan malam",
+        "description": "Tidak menyakitkan mata, terutamanya apabila keluar dari kawasan gelap",
+        "icon": "🌙"
+      },
+      {
+        "title": "skrin merah untuk membaca buku",
+        "description": "Untuk membaca buku dengan cahaya biru yang kurang.",
+        "icon": "📖"
+      },
+      {
+        "title": "skrin merah untuk membaiki projektor",
+        "description": "ia membantu membaiki keystone projektor",
+        "icon": "🔧"
+      },
+      {
+        "title": "cahaya merah untuk mempermainkan",
+        "description": "Untuk mempermainkan rakan-rakan saya dan mengatakan saya mempunyai L.E.D.",
+        "icon": "😄"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Cara menggunakan skrin merah",
+    "subtitle": "Panduan mudah untuk mendapatkan yang terbaik dari alat kami",
+    "steps": [
+      {
+        "title": "Buka alat",
+        "description": "Klik butang untuk memaparkan skrin merah dalam skrin penuh"
+      },
+      {
+        "title": "Laraskan keamatan",
+        "description": "Laraskan kecerahan mengikut penggunaan anda (bacaan, video, dll.)"
+      },
+      {
+        "title": "Gunakan secara kreatif",
+        "description": "Terokai pelbagai aplikasi kreatif cahaya merah"
+      }
+    ]
+  },
+  "info": {
+    "title": "Skrin Merah – Alat Latar Belakang Skrin Penuh",
+    "subtitle": "Skrin merah merangsang tenaga dan perhatian, sempurna untuk projek kreatif dan persembahan berimpak",
+    "professionalTool": "Alat Profesional",
+    "downloadReady": "Muat Turun Sedia",
+    "downloadTitle": "Muat Turun Latar Belakang Skrin Merah",
+    "downloadDescription": "Dapatkan skrin merah berkualiti tinggi untuk keperluan profesional anda",
+    "hdTitle": "Latar Belakang Skrin Merah 1920×1080",
+    "hdDescription": "Imej merah skrin penuh tulen untuk merangsang tenaga, perhatian dan mencipta suasana dinamik",
+    "hdButton": "Muat Turun HD",
+    "fourKTitle": "Latar Belakang Skrin Merah 4K",
+    "fourKDescription": "Imej skrin merah ultra HD untuk projek kreatif dan persembahan berimpak",
+    "fourKButton": "Muat Turun 4K",
+    "proTipBadge": "Petua Pro",
+    "proTipTitle": "Petua Pro",
+    "proTipDescription": "Gunakan skrin merah untuk mencipta kontras yang kuat dan menarik perhatian dalam persembahan anda."
+  },
+  "faq": {
+    "title": "Soalan lazim",
+    "subtitle": "Jawapan kepada soalan biasa tentang skrin merah",
+    "description": "Ketahui cara menggunakan warna merah dengan berkesan untuk memaksimumkan impak tenaganya dalam projek anda.",
+    "questions": [
+      {
+        "question": "Mengapa cahaya merah memelihara penglihatan malam?",
+        "answer": "Cahaya merah tidak menjejaskan rod mata yang bertanggungjawab untuk penglihatan dalam gelap."
+      },
+      {
+        "question": "Bolehkah skrin merah membantu untuk tidur?",
+        "answer": "Ya, cahaya merah kurang mengganggu pengeluaran melatonin berbanding cahaya biru."
+      },
+      {
+        "question": "Bolehkah saya gunakan skrin merah untuk fotografi?",
+        "answer": "Tentu sekali! Ia mencipta kesan pencahayaan yang dramatik dan artistik."
+      },
+      {
+        "question": "Adakah alat berfungsi pada mudah alih?",
+        "answer": "Ya, skrin merah berfungsi dengan sempurna pada semua peranti mudah alih."
+      },
+      {
+        "question": "Adakah skrin merah selamat untuk mata?",
+        "answer": "Ya, cahaya merah umumnya dianggap selamat untuk mata dan boleh membantu mengurangkan ketegangan mata."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Spesifikasi teknikal",
+    "subtitle": "Butiran teknikal alat skrin merah kami",
+    "specs": [
+      {
+        "label": "Warna",
+        "value": "#FF0000 (Merah tulen)"
+      },
+      {
+        "label": "Resolusi",
+        "value": "Menyesuaikan dengan semua skrin"
+      },
+      {
+        "label": "Keserasian",
+        "value": "Semua pelayar moden"
+      },
+      {
+        "label": "Penggunaan khas",
+        "value": "Penglihatan malam dipelihara"
+      }
+    ]
+  }
+} 

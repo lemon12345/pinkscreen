@@ -1,0 +1,166 @@
+{
+  "hero": {
+    "badge": "Alat Skrin Ungu",
+    "title": "Skrin Ungu | Alat Dalam Talian",
+    "description": "Skrin ungu skrin penuh profesional dalam talian untuk menggalakkan kreativiti, kerohanian, meditasi dan mencipta suasana mistik yang menginspirasi. Alat skrin ungu berkualiti tinggi untuk aplikasi kesejahteraan, terapi warna, sesi meditasi, yoga, mindfulness dan penciptaan kandungan artistik. Warna ungu yang menenangkan membantu mengurangkan tekanan, meningkatkan fokus spiritual dan menggalakkan pemikiran kreatif yang mendalam. Sesuai untuk ahli terapi, jurulatih kesejahteraan, artis, pereka, pengamal meditasi dan sesiapa yang memerlukan persekitaran yang canggih dan rohani untuk kerja kreatif dan relaksasi.",
+    "features": {
+      "noRegistration": "Tiada pendaftaran",
+      "worksOffline": "Berfungsi luar talian",
+      "allDevices": "Semua peranti"
+    }
+  },
+  "keywords": "skrin ungu, latar belakang ungu, skrin ungu online, warna ungu, kreativiti, kerohanian, mistik",
+  "colorPicker": {
+    "title": "Pilih warna anda",
+    "custom": "Tersuai",
+    "description": "Sempurna untuk memberi inspirasi kreativiti dan mencipta suasana mistik",
+    "launchButton": "Lancarkan skrin ungu"
+  },
+  "colors": {
+    "Black": "Hitam",
+    "White": "Putih",
+    "Red": "Merah",
+    "Blue": "Biru",
+    "Green": "Hijau",
+    "Yellow": "Kuning",
+    "Purple": "Ungu",
+    "Pink": "Merah Jambu",
+    "Orange": "Oren",
+    "Zoom Lighting": "Pencahayaan Zoom"
+  },
+  "interface": {
+    "livePreview": "Pratonton langsung",
+    "clickForFullscreen": "Klik untuk skrin penuh",
+    "current": "Semasa",
+    "chooseYourColor": "Pilih warna anda",
+    "perfectFor": "Sempurna untuk",
+    "launchPurpleScreen": "Lancarkan Skrin Ungu"
+  },
+  "useCases": {
+    "title": "Orang menggunakan skrin ungu untuk:",
+    "subtitle": "Temui pelbagai cara untuk menggunakan skrin ungu kami",
+    "description": "Alat skrin ungu kami memberi inspirasi kreativiti dan kerohanian, mencipta suasana mistik dan canggih.",
+    "cases": [
+      {
+        "title": "Ungu Skrin Penuh untuk Aplikasi Kesejahteraan",
+        "description": "Integrasikan alat kami ke dalam aplikasi kesejahteraan anda untuk menghasilkan skrin ungu yang menenangkan, sesuai untuk latihan meditasi dan kesedaran. Warna yang tenang membantu relaksasi dan kesejahteraan mental.",
+        "icon": "🧘"
+      },
+      {
+        "title": "Skrin Ungu untuk Kesan Pencahayaan",
+        "description": "Cipta kesan pencahayaan dinamik dengan paparan ungu skrin penuh. Sesuai untuk mewujudkan suasana unik untuk panggilan video, acara maya, atau sesi muzik anda.",
+        "icon": "💡"
+      },
+      {
+        "title": "Kajian Teori Warna dengan Skrin Ungu",
+        "description": "Gunakan paparan ungu skrin penuh yang terang sebagai alat pembelajaran untuk teori warna. Ia membantu pelajar seni dan pereka memahami kesan dan kepentingan warna dalam kerja mereka.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Ujian Paparan dengan Skrin Penuh Ungu",
+        "description": "Periksa ketepatan warna monitor atau skrin anda dengan alat kami yang menghasilkan paparan ungu skrin penuh. Penting untuk pereka, jurugambar, dan ahli videografi.",
+        "icon": "📱"
+      },
+      {
+        "title": "Paparan Ungu Interaktif untuk Pembelajaran Kanak-kanak",
+        "description": "Libatkan kanak-kanak dalam e-pembelajaran interaktif dengan paparan ungu skrin penuh. Warna yang berani merangsang imaginasi dan fokus, meningkatkan pengalaman pembelajaran.",
+        "icon": "👶"
+      },
+      {
+        "title": "skrin ungu untuk mewujudkan suasana",
+        "description": "Saya suka suasana yang diberikan oleh warna ungu",
+        "icon": "✨"
+      },
+      {
+        "title": "skrin ungu untuk menyalin imej",
+        "description": "Untuk menyalin imej yang dilukis oleh rakan sekelas saya",
+        "icon": "📋"
+      },
+      {
+        "title": "skrin ungu untuk membuat video",
+        "description": "Kerana video YouTube saya lebih baik dengan skrin ungu",
+        "icon": "🎬"
+      },
+      {
+        "title": "skrin ungu untuk panggilan dalam talian",
+        "description": "Untuk menambah cahaya ungu semasa mesyuarat.",
+        "icon": "💜"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Cara menggunakan skrin ungu",
+    "subtitle": "Panduan mudah untuk mendapatkan yang terbaik dari alat kami",
+    "steps": [
+      "Buka alat",
+      "Cipta suasana",
+      "Dapatkan inspirasi"
+    ]
+  },
+  "info": {
+    "title": "Skrin Ungu – Alat Latar Belakang Skrin Penuh",
+    "subtitle": "Skrin ungu menggalakkan kreativiti dan kerohanian, sempurna untuk meditasi dan inspirasi artistik",
+    "professionalTool": "Alat Profesional",
+    "downloadReady": "Muat Turun Sedia",
+    "downloadTitle": "Muat Turun Latar Belakang Skrin Ungu",
+    "downloadDescription": "Dapatkan skrin ungu berkualiti tinggi untuk keperluan profesional anda",
+    "hdTitle": "Latar Belakang Skrin Ungu 1920×1080",
+    "hdDescription": "Imej ungu skrin penuh tulen untuk menggalakkan kreativiti dan mencipta suasana mistik",
+    "hdButton": "Muat Turun HD",
+    "fourKTitle": "Latar Belakang Skrin Ungu 4K",
+    "fourKDescription": "Imej skrin ungu ultra HD untuk projek kreatif dan persembahan yang memberi inspirasi",
+    "fourKButton": "Muat Turun 4K",
+    "proTipBadge": "Petua Pro",
+    "proTipTitle": "Petua Pro",
+    "proTipDescription": "Gunakan skrin ungu untuk mencipta persekitaran yang canggih dan menggalakkan kreativiti dalam kerja anda."
+  },
+  "faq": {
+    "title": "Soalan lazim",
+    "subtitle": "Jawapan kepada soalan biasa tentang skrin ungu",
+    "description": "Ketahui cara menggunakan warna ungu untuk merangsang kreativiti dan mencipta persekitaran yang canggih.",
+    "questions": [
+      {
+        "question": "Adakah ungu benar-benar membantu kreativiti?",
+        "answer": "Ya, ungu dikaitkan dengan imaginasi dan boleh merangsang pemikiran kreatif."
+      },
+      {
+        "question": "Bolehkah saya gunakan skrin ungu untuk meditasi?",
+        "answer": "Tentu sekali! Ungu adalah warna rohani yang sesuai untuk meditasi."
+      },
+      {
+        "question": "Adakah ungu mempunyai kesan pada mood?",
+        "answer": "Ungu boleh menggalakkan refleksi dan mencipta suasana kontemplatif."
+      },
+      {
+        "question": "Bagaimana untuk menggunakan ungu dalam hiasan?",
+        "answer": "Gunakan ungu secara berselang-seli untuk menambah keanggunan dan misteri pada ruang."
+      },
+      {
+        "question": "Adakah skrin ungu selamat untuk mata?",
+        "answer": "Ya, warna ungu umumnya dianggap selamat untuk mata dan boleh membantu mengurangkan ketegangan mata."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Spesifikasi teknikal",
+    "subtitle": "Butiran teknikal alat skrin ungu kami",
+    "specs": [
+      {
+        "label": "Warna",
+        "value": "#800080 (Ungu diraja)"
+      },
+      {
+        "label": "Resolusi",
+        "value": "Menyesuaikan dengan semua skrin"
+      },
+      {
+        "label": "Keserasian",
+        "value": "Semua pelayar moden"
+      },
+      {
+        "label": "Kesan",
+        "value": "Kreatif dan rohani"
+      }
+    ]
+  }
+} 

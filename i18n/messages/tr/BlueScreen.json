@@ -1,0 +1,162 @@
+{
+  "hero": {
+    "badge": "Mavi Ekran Aracı",
+    "title": "Mavi Ekran | Çevrimiçi araç",
+    "description": "Çevrimiçi mavi ekran aracı. Ekranda kirli noktaları bulmak veya ölü pikselleri test etmek için kullanın. Monitör test ve temizlik için ücretsiz araç.",
+    "features": {
+      "noRegistration": "Kayıt yok",
+      "worksOffline": "Çevrimdışı çalışır",
+      "allDevices": "Tüm cihazlar"
+    }
+  },
+  "keywords": "mavi ekran, mavi arkaplan, mavi ekran online, mavi renk, sakinleştirici etki, renk testi",
+  "colorPicker": {
+    "title": "Renginizi seçin",
+    "custom": "Özel",
+    "description": "Sakinleştirici atmosfer yaratmak ve renk testleri için mükemmel",
+    "launchButton": "Mavi ekranı başlat"
+  },
+  "colors": {
+    "Black": "Siyah Ekran",
+    "White": "Beyaz Ekran",
+    "Red": "Kırmızı Ekran",
+    "Blue": "Mavi Ekran",
+    "Green": "Yeşil Ekran",
+    "Yellow": "Sarı Ekran",
+    "Purple": "Mor Ekran",
+    "Pink": "Pembe Ekran",
+    "Orange": "Turuncu Ekran",
+    "Zoom Lighting": "Zoom Aydınlatması"
+  },
+  "interface": {
+    "livePreview": "Canlı önizleme",
+    "clickForFullscreen": "Tam ekran için tıklayın",
+    "current": "Mevcut",
+    "chooseYourColor": "Renginizi seçin",
+    "perfectFor": "İçin mükemmel",
+    "launchBlueScreen": "Mavi Ekranı Başlat"
+  },
+  "useCases": {
+    "title": "İnsanlar mavi ekranı şunlar için kullanır:",
+    "subtitle": "Mavi ekranımızın farklı kullanım yollarını keşfedin",
+    "description": "Mavi ekran aracımız çeşitli kullanım alanları için sakinleştirici ve profesyonel çözümler sunar.",
+    "cases": [
+      {
+        "title": "Mavi Ekran Görüntüsüyle Rahatlama",
+        "description": "Tam ekran mavi görüntümüzün yatıştırıcı gücünü keşfedin. Sakinleştirici mavi tonları, stresi azaltmaya yardımcı olabilir ve uzun bir günün ardından rahatlamanızı teşvik edebilir.",
+        "icon": "😴"
+      },
+      {
+        "title": "Mavi Ekran Aracıyla Uyku Yardımı",
+        "description": "Mavi ekran aracımız uyku yardımı olarak kullanılabilir. Yumuşak, sakinleştirici mavi ışık, uykunun gelmesini teşvik ettiği ve uyku kalitenizi artırdığı bilinmektedir.",
+        "icon": "😴"
+      },
+      {
+        "title": "Dijital Göz Yorgunluğu İçin Mavi Işık Filtresi",
+        "description": "Dijital göz yorgunluğunu hafifletmek için tam ekran mavi görüntümüzü bir mavi ışık filtresi olarak kullanın. Uzun ekran kullanma saatleri için idealdir ve göz sağlığınızı korumanıza yardımcı olabilir.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Sanatsal İlham İçin Mavi Ekran",
+        "description": "Sanatçılar ve tasarımcılar ilham almak için mavi ekran aracımızı kullanabilirler. Mavinin derin, huzurlu tonları yaratıcılığı teşvik edebilir ve hayal gücünü harekete geçirebilir.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Sunumlarda Görsel Yardımcı Olarak Mavi Ekran",
+        "description": "Sunumlarda görsel yardımcı olarak mavi ekran aracımızı kullanın. Mavi arka plan, metni ve görselleri vurgulamaya yardımcı olabilir, iletişimi ve anlama yeteneğini artırabilir.",
+        "icon": "📊"
+      },
+      {
+        "title": "video yapmak için mavi ekran",
+        "description": "YouTube videolarım mavi ekranla daha iyi ve yeşil ekranların fazla abartıldığını düşünüyorum.",
+        "icon": "🎬"
+      },
+      {
+        "title": "resim kopyalamak için mavi ekran",
+        "description": "Sınıf arkadaşımın çizdiği bir resmi kopyalamak için",
+        "icon": "🖼️"
+      },
+      {
+        "title": "bir hava yaratmak için mavi ekran",
+        "description": "Verdiği havayı seviyorum",
+        "icon": "💙"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Mavi ekran nasıl kullanılır",
+    "subtitle": "Aracımızdan en iyi şekilde yararlanmak için basit rehber",
+    "steps": [
+      "Paletten tercih ettiğiniz rengi seçin",
+      "Tam ekranda açmak için 'Başlat' butonuna tıklayın",
+      "Tam ekran modundan çıkmak için F11 veya ESC kullanın",
+      "Tercih ettiğiniz çözünürlükte görüntüyü indirin"
+    ]
+  },
+  "info": {
+    "title": "Mavi Ekran – Tam Ekran Arkaplan Aracı",
+    "subtitle": "Mavi ekranlar göz yorgunluğunu azaltır ve sakinliği teşvik eder, odak modu ve ekran testi için mükemmel",
+    "professionalTool": "Profesyonel Araç",
+    "downloadReady": "İndirme Hazır",
+    "downloadTitle": "Mavi Ekran Arkaplanı İndir",
+    "downloadDescription": "Profesyonel ihtiyaçlarınız için yüksek kaliteli mavi ekranlar alın",
+    "hdTitle": "1920×1080 Mavi Ekran Arkaplanı",
+    "hdDescription": "Odaklanma, aydınlatma ve test için saf tam ekran mavi görüntü",
+    "hdButton": "HD İndir",
+    "fourKTitle": "4K Mavi Ekran Arkaplanı",
+    "fourKDescription": "Yumuşak aydınlatma ve görsel netlik için ultra HD'de tam ekran mavi ekran görüntüsü",
+    "fourKButton": "4K İndir",
+    "proTipBadge": "Pro İpucu",
+    "proTipTitle": "Pro İpucu",
+    "proTipDescription": "Aktivitenize veya ruh halinize bağlı olarak ortam aydınlatmanızı ayarlamak için beyaz, siyah veya mavi ekranlar arasında geçiş yapın."
+  },
+  "faq": {
+    "title": "Sık sorulan sorular",
+    "subtitle": "Mavi ekran hakkında yaygın soruların cevapları",
+    "description": "Mavi ekran aracımızı çeşitli amaçlar için kullanma hakkında yaygın soruların cevaplarını bulun.",
+    "questions": [
+      {
+        "question": "Mavi Ekran aracı ne için kullanılır?",
+        "answer": "Mavi Ekran aracı tam ekran modunda mavi renk gösterir, genellikle ekran testi, ruh hali panoları, göz konforu, içerik oluşturma ve görsel yaratıcılığı artırmak için kullanılır."
+      },
+      {
+        "question": "Göz konforu için Mavi Ekranı nasıl kullanırım?",
+        "answer": "Mavi Ekran mavi ışık maruziyetini azaltır, gece saatlerinde göz atma veya uzun çalışma saatleri sırasında gözlerinizi daha az yorar. Göz yorgunluğunu azaltmaya ve görsel konforu iyileştirmeye yardımcı olur."
+      },
+      {
+        "question": "İçerik oluşturma için Mavi Ekranı kullanabilir miyim?",
+        "answer": "Evet! Mavi Ekran çevrimiçi içerik, sanal sınıflar veya canlı yayınlar için sıcak, davetkar arka planlar oluşturmak için mükemmeldir. İçeriğinize enerji ve pozitiflik katar."
+      },
+      {
+        "question": "Ekran testi için neden Mavi Ekran kullanılır?",
+        "answer": "Mavi, ekran doğruluğunu ve renk kalibrasyonunu test etmek için mükemmel bir renktir. Renk sorunlarını tanımlamaya ve optimal görüntüleme için monitör ayarlarını ince ayarlamaya yardımcı olur."
+      },
+      {
+        "question": "Mavi Ekran yaratıcılık için iyi mi?",
+        "answer": "Evet, mavi yaratıcılık ve iyimserlikle ilişkilendirilir. Mavi Ekran yaratıcı düşünceyi ilham verebilir ve tasarım projeleri ve sanatsal çalışmalar için bir ruh hali panosu olarak hizmet edebilir."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Teknik özellikler",
+    "subtitle": "Mavi ekran aracımızın teknik detayları",
+    "specs": [
+      {
+        "label": "Renk",
+        "value": "#0000FF (Saf mavi)"
+      },
+      {
+        "label": "Çözünürlük",
+        "value": "Tüm ekranlara uyum sağlar"
+      },
+      {
+        "label": "Uyumluluk",
+        "value": "Tüm modern tarayıcılar"
+      },
+      {
+        "label": "Uygulama",
+        "value": "Ekran testi ve tanılama"
+      }
+    ]
+  }
+} 

@@ -1,0 +1,171 @@
+{
+  "hero": {
+    "badge": "Outil Écran Rouge",
+    "title": "Écran Rouge | Outil en Ligne",
+    "description": "Activez un écran rouge en plein écran pour des tests visuels, la conception graphique ou pour créer une atmosphère intense et immersive.",
+    "features": {
+      "noRegistration": "Aucune inscription",
+      "worksOffline": "Fonctionne hors ligne",
+      "allDevices": "Tous les appareils"
+    }
+  },
+  "keywords": "écran rouge, fond rouge, écran rouge en ligne, couleur rouge, énergie, dynamisme, écran rouge plein écran, outil écran rouge",
+  "colorPicker": {
+    "title": "Choisissez votre couleur",
+    "custom": "Personnalisé",
+    "description": "Parfait pour stimuler l'énergie et créer une ambiance dynamique",
+    "launchButton": "Lancer l'écran rouge"
+  },
+  "interface": {
+    "livePreview": "Aperçu en Direct",
+    "chooseYourColor": "Choisissez Votre Couleur",
+    "clickForFullscreen": "Cliquer pour Plein Écran",
+    "current": "Actuel",
+    "perfectFor": "Parfait pour les tests de moniteur, l'éclairage photographique et les présentations",
+    "launchRedScreen": "Lancer l'Écran Rouge"
+  },
+  "colors": {
+    "Black": "Écran Noir",
+    "White": "Écran Blanc",
+    "Red": "Écran Rouge",
+    "Blue": "Écran Bleu",
+    "Green": "Écran Vert",
+    "Yellow": "Écran Jaune",
+    "Purple": "Écran Violet",
+    "Pink": "Écran Rose",
+    "Orange": "Écran Orange",
+    "Zoom Lighting": "Zoom d'éclairage"
+  },
+  "useCases": {
+    "title": "Cas d'utilisation de l'écran rouge",
+    "subtitle": "Découvrez les différentes façons d'utiliser notre écran rouge",
+    "description": "Notre outil d'écran rouge stimule l'énergie et l'attention pour des projets créatifs et des présentations impactantes.",
+    "cases": [
+      {
+        "title": "Création de TikToks",
+        "description": "Utilisez l'écran rouge comme arrière-plan dramatique pour vos vidéos TikTok et réseaux sociaux.",
+        "icon": "video"
+      },
+      {
+        "title": "Éclairage pour appels vidéo",
+        "description": "Créez une ambiance chaleureuse et énergique lors de vos appels en ligne.",
+        "icon": "phone"
+      },
+      {
+        "title": "Préservation de la vision nocturne",
+        "description": "La lumière rouge préserve votre adaptation à l'obscurité, idéale pour l'astronomie.",
+        "icon": "moon"
+      },
+      {
+        "title": "Éclairage de lecture nocturne",
+        "description": "Lisez dans l'obscurité sans perturber votre cycle de sommeil avec la lumière rouge douce.",
+        "icon": "book"
+      },
+      {
+        "title": "Blagues et farces",
+        "description": "Créez des effets dramatiques ou surprenez vos amis avec un écran rouge inattendu.",
+        "icon": "smile"
+      },
+      {
+        "title": "Photographie créative",
+        "description": "Utilisez comme source de lumière rouge pour des effets photographiques artistiques.",
+        "icon": "camera"
+      },
+      {
+        "title": "Écran rouge vif pour TikToks",
+        "description": "Parfait pour créer du contenu TikTok avec des effets de couleur rouge qui se marient avec l'éclairage LED bleu.",
+        "icon": "📱"
+      },
+      {
+        "title": "Écran de lumière rouge pour appels en ligne",
+        "description": "Correction de la dominante de couleur lors de l'utilisation de Google Meet ou autres plateformes d'appel.",
+        "icon": "📞"
+      },
+      {
+        "title": "Écran rouge pour lire un livre",
+        "description": "Lire un livre avec moins de lumière bleue pour protéger vos yeux.",
+        "icon": "📖"
+      },
+      {
+        "title": "Écran rouge pour réparer un projecteur",
+        "description": "Aide à corriger la distorsion trapézoïdale d'un projecteur.",
+        "icon": "🔧"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Comment utiliser l'écran rouge",
+    "subtitle": "Guide simple pour tirer le meilleur parti de notre outil",
+    "steps": [
+      "Cliquez sur le bouton pour afficher l'écran rouge en plein écran",
+      "Réglez la luminosité pour obtenir l'effet désiré",
+      "Profitez de l'effet énergisant de la couleur rouge"
+    ]
+  },
+  "info": {
+    "title": "Écran Rouge – Outil de Fond Plein Écran",
+    "subtitle": "Un écran rouge stimule l'énergie, attire l'attention et crée une ambiance dynamique pour vos projets créatifs",
+    "professionalTool": "Outil Professionnel",
+    "downloadReady": "Téléchargement Prêt",
+    "downloadTitle": "Télécharger Fond d'Écran Rouge",
+    "downloadDescription": "Obtenez des écrans rouges haute qualité pour vos besoins professionnels",
+    "hdTitle": "Fond d'Écran Rouge 1920×1080",
+    "hdDescription": "Image rouge plein écran pure pour stimuler l'énergie, attirer l'attention et créer une ambiance dynamique",
+    "hdButton": "Télécharger HD",
+    "fourKTitle": "Fond d'Écran Rouge 4K",
+    "fourKDescription": "Image d'écran rouge ultra HD pour les projets créatifs énergiques et les présentations impactantes",
+    "fourKButton": "Télécharger 4K",
+    "proTipBadge": "Conseil Pro",
+    "proTipTitle": "Conseil Pro",
+    "proTipDescription": "Utilisez l'écran rouge avec modération car cette couleur intense peut être fatigante pour les yeux lors d'une exposition prolongée."
+  },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "subtitle": "Réponses aux questions courantes sur l'écran rouge",
+    "description": "Découvrez comment utiliser efficacement la couleur rouge pour maximiser son impact énergétique dans vos projets.",
+    "questions": [
+      {
+        "question": "Pourquoi la lumière rouge préserve-t-elle la vision nocturne ?",
+        "answer": "La lumière rouge n'affecte pas les bâtonnets de l'œil responsables de la vision dans l'obscurité."
+      },
+      {
+        "question": "L'écran rouge peut-il aider pour le sommeil ?",
+        "answer": "Oui, la lumière rouge perturbe moins la production de mélatonine que la lumière bleue."
+      },
+      {
+        "question": "Puis-je utiliser l'écran rouge pour la photographie ?",
+        "answer": "Absolument ! Il crée des effets d'éclairage dramatiques et artistiques."
+      },
+      {
+        "question": "L'outil fonctionne-t-il sur mobile ?",
+        "answer": "Oui, l'écran rouge fonctionne parfaitement sur tous les appareils mobiles."
+      },
+      {
+        "question": "L'écran rouge peut-il aider pour les projets créatifs ?",
+        "answer": "Absolument ! L'écran rouge stimule la créativité et peut être utilisé pour des effets visuels, de la photographie artistique, et du contenu créatif pour les réseaux sociaux."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Spécifications techniques",
+    "subtitle": "Détails techniques de notre outil d'écran rouge",
+    "specs": [
+      {
+        "label": "Couleur",
+        "value": "#FF0000 (Rouge pur)"
+      },
+      {
+        "label": "Résolution",
+        "value": "S'adapte à tous les écrans"
+      },
+      {
+        "label": "Compatibilité",
+        "value": "Tous les navigateurs modernes"
+      },
+      {
+        "label": "Usage spécial",
+        "value": "Vision nocturne préservée"
+      }
+    ]
+  }
+} 

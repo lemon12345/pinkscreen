@@ -1,0 +1,133 @@
+{
+  "hero": {
+    "badge": "Orange Screen Tool",
+    "title": "Orange Screen | Online Tool",
+    "description": "Use this fullscreen orange screen to create warm ambient lighting, test displays, or reduce distractions. No ads. Works on all browsers and devices.",
+    "features": {
+      "noRegistration": "No Registration",
+      "worksOffline": "Works Offline",
+      "allDevices": "All Devices"
+    }
+  },
+  "keywords": "Orange Screen, orange screen, blank orange screen, a orange screen, blank screens, full orange screen, pc orange screen, computer orange screen, total orange screen, plain orange screen, orange screen 10 hours, orange display, blank computer screen, full orange screen, total orange screen",
+  "colorPicker": {
+    "title": "Choose Your Color",
+    "custom": "Custom",
+    "description": "Ideal for screen testing, creating vibrant mood boards, and adding warmth to virtual presentations",
+    "launchButton": "Launch Orange Screen"
+  },
+  "useCases": {
+    "title": "People use orange screen for:",
+    "description": "Our orange screen tool serves multiple professional and personal purposes across various industries and scenarios.",
+    "cases": [
+      {
+        "icon": "📹",
+        "title": "Full-Screen Orange for Virtual Backgrounds",
+        "description": "Use our tool to generate a lively orange screen, perfect for virtual backgrounds during online meetings, webinars, or virtual social gatherings. A splash of color to liven up your digital interactions."
+      },
+      {
+        "icon": "😴",
+        "title": "Orange Screen for Calming Sleep Aid",
+        "description": "Benefit from the calming and soothing effects of an orange display. Reduce the harsh blue light and create a sleep-friendly environment for browsing or reading before bedtime."
+      },
+      {
+        "icon": "🎨",
+        "title": "Creative Project Inspiration with Orange",
+        "description": "Spark creativity with a vibrant full-screen orange display. Ideal for inspiring design projects, arts and crafts, or kick-starting your creative process."
+      },
+      {
+        "icon": "🖥️",
+        "title": "Device Display Calibration with Orange Screen",
+        "description": "Verify the color rendering of your digital displays with an orange full-screen output. It's an essential tool for those seeking to fine-tune their device color settings for graphic design or photo editing."
+      },
+      {
+        "icon": "📚",
+        "title": "Interactive Orange Learning Tool",
+        "description": "Utilize a full-screen orange display as a dynamic visual aid for teaching. The bold color can highlight key information, making e-learning more engaging and impactful."
+      },
+      {
+        "icon": "🧡",
+        "title": "orange screen to make a vibe",
+        "description": "I like the vibe orange gives"
+      },
+      {
+        "icon": "🖼️",
+        "title": "orange screen to copy image",
+        "description": "To copy an image my classmate drew"
+      },
+      {
+        "icon": "🎬",
+        "title": "orange screen to make videos",
+        "description": "Because my YouTube videos are better with a orange screen"
+      },
+      {
+        "icon": "💻",
+        "title": "orange screen for online calls",
+        "description": "For adding a orange glow during meeting."
+      }
+    ]
+  },
+  "info": {
+    "title": "Orange Screen – Fullscreen Background Tool",
+    "subtitle": "An orange screen offers a cozy glow for video calls, relaxation, and creative work",
+    "professionalTool": "Professional Tool",
+    "downloadReady": "Download Ready",
+    "downloadTitle": "Download Orange Screen Background",
+    "downloadDescription": "Get high-quality orange screens for your professional needs",
+    "hdTitle": "1920×1080 Orange Screen Background",
+    "hdDescription": "Fullscreen orange image for warm lighting, visual focus, and display diagnostics",
+    "hdButton": "Download HD",
+    "fourKTitle": "4K Orange Screen Background",
+    "fourKDescription": "Ultra HD orange screen for ambient light, screen testing, and photography",
+    "fourKButton": "Download 4K",
+    "proTipBadge": "Pro Tip",
+    "proTipTitle": "Pro Tip",
+    "proTipDescription": "Switch to orange screen in the evening for a softer light that's less likely to disrupt sleep rhythms."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to common questions about using our orange screen tool for various purposes.",
+    "questions": [
+      {
+        "question": "What is an Orange Screen tool used for?",
+        "answer": "An Orange Screen tool displays an orange color in fullscreen mode, commonly used for screen testing, mood boards, eye comfort, content creation, and enhancing visual creativity."
+      },
+      {
+        "question": "How do I use Orange Screen for eye comfort?",
+        "answer": "The Orange Screen reduces blue light exposure, making it easier on your eyes during night-time browsing or long working hours. It helps reduce eye strain and improve visual comfort."
+      },
+      {
+        "question": "Can I use Orange Screen for content creation?",
+        "answer": "Yes! The Orange Screen is perfect for creating warm, inviting backgrounds for online content, virtual classes, or live streams. It adds energy and positivity to your content."
+      },
+      {
+        "question": "Why use Orange Screen for screen testing?",
+        "answer": "Orange is an excellent color for testing display accuracy and color calibration. It helps identify color issues and fine-tune monitor settings for optimal viewing."
+      },
+      {
+        "question": "Is Orange Screen good for creativity?",
+        "answer": "Yes, orange is associated with creativity and optimism. An Orange Screen can inspire creative thinking and serve as a mood board for design projects and artistic work."
+      }
+    ]
+  },
+  "colors": {
+    "Zoom Lighting": "Zoom Lighting",
+    "White": "White",
+    "Black": "Black",
+    "Red": "Red",
+    "Blue": "Blue",
+    "Green": "Green",
+    "Yellow": "Yellow",
+    "Purple": "Purple",
+    "Pink": "Pink",
+    "Orange": "Orange"
+  },
+  "interface": {
+    "livePreview": "Live Preview",
+    "clickForFullscreen": "Click for fullscreen",
+    "current": "Current",
+    "chooseYourColor": "Choose Your Color",
+    "perfectFor": "Ideal for screen testing, creating vibrant mood boards, and adding warmth to virtual presentations",
+    "launchOrangeScreen": "Launch Orange Screen"
+  }
+}

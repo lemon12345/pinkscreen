@@ -1,0 +1,160 @@
+{
+  "hero": {
+    "badge": "Herramienta de Pantalla Amarilla",
+    "title": "Pantalla Amarilla | Herramienta en Línea",
+    "description": "Pantalla amarilla a pantalla completa para iluminación brillante, limpieza de pantalla o estimulación visual. 100% sin anuncios, funciona en escritorio y móvil.",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Sin Conexión",
+      "allDevices": "Todos los Dispositivos"
+    }
+  },
+  "keywords": "pantalla amarilla, pantalla amarilla brillante, pantalla amarilla simple, pantalla amarilla completa, pantalla amarilla de pc, pantalla amarilla de computadora, pantalla amarilla total, pantalla amarilla simple, pantalla amarilla 10 horas, pantalla amarilla, pantalla de computadora amarilla, pantalla amarilla completa, pantalla amarilla total",
+  "colorPicker": {
+    "title": "Elige Tu Color",
+    "custom": "Personalizado",
+    "description": "Perfecto para pruebas de pantalla, creación de tableros de humor y mejorar la comodidad de navegación nocturna",
+    "launchButton": "Lanzar Página Amarilla"
+  },
+  "colors": {
+    "Black": "Pantalla Negra",
+    "White": "Pantalla Blanca",
+    "Red": "Pantalla Roja",
+    "Blue": "Pantalla Azul",
+    "Green": "Pantalla Verde",
+    "Yellow": "Pantalla Amarilla",
+    "Purple": "Pantalla Morada",
+    "Pink": "Pantalla Rosa",
+    "Orange": "Pantalla Naranja",
+    "Zoom Lighting": "Iluminación Zoom"
+  },
+  "interface": {
+    "livePreview": "Vista Previa en Vivo",
+    "clickForFullscreen": "Haz Clic para Pantalla Completa",
+    "current": "Actual",
+    "chooseYourColor": "Elige Tu Color",
+    "perfectFor": "Perfecto para",
+    "launchYellowScreen": "Lanzar Pantalla Amarilla"
+  },
+  "useCases": {
+    "title": "La gente usa la pantalla amarilla para:",
+    "description": "Nuestra herramienta de pantalla amarilla sirve múltiples propósitos profesionales y personales en varias industrias y escenarios.",
+    "cases": [
+      {
+        "icon": "🎨",
+        "title": "Fondo Amarillo Versátil para Contenido",
+        "description": "Sumerga a su audiencia en un ambiente cálido y acogedor con una pantalla amarilla de pantalla completa. Ideal para inyectar energía y positividad en su contenido en línea, clases virtuales o transmisiones en vivo."
+      },
+      {
+        "icon": "👁️",
+        "title": "Pantalla Amarilla para el Confort Visual",
+        "description": "Mejore el confort visual con una pantalla tintada de amarillo. Use nuestra herramienta para reducir la fatiga visual de la luz azul, especialmente durante la navegación nocturna o largas jornadas de trabajo."
+      },
+      {
+        "icon": "🎥",
+        "title": "Arranque de Tablero de Humor Creativo",
+        "description": "Comience sus proyectos creativos con un tablero de humor amarillo. Nuestra pantalla amarilla de pantalla completa puede ayudar a inspirar el pensamiento creativo y los conceptos de diseño."
+      },
+      {
+        "icon": "🎨",
+        "title": "Pruebas de Pantalla de Dispositivo",
+        "description": "Pruebe la precisión del color de su dispositivo de visualización con una salida amarilla de pantalla completa. Es una herramienta útil para afinar la configuración de color de monitores, tabletas o smartphones."
+      },
+      {
+        "icon": "📚",
+        "title": "Ayuda de Enseñanza Interactiva",
+        "description": "Use una pantalla amarilla de pantalla completa como ayuda de enseñanza en aulas virtuales. Puede servir como un fondo atractivo para presentar materiales de aprendizaje, destacar información y llamar la atención de los estudiantes."
+      },
+      {
+        "icon": "📱",
+        "title": "pantalla amarilla para crear un ambiente",
+        "description": "Me gusta el ambiente que proporciona"
+      },
+      {
+        "icon": "💻",
+        "title": "pantalla amarilla para copiar imagen",
+        "description": "Para copiar una imagen que dibujó mi compañero de clase"
+      },
+      {
+        "icon": "🌙",
+        "title": "pantalla amarilla para hacer videos",
+        "description": "Porque mis videos de YouTube son mejores con una pantalla amarilla y porque las pantallas verdes están sobrevaloradas"
+      },
+      {
+        "icon": "📖",
+        "title": "pantalla amarilla para llamadas en línea",
+        "description": "Para agregar un resplandor amarillo durante la reunión"
+      }
+    ]
+  },
+  "info": {
+    "title": "Pantalla Amarilla – Herramienta de Fondo de Pantalla Completa",
+    "subtitle": "La pantalla amarilla estimula la creatividad, mejora el confort visual y es perfecta para tableros de humor y pruebas de pantalla",
+    "professionalTool": "Herramienta Profesional",
+    "downloadReady": "Descarga Lista",
+    "downloadTitle": "Descargar Fondo de Pantalla Amarilla",
+    "downloadDescription": "Obtén pantallas amarillas de alta calidad para tus necesidades profesionales",
+    "hdTitle": "1920×1080 Fondo de Pantalla Amarilla",
+    "hdDescription": "Imagen amarilla pura a pantalla completa para creatividad, iluminación y pruebas",
+    "hdButton": "Descargar HD",
+    "fourKTitle": "4K Fondo de Pantalla Amarilla",
+    "fourKDescription": "Imagen amarilla a pantalla completa ultra HD para iluminación brillante y estimulación visual",
+    "fourKButton": "Descargar 4K",
+    "proTipBadge": "Consejo Pro",
+    "proTipTitle": "Consejo Pro",
+    "proTipDescription": "Durante proyectos creativos o creación de tableros de humor, combina la pantalla amarilla con otros colores para maximizar la inspiración visual."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "description": "Encuentra respuestas a preguntas comunes sobre el uso de nuestra herramienta de pantalla amarilla para diversos propósitos.",
+    "questions": [
+      {
+        "question": "¿Para qué se usa una herramienta de pantalla amarilla?",
+        "answer": "Una herramienta de pantalla amarilla muestra un color amarillo en modo pantalla completa, comúnmente usado para pruebas de pantalla, tableros de humor, confort visual, creación de contenido y mejora de la creatividad visual."
+      },
+      {
+        "question": "¿Cómo uso la pantalla amarilla para confort visual?",
+        "answer": "La pantalla amarilla reduce la exposición a la luz azul, haciéndola más fácil para tus ojos durante la navegación nocturna o largas horas de trabajo. Ayuda a reducir la fatiga visual y mejorar el confort visual."
+      },
+      {
+        "question": "¿Puedo usar la pantalla amarilla para creación de contenido?",
+        "answer": "¡Sí! La pantalla amarilla es perfecta para crear fondos cálidos e invitadores para contenido en línea, clases virtuales o transmisiones en vivo. Añade energía y positividad a tu contenido."
+      },
+      {
+        "question": "¿Por qué usar pantalla amarilla para pruebas de pantalla?",
+        "answer": "El amarillo es un color excelente para probar la precisión de la pantalla y la calibración del color. Ayuda a identificar problemas de color y afinar la configuración del monitor para una visualización óptima."
+      },
+      {
+        "question": "¿La pantalla amarilla es buena para la creatividad?",
+        "answer": "Sí, el amarillo está asociado con la creatividad y el optimismo. Una pantalla amarilla puede inspirar el pensamiento creativo y servir como un tablero de humor para proyectos de diseño y trabajo artístico."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "prankScreens": "Pantallas de Broma",
+    "fakeUpdateScreens": "Pantallas de Actualización Falsa",
+    "screensaverScreens": "Pantallas de Protector de Pantalla"
+  },
+  "howToUse": {
+    "title": "Cómo Usar",
+    "steps": [
+      "Elige tu color preferido de la paleta",
+      "Haz clic en el botón 'Lanzar' para abrir en pantalla completa",
+      "Usa F11 o ESC para salir del modo pantalla completa",
+      "Descarga la imagen en tu resolución preferida"
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificaciones Técnicas",
+    "specs": [
+      "Resolución: Hasta 8K (7680x4320)",
+      "Profundidad de Color: 24-bit RGB",
+      "Formato: PNG, JPEG, WebP",
+      "Compatibilidad: Todos los navegadores modernos",
+      "Funcionalidad Offline: Completamente disponible"
+    ]
+  }
+}

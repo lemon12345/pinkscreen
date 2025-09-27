@@ -1,0 +1,184 @@
+{
+  "hero": {
+    "badge": "Éclairage Zoom",
+    "title": "Éclairage Zoom | Outil en Ligne",
+    "description": "Activez un éclairage blanc pur en plein écran pour illuminer votre visage pendant les appels Zoom, les enregistrements vidéo ou les séances photo. Compatible tous appareils.",
+    "features": {
+      "noRegistration": "Aucune inscription",
+      "worksOffline": "Fonctionne hors ligne",
+      "allDevices": "Tous les appareils"
+    }
+  },
+  "keywords": "meilleur éclairage pour appels zoom, éclairage zoom, éclairage pour réunions zoom, lumière pour réunions zoom, éclairage vidéoconférence, meilleure lumière pour réunions zoom, kit éclairage zoom, meilleur éclairage zoom, meilleure lumière pour vidéoconférence",
+  "colorPicker": {
+    "title": "Choisissez votre couleur",
+    "custom": "Personnalisé",
+    "description": "Parfait pour la vidéoconférence, les arrière-plans photo et la création de conditions d'éclairage optimales",
+    "launchButton": "Lancer l'éclairage Zoom"
+  },
+  "interface": {
+    "livePreview": "Aperçu en Direct",
+    "chooseYourColor": "Choisissez Votre Couleur",
+    "clickForFullscreen": "Cliquer pour Plein Écran",
+    "current": "Actuel",
+    "perfectFor": "Parfait pour les tests de moniteur, l'éclairage photographique et les présentations",
+    "launchZoomLighting": "Lancer l'Éclairage Zoom",
+    "personalise": "Personnalisé"
+  },
+  "colors": {
+    "Black": "Écran Noir",
+    "White": "Écran Blanc",
+    "Red": "Écran Rouge",
+    "Blue": "Écran Bleu",
+    "Green": "Écran Vert",
+    "Yellow": "Écran Jaune",
+    "Purple": "Écran Violet",
+    "Pink": "Écran Rose",
+    "Orange": "Écran Orange",
+    "Zoom Lighting": "Zoom d'éclairage"
+  },
+  "useCases": {
+    "title": "Les gens utilisent l'éclairage zoom pour:",
+    "subtitle": "Découvrez comment améliorer votre éclairage vidéo",
+    "description": "Notre outil d'éclairage zoom sert plusieurs objectifs professionnels et personnels dans diverses industries et scénarios.",
+    "cases": [
+      {
+        "title": "Éclairage Personnalisé pour Visioconférences",
+        "description": "Utilisez notre outil d'écran d'éclairage Zoom pour créer l'installation d'éclairage parfaite pour vos appels vidéo. Avec une couleur et une température réglables, vous pouvez obtenir un éclairage de niveau professionnel pour les visioconférences sans effort.",
+        "icon": "video"
+      },
+      {
+        "title": "Fond de Photographie avec Écran d'Éclairage Zoom",
+        "description": "Améliorez votre installation photographique avec notre écran d'éclairage Zoom réglable. Ajustez la couleur et la température pour correspondre à l'ambiance de votre séance photo et créer des images époustouflantes.",
+        "icon": "camera"
+      },
+      {
+        "title": "Améliorez l'Expérience d'eLearning avec un Éclairage Optimal",
+        "description": "Avec notre écran d'éclairage Zoom, créez un environnement d'apprentissage propice pour l'eLearning. Des réglages de lumière personnalisables garantissent un confort de lecture optimal et une concentration améliorée.",
+        "icon": "book"
+      },
+      {
+        "title": "Outil de Test d'Éclairage pour les Développeurs Web",
+        "description": "Les développeurs Web peuvent utiliser notre écran d'éclairage Zoom en plein écran pour tester comment différentes températures et couleurs de lumière affectent l'apparence de leurs designs, aidant à créer des sites Web visuellement engageants et accessibles.",
+        "icon": "code"
+      },
+      {
+        "title": "Thérapie de Couleur avec Écran d'Éclairage Zoom",
+        "description": "Les thérapeutes et les coachs de bien-être peuvent utiliser notre écran d'éclairage Zoom avec couleur et température réglables pour des séances de thérapie par la couleur, favorisant la relaxation et la guérison.",
+        "icon": "heart"
+      },
+      {
+        "title": "Écran blanc comme éclairage pour les appels Zoom",
+        "description": "Pour les appels vidéo ! Je n'ai pas de ring light facile, mais j'ai deux écrans. Je peux donc utiliser l'un des écrans pour éclairer mon visage !",
+        "icon": "monitor"
+      },
+      {
+        "title": "Éclairage zoom pour obtenir de la luminosité",
+        "description": "Je l'utilise pour obtenir de la luminosité pendant que je suis en appel vidéo",
+        "icon": "sun"
+      },
+      {
+        "title": "Éclairage zoom pour éclairer",
+        "description": "Pour éclairer lorsque j'utilise des appels en visioconférence",
+        "icon": "lightbulb"
+      },
+      {
+        "title": "Éclairage zoom qui transforme mon moniteur en lumière",
+        "description": "Transforme mon moniteur en lumière pour compenser le rétro-éclairage lors des appels vidéo",
+        "icon": "screen"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Comment utiliser l'éclairage Zoom",
+    "subtitle": "Guide simple pour un éclairage vidéo parfait",
+    "steps": [
+      {
+        "title": "Positionner l'écran",
+        "description": "Placez un écran ou une tablette face à vous, légèrement au-dessus du niveau des yeux"
+      },
+      {
+        "title": "Ouvrir l'outil",
+        "description": "Lancez l'éclairage blanc en plein écran sur votre appareil"
+      },
+      {
+        "title": "Ajuster l'intensité",
+        "description": "Réglez la luminosité de l'écran selon vos besoins et l'éclairage ambiant"
+      },
+      {
+        "title": "Commencer l'appel",
+        "description": "Démarrez votre appel vidéo ou enregistrement avec un éclairage optimal"
+      }
+    ]
+  },
+  "temperatureControl": {
+    "title": "Contrôle de la température",
+    "temperature": "Température",
+    "description": "Ajustez la température de couleur pour créer l'éclairage parfait pour vos appels vidéo. Les valeurs basses créent une lumière plus chaude, les valeurs hautes créent une lumière plus froide."
+  },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "subtitle": "Réponses aux questions courantes sur l'éclairage Zoom",
+    "questions": [
+      {
+        "question": "Cela fonctionne-t-il vraiment comme éclairage ?",
+        "answer": "Oui ! Un écran blanc peut servir d'excellente source de lumière douce et uniforme."
+      },
+      {
+        "question": "Puis-je utiliser mon téléphone comme éclairage ?",
+        "answer": "Absolument ! Même un smartphone peut fournir un éclairage d'appoint efficace."
+      },
+      {
+        "question": "Comment éviter l'éblouissement ?",
+        "answer": "Ajustez la luminosité de l'écran et positionnez-le légèrement hors de votre ligne de vision directe."
+      },
+      {
+        "question": "Cela consomme-t-il beaucoup de batterie ?",
+        "answer": "La consommation dépend de la luminosité. Utilisez un appareil branché pour les longues sessions."
+      },
+      {
+        "question": "L'éclairage zoom est-il bon pour le développement web ?",
+        "answer": "Oui, les développeurs web peuvent utiliser notre écran d'éclairage zoom pour tester comment différentes conditions d'éclairage affectent l'apparence de leurs designs, garantissant que leurs sites web sont beaux sous divers scénarios d'éclairage."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Spécifications techniques",
+    "subtitle": "Détails techniques de l'éclairage Zoom",
+    "specs": [
+      {
+        "label": "Couleur",
+        "value": "#FFFFFF (Blanc pur)"
+      },
+      {
+        "label": "Température",
+        "value": "6500K (Lumière du jour)"
+      },
+      {
+        "label": "Compatibilité",
+        "value": "Tous les appareils avec écran"
+      },
+      {
+        "label": "Usage",
+        "value": "Éclairage vidéo professionnel"
+      }
+    ]
+  },
+  "info": {
+    "professionalTool": "Outil Professionnel",
+    "title": "Télécharger Fond d'Éclairage Zoom",
+    "subtitle": "Utilisez cet écran blanc plein écran pour éclairer votre visage lors d'appels Zoom, de vidéos YouTube ou de séances photo. Propre, rapide et sans publicité.",
+    "downloadReady": "Téléchargement Prêt",
+    "downloadTitle": "Fond d'Éclairage Zoom",
+    "downloadDescription": "Vous préférez une image statique d'éclairage zoom ? Utilisez l'un de nos PNG haute résolution :",
+    "hdTitle": "Fond d'Éclairage Zoom 1920x1080",
+    "hdDescription": "Parfait pour les écrans HD standard et les appels vidéo. Optimisé pour les réunions Zoom et la visioconférence.",
+    "hdButton": "Télécharger HD",
+    "fourKTitle": "Fond d'Éclairage Zoom 4K",
+    "fourKDescription": "Fond blanc ultra HD plein écran pour éclairer votre visage lors de réunions vidéo. Parfait pour les écrans haute résolution.",
+    "fourKButton": "Télécharger 4K",
+    "proTipBadge": "Conseil Pro",
+    "proTipTitle": "Maximisez l'Éclairage de vos Appels Vidéo",
+    "proTipDescription": "Maximisez la luminosité de l'écran et positionnez votre moniteur face à vous pour le meilleur effet d'éclairage lors des appels."
+  }
+} 

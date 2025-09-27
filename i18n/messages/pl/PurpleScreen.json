@@ -1,0 +1,167 @@
+{
+  "hero": {
+    "badge": "Narzędzie Fioletowego Ekranu",
+    "title": "Fioletowy Ekran | Narzędzie Online",
+    "description": "Fioletowy ekran online do promowania kreatywności, duchowości i tworzenia mistycznej atmosfery. Idealny do medytacji i inspiracji artystycznej.",
+    "features": {
+      "noRegistration": "Bez rejestracji",
+      "worksOffline": "Działa offline",
+      "allDevices": "Wszystkie urządzenia"
+    }
+  },
+  "keywords": "fioletowy ekran, fioletowe tło, fioletowy ekran online, kolor fioletowy, kreatywność, duchowość, mistycyzm",
+  "colorPicker": {
+    "title": "Wybierz swój kolor",
+    "custom": "Niestandardowy",
+    "description": "Idealny do inspirowania kreatywności i tworzenia mistycznej atmosfery",
+    "launchButton": "Uruchom fioletowy ekran"
+  },
+  "colors": {
+    "Black": "Czarny",
+    "White": "Biały",
+    "Red": "Czerwony",
+    "Blue": "Niebieski",
+    "Green": "Zielony",
+    "Yellow": "Żółty",
+    "Purple": "Fioletowy",
+    "Pink": "Różowy",
+    "Orange": "Pomarańczowy",
+    "Zoom Lighting": "Oświetlenie Zoom"
+  },
+  "useCases": {
+    "title": "Ludzie używają fioletowego ekranu do:",
+    "subtitle": "Odkryj różne sposoby korzystania z naszego fioletowego ekranu",
+    "description": "Nasze narzędzie fioletowego ekranu inspiruje kreatywność i duchowość, tworząc mistyczną i wyrafinowaną atmosferę.",
+    "cases": [
+      {
+        "title": "Pełnoekranowy fiolet dla aplikacji wellness",
+        "description": "Zintegruj nasze narzędzie z Twoją aplikacją wellness, aby wygenerować kojący fioletowy ekran, idealny do medytacji i ćwiczeń uważności. Spokojny kolor sprzyja relaksacji i dobrej kondycji psychicznej.",
+        "icon": "🧘"
+      },
+      {
+        "title": "Fioletowy ekran dla efektu świetlnego",
+        "description": "Stwórz dynamiczny efekt świetlny z pełnoekranowym fioletowym wyświetlaczem. Doskonały do tworzenia unikalnego nastroju podczas wideokonferencji, wirtualnych wydarzeń czy sesji muzycznych.",
+        "icon": "💡"
+      },
+      {
+        "title": "Studium teorii koloru z fioletowym ekranem",
+        "description": "Wykorzystaj żywy pełnoekranowy fioletowy wyświetlacz jako narzędzie do nauki teorii koloru. Pomaga studentom sztuki i projektantom zrozumieć wpływ i znaczenie koloru w ich pracy.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Testowanie wyświetlacza z pełnym ekranem fioletu",
+        "description": "Sprawdź dokładność koloru swoich monitorów lub ekranów za pomocą naszego narzędzia, które generuje pełnoekranowy fioletowy wyświetlacz. Niezbędne dla projektantów, fotografów i wideografów.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "Interaktywny fioletowy wyświetlacz do nauki dzieci",
+        "description": "Zaangażuj dzieci w interaktywne e-nauczanie z pełnoekranowym fioletowym wyświetlaczem. Wyrazisty kolor stymuluje wyobraźnię i koncentrację, wzbogacając doświadczenie edukacyjne.",
+        "icon": "👶"
+      },
+      {
+        "title": "fioletowy ekran dla atmosfery",
+        "description": "Podoba mi się atmosfera, jaką daje fiolet",
+        "icon": "💜"
+      },
+      {
+        "title": "fioletowy ekran do kopiowania obrazu",
+        "description": "Aby skopiować rysunek, który stworzył mój kolega z klasy",
+        "icon": "💻"
+      },
+      {
+        "title": "fioletowy ekran do tworzenia filmów",
+        "description": "Ponieważ moje filmy na YouTube są lepsze z fioletowym ekranem",
+        "icon": "🎬"
+      },
+      {
+        "title": "fioletowy ekran do rozmów online",
+        "description": "Aby dodać fioletowy blask podczas spotkania",
+        "icon": "📞"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Jak korzystać z fioletowego ekranu",
+    "subtitle": "Prosty przewodnik, jak najlepiej wykorzystać nasze narzędzie",
+    "steps": [
+      {
+        "title": "Otwórz narzędzie",
+        "description": "Kliknij przycisk, aby wyświetlić fioletowy ekran w trybie pełnoekranowym"
+      },
+      {
+        "title": "Stwórz atmosferę",
+        "description": "Przyciemnij oświetlenie otoczenia, aby zmaksymalizować mistyczny efekt"
+      },
+      {
+        "title": "Zainspiruj się",
+        "description": "Pozwól fioletowemu kolorowi stymulować swoją kreatywność i duchowość"
+      }
+    ]
+  },
+  "info": {
+    "title": "Fioletowy Ekran – Narzędzie Tła Pełnoekranowego",
+    "subtitle": "Fioletowy ekran inspiruje kreatywność i duchowość, tworząc mistyczną i wyrafinowaną atmosferę",
+    "professionalTool": "Narzędzie Profesjonalne",
+    "downloadReady": "Pobieranie Gotowe",
+    "downloadTitle": "Pobierz Tło Fioletowego Ekranu",
+    "downloadDescription": "Uzyskaj wysokiej jakości fioletowe ekrany dla swoich potrzeb zawodowych",
+    "hdTitle": "Tło Fioletowego Ekranu 1920×1080",
+    "hdDescription": "Czysto fioletowy obraz pełnoekranowy do inspirowania kreatywności, duchowości i tworzenia mistycznej atmosfery",
+    "hdButton": "Pobierz HD",
+    "fourKTitle": "Tło Fioletowego Ekranu 4K",
+    "fourKDescription": "Ultra HD fioletowy ekran dla wyrafinowanych kreatywnych środowisk i projektów artystycznych",
+    "fourKButton": "Pobierz 4K",
+    "proTipBadge": "Wskazówka Pro",
+    "proTipTitle": "Wskazówka Pro",
+    "proTipDescription": "Fioletowy łączy stabilność niebieskiego i energię czerwonego, idealny do stymulowania kreatywności i wyobraźni."
+  },
+  "faq": {
+    "title": "Często zadawane pytania",
+    "subtitle": "Odpowiedzi na częste pytania o fioletowy ekran",
+    "description": "Znajdź odpowiedzi na często zadawane pytania dotyczące korzystania z naszego narzędzia fioletowego ekranu do różnych celów.",
+    "questions": [
+      {
+        "question": "Czy fioletowy naprawdę pomaga kreatywności?",
+        "answer": "Tak, fioletowy kojarzy się z wyobraźnią i może stymulować kreatywne myślenie."
+      },
+      {
+        "question": "Czy mogę używać fioletowego ekranu do medytacji?",
+        "answer": "Absolutnie! Fioletowy to duchowy kolor idealny do medytacji."
+      },
+      {
+        "question": "Czy fioletowy wpływa na nastrój?",
+        "answer": "Fioletowy może sprzyjać refleksji i tworzyć kontemplacyjną atmosferę."
+      },
+      {
+        "question": "Jak używać fioletu w dekoracji?",
+        "answer": "Używaj fioletu punktowo, aby dodać elegancji i tajemniczości przestrzeni."
+      },
+      {
+        "question": "Czy fioletowy ekran jest dobry dla kreatywności?",
+        "answer": "Tak, fioletowy jest związany z kreatywnością i optymizmem. Fioletowy ekran może inspirować kreatywne myślenie i służyć jako tablica nastrojów dla projektów projektowych i pracy artystycznej."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specyfikacje techniczne",
+    "subtitle": "Szczegóły techniczne naszego narzędzia fioletowego ekranu",
+    "specs": [
+      {
+        "label": "Kolor",
+        "value": "#800080 (Królewski fioletowy)"
+      },
+      {
+        "label": "Rozdzielczość",
+        "value": "Dostosowuje się do wszystkich ekranów"
+      },
+      {
+        "label": "Kompatybilność",
+        "value": "Wszystkie nowoczesne przeglądarki"
+      },
+      {
+        "label": "Efekt",
+        "value": "Kreatywny i duchowy"
+      }
+    ]
+  }
+} 

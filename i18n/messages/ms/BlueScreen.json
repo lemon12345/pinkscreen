@@ -1,0 +1,170 @@
+{
+  "hero": {
+    "badge": "Alat Skrin Biru",
+    "title": "Skrin Biru | Alat Dalam Talian",
+    "description": "Skrin biru, halaman dalam talian untuk mencari tempat kotor atau menguji piksel mati di skrin anda.",
+    "features": {
+      "noRegistration": "Tiada pendaftaran",
+      "worksOffline": "Berfungsi luar talian",
+      "allDevices": "Semua peranti"
+    }
+  },
+  "keywords": "skrin biru, latar belakang biru, skrin biru online, warna biru, kesan menenangkan, ujian warna",
+  "colorPicker": {
+    "title": "Pilih warna anda",
+    "custom": "Tersuai",
+    "description": "Sempurna untuk mencipta suasana yang menenangkan dan ujian warna",
+    "launchButton": "Lancarkan skrin biru"
+  },
+  "colors": {
+    "Black": "Hitam",
+    "White": "Putih",
+    "Red": "Merah",
+    "Blue": "Biru",
+    "Green": "Hijau",
+    "Yellow": "Kuning",
+    "Purple": "Ungu",
+    "Pink": "Merah Jambu",
+    "Orange": "Oren",
+    "Zoom Lighting": "Pencahayaan Zoom"
+  },
+  "interface": {
+    "livePreview": "Pratonton langsung",
+    "clickForFullscreen": "Klik untuk skrin penuh",
+    "current": "Semasa",
+    "chooseYourColor": "Pilih warna anda",
+    "perfectFor": "Sempurna untuk",
+    "launchBlueScreen": "Lancarkan Skrin Biru"
+  },
+  "useCases": {
+    "title": "Kes penggunaan skrin biru",
+    "subtitle": "Temui pelbagai cara untuk menggunakan skrin biru kami",
+    "description": "Alat skrin biru kami menawarkan penyelesaian yang menenangkan dan profesional untuk pelbagai aplikasi.",
+    "cases": [
+      {
+        "title": "Relaksasi dan Ketenangan",
+        "description": "Warna biru membantu mengurangkan tekanan dan mencipta persekitaran yang menenangkan untuk relaksasi.",
+        "icon": "😴"
+      },
+      {
+        "title": "Meningkatkan Kualiti Tidur",
+        "description": "Cahaya biru lembut boleh membantu mengatur kitaran tidur dan meningkatkan kualiti rehat anda.",
+        "icon": "😴"
+      },
+      {
+        "title": "Kesihatan Mata",
+        "description": "Skrin biru boleh membantu mengurangkan ketegangan mata dan memberikan rehat yang diperlukan.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Kreativiti dan Inspirasi",
+        "description": "Warna biru merangsang kreativiti dan boleh menjadi sumber inspirasi untuk projek artistik.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Produktiviti Kerja",
+        "description": "Persekitaran biru yang tenang boleh meningkatkan tumpuan dan produktiviti kerja.",
+        "icon": "💡"
+      },
+      {
+        "title": "Terapi Warna",
+        "description": "Gunakan skrin biru sebagai sebahagian daripada terapi warna untuk kesejahteraan mental.",
+        "icon": "🎬"
+      },
+      {
+        "title": "Fotografi dan Videografi",
+        "description": "Skrin biru boleh digunakan sebagai latar belakang atau sumber cahaya untuk projek fotografi.",
+        "icon": "📸"
+      },
+      {
+        "title": "Meditasi dan Mindfulness",
+        "description": "Cipta persekitaran yang sesuai untuk amalan meditasi dan mindfulness dengan skrin biru.",
+        "icon": "✨"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Cara menggunakan skrin biru",
+    "subtitle": "Panduan mudah untuk mendapatkan yang terbaik dari alat kami",
+    "steps": [
+      {
+        "title": "Buka alat",
+        "description": "Klik butang untuk memaparkan skrin biru dalam skrin penuh"
+      },
+      {
+        "title": "Periksa",
+        "description": "Lihat skrin anda dengan teliti untuk mengesan anomali"
+      },
+      {
+        "title": "Bersihkan",
+        "description": "Bersihkan kotoran yang dikesan dengan kain lembut dan kering"
+      }
+    ]
+  },
+  "info": {
+    "title": "Skrin Biru – Alat Latar Belakang Skrin Penuh",
+    "subtitle": "Skrin biru mencipta suasana yang menenangkan dan profesional, sempurna untuk relaksasi dan produktiviti",
+    "professionalTool": "Alat Profesional",
+    "downloadReady": "Muat Turun Sedia",
+    "downloadTitle": "Muat Turun Latar Belakang Skrin Biru",
+    "downloadDescription": "Dapatkan skrin biru berkualiti tinggi untuk keperluan profesional anda",
+    "hdTitle": "Latar Belakang Skrin Biru 1920×1080",
+    "hdDescription": "Imej biru skrin penuh tulen untuk mencipta suasana yang menenangkan dan meningkatkan produktiviti",
+    "hdButton": "Muat Turun HD",
+    "fourKTitle": "Latar Belakang Skrin Biru 4K",
+    "fourKDescription": "Imej skrin biru ultra HD untuk projek profesional dan persembahan yang menenangkan",
+    "fourKButton": "Muat Turun 4K",
+    "proTipBadge": "Petua Pro",
+    "proTipTitle": "Petua Pro",
+    "proTipDescription": "Gunakan skrin biru untuk mencipta kontras yang lembut dan persekitaran yang menenangkan dalam persembahan anda."
+  },
+  "faq": {
+    "title": "Soalan lazim",
+    "subtitle": "Jawapan kepada soalan biasa tentang skrin biru",
+    "description": "Ketahui cara menggunakan alat skrin biru kami dengan berkesan untuk projek dan keperluan harian anda.",
+    "questions": [
+      {
+        "question": "Mengapa gunakan biru untuk menguji skrin?",
+        "answer": "Biru menawarkan kontras yang baik untuk mengesan kekotoran dan piksel rosak."
+      },
+      {
+        "question": "Bagaimana untuk mengesan piksel mati?",
+        "answer": "Piksel mati akan kelihatan sebagai titik hitam pada skrin biru seragam."
+      },
+      {
+        "question": "Adakah alat berfungsi pada semua jenis skrin?",
+        "answer": "Ya, ia berfungsi pada LCD, LED, OLED dan semua jenis skrin moden."
+      },
+      {
+        "question": "Bolehkah saya melaraskan keamatan biru?",
+        "answer": "Gunakan tetapan kecerahan peranti anda untuk melaraskan keamatan."
+      },
+      {
+        "question": "Adakah skrin biru selamat untuk mata?",
+        "answer": "Ya, warna biru umumnya dianggap selamat untuk mata dan boleh membantu mengurangkan ketegangan mata."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Spesifikasi teknikal",
+    "subtitle": "Butiran teknikal alat skrin biru kami",
+    "specs": [
+      {
+        "label": "Warna",
+        "value": "#0000FF (Biru tulen)"
+      },
+      {
+        "label": "Resolusi",
+        "value": "Menyesuaikan dengan semua skrin"
+      },
+      {
+        "label": "Keserasian",
+        "value": "Semua pelayar moden"
+      },
+      {
+        "label": "Penggunaan",
+        "value": "Ujian dan diagnostik skrin"
+      }
+    ]
+  }
+} 

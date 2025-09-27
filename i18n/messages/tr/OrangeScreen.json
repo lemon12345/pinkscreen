@@ -1,0 +1,167 @@
+{
+  "hero": {
+    "badge": "Turuncu Ekran Aracı",
+    "title": "Turuncu Ekran | Çevrimiçi araç",
+    "description": "Enerjiyi teşvik etmek, coşkuyu desteklemek ve sıcak atmosfer yaratmak için çevrimiçi turuncu ekran. Motivasyon ve yaratıcılık için mükemmel.",
+    "features": {
+      "noRegistration": "Kayıt yok",
+      "worksOffline": "Çevrimdışı çalışır",
+      "allDevices": "Tüm cihazlar"
+    }
+  },
+  "keywords": "turuncu ekran, turuncu arkaplan, turuncu ekran online, turuncu renk, sıcaklık, enerji, dostluk",
+  "colorPicker": {
+    "title": "Renginizi seçin",
+    "custom": "Özel",
+    "description": "Sıcak ve enerjik atmosfer yaratmak için mükemmel",
+    "launchButton": "Turuncu ekranı başlat"
+  },
+  "colors": {
+    "Black": "Siyah Ekran",
+    "White": "Beyaz Ekran",
+    "Red": "Kırmızı Ekran",
+    "Blue": "Mavi Ekran",
+    "Green": "Yeşil Ekran",
+    "Yellow": "Sarı Ekran",
+    "Purple": "Mor Ekran",
+    "Pink": "Pembe Ekran",
+    "Orange": "Turuncu Ekran",
+    "Zoom Lighting": "Zoom Aydınlatması"
+  },
+  "interface": {
+    "livePreview": "Canlı önizleme",
+    "clickForFullscreen": "Tam ekran için tıklayın",
+    "current": "Mevcut",
+    "chooseYourColor": "Renginizi seçin",
+    "perfectFor": "İçin mükemmel",
+    "launchOrangeScreen": "Turuncu Ekranı Başlat"
+  },
+  "useCases": {
+    "title": "İnsanlar turuncu ekranı şunun için kullanır:",
+    "subtitle": "Turuncu ekranımızın farklı kullanım yollarını keşfedin",
+    "description": "Turuncu ekran aracımız yaratıcı projeler için sıcak ve misafirperver bir atmosfer yaratır.",
+    "cases": [
+      {
+        "title": "İçerik için Çok Yönlü Turuncu Arka Plan",
+        "description": "İzleyicinizi tam ekran turuncu bir gösterimle sıcak ve davetkar bir ortamda sürükleyin. Çevrimiçi içeriğinize, sanal sınıflarınıza veya canlı yayınlarınıza enerji ve pozitiflik katmak için idealdir.",
+        "icon": "📹"
+      },
+      {
+        "title": "Göz Rahatlığı İçin Turuncu Ekran",
+        "description": "Turuncu renkli bir ekranla görsel rahatlığı artırın. Mavi ışıktan kaynaklanan göz yorgunluğunu azaltmak, özellikle gece gözatma veya uzun çalışma saatlerinde, için aracımızı kullanın.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Yaratıcı Ruh Tahtası Başlangıcı",
+        "description": "Yaratıcı projelerinizi turuncu bir ruh tahtasıyla başlatın. Tam ekran turuncu gösterimimiz yaratıcı düşünmeyi ve tasarım kavramlarını ilham almanıza yardımcı olabilir.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Cihaz Ekran Testi",
+        "description": "Gösterim cihazınızın renk doğruluğunu tam ekran turuncu çıkışla test edin. Monitörlerin, tabletlerin veya akıllı telefonların renk ayarlarını ince ayarlamak için kullanışlı bir araçtır.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "Etkileşimli Öğretim Yardımı",
+        "description": "Sanal sınıflarda öğretim yardımı olarak tam ekran turuncu bir gösterim kullanın. Öğrenme materyallerini sunmak, bilgileri vurgulamak ve öğrenci dikkatini çekmek için etkileyici bir arka plan olarak hizmet edebilir.",
+        "icon": "📚"
+      },
+      {
+        "title": "Bir atmosfer yaratmak için turuncu ekran",
+        "description": "Verdiği atmosferi seviyorum",
+        "icon": "🧡"
+      },
+      {
+        "title": "Resim kopyalamak için turuncu ekran",
+        "description": "Sınıf arkadaşımın çizdiği bir resmi kopyalamak için",
+        "icon": "🖼️"
+      },
+      {
+        "title": "Video yapmak için turuncu ekran",
+        "description": "YouTube videolarım turuncu ekranla daha iyi & çünkü yeşil ekranlar abartılı",
+        "icon": "🎬"
+      },
+      {
+        "title": "Çevrimiçi aramalar için turuncu ekran",
+        "description": "Toplantı sırasında turuncu bir parıltı eklemek için.",
+        "icon": "💻"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Turuncu ekran nasıl kullanılır",
+    "subtitle": "Aracımızdan en iyi şekilde yararlanmak için basit rehber",
+    "steps": [
+      "Paletten tercih ettiğiniz rengi seçin",
+      "Tam ekranda açmak için 'Başlat' butonuna tıklayın",
+      "Tam ekran modundan çıkmak için F11 veya ESC kullanın",
+      "Tercih ettiğiniz çözünürlükte görüntüyü indirin"
+    ]
+  },
+  "info": {
+    "title": "Turuncu Ekran – Tam Ekran Arkaplan Aracı",
+    "subtitle": "Turuncu ekran video aramaları, rahatlama ve yaratıcı çalışma için sıcak bir parıltı sunar",
+    "professionalTool": "Profesyonel Araç",
+    "downloadReady": "İndirme Hazır",
+    "downloadTitle": "Turuncu Ekran Arkaplanı İndir",
+    "downloadDescription": "Profesyonel ihtiyaçlarınız için yüksek kaliteli turuncu ekranlar alın",
+    "hdTitle": "1920×1080 Turuncu Ekran Arkaplanı",
+    "hdDescription": "Sıcak aydınlatma, görsel odaklanma ve ekran tanısı için tam ekran turuncu görüntü",
+    "hdButton": "HD İndir",
+    "fourKTitle": "4K Turuncu Ekran Arkaplanı",
+    "fourKDescription": "Ortam ışığı, ekran testi ve fotoğrafçılık için ultra HD turuncu ekran",
+    "fourKButton": "4K İndir",
+    "proTipBadge": "Pro İpucu",
+    "proTipTitle": "Pro İpucu",
+    "proTipDescription": "Uyku ritimlerini bozma olasılığı daha düşük olan daha yumuşak bir ışık için akşamları turuncu ekrana geçin."
+  },
+  "faq": {
+    "title": "Sık sorulan sorular",
+    "subtitle": "Turuncu ekran hakkında yaygın soruların cevapları",
+    "description": "Turuncu ekran aracımızı çeşitli amaçlar için kullanma hakkında yaygın soruların cevaplarını bulun.",
+    "questions": [
+      {
+        "question": "Turuncu Ekran aracı ne için kullanılır?",
+        "answer": "Turuncu Ekran aracı tam ekran modunda turuncu renk gösterir, genellikle ekran testi, ruh hali panoları, göz konforu, içerik oluşturma ve görsel yaratıcılığı artırmak için kullanılır."
+      },
+      {
+        "question": "Göz konforu için Turuncu Ekranı nasıl kullanırım?",
+        "answer": "Turuncu Ekran mavi ışık maruziyetini azaltır, gece saatlerinde göz atma veya uzun çalışma saatleri sırasında gözlerinizi daha az yorar. Göz yorgunluğunu azaltmaya ve görsel konforu iyileştirmeye yardımcı olur."
+      },
+      {
+        "question": "İçerik oluşturma için Turuncu Ekranı kullanabilir miyim?",
+        "answer": "Evet! Turuncu Ekran çevrimiçi içerik, sanal sınıflar veya canlı yayınlar için sıcak, davetkar arka planlar oluşturmak için mükemmeldir. İçeriğinize enerji ve pozitiflik katar."
+      },
+      {
+        "question": "Ekran testi için neden Turuncu Ekran kullanılır?",
+        "answer": "Turuncu, ekran doğruluğunu ve renk kalibrasyonunu test etmek için mükemmel bir renktir. Renk sorunlarını tanımlamaya ve optimal görüntüleme için monitör ayarlarını ince ayarlamaya yardımcı olur."
+      },
+      {
+        "question": "Turuncu Ekran yaratıcılık için iyi mi?",
+        "answer": "Evet, turuncu yaratıcılık ve iyimserlikle ilişkilendirilir. Turuncu Ekran yaratıcı düşünceyi ilham verebilir ve tasarım projeleri ve sanatsal çalışmalar için bir ruh hali panosu olarak hizmet edebilir."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Teknik özellikler",
+    "subtitle": "Turuncu ekran aracımızın teknik detayları",
+    "specs": [
+      {
+        "label": "Renk",
+        "value": "#FFA500 (Canlı turuncu)"
+      },
+      {
+        "label": "Çözünürlük",
+        "value": "Tüm ekranlara uyum sağlar"
+      },
+      {
+        "label": "Uyumluluk",
+        "value": "Tüm modern tarayıcılar"
+      },
+      {
+        "label": "Etki",
+        "value": "Enerjik ve motive edici"
+      }
+    ]
+  }
+} 

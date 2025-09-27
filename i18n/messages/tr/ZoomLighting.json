@@ -1,0 +1,172 @@
+{
+  "hero": {
+    "badge": "Zoom Aydınlatması",
+    "title": "Zoom Aydınlatması | Çevrimiçi araç",
+    "description": "Zoom aramaları, YouTube videoları veya fotoğraf çekimleri sırasında yüzünüzü aydınlatmak için bu tam ekran beyaz ekranı kullanın. Temiz, hızlı ve reklamsız.",
+    "features": {
+      "noRegistration": "Kayıt yok",
+      "worksOffline": "Çevrimdışı çalışır",
+      "allDevices": "Tüm cihazlar"
+    }
+  },
+  "keywords": "zoom aramaları için en iyi aydınlatma, zoom aydınlatması, zoom toplantıları için aydınlatma, zoom toplantıları için ışık, video konferans aydınlatması, zoom toplantıları için en iyi ışık, zoom aydınlatma kiti, en iyi zoom aydınlatması, video konferans için en iyi ışık",
+  "colorPicker": {
+    "title": "Renginizi seçin",
+    "custom": "Özel",
+    "description": "Video konferans, fotoğrafçılık arka planları ve optimal aydınlatma koşulları oluşturmak için mükemmel",
+    "launchButton": "Zoom Aydınlatmasını Başlat"
+  },
+  "colors": {
+    "Black": "Siyah Ekran",
+    "White": "Beyaz Ekran",
+    "Red": "Kırmızı Ekran",
+    "Blue": "Mavi Ekran",
+    "Green": "Yeşil Ekran",
+    "Yellow": "Sarı Ekran",
+    "Purple": "Mor Ekran",
+    "Pink": "Pembe Ekran",
+    "Orange": "Turuncu Ekran",
+    "Zoom Lighting": "Zoom Aydınlatması"
+  },
+  "interface": {
+    "livePreview": "Canlı önizleme",
+    "clickForFullscreen": "Tam ekran için tıklayın",
+    "current": "Mevcut",
+    "chooseYourColor": "Renginizi seçin",
+    "perfectFor": "İçin mükemmel",
+    "launchZoomLighting": "Zoom Aydınlatmasını Başlat"
+  },
+  "useCases": {
+    "title": "İnsanlar zoom aydınlatmasını şunun için kullanır:",
+    "subtitle": "Video aydınlatmanızı nasıl geliştireceğinizi keşfedin",
+    "description": "Zoom aydınlatma aracımız çeşitli endüstri ve senaryolarda birden fazla profesyonel ve kişisel amaca hizmet eder.",
+    "cases": [
+      {
+        "title": "Video Konferans için Özelleştirilmiş Aydınlatma",
+        "description": "Video aramalarınız için mükemmel aydınlatma kurulumunu oluşturmak için zoom aydınlatma ekran aracımızı kullanın. Ayarlanabilir renk ve sıcaklıkla, profesyonel seviye video konferans aydınlatmasını çaba harcamadan elde edebilirsiniz.",
+        "icon": "💡"
+      },
+      {
+        "title": "Zoom Aydınlatma Ekranı ile Fotoğrafçılık Arka Planı",
+        "description": "Ayarlanabilir zoom aydınlatma ekranımızla fotoğrafçılık kurulumunuzu geliştirin. Fotoğraf çekiminizin havasına uygun renk ve sıcaklığı ayarlayın ve harika görseller oluşturun.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "Optimal Aydınlatma ile eÖğrenme Deneyimini İyileştirin",
+        "description": "Zoom aydınlatma ekranımızla, eÖğrenme için uygun bir öğrenme ortamı oluşturun. Özelleştirilebilir ışık ayarları, optimal okuma konforunu ve konsantrasyonu iyileştirir.",
+        "icon": "🎓"
+      },
+      {
+        "title": "Web Geliştiricileri için Aydınlatma Test Aracı",
+        "description": "Web geliştiriciler, tasarımlarının görünümünü nasıl etkilediğini test etmek için farklı ışık sıcaklıklarını ve renklerini kullanarak tam ekran zoom aydınlatma ekranımızı kullanabilir, böylece görsel olarak çekici ve erişilebilir web siteleri oluşturmaya yardımcı olabilir.",
+        "icon": "💻"
+      },
+      {
+        "title": "Zoom Aydınlatma Ekranı ile Renk Terapisi",
+        "description": "Terapistler ve wellness koçları, rahatlama ve iyileşmeyi teşvik etmek için renk terapi oturumları için ayarlanabilir renk ve sıcaklığa sahip zoom aydınlatma ekranımızı kullanabilir.",
+        "icon": "🧘"
+      },
+      {
+        "title": "zoom aramaları için beyaz ekran aydınlatması",
+        "description": "Video aramaları için! Kolay bir ring ışığım yok, ama iki ekranım var. Yüzümü aydınlatmak için ekranlardan birini kullanabilirim!",
+        "icon": "📹"
+      },
+      {
+        "title": "parlaklık elde etmek için zoom aydınlatma",
+        "description": "Video aramadayken parlaklık elde etmek için kullanıyorum",
+        "icon": "✨"
+      },
+      {
+        "title": "video konferans aramaları kullanırken aydınlatmak için zoom aydınlatma",
+        "description": "Video konferans aramaları kullanırken aydınlatmak için",
+        "icon": "💡"
+      },
+      {
+        "title": "ekranımı bir ışığa dönüştürmek için zoom aydınlatma",
+        "description": "Video aramalarında arkadan aydınlatmayı dengedelemek için ekranımı bir ışığa dönüştürüyor.",
+        "icon": "🖥️"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Zoom aydınlatması nasıl kullanılır",
+    "subtitle": "Mükemmel video aydınlatması için basit rehber",
+    "steps": [
+      "Paletten tercih ettiğiniz rengi seçin",
+      "Tam ekranda açmak için 'Başlat' butonuna tıklayın",
+      "Tam ekran modundan çıkmak için F11 veya ESC kullanın",
+      "Tercih ettiğiniz çözünürlükte görüntüyü indirin"
+    ]
+  },
+  "temperatureControl": {
+    "title": "Sıcaklık Kontrolü",
+    "temperature": "Sıcaklık",
+    "description": "Video aramalarınız için mükemmel aydınlatma oluşturmak üzere renk sıcaklığını ayarlayın. Düşük değerler daha sıcak ışık, yüksek değerler daha soğuk ışık oluşturur."
+  },
+  "info": {
+    "title": "Zoom Aydınlatması – Tam Ekran Arkaplan Aracı",
+    "subtitle": "Zoom aramaları, YouTube videoları veya fotoğraf çekimleri sırasında yüzünüzü aydınlatmak için bu tam ekran beyaz ekranı kullanın. Temiz, hızlı ve reklamsız.",
+    "professionalTool": "Profesyonel Araç",
+    "downloadReady": "İndirme Hazır",
+    "downloadTitle": "Zoom Aydınlatma Arkaplanını İndir",
+    "downloadDescription": "Statik zoom aydınlatma görüntüsü tercih ediyor musunuz? Yüksek çözünürlüklü PNG'lerimizden birini kullanın:",
+    "hdTitle": "1920×1080 Zoom Aydınlatma Arkaplanı",
+    "hdDescription": "Standart HD ekranlar ve video aramaları için mükemmel. Zoom toplantıları ve video konferans için optimize edilmiş.",
+    "hdButton": "HD İndir",
+    "fourKTitle": "4K Zoom Aydınlatma Arkaplanı",
+    "fourKDescription": "Video toplantılarında yüzünüzü aydınlatmak için ultra HD tam ekran beyaz arka plan. Yüksek çözünürlüklü ekranlar için mükemmel.",
+    "fourKButton": "4K İndir",
+    "proTipBadge": "Pro İpucu",
+    "proTipTitle": "Video Arama Aydınlatmanızı Maksimize Edin",
+    "proTipDescription": "Aramalar sırasında en iyi aydınlatma efekti için ekran parlaklığını maksimize edin ve monitörünüzü önünüze yerleştirin."
+  },
+  "faq": {
+    "title": "Sık sorulan sorular",
+    "subtitle": "Zoom aydınlatması hakkında yaygın soruların cevapları",
+    "description": "Zoom aydınlatma aracımızı çeşitli amaçlar için kullanma hakkında yaygın soruların cevaplarını bulun.",
+    "questions": [
+      {
+        "question": "Zoom aydınlatması ne için kullanılır?",
+        "answer": "Zoom aydınlatması, video konferans, fotoğrafçılık, eÖğrenme ve uygun aydınlatmanın gerekli olduğu çeşitli profesyonel uygulamalar için optimal aydınlatma koşulları oluşturmak için kullanılır."
+      },
+      {
+        "question": "Video aramaları için zoom aydınlatmasını nasıl kullanırım?",
+        "answer": "Sadece zoom aydınlatma ekranımızı açın ve video aramalarınız için mükemmel aydınlatma oluşturmak üzere renk sıcaklığını ve parlaklığı ayarlayın. Sıcak, ayarlanabilir aydınlatma kamera karşısındaki görünümünüzü iyileştirmeye yardımcı olur."
+      },
+      {
+        "question": "Fotoğrafçılık için zoom aydınlatmasını kullanabilir miyim?",
+        "answer": "Evet! Zoom aydınlatma ekranımız fotoğrafçılık arka planları ve fotoğraf çekimleriniz için ideal aydınlatma koşulları oluşturmak için mükemmel olan ayarlanabilir renk ve sıcaklık ayarları sağlar."
+      },
+      {
+        "question": "eÖğrenme için neden zoom aydınlatması kullanılır?",
+        "answer": "Uygun aydınlatma eÖğrenme ortamları için kritiktir. Zoom aydınlatma ekranımız optimal okuma koşulları oluşturur ve göz yorgunluğunu azaltmaya yardımcı olur, konsantrasyonu ve öğrenme sonuçlarını iyileştirir."
+      },
+      {
+        "question": "Zoom aydınlatması web geliştirme için iyi mi?",
+        "answer": "Evet, web geliştiriciler farklı aydınlatma koşullarının tasarımlarının görünümünü nasıl etkilediğini test etmek için zoom aydınlatma ekranımızı kullanabilir, web sitelerinin çeşitli aydınlatma senaryoları altında harika görünmesini sağlar."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Teknik özellikler",
+    "subtitle": "Zoom aydınlatmasının teknik detayları",
+    "specs": [
+      {
+        "label": "Renk",
+        "value": "#FFFFFF (Saf beyaz)"
+      },
+      {
+        "label": "Sıcaklık",
+        "value": "6500K (Gün ışığı)"
+      },
+      {
+        "label": "Uyumluluk",
+        "value": "Ekranı olan tüm cihazlar"
+      },
+      {
+        "label": "Uygulama",
+        "value": "Profesyonel video aydınlatması"
+      }
+    ]
+  }
+} 

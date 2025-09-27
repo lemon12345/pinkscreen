@@ -1,0 +1,124 @@
+{
+  "hero": {
+    "title": "Lighting For Zoom Calls |  Online",
+    "description": "Use this fullscreen white screen to brighten your face during Zoom calls, YouTube videos, or photo sessions. Clean, fast, and ad-free.",
+    "badge": "Free Online Tool",
+    "features": {
+      "noRegistration": "No Registration",
+      "worksOffline": "Works Offline",
+      "allDevices": "All Devices"
+    }
+  },
+  "keywords": "best lighting for zoom calls, zoom lighting, lighting for zoom meetings, light for zoom meetings, video conference lighting, best light for zoom meetings, zoom lighting kit, best zoom lighting, best light for video conferencing",
+  "colorPicker": {
+    "title": "Choose Your Color",
+    "custom": "Custom",
+    "description": "Perfect for video conferencing, photography backdrops, and creating optimal lighting conditions",
+    "launchButton": "Launch Zoom Lighting"
+  },
+  "useCases": {
+    "title": "People use zoom lighting for:",
+    "description": "Our zoom lighting tool serves multiple professional and personal purposes across various industries and scenarios.",
+    "cases": [
+      {
+        "icon": "💡",
+        "title": "Customized Lighting for Video Conferencing",
+        "description": "Use our zoom lighting screen tool to create the perfect lighting setup for your video calls. With adjustable color and temperature, you can achieve professional-level video conference lighting effortlessly."
+      },
+      {
+        "icon": "📸",
+        "title": "Photography Backdrop with Zoom Lighting Screen",
+        "description": "Enhance your photography setup with our adjustable zoom lighting screen. Adjust the color and temperature to suit the mood of your photoshoot and create stunning images."
+      },
+      {
+        "icon": "🎓",
+        "title": "Improve eLearning Experience with Optimal Lighting",
+        "description": "With our zoom lighting screen, create a conducive learning environment for eLearning. Customizable light settings ensure optimal reading comfort and improved concentration."
+      },
+      {
+        "icon": "💻",
+        "title": "Web Developers Lighting Test Tool",
+        "description": "Web developers can use our full-screen zoom lighting screen to test how different light temperatures and colors affect the appearance of their designs, helping to create visually engaging and accessible websites."
+      },
+      {
+        "icon": "🧘",
+        "title": "Color Therapy with Zoom Lighting Screen",
+        "description": "Therapists and wellness coaches can utilize our zoom lighting screen with adjustable color and temperature for color therapy sessions, promoting relaxation and healing."
+      },
+      {
+        "icon": "📹",
+        "title": "white screen as a lighting for zoom calls",
+        "description": "For video calls! I don't have a easy ring light, but do have two screens. So I can use one of the screens to light my face!"
+      },
+      {
+        "icon": "✨",
+        "title": "zoom lighting to get brightness",
+        "description": "I use it to get brightness while i´m in a video call"
+      },
+      {
+        "icon": "💡",
+        "title": "zoom lighting to turns my monitor into a ligh",
+        "description": "Turns my monitor into a light to offset being backlit on video calls"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "What is zoom lighting used for?",
+        "answer": "Zoom lighting is used to create optimal lighting conditions for video conferencing, photography, eLearning, and various professional applications where proper lighting is essential."
+      },
+      {
+        "question": "How do I use zoom lighting for video calls?",
+        "answer": "Simply open our zoom lighting screen and adjust the color temperature and brightness to create the perfect lighting for your video calls. The warm, adjustable lighting helps improve your appearance on camera."
+      },
+      {
+        "question": "Can I use zoom lighting for photography?",
+        "answer": "Yes! Our zoom lighting screen provides adjustable color and temperature settings that are perfect for photography backdrops and creating the ideal lighting conditions for your photoshoots."
+      },
+      {
+        "question": "Why use zoom lighting for eLearning?",
+        "answer": "Proper lighting is crucial for eLearning environments. Our zoom lighting screen creates optimal reading conditions and helps reduce eye strain, improving concentration and learning outcomes."
+      },
+      {
+        "question": "Is zoom lighting good for web development?",
+        "answer": "Yes, web developers can use our zoom lighting screen to test how different lighting conditions affect the appearance of their designs, ensuring their websites look great under various lighting scenarios."
+      }
+    ]
+  },
+  "temperatureControl": {
+    "title": "Temperature Control",
+    "temperature": "Temperature",
+    "description": "Adjust the color temperature to create the perfect lighting for your video calls. Lower values create warmer light, higher values create cooler light."
+  },
+  "colors": {
+    "Zoom Lighting": "Zoom Lighting",
+    "White": "White",
+    "Black": "Black",
+    "Red": "Red",
+    "Blue": "Blue",
+    "Green": "Green",
+    "Yellow": "Yellow",
+    "Purple": "Purple",
+    "Pink": "Pink",
+    "Orange": "Orange"
+  },
+  "info": {
+    "professionalTool": "Professional Tool",
+    "title": "Download Zoom Lighting Background",
+    "subtitle": "Use this fullscreen white screen to brighten your face during Zoom calls, YouTube videos, or photo sessions. Clean, fast, and ad-free.",
+    "downloadReady": "Download Ready",
+    "downloadTitle": "Zoom Lighting Background",
+    "downloadDescription": "Prefer a static zoom lighting image? Use one of our high-resolution PNGs:",
+    "hdTitle": "1920x1080 Zoom Lighting Background",
+    "hdDescription": "Perfect for standard HD displays and video calls. Optimized for Zoom meetings and video conferencing.",
+    "hdButton": "Download HD",
+    "fourKTitle": "4K Zoom Lighting Background",
+    "fourKDescription": "Ultra HD fullscreen white background for lighting your face in video meetings. Perfect for high-resolution displays.",
+    "fourKButton": "Download 4K",
+    "proTipBadge": "Pro Tip",
+    "proTipTitle": "Maximize Your Video Call Lighting",
+    "proTipDescription": "Maximize screen brightness and position your monitor in front of you for the best lighting effect during calls."
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "hero": {
+    "badge": "Lila Skärm Verktyg",
+    "title": "Lila Skärm | Onlineverktyg",
+    "description": "Lila skärm online för att främja kreativitet, andlighet och skapa mystisk atmosfär. Perfekt för meditation och konstnärlig inspiration.",
+    "features": {
+      "noRegistration": "Ingen registrering",
+      "worksOffline": "Fungerar offline",
+      "allDevices": "Alla enheter"
+    }
+  },
+  "keywords": "lila skärm, lila bakgrund, lila skärm online, lila färg, kreativitet, andlighet, mystik",
+  "colorPicker": {
+    "title": "Välj din färg",
+    "custom": "Anpassad",
+    "description": "Perfekt för att inspirera kreativitet och skapa mystisk atmosfär",
+    "launchButton": "Starta lila skärm"
+  },
+  "colors": {
+    "Black": "Svart Skärm",
+    "White": "Vit Skärm",
+    "Red": "Röd Skärm",
+    "Blue": "Blå Skärm",
+    "Green": "Grön Skärm",
+    "Yellow": "Gul Skärm",
+    "Purple": "Lila Skärm",
+    "Pink": "Rosa Skärm",
+    "Orange": "Orange Skärm",
+    "Zoom Lighting": "Zoom-belysning"
+  },
+  "interface": {
+    "livePreview": "Live-förhandsvisning",
+    "clickForFullscreen": "Klicka för helskärm",
+    "current": "Aktuell",
+    "chooseYourColor": "Välj din färg",
+    "perfectFor": "Perfekt för",
+    "launchPurpleScreen": "Starta Lila Skärm"
+  },
+  "useCases": {
+    "title": "Människor använder lila skärm för:",
+    "subtitle": "Upptäck de olika sätten att använda vår lila skärm",
+    "description": "Vårt lila skärmverktyg inspirerar kreativitet och andlighet, skapar en mystisk och sofistikerad atmosfär.",
+    "cases": [
+      {
+        "title": "Helskärm i lila för hälsorelaterade appar",
+        "description": "Integrera vårt verktyg i din hälsorelaterade app för att skapa en lugnande lila skärm, perfekt för meditation och mindfulness-övningar. Den fridfulla färgen främjar avslappning och mental välbefinnande.",
+        "icon": "🧘"
+      },
+      {
+        "title": "Lila skärm för ljuseffekt",
+        "description": "Skapa en dynamisk ljuseffekt med en helskärm i lila. Perfekt för att skapa en unik atmosfär för dina videokonferenser, virtuella evenemang eller musiksessioner.",
+        "icon": "💡"
+      },
+      {
+        "title": "Färgteori-studier med lila skärm",
+        "description": "Använd en livfull helskärm lila display som ett läromedel för färgteori. Det hjälper konststudenter och designers att förstå färgens påverkan och betydelse i deras arbete.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Skärmtestning med lila helskärm",
+        "description": "Kontrollera färgnoggrannheten på dina monitorer eller skärmar med vårt verktyg som genererar en helskärm lila display. Väsentligt för designers, fotografer och videomakers.",
+        "icon": "🖼️"
+      },
+      {
+        "title": "Interaktiv lila display för barns lärande",
+        "description": "Engagera barn i interaktivt e-lärande med en helskärm lila display. Den djärva färgen stimulerar fantasi och fokus, vilket förbättrar lärandet.",
+        "icon": "👶"
+      },
+      {
+        "title": "lila skärm för att skapa stämning",
+        "description": "Jag gillar stämningen som lila ger",
+        "icon": "💜"
+      },
+      {
+        "title": "lila skärm för att kopiera bild",
+        "description": "För att kopiera en bild som min klasskamrat ritade",
+        "icon": "📸"
+      },
+      {
+        "title": "lila skärm för att skapa videor",
+        "description": "Eftersom mina YouTube-videor blir bättre med en lila skärm",
+        "icon": "📹"
+      },
+      {
+        "title": "lila skärm för online-samtal",
+        "description": "För att lägga till en lila glöd under möten.",
+        "icon": "💬"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Hur man använder lila skärm",
+    "subtitle": "Enkel guide för att få ut det mesta av vårt verktyg",
+    "steps": [
+      "Välj din föredragna färg från paletten",
+      "Klicka på 'Starta'-knappen för att öppna i helskärm",
+      "Använd F11 eller ESC för att lämna helskärmsläge",
+      "Ladda ner bilden i din föredragna upplösning"
+    ]
+  },
+  "info": {
+    "title": "Lila Skärm – Helskärmsbakgrundsverktyg",
+    "subtitle": "En lila skärm hjälper till att upptäcka ljusstyrka och färgobalanser, perfekt för omgivningsbelysning och kreativa bakgrunder",
+    "professionalTool": "Professionellt verktyg",
+    "downloadReady": "Nedladdning redo",
+    "downloadTitle": "Ladda ner Lila Skärm Bakgrund",
+    "downloadDescription": "Få högkvalitativa lila skärmar för dina professionella behov",
+    "hdTitle": "1920×1080 Lila Skärm Bakgrund",
+    "hdDescription": "Helskärm violett bild för testning, atmosfär och skärmevaluering",
+    "hdButton": "Ladda ner HD",
+    "fourKTitle": "4K Lila Skärm Bakgrund",
+    "fourKDescription": "Ultra HD djup lila bild för omgivningsbelysning och skärmkalibrering",
+    "fourKButton": "Ladda ner 4K",
+    "proTipBadge": "Pro-tips",
+    "proTipTitle": "Pro-tips",
+    "proTipDescription": "Prova att växla mellan lila och vita skärmar när du redigerar video för att se hur innehållet presterar under olika färgmiljöer."
+  },
+  "faq": {
+    "title": "Vanliga frågor",
+    "subtitle": "Svar på vanliga frågor om lila skärm",
+    "description": "Hitta svar på vanliga frågor om att använda vårt lila skärmverktyg för olika ändamål.",
+    "questions": [
+      {
+        "question": "Vad används ett Lila Skärmverktyg till?",
+        "answer": "Ett Lila Skärmverktyg visar en lila färg i helskärmsläge, vanligtvis använt för skärmtestning, ruh hali panolar, ögonkomfort, innehållsskapande och förbättring av visuell kreativitet."
+      },
+      {
+        "question": "Hur använder jag Lila Skärm för ögonkomfort?",
+        "answer": "Den Lila Skärmen minskar blått ljus exponering, vilket gör det lättare för dina ögon under nattsurfning eller långa arbetstimmar. Det hjälper till att minska ögonansträngning och förbättra visuell komfort."
+      },
+      {
+        "question": "Kan jag använda Lila Skärm för innehållsskapande?",
+        "answer": "Ja! Den Lila Skärmen är perfekt för att skapa varma, inbjudande bakgrunder för onlineinnehåll, virtuella klasser eller livestreams. Den lägger till energi och positivitet till ditt innehåll."
+      },
+      {
+        "question": "Varför använda Lila Skärm för skärmtestning?",
+        "answer": "Lila är en utmärkt färg för att testa skärmnoggrannhet och färgkalibrering. Det hjälper till att identifiera färgproblem och finjustera monitorinställningar för optimal visning."
+      },
+      {
+        "question": "Är Lila Skärm bra för kreativitet?",
+        "answer": "Ja, lila är associerat med kreativitet och optimism. En Lila Skärm kan inspirera kreativt tänkande och fungera som en ruh hali panel för designprojekt och konstnärligt arbete."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Tekniska specifikationer",
+    "subtitle": "Tekniska detaljer för vårt lila skärmverktyg",
+    "specs": [
+      {
+        "label": "Färg",
+        "value": "#800080 (Kunglig lila)"
+      },
+      {
+        "label": "Upplösning",
+        "value": "Anpassar sig till alla skärmar"
+      },
+      {
+        "label": "Kompatibilitet",
+        "value": "Alla moderna webbläsare"
+      },
+      {
+        "label": "Effekt",
+        "value": "Kreativ och andlig"
+      }
+    ]
+  }
+} 

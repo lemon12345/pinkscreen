@@ -1,0 +1,155 @@
+{
+  "hero": {
+    "badge": "Herramienta de Pantalla Azul",
+    "title": "Pantalla Azul | Herramienta en Línea",
+    "description": "Pantalla azul a pantalla completa para mejorar el enfoque, crear luz calmante, llamadas de Zoom o pruebas de píxeles. 100% sin anuncios, funciona en todos los dispositivos.",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Sin Conexión",
+      "allDevices": "Todos los Dispositivos"
+    }
+  },
+  "keywords": "pantalla azul, pantalla azul brillante, pantalla azul completa, pantalla azul",
+  "colorPicker": {
+    "title": "Elige Tu Color",
+    "custom": "Personalizado",
+    "description": "Perfecto para encontrar suciedad, probar píxeles muertos o crear ambientes azules calmantes",
+    "launchButton": "Lanzar Página Azul"
+  },
+  "colors": {
+    "Black": "Pantalla Negra",
+    "White": "Pantalla Blanca",
+    "Red": "Pantalla Roja",
+    "Blue": "Pantalla Azul",
+    "Green": "Pantalla Verde",
+    "Yellow": "Pantalla Amarilla",
+    "Purple": "Pantalla Morada",
+    "Pink": "Pantalla Rosa",
+    "Orange": "Pantalla Naranja",
+    "Zoom Lighting": "Iluminación Zoom"
+  },
+  "interface": {
+    "livePreview": "Vista Previa en Vivo",
+    "clickForFullscreen": "Haz Clic para Pantalla Completa",
+    "current": "Actual",
+    "chooseYourColor": "Elige Tu Color",
+    "perfectFor": "Perfecto para",
+    "launchBlueScreen": "Lanzar Pantalla Azul"
+  },
+  "useCases": {
+    "title": "La gente usa la pantalla azul para:",
+    "description": "Nuestra herramienta de pantalla azul sirve múltiples propósitos profesionales y personales en varias industrias y escenarios.",
+    "cases": [
+      {
+        "icon": "😌",
+        "title": "Relajación con Pantalla Azul",
+        "description": "Descubre el poder relajante de nuestra pantalla completa azul. Sus tonos azules calmantes pueden ayudar a reducir el estrés y promover la relajación después de un largo día."
+      },
+      {
+        "icon": "😴",
+        "title": "Ayuda para Dormir con Herramienta de Pantalla Azul",
+        "description": "Nuestra herramienta de pantalla azul puede ser utilizada como ayuda para dormir. La suave y calmante luz azul es conocida por fomentar la somnolencia y mejorar la calidad de tu sueño."
+      },
+      {
+        "icon": "👁️",
+        "title": "Filtro de Luz Azul para la Tensión Ocular Digital",
+        "description": "Utiliza nuestra pantalla completa azul como un filtro de luz azul para aliviar la tensión ocular digital. Ideal para largas horas de tiempo frente a la pantalla, puede ayudar a mantener la salud de tus ojos."
+      },
+      {
+        "icon": "🎨",
+        "title": "Pantalla Azul para la Inspiración Artística",
+        "description": "Los artistas y diseñadores pueden usar nuestra herramienta de pantalla azul para inspirarse. Los profundos y serenos tonos de azul pueden despertar la creatividad y estimular el pensamiento imaginativo."
+      },
+      {
+        "icon": "📊",
+        "title": "Pantalla Azul como Ayuda Visual en Presentaciones",
+        "description": "Utiliza nuestra herramienta de pantalla azul como ayuda visual en presentaciones. El fondo azul puede ayudar a enfatizar el texto y las imágenes, mejorando la comunicación y la comprensión."
+      },
+      {
+        "icon": "🎬",
+        "title": "pantalla azul para hacer videos",
+        "description": "Porque mis videos de YouTube son mejores con una pantalla azul y porque las pantallas verdes están sobrevaloradas"
+      },
+      {
+        "icon": "📷",
+        "title": "pantalla azul para copiar imagen",
+        "description": "Para copiar una imagen que dibujó mi compañero de clase"
+      },
+      {
+        "icon": "✨",
+        "title": "pantalla azul para crear un ambiente",
+        "description": "Me gusta el ambiente que da"
+      }
+    ]
+  },
+  "info": {
+    "title": "Pantalla Azul – Herramienta de Fondo de Pantalla Completa",
+    "subtitle": "La pantalla azul reduce la fatiga ocular, promueve la calma y es perfecta para el modo de enfoque y pruebas de pantalla",
+    "professionalTool": "Herramienta Profesional",
+    "downloadReady": "Descarga Lista",
+    "downloadTitle": "Descargar Fondo de Pantalla Azul",
+    "downloadDescription": "Obtén pantallas azules de alta calidad para tus necesidades profesionales",
+    "hdTitle": "1920×1080 Fondo de Pantalla Azul",
+    "hdDescription": "Imagen azul pura a pantalla completa para enfoque, iluminación y pruebas",
+    "hdButton": "Descargar HD",
+    "fourKTitle": "4K Fondo de Pantalla Azul",
+    "fourKDescription": "Imagen azul a pantalla completa ultra HD para iluminación suave y claridad visual",
+    "fourKButton": "Descargar 4K",
+    "proTipBadge": "Consejo Pro",
+    "proTipTitle": "Consejo Pro",
+    "proTipDescription": "Alterna entre pantallas blancas, negras o azules para ajustar la iluminación ambiental según tu actividad o estado de ánimo."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "description": "Encuentra respuestas a preguntas comunes sobre el uso de nuestra herramienta de pantalla azul para diversos propósitos.",
+    "questions": [
+      {
+        "question": "¿Para qué se usa una herramienta de pantalla azul?",
+        "answer": "Una herramienta de pantalla azul muestra un color azul en modo pantalla completa, comúnmente usado para relajación, ayuda para dormir, filtro de luz azul, inspiración artística y ayuda visual en presentaciones."
+      },
+      {
+        "question": "¿Cómo uso la pantalla azul para relajación?",
+        "answer": "La pantalla azul crea un ambiente visual calmante que reduce el estrés y promueve la relajación. Sus tonos azules calmantes son perfectos para relajarse después de un largo día."
+      },
+      {
+        "question": "¿Puedo usar la pantalla azul como ayuda para dormir?",
+        "answer": "¡Sí! La suave y calmante luz azul es conocida por fomentar la somnolencia y mejorar la calidad del sueño. Es perfecta para usar antes de acostarse."
+      },
+      {
+        "question": "¿Por qué usar pantalla azul como filtro de luz azul?",
+        "answer": "La pantalla azul puede ayudar a aliviar la tensión ocular digital al reducir la exposición a la luz azul dura. Es ideal para largas horas de tiempo frente a la pantalla."
+      },
+      {
+        "question": "¿La pantalla azul es buena para la inspiración artística?",
+        "answer": "Sí, los profundos y serenos tonos de azul pueden despertar la creatividad y estimular el pensamiento imaginativo. Es perfecta para artistas y diseñadores que buscan inspiración."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "prankScreens": "Pantallas de Broma",
+    "fakeUpdateScreens": "Pantallas de Actualización Falsa",
+    "screensaverScreens": "Pantallas de Protector de Pantalla"
+  },
+  "howToUse": {
+    "title": "Cómo Usar",
+    "steps": [
+      "Elige tu color preferido de la paleta",
+      "Haz clic en el botón 'Lanzar' para abrir en pantalla completa",
+      "Usa F11 o ESC para salir del modo pantalla completa",
+      "Descarga la imagen en tu resolución preferida"
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificaciones Técnicas",
+    "specs": [
+      "Resolución: Hasta 8K (7680x4320)",
+      "Profundidad de Color: 24-bit RGB",
+      "Formato: PNG, JPEG, WebP",
+      "Compatibilidad: Todos los navegadores modernos",
+      "Funcionalidad Offline: Completamente disponible"
+    ]
+  }
+}

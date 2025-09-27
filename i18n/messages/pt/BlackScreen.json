@@ -1,0 +1,172 @@
+{
+  "hero": {
+    "badge": "Ferramenta de Tela Preta",
+    "title": "Tela Preta | Ferramenta Online",
+    "description": "Use esta tela preta sólida para testar contraste, economizar energia, escurecer o ambiente ou relaxar os olhos. Sem distrações. Somente preto.",
+    "features": {
+      "noRegistration": "Sem registo",
+      "worksOffline": "Funciona offline",
+      "allDevices": "Todos os dispositivos"
+    }
+  },
+  "keywords": "tela preta, tela preta online, limpeza de tela, teste de pixels mortos, economia de energia, fundo preto",
+  "colorPicker": {
+    "title": "Escolha sua cor",
+    "custom": "Personalizado",
+    "description": "Perfeito para limpeza de tela, teste de pixels e redução de brilho",
+    "launchButton": "Iniciar tela preta"
+  },
+  "colors": {
+    "Black": "Tela Preta",
+    "White": "Tela Branca",
+    "Red": "Tela Vermelha",
+    "Blue": "Tela Azul",
+    "Green": "Tela Verde",
+    "Yellow": "Tela Amarela",
+    "Purple": "Tela Roxa",
+    "Pink": "Tela Rosa",
+    "Orange": "Tela Laranja",
+    "Zoom Lighting": "Iluminação para Zoom"
+  },
+  "interface": {
+    "livePreview": "Pré-visualização ao vivo",
+    "clickForFullscreen": "Clique para tela cheia",
+    "current": "Atual",
+    "chooseYourColor": "Escolha sua cor",
+    "perfectFor": "Perfeito para",
+    "launchBlackScreen": "Iniciar Tela Preta"
+  },
+  "useCases": {
+    "title": "As pessoas usam a tela preta para:",
+    "subtitle": "Descubra as diferentes formas de usar nossa tela preta",
+    "description": "Nossa ferramenta de tela preta oferece soluções práticas para economia de energia e redução de distrações visuais.",
+    "cases": [
+      {
+        "title": "para escurecer o segundo monitor sem desligá-lo",
+        "description": "Escureça rapidamente o segundo monitor sem desligá-lo ao jogar algum jogo atmosférico ou assistir a algum filme que acabou valendo a pena.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "para economizar eletricidade",
+        "description": "Tentando economizar eletricidade, reduzir a emissão de carbono.",
+        "icon": "⚡"
+      },
+      {
+        "title": "para ocultar o fato, o computador está ativo",
+        "description": "Colocar meus 4 monitores quando for dormir, ao invés de colocá-los para dormir.",
+        "icon": "🔒"
+      },
+      {
+        "title": "limpar o monitor",
+        "description": "Mais fácil de ver os pontos quando estou limpando minha tela",
+        "icon": "🧽"
+      },
+      {
+        "title": "fazer um fundo escuro",
+        "description": "Plano de fundo para um jogo. A tela é muito grande, 3440 x 1440. Não gosto de jogar tão grande, então faço 2560x1440. Precisa de engastes pretos em ambos os lados.",
+        "icon": "🎮"
+      },
+      {
+        "title": "ajudar a prevenir burn-in em TV de plasma",
+        "description": "Tenho uma TV de plasma antiga. Não tenho alto-falantes de computador, então quando quero tocar música alto, ligo minha TV e conecto via HDMI. Plasmas são altamente suscetíveis a burn-in, então ao invés de deixar o Windows Media Player ou qualquer coisa na tela, uso tela preta para ajudar a prevenir burn-in.",
+        "icon": "📺"
+      },
+      {
+        "title": "concentrar enquanto estuda",
+        "description": "Para não desligar minha tela e me concentrar enquanto estudo. Bem, minha tela é muito brilhante e não ajuda com a concentração, uma tela preta resolve isso.",
+        "icon": "📚"
+      },
+      {
+        "title": "relaxar os olhos",
+        "description": "Porque preciso relaxar meus olhos e ter apenas uma tela preta mesmo quando toco música no meu PC ou quero alternar rapidamente entre tudo preto e algo mais.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Tela Preta para Foco e Minimalismo",
+        "description": "Abrace o minimalismo e reduza distrações com nossa ferramenta de tela preta. Ideal para tarefas focadas ou para indivíduos praticando minimalismo digital.",
+        "icon": "🎯"
+      },
+      {
+        "title": "Tela Preta para Economia de Energia",
+        "description": "Aproveite nossa ferramenta de tela preta como uma solução de economia de energia para displays OLED e AMOLED. Exibir pixels pretos pode contribuir para a conservação da bateria.",
+        "icon": "🔋"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Como usar a tela preta",
+    "subtitle": "Guia simples para aproveitar ao máximo nossa ferramenta",
+    "steps": [
+      "Escolha sua cor preferida da paleta",
+      "Clique no botão 'Iniciar' para abrir em tela cheia",
+      "Use F11 ou ESC para sair do modo tela cheia",
+      "Baixe a imagem na resolução de sua preferência"
+    ]
+  },
+  "info": {
+    "title": "Tela Preta – Ferramenta de Fundo de Tela Cheia",
+    "subtitle": "Uma tela preta destaca poeira e manchas para limpeza fácil, ajuda a detectar pixels e reduz o brilho em salas escuras",
+    "professionalTool": "Ferramenta Profissional",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Baixar Fundo de Tela Preta",
+    "downloadDescription": "Obtenha telas pretas de alta qualidade para suas necessidades profissionais",
+    "hdTitle": "Fundo de Tela Preta 1920×1080",
+    "hdDescription": "Imagem preta pura em tela cheia para limpeza de tela, teste de pixels mortos e conforto visual",
+    "hdButton": "Baixar HD",
+    "fourKTitle": "Fundo de Tela Preta 4K",
+    "fourKDescription": "Imagem de tela preta ultra HD para redução de brilho e teste de display",
+    "fourKButton": "Baixar 4K",
+    "proTipBadge": "Dica Pro",
+    "proTipTitle": "Dica Pro",
+    "proTipDescription": "Use a tela preta em combinação com telas brancas ou vermelhas para testar a resposta de brilho e contraste do seu monitor."
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "subtitle": "Respostas para perguntas comuns sobre a tela preta",
+    "description": "Encontre respostas para perguntas comuns sobre o uso de nossa ferramenta de tela preta para vários propósitos.",
+    "questions": [
+      {
+        "question": "A tela preta é realmente preta?",
+        "answer": "Sim, usamos preto puro (#000000) para máxima escuridão."
+      },
+      {
+        "question": "Isso realmente economiza energia?",
+        "answer": "Em telas OLED e AMOLED, pixels pretos consomem menos energia que pixels coloridos."
+      },
+      {
+        "question": "Posso usar a tela preta em múltiplos monitores?",
+        "answer": "Sim, abra várias abas e posicione-as em cada tela que deseja escurecer."
+      },
+      {
+        "question": "A ferramenta funciona offline?",
+        "answer": "Uma vez carregada a página, você pode usar a tela preta sem conexão com a internet."
+      },
+      {
+        "question": "A tela preta é boa para criatividade?",
+        "answer": "Sim, preto está associado à criatividade e otimismo. Uma tela preta pode inspirar o pensamento criativo e servir como uma placa de humor para projetos de design e trabalho artístico."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificações técnicas",
+    "subtitle": "Detalhes técnicos da nossa ferramenta de tela preta",
+    "specs": [
+      {
+        "label": "Cor",
+        "value": "#000000 (Preto puro)"
+      },
+      {
+        "label": "Resolução",
+        "value": "Adapta-se a todas as telas"
+      },
+      {
+        "label": "Compatibilidade",
+        "value": "Todos os navegadores modernos"
+      },
+      {
+        "label": "Consumo",
+        "value": "Mínimo em telas OLED"
+      }
+    ]
+  }
+} 

@@ -1,0 +1,132 @@
+{
+  "hero": {
+    "title": "Vollständiger Gelber Bildschirm | Online-Tool",
+    "description": "Gelbe Stimmungsbildschirme. Gelbe Bildschirme können sehr hell und kraftvoll sein, weshalb sie regelmäßig so intensive Reaktionen hervorrufen. Gelb kann ein sofortiger Aufmerksamkeitsmagnet sein.",
+    "badge": "Gelber Bildschirm Tool",
+    "features": {
+      "noRegistration": "Keine Registrierung",
+      "worksOffline": "Funktioniert offline",
+      "allDevices": "Alle Geräte"
+    }
+  },
+  "keywords": "gelber Bildschirm, leerer gelber Bildschirm, ein gelber Bildschirm, leere Bildschirme, voller gelber Bildschirm, PC gelber Bildschirm, Computer gelber Bildschirm, total gelber Bildschirm, schlichter gelber Bildschirm, gelber Bildschirm 10 Stunden, gelbes Display, leerer Computerbildschirm, total gelber Bildschirm",
+  "colorPicker": {
+    "title": "Wählen Sie Ihre Farbe",
+    "custom": "Benutzerdefiniert",
+    "description": "Perfekt für Monitortests, Fotografie-Beleuchtung und Präsentationen",
+    "launchButton": "Gelbe Seite starten"
+  },
+  "useCases": {
+    "title": "Menschen verwenden gelben Bildschirm für:",
+    "description": "Unser gelber Bildschirm-Tool dient verschiedenen professionellen und persönlichen Zwecken in verschiedenen Branchen und Szenarien.",
+    "cases": [
+      {
+        "icon": "🖥️",
+        "title": "Gelber Bildschirm zum Überprüfen des Monitors",
+        "description": "Überprüfen Sie Ihren Monitor und finden Sie tote Pixel mit dem gelben Bildschirm."
+      },
+      {
+        "icon": "🌙",
+        "title": "Gelber Bildschirm für nächtliches Surfen",
+        "description": "Gelbes Licht ist schonender für die Augen beim nächtlichen Surfen."
+      },
+      {
+        "icon": "📸",
+        "title": "Gelber Bildschirm für Fotografie",
+        "description": "Verwenden Sie den gelben Bildschirm als warmen Hintergrund für Fotografie."
+      },
+      {
+        "icon": "🎨",
+        "title": "Gelber Bildschirm für Stimmungstafeln",
+        "description": "Der gelbe Bildschirm eignet sich perfekt für kreative Stimmungstafeln."
+      },
+      {
+        "icon": "🌟",
+        "title": "Vielseitiger gelber Hintergrund für Inhalte",
+        "description": "Tauchen Sie Ihr Publikum in eine warme und einladende Umgebung mit einer Vollbild-Gelbanzeige. Ideal, um Energie und Positivität in Ihre Online-Inhalte, virtuellen Klassen oder Livestreams zu injizieren."
+      },
+      {
+        "icon": "👁️",
+        "title": "Gelber Bildschirm für Augenkomfort",
+        "description": "Verbessern Sie den visuellen Komfort mit einem gelb getönten Bildschirm. Nutzen Sie unser Tool, um die Augenbelastung durch blaues Licht zu reduzieren, insbesondere beim nächtlichen Surfen oder langen Arbeitsstunden."
+      },
+      {
+        "icon": "🎭",
+        "title": "Kreativer Starter für Stimmungstafeln",
+        "description": "Starten Sie Ihre kreativen Projekte mit einer gelben Stimmungstafel. Unsere Vollbild-Gelbanzeige kann kreatives Denken und Designkonzepte inspirieren."
+      },
+      {
+        "icon": "🔧",
+        "title": "Gerätebildschirm-Tests",
+        "description": "Testen Sie die Farbgenauigkeit Ihres Anzeigegeräts mit einer Vollbild-Gelbausgabe. Es ist ein praktisches Tool zum Feinabstimmen der Farbeinstellungen von Monitoren, Tablets oder Smartphones."
+      },
+      {
+        "icon": "📚",
+        "title": "Interaktive Lehrhilfe",
+        "description": "Nutzen Sie eine Vollbild-Gelbanzeige als Lehrhilfe in virtuellen Klassenzimmern. Sie kann als ansprechender Hintergrund dienen, um Lernmaterialien zu präsentieren, Informationen hervorzuheben und die Aufmerksamkeit der Schüler zu wecken."
+      },
+      {
+        "icon": "😊",
+        "title": "Gelber Bildschirm für Stimmung",
+        "description": "Ich mag die Stimmung, die er vermittelt."
+      },
+      {
+        "icon": "📋",
+        "title": "Gelber Bildschirm zum Kopieren von Bildern",
+        "description": "Um ein Bild zu kopieren, das mein Klassenkamerad gezeichnet hat."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Wofür wird ein gelber Bildschirm verwendet?",
+        "answer": "Ein gelber Bildschirm wird für Monitortests, nächtliches Surfen, Fotografie und kreative Zwecke verwendet."
+      },
+      {
+        "question": "Wie verwende ich gelben Bildschirm für nächtliches Surfen?",
+        "answer": "Gelbes Licht ist schonender für die Augen. Starten Sie den gelben Bildschirm für ein angenehmeres nächtliches Surfen."
+      },
+      {
+        "question": "Kann ich gelben Bildschirm für Fotografie verwenden?",
+        "answer": "Ja! Der gelbe Bildschirm kann als warmer Hintergrund für Produktfotografie verwendet werden."
+      },
+      {
+        "question": "Warum gelben Bildschirm für Bildschirmtests verwenden?",
+        "answer": "Gelb ist eine ausgezeichnete Farbe für das Testen der Anzeigegenauigkeit und Farbkalibrierung. Es hilft dabei, Farbprobleme zu identifizieren und Monitoreinstellungen für optimales Sehen zu optimieren."
+      },
+      {
+        "question": "Ist gelber Bildschirm gut für Kreativität?",
+        "answer": "Ja, Gelb wird mit Kreativität und Optimismus assoziiert. Ein gelber Bildschirm kann kreatives Denken inspirieren und als Stimmungstafel für Designprojekte und künstlerische Arbeit dienen."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Zusätzliche Bildschirm-Tools",
+    "description": "Entdecken Sie unsere Sammlung spezialisierter Bildschirm-Tools für verschiedene Zwecke.",
+    "colorScreens": "Farbbildschirme",
+    "prankScreens": "Streich-Bildschirme",
+    "fakeUpdateScreens": "Gefälschte Update-Bildschirme",
+    "screensaverScreens": "Bildschirmschoner"
+  },
+  "howToUse": {
+    "title": "Verwendung",
+    "steps": [
+      "Wählen Sie Ihre bevorzugte Farbe aus der Palette",
+      "Klicken Sie auf den 'Starten'-Button, um im Vollbildmodus zu öffnen",
+      "Verwenden Sie F11 oder ESC, um den Vollbildmodus zu beenden",
+      "Laden Sie das Bild in Ihrer bevorzugten Auflösung herunter"
+    ]
+  },
+  "techSpecs": {
+    "title": "Technische Spezifikationen",
+    "specs": [
+      "Auflösung: Bis zu 8K (7680x4320)",
+      "Farbtiefe: 24-bit RGB",
+      "Format: PNG, JPEG, WebP",
+      "Kompatibilität: Alle modernen Browser",
+      "Offline-Funktionalität: Vollständig verfügbar"
+    ]
+  }
+}

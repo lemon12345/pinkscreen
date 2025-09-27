@@ -1,0 +1,167 @@
+{
+  "hero": {
+    "badge": "Pembe Ekran Aracı",
+    "title": "Pembe Ekran | Çevrimiçi araç",
+    "description": "Nazik atmosfer yaratmak, stresi azaltmak ve rahatlama sağlamak için çevrimiçi pembe ekran. Refah ve yaratıcılık için mükemmel.",
+    "features": {
+      "noRegistration": "Kayıt yok",
+      "worksOffline": "Çevrimdışı çalışır",
+      "allDevices": "Tüm cihazlar"
+    }
+  },
+  "keywords": "pembe ekran, pembe arkaplan, pembe ekran online, pembe renk, yumuşaklık, rahatlama, yaratıcılık",
+  "colorPicker": {
+    "title": "Renginizi seçin",
+    "custom": "Özel",
+    "description": "Yumuşak ve sakinleştirici atmosfer yaratmak için mükemmel",
+    "launchButton": "Pembe ekranı başlat"
+  },
+  "colors": {
+    "Black": "Siyah Ekran",
+    "White": "Beyaz Ekran",
+    "Red": "Kırmızı Ekran",
+    "Blue": "Mavi Ekran",
+    "Green": "Yeşil Ekran",
+    "Yellow": "Sarı Ekran",
+    "Purple": "Mor Ekran",
+    "Pink": "Pembe Ekran",
+    "Orange": "Turuncu Ekran",
+    "Zoom Lighting": "Zoom Aydınlatması"
+  },
+  "interface": {
+    "livePreview": "Canlı önizleme",
+    "clickForFullscreen": "Tam ekran için tıklayın",
+    "current": "Mevcut",
+    "chooseYourColor": "Renginizi seçin",
+    "perfectFor": "İçin mükemmel",
+    "launchPinkScreen": "Pembe Ekranı Başlat"
+  },
+  "useCases": {
+    "title": "İnsanlar pembe ekranı şunun için kullanır:",
+    "subtitle": "Pembe ekranımızın farklı kullanım yollarını keşfedin",
+    "description": "Pembe ekran aracımız rahatlama ve yaratıcı ortamlar için yumuşak ve sakinleştirici bir atmosfer yaratır.",
+    "cases": [
+      {
+        "title": "İçerik Oluşturma için Pembe Arka Plan",
+        "description": "Çevrimiçi içerik oluşturma için kolayca pembe bir fon elde edin. Bu araç, videolarınıza, canlı yayınlarınıza ve sanal sunumlarınıza renkli bir dokunuş eklemek için mükemmel olan tam ekran pembe bir gösterim sunar.",
+        "icon": "🎬"
+      },
+      {
+        "title": "Kolay Pembe Işık Terapisi",
+        "description": "Ekranınızı terapötik bir pembe ışık kaynağına dönüştürün. Cihazınızın ekranından pembe ışık terapisinin sakinleştirici etkilerinden yararlanın. Rahatlama, ruh hali artırma ve stres azaltma için idealdir.",
+        "icon": "💕"
+      },
+      {
+        "title": "Görsel Tasarım İlhamı",
+        "description": "Tam ekran pembe bir tuval ile tasarım yaratıcılığınızı ilhamlandırın. Araç, tasarımcıların pembe renkte kendilerini kaybetmelerine izin vererek tasarım projeleri için yaratıcı fikirleri teşvik eder.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Renk Kalibrasyon Testi",
+        "description": "Araçtaki pembe ekran ile ekranınızın renk doğruluğunu değerlendirin. Farklı cihazlarda ve ekran ayarlarında pembe tonunun doğruluğunu kontrol etmek için mükemmeldir.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "Dikkat Çekici Görüntü",
+        "description": "Çevrimiçi sunumlar, web seminerleri veya sanal toplantılar sırasında tam ekran pembe bir ekranla dikkat çekin. Anahtar anları vurgulamak ve seyircinizi benzersiz bir şekilde etkilemek için aracımızı kullanın.",
+        "icon": "✨"
+      },
+      {
+        "title": "bir atmosfer yapmak için pembe ekran",
+        "description": "Pembenin verdiği atmosferi seviyorum.",
+        "icon": "💕"
+      },
+      {
+        "title": "resmi kopyalamak için pembe ekran",
+        "description": "Sınıf arkadaşımın çizdiği bir resmi kopyalamak için.",
+        "icon": "💻"
+      },
+      {
+        "title": "video yapmak için pembe ekran",
+        "description": "YouTube videolarım pembe ekranla daha iyi.",
+        "icon": "📹"
+      },
+      {
+        "title": "çevrimiçi aramalar için pembe ekran",
+        "description": "Toplantı sırasında pembe bir parıltı eklemek için.",
+        "icon": "📞"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Pembe ekran nasıl kullanılır",
+    "subtitle": "Aracımızdan en iyi şekilde yararlanmak için basit rehber",
+    "steps": [
+      "Paletten tercih ettiğiniz rengi seçin",
+      "Tam ekranda açmak için 'Başlat' butonuna tıklayın",
+      "Tam ekran modundan çıkmak için F11 veya ESC kullanın",
+      "Tercih ettiğiniz çözünürlükte görüntüyü indirin"
+    ]
+  },
+  "info": {
+    "title": "Pembe Ekran – Tam Ekran Arkaplan Aracı",
+    "subtitle": "Sıcaklık ve profesyonellik arasındaki mükemmel dengeyi pembe ekran aracımızla deneyimleyin",
+    "professionalTool": "Profesyonel Araç",
+    "downloadReady": "İndirme Hazır",
+    "downloadTitle": "Pembe Ekran Arkaplanı İndir",
+    "downloadDescription": "Profesyonel ihtiyaçlarınız için yüksek kaliteli pembe ekranlar alın",
+    "hdTitle": "1920×1080 HD",
+    "hdDescription": "Çoğu ekran, akış ve günlük kullanım için mükemmel olan standart HD çözünürlük",
+    "hdButton": "HD İndir",
+    "fourKTitle": "3840×2160 4K",
+    "fourKDescription": "Profesyonel kullanım, yüksek kaliteli ekranlar ve premium içerik için ultra HD çözünürlük",
+    "fourKButton": "4K İndir",
+    "proTipBadge": "Pro İpucu",
+    "proTipTitle": "Yaratıcı Profesyonel Kullanım",
+    "proTipDescription": "Fotoğrafçılık veya canlı yayın arka planlarında benzersiz, zarif görsel ton eklemek için yaratıcı kurulumlarınızda pembe ekranları kullanın. Sıcak ton, içeriğiniz için profesyonel kaliteyi korurken davetkar bir atmosfer yaratır."
+  },
+  "faq": {
+    "title": "Sık sorulan sorular",
+    "subtitle": "Pembe ekran hakkında yaygın soruların cevapları",
+    "description": "Pembe ekran aracımızı çeşitli amaçlar için kullanma hakkında yaygın soruların cevaplarını bulun.",
+    "questions": [
+      {
+        "question": "Pembe Ekran aracı ne için kullanılır?",
+        "answer": "Pembe Ekran aracı tam ekran modunda pembe renk gösterir, genellikle ekran testi, ruh hali panoları, göz konforu, içerik oluşturma ve görsel yaratıcılığı artırmak için kullanılır."
+      },
+      {
+        "question": "Göz konforu için Pembe Ekranı nasıl kullanırım?",
+        "answer": "Pembe Ekran mavi ışık maruziyetini azaltır, gece saatlerinde göz atma veya uzun çalışma saatleri sırasında gözlerinizi daha az yorar. Göz yorgunluğunu azaltmaya ve görsel konforu iyileştirmeye yardımcı olur."
+      },
+      {
+        "question": "İçerik oluşturma için Pembe Ekranı kullanabilir miyim?",
+        "answer": "Evet! Pembe Ekran çevrimiçi içerik, sanal sınıflar veya canlı yayınlar için sıcak, davetkar arka planlar oluşturmak için mükemmeldir. İçeriğinize enerji ve pozitiflik katar."
+      },
+      {
+        "question": "Ekran testi için neden Pembe Ekran kullanılır?",
+        "answer": "Pembe, ekran doğruluğunu ve renk kalibrasyonunu test etmek için mükemmel bir renktir. Renk sorunlarını tanımlamaya ve optimal görüntüleme için monitör ayarlarını ince ayarlamaya yardımcı olur."
+      },
+      {
+        "question": "Pembe Ekran yaratıcılık için iyi mi?",
+        "answer": "Evet, pembe yaratıcılık ve iyimserlikle ilişkilendirilir. Pembe Ekran yaratıcı düşünceyi ilham verebilir ve tasarım projeleri ve sanatsal çalışmalar için bir ruh hali panosu olarak hizmet edebilir."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Teknik özellikler",
+    "subtitle": "Pembe ekran aracımızın teknik detayları",
+    "specs": [
+      {
+        "label": "Renk",
+        "value": "#FFC0CB (Nazik pembe)"
+      },
+      {
+        "label": "Çözünürlük",
+        "value": "Tüm ekranlara uyum sağlar"
+      },
+      {
+        "label": "Uyumluluk",
+        "value": "Tüm modern tarayıcılar"
+      },
+      {
+        "label": "Faydalar",
+        "value": "Rahatlama ve refah"
+      }
+    ]
+  }
+} 

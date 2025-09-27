@@ -1,0 +1,161 @@
+{
+  "hero": {
+    "badge": "Outil Écran Bleu",
+    "title": "Écran Bleu | Outil en Ligne",
+    "description": "Utilisez un écran bleu pur en plein écran pour tester les couleurs, réduire la fatigue oculaire ou créer une ambiance visuelle relaxante.",
+    "features": {
+      "noRegistration": "Aucune inscription",
+      "worksOffline": "Fonctionne hors ligne",
+      "allDevices": "Tous les appareils"
+    }
+  },
+  "keywords": "écran bleu, écran bleu en ligne, fond bleu, couleur bleue, écran bleu plein écran, outil écran bleu, effet apaisant, test couleur",
+  "colorPicker": {
+    "title": "Choisissez votre couleur",
+    "custom": "Personnalisé",
+    "description": "Parfait pour créer une ambiance apaisante et des tests de couleur",
+    "launchButton": "Lancer l'écran bleu"
+  },
+  "interface": {
+    "livePreview": "Aperçu en Direct",
+    "chooseYourColor": "Choisissez Votre Couleur",
+    "clickForFullscreen": "Cliquer pour Plein Écran",
+    "current": "Actuel",
+    "perfectFor": "Parfait pour les tests de moniteur, l'éclairage photographique et les présentations",
+    "launchBlueScreen": "Lancer l'Écran Bleu"
+  },
+  "colors": {
+    "Black": "Écran Noir",
+    "White": "Écran Blanc",
+    "Red": "Écran Rouge",
+    "Blue": "Écran Bleu",
+    "Green": "Écran Vert",
+    "Yellow": "Écran Jaune",
+    "Purple": "Écran Violet",
+    "Pink": "Écran Rose",
+    "Orange": "Écran Orange",
+    "Zoom Lighting": "Zoom d'éclairage"
+  },
+  "useCases": {
+    "title": "Les gens utilisent l'écran bleu pour :",
+    "subtitle": "Découvrez les différentes façons d'utiliser notre écran bleu",
+    "description": "Notre outil d'écran bleu offre des solutions apaisantes et professionnelles pour diverses applications.",
+    "cases": [
+      {
+        "title": "Relaxation avec Affichage Plein Écran Bleu",
+        "description": "Découvrez le pouvoir apaisant de notre affichage plein écran bleu. Ses tons bleus calmants peuvent aider à réduire le stress et favoriser la relaxation après une longue journée.",
+        "icon": "heart"
+      },
+      {
+        "title": "Aide au Sommeil avec Outil d'Écran Bleu",
+        "description": "Notre outil d'écran bleu peut être utilisé comme une aide au sommeil. La douce lumière bleue apaisante est connue pour favoriser la somnolence et améliorer la qualité de votre sommeil.",
+        "icon": "moon"
+      },
+      {
+        "title": "Filtre de Lumière Bleue pour la Fatigue Visuelle Numérique",
+        "description": "Utilisez notre affichage plein écran bleu comme un filtre de lumière bleue pour soulager la fatigue visuelle numérique. Idéal pour de longues heures devant l'écran, il peut aider à maintenir la santé de vos yeux.",
+        "icon": "eye"
+      },
+      {
+        "title": "Écran Bleu pour Inspiration Artistique",
+        "description": "Les artistes et les designers peuvent utiliser notre outil d'écran bleu pour s'inspirer. Les nuances bleues profondes et sereines peuvent stimuler la créativité et favoriser la pensée imaginative.",
+        "icon": "palette"
+      },
+      {
+        "title": "Écran Bleu comme Aide Visuelle dans les Présentations",
+        "description": "Utilisez notre outil d'écran bleu comme une aide visuelle dans les présentations. Le fond bleu peut aider à mettre en valeur le texte et les images, améliorant ainsi la communication et la compréhension.",
+        "icon": "presentation"
+      },
+      {
+        "title": "Écran bleu pour faire des vidéos",
+        "description": "Parce que mes vidéos YouTube sont meilleures avec un écran bleu et parce que les écrans verts sont surfaits",
+        "icon": "video"
+      },
+      {
+        "title": "Écran bleu pour copier une image",
+        "description": "Pour copier une image que mon camarade de classe a dessiné",
+        "icon": "copy"
+      },
+      {
+        "title": "Écran bleu pour créer une ambiance",
+        "description": "J'aime l'ambiance qu'il dégage",
+        "icon": "lightbulb"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Comment utiliser l'écran bleu",
+    "subtitle": "Guide simple pour tirer le meilleur parti de notre outil",
+    "steps": [
+      "Cliquez sur le bouton pour afficher l'écran bleu en plein écran",
+      "Regardez attentivement votre écran pour détecter les anomalies",
+      "Nettoyez les taches détectées avec un chiffon doux et sec"
+    ]
+  },
+  "info": {
+    "title": "Écran Bleu – Outil de Fond Plein Écran",
+    "subtitle": "Un écran bleu offre un effet apaisant, aide aux tests de couleur et crée une ambiance professionnelle pour les présentations",
+    "professionalTool": "Outil Professionnel",
+    "downloadReady": "Téléchargement Prêt",
+    "downloadTitle": "Télécharger Fond d'Écran Bleu",
+    "downloadDescription": "Obtenez des écrans bleus haute qualité pour vos besoins professionnels",
+    "hdTitle": "Fond d'Écran Bleu 1920×1080",
+    "hdDescription": "Image bleue plein écran pure pour l'effet apaisant, les tests de couleur et le confort visuel",
+    "hdButton": "Télécharger HD",
+    "fourKTitle": "Fond d'Écran Bleu 4K",
+    "fourKDescription": "Image d'écran bleu ultra HD pour les présentations professionnelles et les tests d'affichage",
+    "fourKButton": "Télécharger 4K",
+    "proTipBadge": "Conseil Pro",
+    "proTipTitle": "Conseil Pro",
+    "proTipDescription": "Utilisez l'écran bleu pour créer une ambiance calme et professionnelle lors de vos présentations ou appels vidéo."
+  },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "subtitle": "Réponses aux questions courantes sur l'écran bleu",
+    "description": "Découvrez comment utiliser efficacement notre outil d'écran bleu pour vos projets et besoins quotidiens.",
+    "questions": [
+      {
+        "question": "Pourquoi utiliser du bleu pour tester l'écran ?",
+        "answer": "Le bleu offre un excellent contraste pour détecter les impuretés et les pixels défectueux."
+      },
+      {
+        "question": "Comment détecter un pixel mort ?",
+        "answer": "Un pixel mort apparaîtra comme un point noir sur l'écran bleu uniforme."
+      },
+      {
+        "question": "L'outil fonctionne-t-il sur tous les types d'écrans ?",
+        "answer": "Oui, il fonctionne sur LCD, LED, OLED et tous les types d'écrans modernes."
+      },
+      {
+        "question": "Puis-je ajuster l'intensité du bleu ?",
+        "answer": "Utilisez les réglages de luminosité de votre appareil pour ajuster l'intensité."
+      },
+      {
+        "question": "L'écran bleu peut-il aider à la relaxation ?",
+        "answer": "Oui, la couleur bleue est reconnue pour ses propriétés apaisantes et peut contribuer à réduire le stress et favoriser la relaxation."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Spécifications techniques",
+    "subtitle": "Détails techniques de notre outil d'écran bleu",
+    "specs": [
+      {
+        "label": "Couleur",
+        "value": "#0000FF (Bleu pur)"
+      },
+      {
+        "label": "Résolution",
+        "value": "S'adapte à tous les écrans"
+      },
+      {
+        "label": "Compatibilité",
+        "value": "Tous les navigateurs modernes"
+      },
+      {
+        "label": "Usage",
+        "value": "Test et diagnostic d'écran"
+      }
+    ]
+  }
+} 

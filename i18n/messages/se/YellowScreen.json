@@ -1,0 +1,167 @@
+{
+  "hero": {
+    "badge": "Gul Skärm Verktyg",
+    "title": "Gul Skärm | Onlineverktyg",
+    "description": "Gul skärm online för att stimulera kreativitet, minska ögontrötthet och skapa varm atmosfär. Perfekt för arbete och avkoppling.",
+    "features": {
+      "noRegistration": "Ingen registrering",
+      "worksOffline": "Fungerar offline",
+      "allDevices": "Alla enheter"
+    }
+  },
+  "keywords": "gul skärm, gul bakgrund, gul skärm online, gul färg, kreativitet, optimism, koncentration",
+  "colorPicker": {
+    "title": "Välj din färg",
+    "custom": "Anpassad",
+    "description": "Perfekt för att stimulera kreativitet och förbättra koncentration",
+    "launchButton": "Starta gul skärm"
+  },
+  "colors": {
+    "Black": "Svart Skärm",
+    "White": "Vit Skärm",
+    "Red": "Röd Skärm",
+    "Blue": "Blå Skärm",
+    "Green": "Grön Skärm",
+    "Yellow": "Gul Skärm",
+    "Purple": "Lila Skärm",
+    "Pink": "Rosa Skärm",
+    "Orange": "Orange Skärm",
+    "Zoom Lighting": "Zoom-belysning"
+  },
+  "interface": {
+    "livePreview": "Live-förhandsvisning",
+    "clickForFullscreen": "Klicka för helskärm",
+    "current": "Aktuell",
+    "chooseYourColor": "Välj din färg",
+    "perfectFor": "Perfekt för",
+    "launchYellowScreen": "Starta Gul Skärm"
+  },
+  "useCases": {
+    "title": "Människor använder gul skärm för:",
+    "subtitle": "Upptäck de olika sätten att använda vår gula skärm",
+    "description": "Vårt gula skärmverktyg stimulerar kreativitet och optimism för inspirerande arbetsmiljöer.",
+    "cases": [
+      {
+        "title": "Mångsidig Gul Bakgrund för Innehåll",
+        "description": "Fördjupa din publik i en varm och inbjudande miljö med en helskärm gul display. Perfekt för att injicera energi och positivitet i ditt online-innehåll, virtuella klasser eller livestreams.",
+        "icon": "☀️"
+      },
+      {
+        "title": "Gul Skärm för Ögonkomfort",
+        "description": "Förbättra visuell komfort med en gultonad skärm. Använd vårt verktyg för att minska ögonbelastning från blått ljus, särskilt under nattlig surfning eller långa arbetspass.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Kreativ Mood Board Starter",
+        "description": "Kicka igång dina kreativa projekt med en gul mood board. Vår helskärm gul display kan hjälpa till att inspirera kreativt tänkande och designkoncept.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Test av Enhetsdisplay",
+        "description": "Testa färgprecisionen på din displayenhet med en helskärm gul utmatning. Det är ett praktiskt verktyg för finjustering av färginställningarna på skärmar, surfplattor eller smartphones.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "Interaktiv Undervisningshjälpmedel",
+        "description": "Använd en helskärm gul display som undervisningshjälpmedel i virtuella klassrum. Den kan tjäna som en engagerande bakgrund för att presentera läromaterial, markera information och dra studenternas uppmärksamhet.",
+        "icon": "📚"
+      },
+      {
+        "title": "gul skärm för att skapa stämning",
+        "description": "Jag gillar stämningen den ger.",
+        "icon": "💛"
+      },
+      {
+        "title": "gul skärm för att kopiera bild",
+        "description": "För att kopiera en bild som min klasskamrat ritade.",
+        "icon": "💻"
+      },
+      {
+        "title": "gul skärm för att skapa videor",
+        "description": "För att mina YouTube-videor blir bättre med en gul skärm och för att gröna skärmar är överskattade.",
+        "icon": "🌙"
+      },
+      {
+        "title": "gul skärm för online-samtal",
+        "description": "För att lägga till en gul glöd under möten.",
+        "icon": "💬"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Hur man använder gul skärm",
+    "subtitle": "Enkel guide för att få ut det mesta av vårt verktyg",
+    "steps": [
+      "Välj din föredragna färg från paletten",
+      "Klicka på 'Starta'-knappen för att öppna i helskärm",
+      "Använd F11 eller ESC för att lämna helskärmsläge",
+      "Ladda ner bilden i din föredragna upplösning"
+    ]
+  },
+  "info": {
+    "title": "Gul Skärm – Helskärmsbakgrundsverktyg",
+    "subtitle": "Den gula skärmen ger hög kontrast för synlighet och fokus, perfekt för skärmrengöring och stämningsförbättring",
+    "professionalTool": "Professionellt verktyg",
+    "downloadReady": "Nedladdning redo",
+    "downloadTitle": "Ladda ner Gul Skärm Bakgrund",
+    "downloadDescription": "Få högkvalitativa gula skärmar för dina professionella behov",
+    "hdTitle": "1920×1080 Gul Skärm Bakgrund",
+    "hdDescription": "Helskärm ljusgul bild för omgivningsbelysning, skärmrengöring och visuell stimulering",
+    "hdButton": "Ladda ner HD",
+    "fourKTitle": "4K Gul Skärm Bakgrund",
+    "fourKDescription": "Ultra HD gul bild för ljusstyrka, skärmkalibrering och kreativa projekt",
+    "fourKButton": "Ladda ner 4K",
+    "proTipBadge": "Pro-tips",
+    "proTipTitle": "Pro-tips",
+    "proTipDescription": "Använd den gula skärmen som en kreativ ljuskälla för varmtonade videor, eller för att energisera din arbetsplats under dagen."
+  },
+  "faq": {
+    "title": "Vanliga frågor",
+    "subtitle": "Svar på vanliga frågor om gul skärm",
+    "description": "Hitta svar på vanliga frågor om att använda vårt gula skärmverktyg för olika ändamål.",
+    "questions": [
+      {
+        "question": "Vad används ett Gul Skärmverktyg till?",
+        "answer": "Ett Gul Skärmverktyg visar en gul färg i helskärmsläge, vanligtvis använt för skärmtestning, ruh hali panolar, ögonkomfort, innehållsskapande och förbättring av visuell kreativitet."
+      },
+      {
+        "question": "Hur använder jag Gul Skärm för ögonkomfort?",
+        "answer": "Den Gula Skärmen minskar blått ljus exponering, vilket gör det lättare för dina ögon under nattsurfning eller långa arbetstimmar. Det hjälper till att minska ögonansträngning och förbättra visuell komfort."
+      },
+      {
+        "question": "Kan jag använda Gul Skärm för innehållsskapande?",
+        "answer": "Ja! Den Gula Skärmen är perfekt för att skapa varma, inbjudande bakgrunder för onlineinnehåll, virtuella klasser eller livestreams. Den lägger till energi och positivitet till ditt innehåll."
+      },
+      {
+        "question": "Varför använda Gul Skärm för skärmtestning?",
+        "answer": "Gul är en utmärkt färg för att testa skärmnoggrannhet och färgkalibrering. Det hjälper till att identifiera färgproblem och finjustera monitorinställningar för optimal visning."
+      },
+      {
+        "question": "Är Gul Skärm bra för kreativitet?",
+        "answer": "Ja, gul är associerat med kreativitet och optimism. En Gul Skärm kan inspirera kreativt tänkande och fungera som en ruh hali panel för designprojekt och konstnärligt arbete."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Tekniska specifikationer",
+    "subtitle": "Tekniska detaljer för vårt gula skärmverktyg",
+    "specs": [
+      {
+        "label": "Färg",
+        "value": "#FFFF00 (Ren gul)"
+      },
+      {
+        "label": "Upplösning",
+        "value": "Anpassar sig till alla skärmar"
+      },
+      {
+        "label": "Kompatibilitet",
+        "value": "Alla moderna webbläsare"
+      },
+      {
+        "label": "Fördelar",
+        "value": "Kreativitet och välbefinnande"
+      }
+    ]
+  }
+} 

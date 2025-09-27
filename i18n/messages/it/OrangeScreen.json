@@ -1,0 +1,167 @@
+{
+  "hero": {
+    "badge": "Strumento Schermo Arancione",
+    "title": "Schermo Arancione | Strumento Online",
+    "description": "Strumento schermo arancione gratuito e professionale per sfondi virtuali, terapia del sonno, progetti creativi e calibrazione display. Schermo arancione a schermo intero senza pubblicità, perfetto per video YouTube, riunioni online, presentazioni e creazione atmosfera calda. Funziona offline su tutti i dispositivi.",
+    "features": {
+      "noRegistration": "Nessuna registrazione",
+      "worksOffline": "Funziona offline",
+      "allDevices": "Tutti i dispositivi"
+    }
+  },
+  "keywords": "schermo arancione, sfondo arancione, schermo arancione online, colore arancione, calore, energia, accogliente",
+  "colorPicker": {
+    "title": "Scegli il tuo colore",
+    "custom": "Personalizzato",
+    "description": "Perfetto per combinare energia e calore in un'atmosfera accogliente",
+    "launchButton": "Avvia schermo arancione"
+  },
+  "colors": {
+    "Black": "Schermo Nero",
+    "White": "Schermo Bianco",
+    "Red": "Schermo Rosso",
+    "Blue": "Schermo Blu",
+    "Green": "Schermo Verde",
+    "Yellow": "Giallo",
+    "Purple": "Viola",
+    "Pink": "Rosa",
+    "Orange": "Arancione",
+    "Zoom Lighting": "Illuminazione Zoom"
+  },
+  "useCases": {
+    "title": "Le persone utilizzano lo schermo arancione per:",
+    "subtitle": "Scopri i diversi modi di utilizzare il nostro schermo arancione",
+    "description": "Il nostro strumento schermo arancione combina energia e calore per creare ambienti accoglienti e dinamici.",
+    "cases": [
+      {
+        "title": "Schermo Arancione a Tutto Schermo per Sfondi Virtuali",
+        "description": "Utilizza il nostro strumento per generare un vivace schermo arancione, perfetto come sfondo virtuale durante riunioni online, webinar o incontri virtuali. Un tocco di colore per vivacizzare le tue interazioni digitali.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "Schermo Arancione come Aiuto Calmante per il Sonno",
+        "description": "Beneficia degli effetti calmanti e rilassanti di un display arancione. Riduci la forte luce blu e crea un ambiente amico del sonno per navigare o leggere prima di andare a letto.",
+        "icon": "😴"
+      },
+      {
+        "title": "Ispirazione per Progetti Creativi con il Colore Arancione",
+        "description": "Stimola la creatività con un vibrante schermo arancione a tutto schermo. Ideale per ispirare progetti di design, arti e mestieri, o per avviare il tuo processo creativo.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Calibrazione del Display del Dispositivo con Schermo Arancione",
+        "description": "Verifica la resa cromatica dei tuoi display digitali con un'uscita arancione a tutto schermo. È uno strumento essenziale per coloro che cercano di ottimizzare le impostazioni del colore del dispositivo per la grafica o la modifica delle foto.",
+        "icon": "🔧"
+      },
+      {
+        "title": "Strumento Didattico Interattivo Arancione",
+        "description": "Utilizza un display arancione a tutto schermo come aiuto visivo dinamico per l'insegnamento. Il colore audace può evidenziare informazioni chiave, rendendo l'e-learning più coinvolgente ed efficace.",
+        "icon": "📚"
+      },
+      {
+        "title": "schermo arancione per creare un'atmosfera",
+        "description": "Mi piace l'atmosfera che l'arancione trasmette.",
+        "icon": "🌟"
+      },
+      {
+        "title": "schermo arancione per copiare un'immagine",
+        "description": "Per copiare un'immagine disegnata da un mio compagno di classe.",
+        "icon": "📋"
+      },
+      {
+        "title": "schermo arancione per realizzare video",
+        "description": "Perché i miei video su YouTube sono migliori con uno schermo arancione.",
+        "icon": "🎥"
+      },
+      {
+        "title": "schermo arancione per chiamate online",
+        "description": "Per aggiungere una luce arancione durante una riunione.",
+        "icon": "📞"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Come usare lo schermo arancione",
+    "subtitle": "Guida semplice per ottenere il massimo dal nostro strumento",
+    "steps": [
+      {
+        "title": "Aprire lo strumento",
+        "description": "Clicca sul pulsante per visualizzare lo schermo arancione a schermo intero"
+      },
+      {
+        "title": "Regolare l'intensità",
+        "description": "Regola la luminosità secondo l'effetto energizzante desiderato"
+      },
+      {
+        "title": "Godere dell'energia",
+        "description": "Lascia che il colore arancione stimoli la tua energia e creatività"
+      }
+    ]
+  },
+  "info": {
+    "title": "Schermo Arancione – Strumento Sfondo a Schermo Intero",
+    "subtitle": "Uno schermo arancione combina energia e calore, perfetto per creare un'atmosfera accogliente e dinamica",
+    "professionalTool": "Strumento Professionale",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Scarica Sfondo Schermo Arancione",
+    "downloadDescription": "Ottieni schermi arancioni di alta qualità per le tue esigenze professionali",
+    "hdTitle": "Sfondo Schermo Arancione 1920×1080",
+    "hdDescription": "Immagine arancione a schermo intero pura per combinare energia e calore, creando un'atmosfera accogliente",
+    "hdButton": "Scarica HD",
+    "fourKTitle": "Sfondo Schermo Arancione 4K",
+    "fourKDescription": "Immagine schermo arancione ultra HD per ambienti energici e presentazioni calorose",
+    "fourKButton": "Scarica 4K",
+    "proTipBadge": "Suggerimento Pro",
+    "proTipTitle": "Suggerimento Pro",
+    "proTipDescription": "L'arancione è ideale per presentazioni autunnali, eventi festivi e per creare un'atmosfera energica ma calorosa."
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "subtitle": "Risposte alle domande comuni sullo schermo arancione",
+    "description": "Scopri come utilizzare efficacemente il colore arancione per creare un'atmosfera calorosa ed energica.",
+    "questions": [
+      {
+        "question": "L'arancione migliora davvero l'umore?",
+        "answer": "Sì, l'arancione è associato alla gioia e può avere un effetto positivo sull'umore."
+      },
+      {
+        "question": "Posso usare lo schermo arancione per lavorare?",
+        "answer": "L'arancione può stimolare la creatività, ma usalo con moderazione per evitare l'affaticamento."
+      },
+      {
+        "question": "L'arancione influisce sull'appetito?",
+        "answer": "Sì, l'arancione è noto per stimolare l'appetito ed è spesso usato nella ristorazione."
+      },
+      {
+        "question": "Come usare l'arancione nell'arredamento?",
+        "answer": "Usa l'arancione a tocchi per dinamizzare uno spazio senza sovraccaricarlo."
+      },
+      {
+        "question": "Lo schermo arancione è sicuro per gli occhi?",
+        "answer": "Sì, l'arancione è generalmente considerato sicuro per gli occhi e può aiutare a ridurre l'affaticamento visivo."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specifiche tecniche",
+    "subtitle": "Dettagli tecnici del nostro strumento schermo arancione",
+    "specs": [
+      {
+        "label": "Colore",
+        "value": "#FFA500 (Arancione vivace)"
+      },
+      {
+        "label": "Risoluzione",
+        "value": "Si adatta a tutti gli schermi"
+      },
+      {
+        "label": "Compatibilità",
+        "value": "Tutti i browser moderni"
+      },
+      {
+        "label": "Effetto",
+        "value": "Energizzante e motivante"
+      }
+    ]
+  }
+} 

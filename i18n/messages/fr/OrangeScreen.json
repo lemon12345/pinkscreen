@@ -1,0 +1,166 @@
+{
+  "hero": {
+    "badge": "Outil Écran Orange",
+    "title": "Écran Orange | Outil en Ligne",
+    "description": "Utilisez un écran orange plein écran pour stimuler la créativité, effectuer des tests de saturation, ou créer une ambiance chaleureuse et énergique.",
+    "features": {
+      "noRegistration": "Aucune inscription",
+      "worksOffline": "Fonctionne hors ligne",
+      "allDevices": "Tous les appareils"
+    }
+  },
+  "keywords": "écran orange, fond orange, écran orange en ligne, couleur orange, chaleur, énergie, convivialité, écran orange plein écran",
+  "colorPicker": {
+    "title": "Choisissez votre couleur",
+    "custom": "Personnalisé",
+    "description": "Parfait pour combiner énergie et chaleur dans une ambiance accueillante",
+    "launchButton": "Lancer l'écran orange"
+  },
+  "interface": {
+    "livePreview": "Aperçu en Direct",
+    "chooseYourColor": "Choisissez Votre Couleur",
+    "clickForFullscreen": "Cliquer pour Plein Écran",
+    "current": "Actuel",
+    "perfectFor": "Parfait pour les tests de moniteur, l'éclairage photographique et les présentations",
+    "launchOrangeScreen": "Lancer l'Écran Orange"
+  },
+  "colors": {
+    "Black": "Écran Noir",
+    "White": "Écran Blanc",
+    "Red": "Écran Rouge",
+    "Blue": "Écran Bleu",
+    "Green": "Écran Vert",
+    "Yellow": "Écran Jaune",
+    "Purple": "Écran Violet",
+    "Pink": "Écran Rose",
+    "Orange": "Écran Orange",
+    "Zoom Lighting": "Zoom d'éclairage"
+  },
+  "useCases": {
+    "title": "Les gens utilisent l'écran orange pour:",
+    "subtitle": "Découvrez les différentes façons d'utiliser notre écran orange",
+    "description": "Notre outil d'écran orange combine énergie et chaleur pour créer des environnements accueillants et dynamiques.",
+    "cases": [
+      {
+        "title": "Arrière-plan Orange Plein Écran pour les Fond d'écran Virtuels",
+        "description": "Utilisez notre outil pour générer un écran orange vif, parfait pour les arrière-plans virtuels lors de réunions en ligne, webinaires ou rassemblements sociaux virtuels. Une touche de couleur pour animer vos interactions digitales.",
+        "icon": "video"
+      },
+      {
+        "title": "Écran Orange pour un Sommeil Réparateur",
+        "description": "Profitez des effets calmants et apaisants d'un affichage orange. Réduisez la lumière bleue agressive et créez un environnement propice au sommeil pour naviguer ou lire avant le coucher.",
+        "icon": "moon"
+      },
+      {
+        "title": "Inspiration pour les Projets Créatifs avec l'Orange",
+        "description": "Stimulez la créativité avec un affichage orange vibrant en plein écran. Idéal pour inspirer des projets de design, d'arts et de loisirs créatifs, ou pour lancer votre processus créatif.",
+        "icon": "palette"
+      },
+      {
+        "title": "Calibration d'Affichage de l'Appareil avec l'Écran Orange",
+        "description": "Vérifiez le rendu des couleurs de vos écrans numériques avec une sortie plein écran orange. C'est un outil essentiel pour ceux qui cherchent à ajuster les réglages de couleur de leur appareil pour la conception graphique ou l'édition de photos.",
+        "icon": "monitor"
+      },
+      {
+        "title": "Outil d'Apprentissage Orange Interactif",
+        "description": "Utilisez un affichage orange plein écran comme aide visuelle dynamique pour l'enseignement. La couleur audacieuse peut mettre en évidence des informations clés, rendant l'apprentissage en ligne plus engageant et impactant.",
+        "icon": "presentation"
+      },
+      {
+        "title": "Écran orange pour créer une ambiance",
+        "description": "J'aime l'ambiance que l'orange donne",
+        "icon": "sun"
+      },
+      {
+        "title": "Écran orange pour copier une image",
+        "description": "Pour copier une image que mon camarade de classe a dessinée",
+        "icon": "copy"
+      },
+      {
+        "title": "Écran orange pour faire des vidéos",
+        "description": "Parce que mes vidéos YouTube sont meilleures avec un écran orange",
+        "icon": "camera"
+      },
+      {
+        "title": "Écran orange pour les appels en ligne",
+        "description": "Pour ajouter une lueur orange pendant la réunion.",
+        "icon": "phone"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Comment utiliser l'écran orange",
+    "subtitle": "Guide simple pour tirer le meilleur parti de notre outil",
+    "steps": [
+      "Cliquez sur le bouton pour afficher l'écran orange en plein écran",
+      "Réglez la luminosité selon l'effet énergisant souhaité",
+      "Laissez la couleur orange stimuler votre énergie et votre créativité"
+    ]
+  },
+  "info": {
+    "title": "Écran Orange – Outil de Fond Plein Écran",
+    "subtitle": "Un écran orange combine énergie et chaleur, parfait pour créer une ambiance accueillante et dynamique",
+    "professionalTool": "Outil Professionnel",
+    "downloadReady": "Téléchargement Prêt",
+    "downloadTitle": "Télécharger Fond d'Écran Orange",
+    "downloadDescription": "Obtenez des écrans oranges haute qualité pour vos besoins professionnels",
+    "hdTitle": "Fond d'Écran Orange 1920×1080",
+    "hdDescription": "Image orange plein écran pure pour combiner énergie et chaleur, créant une ambiance accueillante",
+    "hdButton": "Télécharger HD",
+    "fourKTitle": "Fond d'Écran Orange 4K",
+    "fourKDescription": "Image d'écran orange ultra HD pour les environnements énergiques et les présentations chaleureuses",
+    "fourKButton": "Télécharger 4K",
+    "proTipBadge": "Conseil Pro",
+    "proTipTitle": "Conseil Pro",
+    "proTipDescription": "L'orange est idéal pour les présentations d'automne, les événements festifs et pour créer une atmosphère énergique mais chaleureuse."
+  },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "subtitle": "Réponses aux questions courantes sur l'écran orange",
+    "description": "Découvrez comment utiliser efficacement la couleur orange pour créer une atmosphère chaleureuse et énergique.",
+    "questions": [
+      {
+        "question": "L'orange améliore-t-il vraiment l'humeur ?",
+        "answer": "Oui, l'orange est associé à la joie et peut avoir un effet positif sur l'humeur."
+      },
+      {
+        "question": "Puis-je utiliser l'écran orange pour travailler ?",
+        "answer": "L'orange peut stimuler la créativité, mais utilisez-le avec modération pour éviter la fatigue."
+      },
+      {
+        "question": "L'orange affecte-t-il l'appétit ?",
+        "answer": "Oui, l'orange est connu pour stimuler l'appétit et est souvent utilisé en restauration."
+      },
+      {
+        "question": "Comment utiliser l'orange en décoration ?",
+        "answer": "Utilisez l'orange par touches pour dynamiser un espace sans le surcharger."
+      },
+      {
+        "question": "L'écran orange peut-il améliorer l'énergie ?",
+        "answer": "Oui, la couleur orange est reconnue pour stimuler l'énergie, la vitalité et l'enthousiasme."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Spécifications techniques",
+    "subtitle": "Détails techniques de notre outil d'écran orange",
+    "specs": [
+      {
+        "label": "Couleur",
+        "value": "#FFA500 (Orange vif)"
+      },
+      {
+        "label": "Résolution",
+        "value": "S'adapte à tous les écrans"
+      },
+      {
+        "label": "Compatibilité",
+        "value": "Tous les navigateurs modernes"
+      },
+      {
+        "label": "Effet",
+        "value": "Énergisant et motivant"
+      }
+    ]
+  }
+} 

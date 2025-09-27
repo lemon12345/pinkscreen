@@ -1,0 +1,172 @@
+{
+  "hero": {
+    "badge": "Ferramenta de Tela Vermelha",
+    "title": "Tela Vermelha | Ferramenta Online",
+    "description": "Use esta tela vermelha para testar contraste, foco visual, expressar energia ou criar impacto visual. Fundo vermelho puro e sem distrações.",
+    "features": {
+      "noRegistration": "Sem registo",
+      "worksOffline": "Funciona offline",
+      "allDevices": "Todos os dispositivos"
+    }
+  },
+  "keywords": "tela vermelha, fundo vermelho, tela vermelha online, cor vermelha, energia, dinamismo, tela vermelha cheia",
+  "colorPicker": {
+    "title": "Escolha sua cor",
+    "custom": "Personalizado",
+    "description": "Perfeito para estimular energia e criar atmosfera dinâmica",
+    "launchButton": "Iniciar tela vermelha"
+  },
+  "colors": {
+    "Black": "Tela Preta",
+    "White": "Tela Branca",
+    "Red": "Tela Vermelha",
+    "Blue": "Tela Azul",
+    "Green": "Tela Verde",
+    "Yellow": "Tela Amarela",
+    "Purple": "Tela Roxa",
+    "Pink": "Tela Rosa",
+    "Orange": "Tela Laranja",
+    "Zoom Lighting": "Iluminação para Zoom"
+  },
+  "interface": {
+    "livePreview": "Pré-visualização ao vivo",
+    "clickForFullscreen": "Clique para tela cheia",
+    "current": "Atual",
+    "chooseYourColor": "Escolha sua cor",
+    "perfectFor": "Perfeito para",
+    "launchRedScreen": "Iniciar Tela Vermelha"
+  },
+  "useCases": {
+    "title": "As pessoas usam a tela vermelha para:",
+    "subtitle": "Descubra as diferentes formas de usar nossa tela vermelha",
+    "description": "Nossa ferramenta de tela vermelha estimula energia e atenção para projetos criativos e apresentações impactantes.",
+    "cases": [
+      {
+        "title": "fazer tiktoks",
+        "description": "Porque eu tenho luzes LED azuis acesas e elas combinam perfeitamente, deixando meu rosto ou parte do meu rosto vermelho e deixando as luzes azuis para trás. Gostei da tela vermelha tbh, é legal fazer tiktoks ou curtir fotos e editá-las para dar um aspecto profissional.",
+        "icon": "📱"
+      },
+      {
+        "title": "para chamadas online",
+        "description": "Para correção de colorcast ao usar o Google Meets.",
+        "icon": "📞"
+      },
+      {
+        "title": "para preservar a visão noturna",
+        "description": "Não é difícil para os olhos, especialmente ao sair de uma área escura",
+        "icon": "🌙"
+      },
+      {
+        "title": "ler livro",
+        "description": "Para ler um livro com menos luz azul.",
+        "icon": "📖"
+      },
+      {
+        "title": "consertar projetor",
+        "description": "ajuda a consertar a pedra angular do projetor",
+        "icon": ""
+      },
+      {
+        "title": "pregar peças",
+        "description": "Para brincar com meus amigos e dizer que tenho L.E.Ds.",
+        "icon": "😄"
+      },
+      {
+        "title": "Tela Vermelha para Filme e Fotografia",
+        "description": "Utilize nossa tela vermelha para experimentar com filtros de cor e efeitos em filmes e fotografia. O fundo vermelho vibrante pode adicionar um toque dramático às suas composições.",
+        "icon": "🎬"
+      },
+      {
+        "title": "Tela Vermelha para Conforto e Saúde dos Olhos",
+        "description": "Nossa ferramenta de tela vermelha pode ser usada para diminuir o impacto da luz azul, ajudando no conforto e saúde dos olhos, particularmente em condições de pouca luz ou antes de dormir.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Tela Vermelha para Eventos Virtuais",
+        "description": "Faça seus eventos virtuais se destacarem com nossa ferramenta de tela vermelha. O vermelho vibrante pode criar uma atmosfera envolvente e energética para encontros online.",
+        "icon": "🎯"
+      },
+      {
+        "title": "Tela Vermelha para Design Gráfico",
+        "description": "Designers gráficos podem aproveitar nossa ferramenta de tela vermelha para criar designs ousados e impactantes. A cor vermelha pode evocar emoções fortes e chamar a atenção do espectador.",
+        "icon": "🎨"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Como usar a tela vermelha",
+    "subtitle": "Guia simples para aproveitar ao máximo nossa ferramenta",
+    "steps": [
+      "Escolha sua cor preferida da paleta",
+      "Clique no botão 'Iniciar' para abrir em tela cheia",
+      "Use F11 ou ESC para sair do modo tela cheia",
+      "Baixe a imagem na resolução de sua preferência"
+    ]
+  },
+  "info": {
+    "title": "Tela Vermelha – Ferramenta de Fundo de Tela Cheia",
+    "subtitle": "Uma tela vermelha pode estimular foco e agudeza mental, perfeita para teste de pixels e iluminação dramática",
+    "professionalTool": "Ferramenta Profissional",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Baixar Fundo de Tela Vermelha",
+    "downloadDescription": "Obtenha telas vermelhas de alta qualidade para suas necessidades profissionais",
+    "hdTitle": "Fundo de Tela Vermelha 1920×1080",
+    "hdDescription": "Imagem vermelha pura em tela cheia para teste de pixels, foco e iluminação de humor",
+    "hdButton": "Baixar HD",
+    "fourKTitle": "Fundo de Tela Vermelha 4K",
+    "fourKDescription": "Imagem vermelha ultra HD em tela cheia para iluminação ousada e diagnósticos visuais",
+    "fourKButton": "Baixar 4K",
+    "proTipBadge": "Dica Pro",
+    "proTipTitle": "Dica Pro",
+    "proTipDescription": "Use a tela vermelha em combinação com telas pretas ou brancas para alternar brilho para teste de contraste profundo."
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "subtitle": "Respostas para perguntas comuns sobre a tela vermelha",
+    "description": "Encontre respostas para perguntas comuns sobre o uso de nossa ferramenta de tela vermelha para vários propósitos.",
+    "questions": [
+      {
+        "question": "Por que a luz vermelha preserva a visão noturna?",
+        "answer": "A luz vermelha não afeta os bastonetes do olho responsáveis pela visão no escuro."
+      },
+      {
+        "question": "A tela vermelha pode ajudar com o sono?",
+        "answer": "Sim, a luz vermelha perturba menos a produção de melatonina que a luz azul."
+      },
+      {
+        "question": "Posso usar a tela vermelha para fotografia?",
+        "answer": "Absolutamente! Cria efeitos de iluminação dramáticos e artísticos."
+      },
+      {
+        "question": "A ferramenta funciona em dispositivos móveis?",
+        "answer": "Sim, a tela vermelha funciona perfeitamente em todos os dispositivos móveis."
+      },
+      {
+        "question": "A tela vermelha é boa para criatividade?",
+        "answer": "Sim, vermelho está associado à criatividade e otimismo. Uma tela vermelha pode inspirar o pensamento criativo e servir como uma placa de humor para projetos de design e trabalho artístico."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificações técnicas",
+    "subtitle": "Detalhes técnicos da nossa ferramenta de tela vermelha",
+    "specs": [
+      {
+        "label": "Cor",
+        "value": "#FF0000 (Vermelho puro)"
+      },
+      {
+        "label": "Resolução",
+        "value": "Adapta-se a todas as telas"
+      },
+      {
+        "label": "Compatibilidade",
+        "value": "Todos os navegadores modernos"
+      },
+      {
+        "label": "Aplicação especial",
+        "value": "Preserva visão noturna"
+      }
+    ]
+  }
+} 

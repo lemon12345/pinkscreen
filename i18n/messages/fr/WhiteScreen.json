@@ -1,0 +1,169 @@
+{
+  "hero": {
+    "badge": "Outil Écran Blanc",
+    "title": "Écran Blanc | Outil en Ligne",
+    "description": "Outil en ligne pour afficher une page blanche en plein écran. Utilisez-le comme source de lumière pour les appels de zoom ou pour tester le moniteur, pour copier des dessins, pour faire un flipbook, pour vous concentrer.",
+    "features": {
+      "noRegistration": "Aucune inscription",
+      "worksOffline": "Fonctionne hors ligne",
+      "allDevices": "Tous les appareils"
+    }
+  },
+  "keywords": "écran blanc, page blanche, écran blanc en ligne, nettoyage écran, test pixels, éclairage zoom, fond blanc, écran blanc plein écran, outil écran blanc, écran de nettoyage",
+  "colorPicker": {
+    "title": "Choisissez votre couleur",
+    "custom": "Personnalisé",
+    "description": "Parfait pour le nettoyage d'écran, les tests de pixels et l'amélioration de l'éclairage",
+    "launchButton": "Lancer l'écran blanc"
+  },
+  "interface": {
+    "livePreview": "Aperçu en Direct",
+    "chooseYourColor": "Choisissez Votre Couleur",
+    "clickForFullscreen": "Cliquer pour Plein Écran",
+    "current": "Actuel",
+    "perfectFor": "Parfait pour les tests de moniteur, l'éclairage photographique et les présentations",
+    "launchWhiteScreen": "Lancer l'Écran Blanc"
+  },
+  "colors": {
+    "Black": "Écran Noir",
+    "White": "Écran Blanc",
+    "Red": "Écran Rouge",
+    "Blue": "Écran Bleu",
+    "Green": "Écran Vert",
+    "Yellow": "Écran Jaune",
+    "Purple": "Écran Violet",
+    "Pink": "Écran Rose",
+    "Orange": "Écran Orange",
+    "Zoom Lighting": "Zoom d'éclairage"
+  },
+  "useCases": {
+    "title": "Les gens utilisent l'écran blanc pour:",
+    "subtitle": "Découvrez les différentes façons d'utiliser notre écran blanc",
+    "description": "Notre outil d'écran blanc sert de multiples objectifs professionnels et personnels dans diverses industries et scénarios.",
+    "cases": [
+      {
+        "title": "Écran blanc pour copier des dessins",
+        "description": "J'avais besoin d'avoir quelque chose de brillant sous un papier, pour pouvoir redessiner une image plus facilement.",
+        "icon": "draw"
+      },
+      {
+        "title": "Écran blanc comme source de lumière",
+        "description": "Éclairer le dos d'une lightbox pour la photographie de produits",
+        "icon": "lightbulb"
+      },
+      {
+        "title": "Écran blanc pour vérifier le moniteur",
+        "description": "Vérifiez votre moniteur et trouvez les pixels morts.",
+        "icon": "monitor"
+      },
+      {
+        "title": "Écran blanc à écran vide",
+        "description": "Vous ne voulez pas être dérangé ? Vous voulez prendre un frein ? Utilisez un écran blanc pour masquer votre écran.",
+        "icon": "eye-off"
+      },
+      {
+        "title": "Écran blanc comme lumière pour lire",
+        "description": "Pour avoir une source de lumière et pouvoir lire des livres quand il fait sombre dans la pièce et que l'interrupteur est trop loin.",
+        "icon": "book"
+      },
+      {
+        "title": "Écran blanc comme lumière pour se maquiller",
+        "description": "Comme une source de lumière vive pour se maquiller ou prendre des photos",
+        "icon": "user"
+      },
+      {
+        "title": "Écran blanc pour nettoyer le moniteur",
+        "description": "C'est idiot, mais je l'utilise pour nettoyer l'écran. Cela rend les choses évidentes à l'écran. :) Je l'utilise aussi pour valider la reproduction des couleurs unies pour différents écrans, mais cela n'apparaît que rarement et je ne regarde pas pour un étalonnage professionnel des couleurs.",
+        "icon": "monitor"
+      },
+      {
+        "title": "Écran blanc pour rechercher la poussière",
+        "description": "Fond d'écran cohérent pour nettoyer mon moniteur, et aussi pour vérifier les pixels morts/bloqués. Aussi parfois pour éclairer mon visage lorsque j'utilise une webcam.",
+        "icon": "search"
+      },
+      {
+        "title": "Écran blanc pour attraper les mouches",
+        "description": "J'attrapais des petites mouches car elles étaient attirées par l'écran blanc de mon écran",
+        "icon": "bug"
+      },
+      {
+        "title": "Écran blanc pour faire un flipbook",
+        "description": "Je travaille sur une séquence animée, et je le fais de manière traditionnelle (à la main), donc j'ai besoin d'une surface blanche avec de la lumière qui me permette de mettre une feuille de papier sur une autre et de pouvoir pour voir les deux, donc comme je n'ai pas d'écran professionnel pour ça, j'utilise mon ordinateur et je mets l'écran blanc dessus pour ne rien toucher par erreur",
+        "icon": "film"
+      },
+      {
+        "title": "Écran blanc pour se concentrer",
+        "description": "Pendant que j'étudie, j'utilise 2 écrans, un avec une minuterie et un pour rechercher tout ce dont j'ai besoin sur Internet. Lorsque je ne cherche pas, je mets l'écran blanc pour ne pas être distrait par quoi que ce soit sur le l'ordinateur",
+        "icon": "focus"
+      },
+      {
+        "title": "Écran blanc pour configurer les paramètres de votre moniteur",
+        "description": "Utile lors du réglage des paramètres de mon moniteur secondaire (puisqu'il est assez ancien, il ne se contente pas de définir les choses comme elles devraient être par défaut). Des paramètres tels que la position verticale/horizontale et l'échelle verticale/horizontale. Également utile lors de la recherche de pixels morts.",
+        "icon": "settings"
+      },
+      {
+        "title": "Écran blanc pour dessiner la nuit",
+        "description": "Si je dessine sur papier, je peux mettre du papier sur ma tablette graphique et voir ce que je dessine la nuit",
+        "icon": "moon"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "subtitle": "Réponses aux questions courantes sur l'écran blanc",
+    "description": "Trouvez des réponses aux questions courantes sur l'utilisation de notre outil d'écran blanc à diverses fins.",
+    "questions": [
+      {
+        "question": "L'écran blanc est-il gratuit ?",
+        "answer": "Oui, notre outil d'écran blanc est entièrement gratuit et sans publicité."
+      },
+      {
+        "question": "Puis-je utiliser l'écran blanc hors ligne ?",
+        "answer": "Une fois la page chargée, vous pouvez utiliser l'écran blanc même sans connexion internet."
+      },
+      {
+        "question": "L'écran blanc fonctionne-t-il sur mobile ?",
+        "answer": "Oui, notre outil est optimisé pour tous les appareils : ordinateurs, tablettes et smartphones."
+      },
+      {
+        "question": "Comment ajuster la luminosité ?",
+        "answer": "Utilisez les contrôles de luminosité de votre appareil pour ajuster l'intensité de l'écran blanc."
+      }
+    ]
+  },
+  "info": {
+    "title": "Écran Blanc – Outil Plein Écran",
+    "subtitle": "Un écran blanc révèle facilement la poussière et les taches pour un nettoyage facile, aide à détecter les pixels et améliore l'éclairage dans les pièces sombres",
+    "professionalTool": "Outil Professionnel",
+    "downloadReady": "Téléchargement Prêt",
+    "downloadTitle": "Télécharger Fond d'Écran Blanc",
+    "downloadDescription": "Obtenez des écrans blancs haute qualité pour vos besoins professionnels",
+    "hdTitle": "Fond d'Écran Blanc 1920×1080",
+    "hdDescription": "Image blanche plein écran pure pour le nettoyage d'écran, les tests de pixels morts et le confort visuel",
+    "hdButton": "Télécharger HD",
+    "fourKTitle": "Fond d'Écran Blanc 4K",
+    "fourKDescription": "Image d'écran blanc ultra HD pour l'amélioration de l'éclairage et les tests d'affichage",
+    "fourKButton": "Télécharger 4K",
+    "proTipBadge": "Conseil Pro",
+    "proTipTitle": "Conseil Pro",
+    "proTipDescription": "Utilisez l'écran blanc en combinaison avec des écrans noirs ou rouges pour tester la réponse de luminosité et de contraste de votre moniteur."
+  },
+  "howToUse": {
+    "title": "Comment utiliser",
+    "steps": [
+      "Choisissez votre couleur préférée dans la palette",
+      "Cliquez sur le bouton 'Lancer' pour ouvrir en plein écran",
+      "Utilisez F11 ou ESC pour quitter le mode plein écran",
+      "Téléchargez l'image dans votre résolution préférée"
+    ]
+  },
+  "techSpecs": {
+    "title": "Spécifications techniques",
+    "specs": [
+      "Résolution : Jusqu'à 8K (7680x4320)",
+      "Profondeur de couleur : RVB 24 bits",
+      "Format : Téléchargement PNG",
+      "Compatibilité : Tous les navigateurs modernes"
+    ]
+  }
+} 

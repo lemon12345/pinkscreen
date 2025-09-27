@@ -1,0 +1,167 @@
+{
+  "hero": {
+    "badge": "Orange Skärm Verktyg",
+    "title": "Orange Skärm | Onlineverktyg",
+    "description": "Orange skärm online för att stimulera energi, främja entusiasm och skapa varm atmosfär. Perfekt för motivation och kreativitet.",
+    "features": {
+      "noRegistration": "Ingen registrering",
+      "worksOffline": "Fungerar offline",
+      "allDevices": "Alla enheter"
+    }
+  },
+  "keywords": "orange skärm, orange bakgrund, orange skärm online, orange färg, värme, energi, vänlighet",
+  "colorPicker": {
+    "title": "Välj din färg",
+    "custom": "Anpassad",
+    "description": "Perfekt för att skapa varm och energisk atmosfär",
+    "launchButton": "Starta orange skärm"
+  },
+  "colors": {
+    "Black": "Svart Skärm",
+    "White": "Vit Skärm",
+    "Red": "Röd Skärm",
+    "Blue": "Blå Skärm",
+    "Green": "Grön Skärm",
+    "Yellow": "Gul Skärm",
+    "Purple": "Lila Skärm",
+    "Pink": "Rosa Skärm",
+    "Orange": "Orange Skärm",
+    "Zoom Lighting": "Zoom-belysning"
+  },
+  "interface": {
+    "livePreview": "Live-förhandsvisning",
+    "clickForFullscreen": "Klicka för helskärm",
+    "current": "Aktuell",
+    "chooseYourColor": "Välj din färg",
+    "perfectFor": "Perfekt för",
+    "launchOrangeScreen": "Starta Orange Skärm"
+  },
+  "useCases": {
+    "title": "Människor använder orange skärm för:",
+    "subtitle": "Upptäck de olika sätten att använda vår orange skärm",
+    "description": "Vårt orange skärmverktyg skapar en varm och välkomnande atmosfär för kreativa projekt.",
+    "cases": [
+      {
+        "title": "Fullskärm Orange för Virtuella Bakgrunder",
+        "description": "Använd vårt verktyg för att skapa en livlig orange skärm, perfekt för virtuella bakgrunder under online-möten, webbinarier eller virtuella sociala sammankomster. En färgklick för att pigga upp dina digitala interaktioner.",
+        "icon": "📹"
+      },
+      {
+        "title": "Orange Skärm som Lugnande Sömnstöd",
+        "description": "Utnyttja de lugnande effekterna av en orange skärm. Minska den hårda blåa belysningen och skapa en sömnvänlig miljö för surfning eller läsning innan läggdags.",
+        "icon": "😴"
+      },
+      {
+        "title": "Kreativ Projektinspiration med Orange",
+        "description": "Tänd kreativiteten med en livlig fullskärm orange skärm. Perfekt för att inspirera designprojekt, konst och hantverk eller starta din kreativa process.",
+        "icon": ""
+      },
+      {
+        "title": "Kalibrering av Enhetsskärm med Orange Skärm",
+        "description": "Verifiera färgåtergivningen på dina digitala skärmar med en orange fullskärm. Det är ett väsentligt verktyg för dem som vill finjustera sina enhetsfärginställningar för grafisk design eller fotoredigering.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "Interaktivt Orange Lärandeverktyg",
+        "description": "Använd en fullskärm orange skärm som en dynamisk visuell hjälpmedel för undervisning. Den djärva färgen kan markera viktig information och göra e-learning mer engagerande och effektivt.",
+        "icon": "📚"
+      },
+      {
+        "title": "orange skärm för att skapa stämning",
+        "description": "Jag gillar stämningen orange ger.",
+        "icon": ""
+      },
+      {
+        "title": "orange skärm för att kopiera bild",
+        "description": "För att kopiera en bild min klasskamrat ritade.",
+        "icon": "️"
+      },
+      {
+        "title": "orange skärm för att skapa videor",
+        "description": "För att mina YouTube-videor blir bättre med en orange skärm.",
+        "icon": "🎬"
+      },
+      {
+        "title": "orange skärm för online-samtal",
+        "description": "För att lägga till en orange glöd under mötet.",
+        "icon": ""
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Hur man använder orange skärm",
+    "subtitle": "Enkel guide för att få ut det mesta av vårt verktyg",
+    "steps": [
+      "Välj din föredragna färg från paletten",
+      "Klicka på 'Starta'-knappen för att öppna i helskärm",
+      "Använd F11 eller ESC för att lämna helskärmsläge",
+      "Ladda ner bilden i din föredragna upplösning"
+    ]
+  },
+  "info": {
+    "title": "Orange Skärm – Helskärmsbakgrundsverktyg",
+    "subtitle": "En orange skärm erbjuder en mysig glöd för videosamtal, avkoppling och kreativt arbete",
+    "professionalTool": "Professionellt verktyg",
+    "downloadReady": "Nedladdning redo",
+    "downloadTitle": "Ladda ner Orange Skärm Bakgrund",
+    "downloadDescription": "Få högkvalitativa orange skärmar för dina professionella behov",
+    "hdTitle": "1920×1080 Orange Skärm Bakgrund",
+    "hdDescription": "Helskärm orange bild för varm belysning, visuellt fokus och skärmdiagnostik",
+    "hdButton": "Ladda ner HD",
+    "fourKTitle": "4K Orange Skärm Bakgrund",
+    "fourKDescription": "Ultra HD orange skärm för omgivningsljus, skärmtestning och fotografering",
+    "fourKButton": "Ladda ner 4K",
+    "proTipBadge": "Pro-tips",
+    "proTipTitle": "Pro-tips",
+    "proTipDescription": "Växla till orange skärm på kvällen för ett mjukare ljus som är mindre troligt att störa sömnrytmer."
+  },
+  "faq": {
+    "title": "Vanliga frågor",
+    "subtitle": "Svar på vanliga frågor om orange skärm",
+    "description": "Hitta svar på vanliga frågor om att använda vårt orange skärmverktyg för olika ändamål.",
+    "questions": [
+      {
+        "question": "Vad används ett Orange Skärmverktyg till?",
+        "answer": "Ett Orange Skärmverktyg visar en orange färg i helskärmsläge, vanligtvis använt för skärmtestning, ruh hali panolar, ögonkomfort, innehållsskapande och förbättring av visuell kreativitet."
+      },
+      {
+        "question": "Hur använder jag Orange Skärm för ögonkomfort?",
+        "answer": "Den Orange Skärmen minskar blått ljus exponering, vilket gör det lättare för dina ögon under nattsurfning eller långa arbetstimmar. Det hjälper till att minska ögonansträngning och förbättra visuell komfort."
+      },
+      {
+        "question": "Kan jag använda Orange Skärm för innehållsskapande?",
+        "answer": "Ja! Den Orange Skärmen är perfekt för att skapa varma, inbjudande bakgrunder för onlineinnehåll, virtuella klasser eller livestreams. Den lägger till energi och positivitet till ditt innehåll."
+      },
+      {
+        "question": "Varför använda Orange Skärm för skärmtestning?",
+        "answer": "Orange är en utmärkt färg för att testa skärmnoggrannhet och färgkalibrering. Det hjälper till att identifiera färgproblem och finjustera monitorinställningar för optimal visning."
+      },
+      {
+        "question": "Är Orange Skärm bra för kreativitet?",
+        "answer": "Ja, orange är associerat med kreativitet och optimism. En Orange Skärm kan inspirera kreativt tänkande och fungera som en ruh hali panel för designprojekt och konstnärligt arbete."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Tekniska specifikationer",
+    "subtitle": "Tekniska detaljer för vårt orange skärmverktyg",
+    "specs": [
+      {
+        "label": "Färg",
+        "value": "#FFA500 (Livlig orange)"
+      },
+      {
+        "label": "Upplösning",
+        "value": "Anpassar sig till alla skärmar"
+      },
+      {
+        "label": "Kompatibilitet",
+        "value": "Alla moderna webbläsare"
+      },
+      {
+        "label": "Effekt",
+        "value": "Energisk och motiverande"
+      }
+    ]
+  }
+} 

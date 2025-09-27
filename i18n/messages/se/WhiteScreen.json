@@ -1,0 +1,202 @@
+{
+  "hero": {
+    "badge": "Vit Skärm Verktyg",
+    "title": "Vit Skärm | Onlineverktyg",
+    "description": "Onlineverktyg för att visa en vit helskärmsida. Använd som ljuskälla för Zoom-samtal eller för att testa skärmen, kopiera ritningar, skapa ett flipbook eller för att fokusera dig själv.",
+    "features": {
+      "noRegistration": "Ingen registrering",
+      "worksOffline": "Fungerar offline",
+      "allDevices": "Alla enheter"
+    }
+  },
+  "keywords": "vit skärm, vit sida, vit skärm online, skärmrengöring, pixeltest, zoom belysning, vit bakgrund",
+  "colorPicker": {
+    "title": "Välj din färg",
+    "custom": "Anpassad",
+    "description": "Perfekt för skärmrengöring, pixeltestning och belysningsförbättring",
+    "launchButton": "Starta vit skärm"
+  },
+  "colors": {
+    "Black": "Svart Skärm",
+    "White": "Vit Skärm",
+    "Red": "Röd Skärm",
+    "Blue": "Blå Skärm",
+    "Green": "Grön Skärm",
+    "Yellow": "Gul Skärm",
+    "Purple": "Lila Skärm",
+    "Pink": "Rosa Skärm",
+    "Orange": "Orange Skärm",
+    "Zoom Lighting": "Zoom-belysning"
+  },
+  "interface": {
+    "livePreview": "Live-förhandsvisning",
+    "clickForFullscreen": "Klicka för helskärm",
+    "current": "Aktuell",
+    "chooseYourColor": "Välj din färg",
+    "perfectFor": "Perfekt för",
+    "launchWhiteScreen": "Starta Vit Skärm"
+  },
+  "useCases": {
+    "title": "Människor använder vit skärm för:",
+    "subtitle": "Upptäck de olika sätten att använda vår vita skärm",
+    "description": "Vårt vita skärmverktyg tjänar flera professionella och personliga syften inom olika branscher och scenarier.",
+    "cases": [
+      {
+        "title": "vit skärm för att kopiera ritningar",
+        "description": "Jag behövde ha något ljust under ett papper så att jag lättare kunde rita av en bild.",
+        "icon": "📝"
+      },
+      {
+        "title": "vit skärm som ljuskälla",
+        "description": "Upplysa baksidan av en ljuslåda för produktfotografering.",
+        "icon": "💡"
+      },
+      {
+        "title": "vit skärm för att kontrollera monitor",
+        "description": "Kontrollera din monitor och hitta döda pixlar.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "vit skärm för att göra skärmen tom",
+        "description": "Vill du inte bli störd? Vill du ta en paus? Använd en vit skärm för att göra din skärm tom.",
+        "icon": "🚫"
+      },
+      {
+        "title": "vit skärm som ljus för att läsa",
+        "description": "För att få en ljuskälla och kunna läsa böcker när det är mörkt i rummet och ljusknappen är för långt borta.",
+        "icon": "📖"
+      },
+      {
+        "title": "vit skärm som ljus för att sminka sig",
+        "description": "Som en ljus ljuskälla för att sminka sig eller ta bilder.",
+        "icon": "💄"
+      },
+      {
+        "title": "vit skärm för att rengöra monitor",
+        "description": "Knasigt, men jag använder det för att rengöra skärmen. Det gör saker på skärmen uppenbara. :) Jag använder det också för att validera enfärgsreproduktion för olika skärmar, men det händer sällan och jag letar inte efter professionell färggradering.",
+        "icon": "🧽"
+      },
+      {
+        "title": "vit skärm för att leta efter damm",
+        "description": "Konsekvent bakgrund för att rengöra min monitor och även för att kontrollera döda/stuckna pixlar. Ibland också för att belysa mitt ansikte när jag använder en webbkamera.",
+        "icon": "🔍"
+      },
+      {
+        "title": "vit skärm för att fånga flugor",
+        "description": "Jag fångade små flugor eftersom de lockades av den vita skärmen på min display.",
+        "icon": "🪰"
+      },
+      {
+        "title": "vit skärm för att göra en flipbok",
+        "description": "Jag arbetar med en animerad sekvens och gör det på det traditionella sättet (för hand), så jag behöver en vit yta med ljus som gör att jag kan lägga ett papper över ett annat och kunna se båda. Eftersom jag inte har en professionell skärm för detta använder jag min dator och sätter den vita skärmen på den så att jag inte rör något av misstag.",
+        "icon": "📚"
+      },
+      {
+        "title": "vit skärm för att fokusera dig själv",
+        "description": "När jag studerar använder jag 2 skärmar, en med en timer och en för att söka efter vad jag behöver på internet. När jag inte söker sätter jag den vita skärmen så att jag inte blir distraherad av något på datorn.",
+        "icon": "🎯"
+      },
+      {
+        "title": "vit skärm för att konfigurera dina monitorinställningar",
+        "description": "Användbart när du justerar inställningar på min sekundära skärm (eftersom den är ganska gammal ställer den inte in saker som det borde vara som standard). Inställningar som vertikal/horisontell position och vertikal/horisontell skala. Även användbart när du letar efter döda pixlar.",
+        "icon": "⚙️"
+      },
+      {
+        "title": "vit skärm för att rita på natten",
+        "description": "Om jag ritar på papper kan jag lägga papper ovanpå min displayritplatta och se vad jag ritar på natten.",
+        "icon": "✏️"
+      },
+      {
+        "title": "Vit skärm för belysning",
+        "description": "Gör din skärm till en enkel och effektiv ljuskälla med vårt vit-skärm-verktyg. Perfekt för videosamtal eller fotografering där extra belysning behövs.",
+        "icon": "💡"
+      },
+      {
+        "title": "Vit skärm för visuell renhet",
+        "description": "Upplev en ren, lugn och avkopplande visuell miljö med vår helskärm vita display. Perfekt för avslappning, meditation eller fokusering på uppgifter utan visuella distraktioner.",
+        "icon": "✨"
+      },
+      {
+        "title": "Vit skärm för designarbete",
+        "description": "Använd vårt vit-skärm-verktyg som en tom duk för design, ritning eller kreativa aktiviteter. En tom vit skärm låter din kreativitet flöda obehindrat.",
+        "icon": "🎨"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Hur man använder vit skärm",
+    "subtitle": "Enkel guide för att få ut det mesta av vårt verktyg",
+    "steps": [
+      "Välj din föredragna färg från paletten",
+      "Klicka på 'Starta'-knappen för att öppna i helskärm",
+      "Använd F11 eller ESC för att lämna helskärmsläge",
+      "Ladda ner bilden i din föredragna upplösning"
+    ]
+  },
+  "info": {
+    "title": "Vit Skärm – Helskärmsbakgrundsverktyg",
+    "subtitle": "Ett rent, distraktionsfritt helskärmsvit skärmverktyg. Perfekt för att rengöra din monitor, testa pixlar, förbättra Zoom-belysning eller hjälpa dig att fokusera.",
+    "professionalTool": "Professionellt verktyg",
+    "downloadReady": "Nedladdning redo",
+    "downloadTitle": "Ladda ner Vit Bakgrund",
+    "downloadDescription": "Föredrar du en statisk vit bild? Använd en av våra högupplösta PNG:er:",
+    "hdTitle": "1920×1080 Vit Skärm Bakgrund",
+    "hdDescription": "Ren helskärm vit bild för rengöring, fokus och Zoom-belysning",
+    "hdButton": "Ladda ner HD",
+    "fourKTitle": "4K Vit Skärm Bakgrund",
+    "fourKDescription": "Ren helskärm vit skärmbild i ultra HD-upplösning för belysning, rengöring och pixeltestning",
+    "fourKButton": "Ladda ner 4K",
+    "proTipBadge": "Pro-tips",
+    "proTipTitle": "Pro-tips",
+    "proTipDescription": "Använd vit skärm under dina Zoom-samtal eller fotosessioner för mjuk belysning som lyser upp ditt ansikte jämnt!"
+  },
+  "faq": {
+    "title": "Vanliga frågor",
+    "subtitle": "Svar på vanliga frågor om vit skärm",
+    "description": "Hitta svar på vanliga frågor om vårt vita skärmverktyg och dess olika tillämpningar.",
+    "questions": [
+      {
+        "question": "Vad används ett vit skärmverktyg till?",
+        "answer": "Ett vit skärmverktyg visar en vit färg i helskärmsläge, vanligtvis använt för monitortestning, fotograferingsbelysning, läsning och skapande av en ren bakgrund för olika ändamål."
+      },
+      {
+        "question": "Hur använder jag vit skärm för monitortestning?",
+        "answer": "Den vita skärmen är perfekt för att upptäcka döda pixlar, dammfläckar och kontrollera monitorkalibrering. Starta helt enkelt den vita skärmen i helskärmsläge och undersök din display noggrant."
+      },
+      {
+        "question": "Kan jag använda vit skärm för fotografering?",
+        "answer": "Ja! Den vita skärmen är utmärkt för produktfotografering, skapande av en ren bakgrund och ger konsekvent belysning för dina foton."
+      },
+      {
+        "question": "Varför använda vit skärm för läsning?",
+        "answer": "Vitt ljus ger bra kontrast för läsning av text, vilket gör det lättare för dina ögon när du läser böcker eller dokument i svaga ljusförhållanden."
+      },
+      {
+        "question": "Är vit skärm bra för fokus?",
+        "answer": "Ja, en vit skärm kan hjälpa dig att fokusera genom att eliminera distraktioner. Den används vanligtvis av studenter och professionella som vill behålla koncentrationen medan de arbetar."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Tekniska specifikationer",
+    "subtitle": "Tekniska detaljer för vårt vita skärmverktyg",
+    "specs": [
+      {
+        "label": "Färg",
+        "value": "#FFFFFF (Ren vit)"
+      },
+      {
+        "label": "Upplösning",
+        "value": "Anpassar sig till alla skärmar"
+      },
+      {
+        "label": "Kompatibilitet",
+        "value": "Alla moderna webbläsare"
+      },
+      {
+        "label": "Prestanda",
+        "value": "Optimerad för låg förbrukning"
+      }
+    ]
+  }
+} 

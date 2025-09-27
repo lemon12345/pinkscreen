@@ -1,0 +1,161 @@
+{
+  "hero": {
+    "badge": "Narzędzie Zielonego Ekranu",
+    "title": "Zielony Ekran | Narzędzie Online",
+    "description": "Zielony ekran online do chroma key, zielonego tła, nakładania wideo i efektów specjalnych. Idealny dla twórców treści i filmowców.",
+    "features": {
+      "noRegistration": "Bez rejestracji",
+      "worksOffline": "Działa offline",
+      "allDevices": "Wszystkie urządzenia"
+    }
+  },
+  "keywords": "zielony ekran, chroma key, zielone tło, zielony ekran online, green screen, efekty specjalne, tworzenie wideo",
+  "colorPicker": {
+    "title": "Wybierz swój kolor",
+    "custom": "Niestandardowy",
+    "description": "Idealny do efektów chroma key i tworzenia treści wideo",
+    "launchButton": "Uruchom zielony ekran"
+  },
+  "colors": {
+    "Black": "Czarny",
+    "White": "Biały",
+    "Red": "Czerwony",
+    "Blue": "Niebieski",
+    "Green": "Zielony",
+    "Yellow": "Żółty",
+    "Purple": "Fioletowy",
+    "Pink": "Różowy",
+    "Orange": "Pomarańczowy",
+    "Zoom Lighting": "Oświetlenie Zoom"
+  },
+  "interface": {
+    "livePreview": "Podgląd na żywo",
+    "clickForFullscreen": "Kliknij, aby przejść na pełny ekran",
+    "current": "Aktualny",
+    "chooseYourColor": "Wybierz swój kolor",
+    "perfectFor": "Idealny do",
+    "launchGreenScreen": "Uruchom Zielony Ekran"
+  },
+  "useCases": {
+    "title": "Ludzie używają zielonego ekranu do:",
+    "subtitle": "Odkryj różne sposoby korzystania z naszego zielonego ekranu",
+    "description": "Nasze narzędzie zielonego ekranu jest niezbędne do tworzenia treści, efektów specjalnych i profesjonalnych produkcji wideo.",
+    "cases": [
+      {
+        "title": "Zielony ekran do tworzenia treści wideo",
+        "description": "Wykorzystaj nasz pełnoekranowy zielony wyświetlacz do tworzenia profesjonalnych filmów. Zielony ekran idealnie nadaje się do efektów wideo i edycji postprodukcji.",
+        "icon": "🎬"
+      },
+      {
+        "title": "Kojące wrażenia wizualne z zielonym wyświetlaczem",
+        "description": "Użyj naszego narzędzia do zielonego ekranu, aby stworzyć kojące środowisko wizualne. Uspokajające odcienie zieleni mogą pomóc zredukować zmęczenie oczu i promować relaksację.",
+        "icon": "😌"
+      },
+      {
+        "title": "Zielony ekran dla immersyjnego doświadczenia w grach",
+        "description": "Zwiększ swoje doświadczenie w grach dzięki naszemu pełnoekranowemu zielonemu wyświetlaczowi. Może służyć jako dynamiczne tło dla bardziej immersyjnego środowiska gier.",
+        "icon": "🎮"
+      },
+      {
+        "title": "Zielony ekran do wirtualnych spotkań",
+        "description": "Wykorzystaj nasze narzędzie do zielonego ekranu, aby dodać profesjonalne tła podczas wirtualnych spotkań. Może znacznie poprawić jakość Twoich wideorozmów.",
+        "icon": "💻"
+      },
+      {
+        "title": "Zielony ekran jako pomoc dydaktyczna",
+        "description": "Nauczyciele mogą używać naszego narzędzia do zielonego ekranu, aby uczynić nauczanie online bardziej interaktywnym i angażującym. To świetny sposób na wizualne wyjaśnienie skomplikowanych koncepcji.",
+        "icon": "📚"
+      },
+      {
+        "title": "zielony ekran do photoshopa",
+        "description": "Photoshopuj się w moim pokoju, aby kiedy go zdejmę i nadal będę w swoim pokoju, ludzie byli jak wow przez kilka sekund, co mnie uszczęśliwia, ponieważ w pewien sposób jestem czynnikiem wow tych kilku sekund ich życia.",
+        "icon": "🎨"
+      },
+      {
+        "title": "zielony ekran do relaksu",
+        "description": "W sytuacji klasowej, podczas przerw w pracy na komputerze i słuchania innych. Zielony, ponieważ jest to najbardziej relaksujący kolor. Jest to po prostu cichy, nieruchomy zielony kolor, kolor drzew i trawy. Dzięki temu ekran emituje trochę zielonego, relaksującego światła podczas przerw w pracy na komputerze.",
+        "icon": "🌿"
+      },
+      {
+        "title": "zielony ekran do rozmów online",
+        "description": "Do dodania zielonego blasku podczas spotkań.",
+        "icon": "💚"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Jak korzystać z zielonego ekranu",
+    "subtitle": "Prosty przewodnik, jak najlepiej wykorzystać nasze narzędzie",
+    "steps": [
+      "Otwórz zielony ekran",
+      "Skonfiguruj oświetlenie",
+      "Nagrywaj"
+    ]
+  },
+  "info": {
+    "title": "Zielony Ekran – Narzędzie Tła Pełnoekranowego",
+    "subtitle": "Zielony ekran jest idealny do efektów chroma key, tworzenia treści i profesjonalnych tła wirtualnych",
+    "professionalTool": "Narzędzie Profesjonalne",
+    "downloadReady": "Pobieranie Gotowe",
+    "downloadTitle": "Pobierz Tło Zielonego Ekranu",
+    "downloadDescription": "Uzyskaj wysokiej jakości zielone ekrany dla swoich potrzeb zawodowych",
+    "hdTitle": "Tło Zielonego Ekranu 1920×1080",
+    "hdDescription": "Czysto zielony obraz pełnoekranowy dla efektów chroma key, tworzenia treści i tła wirtualnych",
+    "hdButton": "Pobierz HD",
+    "fourKTitle": "Tło Zielonego Ekranu 4K",
+    "fourKDescription": "Ultra HD zielony ekran dla profesjonalnych produkcji wideo i efektów specjalnych",
+    "fourKButton": "Pobierz 4K",
+    "proTipBadge": "Wskazówka Pro",
+    "proTipTitle": "Wskazówka Pro",
+    "proTipDescription": "Dla najlepszych rezultatów chroma key upewnij się, że masz równomierne oświetlenie i unikaj cieni na zielonym ekranie."
+  },
+  "faq": {
+    "title": "Często zadawane pytania",
+    "subtitle": "Odpowiedzi na częste pytania o zielony ekran",
+    "description": "Znajdź odpowiedzi na często zadawane pytania dotyczące korzystania z naszego narzędzia zielonego ekranu do różnych celów.",
+    "questions": [
+      {
+        "question": "Co to jest chroma key?",
+        "answer": "Chroma key to technika pozwalająca na zastąpienie określonego koloru (zwykle zielonego) innym obrazem lub wideo."
+      },
+      {
+        "question": "Dlaczego używać zielonego?",
+        "answer": "Zielony rzadko występuje w odcieniach skóry ludzkiej, co ułatwia separację podczas nakładania."
+      },
+      {
+        "question": "Jakiego oprogramowania użyć do chroma key?",
+        "answer": "OBS Studio, Adobe Premiere, Final Cut Pro, lub nawet aplikacje mobilne jak KineMaster."
+      },
+      {
+        "question": "Jak uzyskać dobre oświetlenie?",
+        "answer": "Użyj równomiernego oświetlenia i unikaj cieni na zielonym ekranie dla lepszego rezultatu."
+      },
+      {
+        "question": "Czy zielony ekran jest bezpieczny dla oczu?",
+        "answer": "Tak, zielony ekran jest ogólnie uważany za bezpieczny dla oczu i może pomóc zmniejszyć zmęczenie oczu."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specyfikacje techniczne",
+    "subtitle": "Szczegóły techniczne naszego narzędzia zielonego ekranu",
+    "specs": [
+      {
+        "label": "Kolor",
+        "value": "#00FF00 (Zielony chroma)"
+      },
+      {
+        "label": "Rozdzielczość",
+        "value": "Dostosowuje się do wszystkich ekranów"
+      },
+      {
+        "label": "Kompatybilność",
+        "value": "Wszystkie nowoczesne przeglądarki"
+      },
+      {
+        "label": "Zastosowanie",
+        "value": "Profesjonalny chroma key"
+      }
+    ]
+  }
+} 

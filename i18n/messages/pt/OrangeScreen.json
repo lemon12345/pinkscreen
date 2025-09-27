@@ -1,0 +1,167 @@
+{
+  "hero": {
+    "badge": "Ferramenta de Tela Laranja",
+    "title": "Tela Laranja | Ferramenta Online",
+    "description": "Use uma tela laranja vibrante para foco visual, destaque energético ou iluminação criativa. Fundo laranja sólido em tela cheia, sem distrações.",
+    "features": {
+      "noRegistration": "Sem registo",
+      "worksOffline": "Funciona offline",
+      "allDevices": "Todos os dispositivos"
+    }
+  },
+  "keywords": "tela laranja, fundo laranja, tela laranja online, cor laranja, calor, energia, cordialidade",
+  "colorPicker": {
+    "title": "Escolha sua cor",
+    "custom": "Personalizado",
+    "description": "Perfeito para criar atmosfera calorosa e energética",
+    "launchButton": "Iniciar tela laranja"
+  },
+  "colors": {
+    "Black": "Tela Preta",
+    "White": "Tela Branca",
+    "Red": "Tela Vermelha",
+    "Blue": "Tela Azul",
+    "Green": "Tela Verde",
+    "Yellow": "Tela Amarela",
+    "Purple": "Tela Roxa",
+    "Pink": "Tela Rosa",
+    "Orange": "Tela Laranja",
+    "Zoom Lighting": "Iluminação para Zoom"
+  },
+  "interface": {
+    "livePreview": "Pré-visualização ao vivo",
+    "clickForFullscreen": "Clique para tela cheia",
+    "current": "Atual",
+    "chooseYourColor": "Escolha sua cor",
+    "perfectFor": "Perfeito para",
+    "launchOrangeScreen": "Iniciar Tela Laranja"
+  },
+  "useCases": {
+    "title": "As pessoas usam a tela laranja para:",
+    "subtitle": "Descubra as diferentes formas de usar nossa tela laranja",
+    "description": "Nossa ferramenta de tela laranja cria uma atmosfera calorosa e acolhedora para projetos criativos.",
+    "cases": [
+      {
+        "title": "Tela Laranja em Tela Cheia para Fundos Virtuais",
+        "description": "Use nossa ferramenta para gerar uma tela laranja vibrante, perfeita para fundos virtuais durante reuniões online, webinars ou encontros sociais virtuais. Um toque de cor para animar suas interações digitais.",
+        "icon": "📹"
+      },
+      {
+        "title": "Tela Laranja como Auxílio Calmante para o Sono",
+        "description": "Beneficie-se dos efeitos calmantes e relaxantes de uma exibição laranja. Reduza a intensa luz azul e crie um ambiente amigável ao sono para navegação ou leitura antes de dormir.",
+        "icon": "😴"
+      },
+      {
+        "title": "Inspiração para Projetos Criativos com Laranja",
+        "description": "Desperte a criatividade com uma tela laranja vibrante em tela cheia. Ideal para inspirar projetos de design, artes e ofícios ou dar início ao seu processo criativo.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Calibração de Tela do Dispositivo com Tela Laranja",
+        "description": "Verifique a renderização de cores de seus displays digitais com uma saída laranja em tela cheia. É uma ferramenta essencial para aqueles que buscam ajustar as configurações de cor de seus dispositivos para design gráfico ou edição de fotos.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "Ferramenta de Aprendizado Laranja Interativa",
+        "description": "Utilize uma tela laranja em tela cheia como um auxílio visual dinâmico para o ensino. A cor ousada pode destacar informações chave, tornando o e-learning mais envolvente e impactante.",
+        "icon": "📚"
+      },
+      {
+        "title": "tela laranja para criar uma vibe",
+        "description": "Gosto da vibe que a cor laranja proporciona",
+        "icon": "🎨"
+      },
+      {
+        "title": "tela laranja para copiar imagem",
+        "description": "Para copiar uma imagem que meu colega desenhou",
+        "icon": "📸"
+      },
+      {
+        "title": "tela laranja para fazer vídeos",
+        "description": "Porque meus vídeos do YouTube são melhores com uma tela laranja",
+        "icon": "🎬"
+      },
+      {
+        "title": "tela laranja para chamadas online",
+        "description": "Para adicionar um brilho laranja durante a reunião.",
+        "icon": "💻"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Como usar a tela laranja",
+    "subtitle": "Guia simples para aproveitar ao máximo nossa ferramenta",
+    "steps": [
+      "Escolha sua cor preferida da paleta",
+      "Clique no botão 'Iniciar' para abrir em tela cheia",
+      "Use F11 ou ESC para sair do modo tela cheia",
+      "Baixe a imagem na resolução de sua preferência"
+    ]
+  },
+  "info": {
+    "title": "Tela Laranja – Ferramenta de Fundo de Tela Cheia",
+    "subtitle": "Uma tela laranja oferece um brilho aconchegante para chamadas de vídeo, relaxamento e trabalho criativo",
+    "professionalTool": "Ferramenta Profissional",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Baixar Fundo de Tela Laranja",
+    "downloadDescription": "Obtenha telas laranjas de alta qualidade para suas necessidades profissionais",
+    "hdTitle": "Fundo de Tela Laranja 1920×1080",
+    "hdDescription": "Imagem laranja em tela cheia para iluminação quente, foco visual e diagnóstico de display",
+    "hdButton": "Baixar HD",
+    "fourKTitle": "Fundo de Tela Laranja 4K",
+    "fourKDescription": "Tela laranja Ultra HD para luz ambiente, teste de tela e fotografia",
+    "fourKButton": "Baixar 4K",
+    "proTipBadge": "Dica Pro",
+    "proTipTitle": "Dica Pro",
+    "proTipDescription": "Mude para tela laranja à noite para uma luz mais suave que é menos provável de perturbar os ritmos do sono."
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "subtitle": "Respostas para perguntas comuns sobre a tela laranja",
+    "description": "Encontre respostas para perguntas comuns sobre o uso de nossa ferramenta de tela laranja para vários propósitos.",
+    "questions": [
+      {
+        "question": "Para que é usada uma ferramenta de Tela Laranja?",
+        "answer": "Uma ferramenta de Tela Laranja exibe uma cor laranja em modo tela cheia, comumente usada para teste de tela, painéis de humor, conforto ocular, criação de conteúdo e aprimoramento da criatividade visual."
+      },
+      {
+        "question": "Como usar a Tela Laranja para conforto ocular?",
+        "answer": "A Tela Laranja reduz a exposição à luz azul, tornando mais fácil para seus olhos durante a navegação noturna ou longas horas de trabalho. Ajuda a reduzir a tensão ocular e melhorar o conforto visual."
+      },
+      {
+        "question": "Posso usar a Tela Laranja para criação de conteúdo?",
+        "answer": "Sim! A Tela Laranja é perfeita para criar fundos quentes e convidativos para conteúdo online, aulas virtuais ou transmissões ao vivo. Adiciona energia e positividade ao seu conteúdo."
+      },
+      {
+        "question": "Por que usar a Tela Laranja para teste de tela?",
+        "answer": "O laranja é uma excelente cor para testar a precisão do display e calibração de cores. Ajuda a identificar problemas de cor e ajustar configurações do monitor para visualização ideal."
+      },
+      {
+        "question": "A Tela Laranja é boa para criatividade?",
+        "answer": "Sim, o laranja está associado à criatividade e otimismo. Uma Tela Laranja pode inspirar o pensamento criativo e servir como uma placa de humor para projetos de design e trabalho artístico."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificações técnicas",
+    "subtitle": "Detalhes técnicos da nossa ferramenta de tela laranja",
+    "specs": [
+      {
+        "label": "Cor",
+        "value": "#FFA500 (Laranja vibrante)"
+      },
+      {
+        "label": "Resolução",
+        "value": "Adapta-se a todas as telas"
+      },
+      {
+        "label": "Compatibilidade",
+        "value": "Todos os navegadores modernos"
+      },
+      {
+        "label": "Efeito",
+        "value": "Energético e motivador"
+      }
+    ]
+  }
+} 

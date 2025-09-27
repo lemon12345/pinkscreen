@@ -1,0 +1,175 @@
+{
+  "hero": {
+    "badge": "Narzędzie Pomarańczowego Ekranu",
+    "title": "Pomarańczowy Ekran | Narzędzie Online",
+    "description": "Pomarańczowy ekran online do stymulowania energii, promowania entuzjazmu i tworzenia ciepłej atmosfery. Idealny do motywacji i kreatywności.",
+    "features": {
+      "noRegistration": "Bez rejestracji",
+      "worksOffline": "Działa offline",
+      "allDevices": "Wszystkie urządzenia"
+    }
+  },
+  "keywords": "pomarańczowy ekran, pomarańczowe tło, pomarańczowy ekran online, kolor pomarańczowy, ciepło, energia, przyjazność",
+  "colorPicker": {
+    "title": "Wybierz swój kolor",
+    "custom": "Niestandardowy",
+    "description": "Idealny do tworzenia ciepłej i energetycznej atmosfery",
+    "launchButton": "Uruchom pomarańczowy ekran"
+  },
+  "colors": {
+    "Black": "Czarny",
+    "White": "Biały",
+    "Red": "Czerwony",
+    "Blue": "Niebieski",
+    "Green": "Zielony",
+    "Yellow": "Żółty",
+    "Purple": "Fioletowy",
+    "Pink": "Różowy",
+    "Orange": "Pomarańczowy",
+    "Zoom Lighting": "Oświetlenie Zoom"
+  },
+  "interface": {
+    "livePreview": "Podgląd na żywo",
+    "clickForFullscreen": "Kliknij, aby przejść na pełny ekran",
+    "current": "Aktualny",
+    "chooseYourColor": "Wybierz swój kolor",
+    "perfectFor": "Idealny do",
+    "launchOrangeScreen": "Uruchom Pomarańczowy Ekran"
+  },
+  "useCases": {
+    "title": "Ludzie używają pomarańczowego ekranu do:",
+    "subtitle": "Odkryj różne sposoby korzystania z naszego pomarańczowego ekranu",
+    "description": "Nasze narzędzie pomarańczowego ekranu tworzy ciepłą i przyjazną atmosferę dla kreatywnych projektów.",
+    "cases": [
+      {
+        "title": "Pełnoekranowy pomarańczowy na wirtualne tła",
+        "description": "Użyj naszego narzędzia, aby wygenerować żywy ekran w kolorze pomarańczowym, idealny na wirtualne tła podczas spotkań online, webinarów czy wirtualnych spotkań towarzyskich. Iskra koloru, która ożywi Twoje cyfrowe interakcje.",
+        "icon": "📹"
+      },
+      {
+        "title": "Pomarańczowy ekran dla spokojnego snu",
+        "description": "Korzystaj z uspokajających i relaksujących efektów wyświetlacza w kolorze pomarańczowym. Zmniejsz ostre niebieskie światło i stwórz przyjazne środowisko do przeglądania lub czytania przed snem.",
+        "icon": "😴"
+      },
+      {
+        "title": "Inspiracja do kreatywnych projektów z kolorem pomarańczowym",
+        "description": "Wzbudź kreatywność żywym pełnoekranowym wyświetlaczem pomarańczowym. Idealne do inspiracji projektów projektowych, rękodzieła lub rozpoczęcia procesu twórczego.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Kalibracja wyświetlacza urządzenia z pomarańczowym ekranem",
+        "description": "Sprawdź renderowanie kolorów swoich cyfrowych wyświetlaczy przy pomocy pełnoekranowego wyjścia w kolorze pomarańczowym. To niezbędne narzędzie dla osób chcących dostroić ustawienia kolorów swojego urządzenia do projektowania graficznego czy edycji zdjęć.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "Interaktywne narzędzie do nauki w kolorze pomarańczowym",
+        "description": "Wykorzystaj pełnoekranowy wyświetlacz pomarańczowy jako dynamiczną pomoc wizualną do nauczania. Odważny kolor może podkreślić kluczowe informacje, czyniąc e-learning bardziej angażującym i skutecznym.",
+        "icon": "📚"
+      },
+      {
+        "title": "pomarańczowy ekran dla atmosfery",
+        "description": "Podoba mi się atmosfera, jaką daje kolor pomarańczowy",
+        "icon": "🧡"
+      },
+      {
+        "title": "pomarańczowy ekran do kopiowania obrazu",
+        "description": "Aby skopiować obraz, który narysował mój kolega z klasy",
+        "icon": "🖼️"
+      },
+      {
+        "title": "pomarańczowy ekran do tworzenia filmów",
+        "description": "Ponieważ moje filmy na YouTube są lepsze z pomarańczowym ekranem",
+        "icon": "🎬"
+      },
+      {
+        "title": "pomarańczowy ekran na rozmowy online",
+        "description": "Aby dodać pomarańczowy blask podczas spotkania",
+        "icon": "💻"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Jak korzystać z pomarańczowego ekranu",
+    "subtitle": "Prosty przewodnik, jak najlepiej wykorzystać nasze narzędzie",
+    "steps": [
+      {
+        "title": "Otwórz narzędzie",
+        "description": "Kliknij przycisk, aby wyświetlić pomarańczowy ekran w trybie pełnoekranowym"
+      },
+      {
+        "title": "Dostosuj intensywność",
+        "description": "Dostosuj jasność zgodnie z pożądanym efektem energetycznym"
+      },
+      {
+        "title": "Ciesz się energią",
+        "description": "Pozwól pomarańczowemu kolorowi stymulować swoją energię i kreatywność"
+      }
+    ]
+  },
+  "info": {
+    "title": "Pomarańczowy Ekran – Narzędzie Tła Pełnoekranowego",
+    "subtitle": "Pomarańczowy ekran łączy energię i ciepło, idealny do tworzenia przyjaznej i dynamicznej atmosfery",
+    "professionalTool": "Narzędzie Profesjonalne",
+    "downloadReady": "Pobieranie Gotowe",
+    "downloadTitle": "Pobierz Tło Pomarańczowego Ekranu",
+    "downloadDescription": "Uzyskaj wysokiej jakości pomarańczowe ekrany dla swoich potrzeb zawodowych",
+    "hdTitle": "Tło Pomarańczowego Ekranu 1920×1080",
+    "hdDescription": "Czysto pomarańczowy obraz pełnoekranowy do łączenia energii i ciepła, tworzenia przyjaznej atmosfery",
+    "hdButton": "Pobierz HD",
+    "fourKTitle": "Tło Pomarańczowego Ekranu 4K",
+    "fourKDescription": "Ultra HD pomarańczowy ekran dla energicznych środowisk i ciepłych prezentacji",
+    "fourKButton": "Pobierz 4K",
+    "proTipBadge": "Wskazówka Pro",
+    "proTipTitle": "Wskazówka Pro",
+    "proTipDescription": "Pomarańczowy jest idealny na jesienne prezentacje, wydarzenia świąteczne i tworzenie energicznej, ale ciepłej atmosfery."
+  },
+  "faq": {
+    "title": "Często zadawane pytania",
+    "subtitle": "Odpowiedzi na częste pytania o pomarańczowy ekran",
+    "description": "Znajdź odpowiedzi na często zadawane pytania dotyczące korzystania z naszego narzędzia pomarańczowego ekranu do różnych celów.",
+    "questions": [
+      {
+        "question": "Czy pomarańczowy naprawdę poprawia nastrój?",
+        "answer": "Tak, pomarańczowy kojarzy się z radością i może mieć pozytywny wpływ na nastrój."
+      },
+      {
+        "question": "Czy mogę używać pomarańczowego ekranu do pracy?",
+        "answer": "Pomarańczowy może stymulować kreatywność, ale używaj go z umiarem, aby uniknąć zmęczenia."
+      },
+      {
+        "question": "Czy pomarańczowy wpływa na apetyt?",
+        "answer": "Tak, pomarańczowy jest znany ze stymulowania apetytu i często używany w restauracjach."
+      },
+      {
+        "question": "Jak używać pomarańczowego w dekoracji?",
+        "answer": "Używaj pomarańczowego punktowo, aby ożywić przestrzeń bez przytłaczania."
+      },
+      {
+        "question": "Czy pomarańczowy ekran jest dobry dla kreatywności?",
+        "answer": "Tak, pomarańczowy jest związany z kreatywnością i optymizmem. Pomarańczowy ekran może inspirować kreatywne myślenie i służyć jako tablica nastrojów dla projektów projektowych i pracy artystycznej."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specyfikacje techniczne",
+    "subtitle": "Szczegóły techniczne naszego narzędzia pomarańczowego ekranu",
+    "specs": [
+      {
+        "label": "Kolor",
+        "value": "#FFA500 (Żywy pomarańczowy)"
+      },
+      {
+        "label": "Rozdzielczość",
+        "value": "Dostosowuje się do wszystkich ekranów"
+      },
+      {
+        "label": "Kompatybilność",
+        "value": "Wszystkie nowoczesne przeglądarki"
+      },
+      {
+        "label": "Efekt",
+        "value": "Energetyczny i motywujący"
+      }
+    ]
+  }
+} 

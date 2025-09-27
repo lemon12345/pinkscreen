@@ -1,0 +1,183 @@
+{
+  "hero": {
+    "badge": "Alat Skrin Putih",
+    "title": "Skrin Putih | Alat Dalam Talian",
+    "description": "Alat dalam talian untuk menunjukkan halaman skrin penuh putih. Gunakan sebagai sumber cahaya untuk panggilan zoom atau untuk menguji monitor, menyalin gambar, membuat buku flip, untuk memfokuskan diri.",
+    "features": {
+      "noRegistration": "Tiada pendaftaran",
+      "worksOffline": "Berfungsi luar talian",
+      "allDevices": "Semua peranti"
+    }
+  },
+  "keywords": "skrin putih, halaman putih, skrin putih dalam talian, pembersihan skrin, ujian piksel, pencahayaan zoom, latar belakang putih, skrin putih skrin penuh",
+  "colorPicker": {
+    "title": "Pilih warna anda",
+    "custom": "Tersuai",
+    "description": "Sempurna untuk pembersihan skrin dan ujian piksel",
+    "perfectFor": "Sempurna untuk"
+  },
+  "colors": {
+    "Black": "Hitam",
+    "White": "Putih",
+    "Red": "Merah",
+    "Blue": "Biru",
+    "Green": "Hijau",
+    "Yellow": "Kuning",
+    "Purple": "Ungu",
+    "Pink": "Merah Jambu",
+    "Orange": "Oren",
+    "Zoom Lighting": "Pencahayaan Zoom"
+  },
+  "interface": {
+    "livePreview": "Pratonton langsung",
+    "clickForFullscreen": "Klik untuk skrin penuh",
+    "current": "Semasa",
+    "chooseYourColor": "Pilih warna anda",
+    "perfectFor": "Sempurna untuk",
+    "launchWhiteScreen": "Lancarkan Skrin Putih"
+  },
+  "useCases": {
+    "title": "Orang ramai menggunakan skrin putih untuk:",
+    "subtitle": "Temui pelbagai cara untuk menggunakan skrin putih kami",
+    "description": "Alat skrin putih kami mencipta persekitaran yang bersih dan seragam untuk pelbagai keperluan kreatif dan teknikal.",
+    "cases": [
+      {
+        "title": "pencahayaan untuk panggilan zoom",
+        "description": "Untuk panggilan video! Saya tidak mempunyai lampu dering yang mudah, tetapi mempunyai dua skrin. Jadi saya boleh menggunakan salah satu skrin untuk menerangi muka saya!",
+        "icon": "💡"
+      },
+      {
+        "title": "untuk menyalin lukisan",
+        "description": "Saya perlu mempunyai sesuatu yang terang di bawah kertas, supaya saya boleh melukis semula imej dengan lebih mudah.sebagai sumber cahaya Menyalakan bahagian belakang peti cahaya untuk fotografi produk",
+        "icon": "📋"
+      },
+      {
+        "title": "untuk memeriksa monitor",
+        "description": "Semak monitor anda dan cari piksel mati.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "to blank screen",
+        "description": "Tidak mahu terganggu? Mahu mengambil brek? Gunakan skrin putih untuk mengosongkan skrin anda.",
+        "icon": "⚪"
+      },
+      {
+        "title": "ringan untuk dibaca",
+        "description": "Untuk mendapatkan sumber cahaya dan boleh membaca buku apabila gelap di dalam bilik dan suis lampu terlalu jauh.",
+        "icon": "📖"
+      },
+      {
+        "title": "ringan untuk solek",
+        "description": "Sebagai sumber cahaya terang untuk melakukan solek atau mengambil gambar",
+        "icon": "💄"
+      },
+      {
+        "title": "untuk membersihkan monitor",
+        "description": "Mengarut, tetapi saya menggunakannya untuk pembersihan monitor. Ia menjadikan perkara pada skrin jelas. :) Saya juga menggunakannya untuk mengesahkan pembiakan warna biasa untuk monitor yang berbeza, tetapi ia jarang muncul dan saya tidak mencari penggredan warna profesional.",
+        "icon": "🧽"
+      },
+      {
+        "title": "untuk mencari habuk",
+        "description": "Tirai latar belakang yang konsisten untuk membersihkan monitor saya, dan juga untuk memeriksa piksel mati/terperangkap. Kadang-kadang juga untuk menerangi wajah saya semasa saya menggunakan kamera web.",
+        "icon": "👤"
+      },
+      {
+        "title": "untuk menangkap lalat",
+        "description": "Saya menangkap lalat kecil ketika mereka tertarik pada layar putih di paparan saya",
+        "icon": "🪰"
+      },
+      {
+        "title": "untuk membuat flipbook",
+        "description": "Saya sedang mengerjakan urutan animasi, dan saya melakukannya dengan cara tradisional (dengan tangan), jadi saya memerlukan permukaan putih dengan cahaya yang membolehkan saya meletakkan sehelai kertas di atas yang lain dan dapat melihat kedua-duanya, jadi kerana saya tidak mempunyai skrin profesional untuk ini, saya menggunakan komputer saya dan meletakkan skrin putih padanya supaya saya tidak menyentuh apa-apa secara tidak sengaja",
+        "icon": "📚"
+      },
+      {
+        "title": "untuk memfokuskan diri",
+        "description": "Semasa belajar, saya menggunakan 2 skrin, satu dengan pemasa dan satu untuk mencari apa sahaja yang saya perlukan di internet. Apabila saya tidak mencari, saya meletakkan skrin putih supaya saya tidak terganggu dengan apa-apa pada komputer",
+        "icon": "🎯"
+      },
+      {
+        "title": "untuk mengkonfigurasi tetapan monitor anda",
+        "description": "Berguna apabila melaraskan tetapan dalam monitor sekunder saya (memandangkan ia agak lama ia tidak hanya menetapkan perkara bagaimana ia sepatutnya secara lalai). Tetapan seperti kedudukan menegak/mendatar dan skala menegak/mendatar. Juga berguna apabila mencari piksel mati.",
+        "icon": "⚙️"
+      },
+      {
+        "title": "untuk melukis pada waktu malam",
+        "description": "Jika saya melukis di atas kertas, saya boleh meletakkan kertas di atas tablet lukisan paparan saya dan melihat apa yang saya lukis pada waktu malam",
+        "icon": "🌙"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Cara menggunakan skrin putih",
+    "subtitle": "Panduan mudah untuk mendapatkan yang terbaik dari alat kami",
+    "steps": [
+      "Pilih warna kegemaran anda dari palet",
+      "Klik butang 'Lancar' untuk membuka dalam skrin penuh",
+      "Gunakan F11 atau ESC untuk keluar dari mod skrin penuh",
+      "Muat turun imej dalam resolusi pilihan anda"
+    ]
+  },
+  "info": {
+    "title": "Skrin Putih – Alat Skrin Penuh",
+    "subtitle": "Skrin putih mudah menampakkan habuk dan kotoran untuk pembersihan mudah, membantu mengesan piksel dan meningkatkan pencahayaan di bilik gelap",
+    "professionalTool": "Alat Profesional",
+    "downloadReady": "Muat Turun Sedia",
+    "downloadTitle": "Muat Turun Latar Belakang Skrin Putih",
+    "downloadDescription": "Dapatkan skrin putih berkualiti tinggi untuk keperluan profesional anda",
+    "hdTitle": "Latar Belakang Skrin Putih 1920×1080",
+    "hdDescription": "Imej putih skrin penuh tulen untuk pembersihan skrin, ujian piksel mati dan keselesaan visual",
+    "hdButton": "Muat Turun HD",
+    "fourKTitle": "Latar Belakang Skrin Putih 4K",
+    "fourKDescription": "Imej skrin putih ultra HD untuk peningkatan pencahayaan dan ujian paparan",
+    "fourKButton": "Muat Turun 4K",
+    "proTipBadge": "Petua Pro",
+    "proTipTitle": "Petua Pro",
+    "proTipDescription": "Gunakan skrin putih bersama dengan skrin hitam atau merah untuk menguji tindak balas kecerahan dan kontras monitor anda."
+  },
+  "faq": {
+    "title": "Soalan lazim",
+    "subtitle": "Jawapan kepada soalan biasa tentang skrin putih",
+    "description": "Pelajari cara menggunakan skrin putih untuk pembersihan monitor, ujian piksel dan pencahayaan yang lebih baik.",
+    "questions": [
+      {
+        "question": "Adakah skrin putih percuma?",
+        "answer": "Ya, alat skrin putih kami sepenuhnya percuma dan tanpa iklan."
+      },
+      {
+        "question": "Bolehkah saya menggunakan skrin putih tanpa talian?",
+        "answer": "Setelah halaman dimuatkan, anda boleh menggunakan skrin putih walaupun tanpa sambungan internet."
+      },
+      {
+        "question": "Adakah skrin putih berfungsi pada mudah alih?",
+        "answer": "Ya, alat kami dioptimumkan untuk semua peranti: komputer, tablet dan telefon pintar."
+      },
+      {
+        "question": "Bagaimana untuk melaraskan kecerahan?",
+        "answer": "Gunakan kawalan kecerahan peranti anda untuk melaraskan keamatan skrin putih."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Spesifikasi teknikal",
+    "subtitle": "Butiran teknikal alat skrin putih kami",
+    "specs": [
+      {
+        "label": "Warna",
+        "value": "#FFFFFF (Putih tulen)"
+      },
+      {
+        "label": "Resolusi",
+        "value": "Menyesuaikan dengan semua skrin"
+      },
+      {
+        "label": "Keserasian",
+        "value": "Semua pelayar moden"
+      },
+      {
+        "label": "Prestasi",
+        "value": "Dioptimumkan untuk penggunaan rendah"
+      }
+    ]
+  }
+} 

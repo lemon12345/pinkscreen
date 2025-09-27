@@ -1,0 +1,166 @@
+{
+  "hero": {
+    "badge": "Outil Écran Rose",
+    "title": "Écran Rose | Outil en Ligne",
+    "description": "Utilisez un écran rose plein écran pour créer une atmosphère apaisante, tester la teinte rose sur vos écrans ou ajouter une touche chaleureuse à votre espace numérique.",
+    "features": {
+      "noRegistration": "Aucune inscription",
+      "worksOffline": "Fonctionne hors ligne",
+      "allDevices": "Tous les appareils"
+    }
+  },
+  "keywords": "écran rose, fond rose, écran rose en ligne, couleur rose, douceur, détente, créativité, écran rose plein écran",
+  "colorPicker": {
+    "title": "Choisissez votre couleur",
+    "custom": "Personnalisé",
+    "description": "Parfait pour créer une ambiance douce et relaxante",
+    "launchButton": "Lancer l'écran rose"
+  },
+  "interface": {
+    "livePreview": "Aperçu en Direct",
+    "chooseYourColor": "Choisissez Votre Couleur",
+    "clickForFullscreen": "Cliquer pour Plein Écran",
+    "current": "Actuel",
+    "perfectFor": "Parfait pour les tests de moniteur, l'éclairage photographique et les présentations",
+    "launchPinkScreen": "Lancer l'Écran Rose"
+  },
+  "colors": {
+    "Black": "Écran Noir",
+    "White": "Écran Blanc",
+    "Red": "Écran Rouge",
+    "Blue": "Écran Bleu",
+    "Green": "Écran Vert",
+    "Yellow": "Écran Jaune",
+    "Purple": "Écran Violet",
+    "Pink": "Écran Rose",
+    "Orange": "Écran Orange",
+    "Zoom Lighting": "Zoom d'éclairage"
+  },
+  "useCases": {
+    "title": "Les gens utilisent l'écran rose pour:",
+    "subtitle": "Découvrez les différentes façons d'utiliser notre écran rose",
+    "description": "Notre outil d'écran rose crée une atmosphère douce et apaisante, idéale pour la détente et les environnements créatifs.",
+    "cases": [
+      {
+        "title": "Arrière-plan Rose pour la Création de Contenu",
+        "description": "Obtenez facilement un arrière-plan rose pour votre création de contenu en ligne. Cet outil offre un affichage rose plein écran qui est parfait pour ajouter une touche de couleur vibrante à vos vidéos, livestreams et présentations virtuelles.",
+        "icon": "video"
+      },
+      {
+        "title": "Thérapie de Lumière Rose Facile",
+        "description": "Transformez votre écran en source de lumière rose thérapeutique. Bénéficiez des effets apaisants de la thérapie par la lumière rose directement depuis l'écran de votre appareil. Idéal pour la relaxation, l'amélioration de l'humeur et la réduction du stress.",
+        "icon": "heart"
+      },
+      {
+        "title": "Inspiration pour le Design Visuel",
+        "description": "Inspirez votre créativité en design avec un canevas rose plein écran. Notre outil permet aux designers de s'immerger dans la couleur rose, stimulant des idées créatives pour des projets de design.",
+        "icon": "palette"
+      },
+      {
+        "title": "Test de Calibration de Couleur",
+        "description": "Évaluez l'exactitude de la couleur de votre écran avec l'affichage rose de notre outil. Parfait pour vérifier la fidélité de la teinte rose sur différents appareils et paramètres d'écran.",
+        "icon": "monitor"
+      },
+      {
+        "title": "Affichage Attrayant",
+        "description": "Attirez l'attention avec un affichage rose plein écran lors de présentations en ligne, de webinaires ou de réunions virtuelles. Utilisez notre outil pour souligner les moments clés et engager votre audience de manière unique.",
+        "icon": "presentation"
+      },
+      {
+        "title": "Écran rose pour créer une ambiance",
+        "description": "J'aime l'ambiance que le rose donne",
+        "icon": "sun"
+      },
+      {
+        "title": "Écran rose pour copier une image",
+        "description": "Pour copier une image que mon camarade de classe a dessinée",
+        "icon": "copy"
+      },
+      {
+        "title": "Écran rose pour faire des vidéos",
+        "description": "Parce que mes vidéos YouTube sont meilleures avec un écran rose",
+        "icon": "camera"
+      },
+      {
+        "title": "Écran rose pour les appels en ligne",
+        "description": "Pour ajouter une lueur rose pendant la réunion.",
+        "icon": "phone"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Comment utiliser l'écran rose",
+    "subtitle": "Guide simple pour tirer le meilleur parti de notre outil",
+    "steps": [
+      "Cliquez sur le bouton pour afficher l'écran rose en plein écran",
+      "Tamisez les autres sources de lumière pour maximiser l'effet",
+      "Profitez de l'atmosphère apaisante créée par la couleur rose"
+    ]
+  },
+  "info": {
+    "title": "Écran Rose – Outil de Fond Plein Écran",
+    "subtitle": "Un écran rose crée une ambiance douce et apaisante, parfait pour la détente et les environnements créatifs",
+    "professionalTool": "Outil Professionnel",
+    "downloadReady": "Téléchargement Prêt",
+    "downloadTitle": "Télécharger Fond d'Écran Rose",
+    "downloadDescription": "Obtenez des écrans roses haute qualité pour vos besoins professionnels",
+    "hdTitle": "Fond d'Écran Rose 1920×1080",
+    "hdDescription": "Image rose plein écran pure pour créer une ambiance douce, apaisante et créative",
+    "hdButton": "Télécharger HD",
+    "fourKTitle": "Fond d'Écran Rose 4K",
+    "fourKDescription": "Image d'écran rose ultra HD pour les environnements relaxants et les projets créatifs doux",
+    "fourKButton": "Télécharger 4K",
+    "proTipBadge": "Conseil Pro",
+    "proTipTitle": "Conseil Pro",
+    "proTipDescription": "Le rose est idéal pour créer une atmosphère calme et bienveillante, parfait pour les espaces de détente et de créativité."
+  },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "subtitle": "Réponses aux questions courantes sur l'écran rose",
+    "description": "Apprenez comment utiliser la couleur rose pour créer des espaces de détente et stimuler la créativité douce.",
+    "questions": [
+      {
+        "question": "Le rose a-t-il vraiment des effets calmants ?",
+        "answer": "Oui, des études montrent que le rose peut réduire l'agressivité et favoriser la relaxation."
+      },
+      {
+        "question": "Puis-je utiliser l'écran rose pour dormir ?",
+        "answer": "La lumière rose douce peut aider à créer une ambiance propice au sommeil."
+      },
+      {
+        "question": "L'écran rose convient-il aux enfants ?",
+        "answer": "Absolument ! Le rose est une couleur apaisante, idéale pour les espaces enfants."
+      },
+      {
+        "question": "Comment combiner le rose avec d'autres couleurs ?",
+        "answer": "Le rose se marie bien avec le blanc, le beige et d'autres tons pastel."
+      },
+      {
+        "question": "L'écran rose peut-il améliorer l'humeur ?",
+        "answer": "Oui, la couleur rose est reconnue pour ses effets apaisants et peut contribuer à améliorer l'humeur et réduire le stress."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Spécifications techniques",
+    "subtitle": "Détails techniques de notre outil d'écran rose",
+    "specs": [
+      {
+        "label": "Couleur",
+        "value": "#FFC0CB (Rose doux)"
+      },
+      {
+        "label": "Résolution",
+        "value": "S'adapte à tous les écrans"
+      },
+      {
+        "label": "Compatibilité",
+        "value": "Tous les navigateurs modernes"
+      },
+      {
+        "label": "Bienfaits",
+        "value": "Relaxation et bien-être"
+      }
+    ]
+  }
+} 

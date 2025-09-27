@@ -1,0 +1,170 @@
+{
+  "hero": {
+    "badge": "Alat Skrin Hijau",
+    "title": "Skrin Hijau | Alat Dalam Talian",
+    "description": "Skrin hijau dalam talian untuk chroma key, latar belakang hijau, lapisan video dan kesan khas. Sesuai untuk pencipta kandungan dan pembuat video.",
+    "features": {
+      "noRegistration": "Tiada pendaftaran",
+      "worksOffline": "Berfungsi luar talian",
+      "allDevices": "Semua peranti"
+    }
+  },
+  "keywords": "skrin hijau, chroma key, latar belakang hijau, skrin hijau dalam talian, green screen, kesan khas, penciptaan video, streaming",
+  "colorPicker": {
+    "title": "Pilih warna anda",
+    "custom": "Tersuai",
+    "description": "Sempurna untuk chroma key dan kesan khas",
+    "launchButton": "Lancarkan skrin hijau"
+  },
+  "colors": {
+    "Black": "Hitam",
+    "White": "Putih",
+    "Red": "Merah",
+    "Blue": "Biru",
+    "Green": "Hijau",
+    "Yellow": "Kuning",
+    "Purple": "Ungu",
+    "Pink": "Merah Jambu",
+    "Orange": "Oren",
+    "Zoom Lighting": "Pencahayaan Zoom"
+  },
+  "interface": {
+    "livePreview": "Pratonton langsung",
+    "clickForFullscreen": "Klik untuk skrin penuh",
+    "current": "Semasa",
+    "chooseYourColor": "Pilih warna anda",
+    "perfectFor": "Sempurna untuk",
+    "launchGreenScreen": "Lancarkan Skrin Hijau"
+  },
+  "useCases": {
+    "title": "Orang menggunakan skrin hijau untuk:",
+    "subtitle": "Temui pelbagai cara untuk menggunakan skrin hijau kami",
+    "description": "Alat skrin hijau kami menawarkan penyelesaian profesional untuk penciptaan kandungan video dan kesan khas.",
+    "cases": [
+      {
+        "title": "Skrin Hijau untuk Penciptaan Kandungan Video",
+        "description": "Manfaatkan paparan hijau skrin penuh kami untuk mencipta video berkualiti profesional. Skrin hijau adalah sempurna untuk kesan video dan penyuntingan pasca-produksi.",
+        "icon": "🎬"
+      },
+      {
+        "title": "Pengalaman Visual Menenangkan dengan Paparan Hijau",
+        "description": "Gunakan alat skrin hijau kami untuk mencipta persekitaran visual yang menenangkan. Warna hijau yang menenangkan boleh membantu mengurangkan ketegangan mata dan menggalakkan relaksasi.",
+        "icon": "😌"
+      },
+      {
+        "title": "Skrin Hijau untuk Pengalaman Permainan Mendalam",
+        "description": "Tingkatkan pengalaman permainan anda dengan paparan hijau skrin penuh kami. Ia boleh berfungsi sebagai latar belakang dinamik untuk persekitaran permainan yang lebih mendalam.",
+        "icon": "🎮"
+      },
+      {
+        "title": "Skrin Hijau untuk Mesyuarat Maya",
+        "description": "Gunakan alat skrin hijau kami untuk menambah latar belakang profesional semasa mesyuarat maya anda. Ia boleh meningkatkan kualiti panggilan video anda secara signifikan.",
+        "icon": "📞"
+      },
+      {
+        "title": "Skrin Hijau sebagai Alat Bantu Mengajar",
+        "description": "Pendidik boleh menggunakan alat skrin hijau kami untuk menjadikan pengajaran dalam talian lebih interaktif dan menarik. Ia adalah cara yang hebat untuk menggambarkan konsep kompleks secara visual.",
+        "icon": "📚"
+      },
+      {
+        "title": "skrin hijau untuk photoshop",
+        "description": "Photoshop diri saya dalam bilik saya supaya apabila saya menurunkannya dan saya masih berada dalam bilik saya, orang akan berkata 'oh wow' untuk beberapa saat yang membuatkan saya gembira kerana saya dalam cara tertentu menjadi faktor wow bagi beberapa saat dalam hidup mereka.",
+        "icon": "🎨"
+      },
+      {
+        "title": "skrin hijau untuk berehat",
+        "description": "Dalam situasi bilik darjah, semasa menjeda kerja komputer dan mendengar orang lain. Hijau, kerana ia adalah warna yang paling menenangkan. Ia hanyalah warna hijau yang senyap, tidak bergerak, warna pokok dan rumput. Terima kasih kepadanya, skrin memancarkan cahaya hijau yang menenangkan semasa jeda kerja komputer.",
+        "icon": "🌿"
+      },
+      {
+        "title": "skrin hijau untuk panggilan dalam talian",
+        "description": "Untuk menambah cahaya hijau semasa mesyuarat.",
+        "icon": "💚"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Cara menggunakan skrin hijau",
+    "subtitle": "Panduan mudah untuk mendapatkan yang terbaik dari alat kami",
+    "steps": [
+      {
+        "title": "Buka skrin hijau",
+        "description": "Klik butang untuk memaparkan skrin hijau dalam skrin penuh"
+      },
+      {
+        "title": "Konfigurasi pencahayaan",
+        "description": "Pastikan anda mempunyai pencahayaan seragam untuk hasil yang lebih baik"
+      },
+      {
+        "title": "Rakam",
+        "description": "Rakam kandungan anda di hadapan skrin hijau dan aplikasikan kesan chroma key"
+      }
+    ]
+  },
+  "info": {
+    "title": "Skrin Hijau – Alat Latar Belakang Skrin Penuh",
+    "subtitle": "Skrin hijau sempurna untuk kesan chroma key, penciptaan kandungan dan latar belakang maya profesional",
+    "professionalTool": "Alat Profesional",
+    "downloadReady": "Muat Turun Sedia",
+    "downloadTitle": "Muat Turun Latar Belakang Skrin Hijau",
+    "downloadDescription": "Dapatkan skrin hijau berkualiti tinggi untuk keperluan profesional anda",
+    "hdTitle": "Latar Belakang Skrin Hijau 1920×1080",
+    "hdDescription": "Imej hijau skrin penuh tulen untuk kesan chroma key, penciptaan kandungan dan latar belakang maya",
+    "hdButton": "Muat Turun HD",
+    "fourKTitle": "Latar Belakang Skrin Hijau 4K",
+    "fourKDescription": "Imej skrin hijau ultra HD untuk produksi video profesional dan kesan khas",
+    "fourKButton": "Muat Turun 4K",
+    "proTipBadge": "Petua Pro",
+    "proTipTitle": "Petua Pro",
+    "proTipDescription": "Untuk hasil chroma key terbaik, pastikan pencahayaan sekata dan elakkan bayang pada skrin hijau."
+  },
+  "faq": {
+    "title": "Soalan lazim",
+    "subtitle": "Jawapan kepada soalan biasa tentang skrin hijau",
+    "description": "Pelajari cara menggunakan skrin hijau untuk penciptaan kandungan video dan kesan khas profesional.",
+    "questions": [
+      {
+        "question": "Apakah chroma key?",
+        "answer": "Chroma key adalah teknik yang membolehkan mengganti warna tertentu (biasanya hijau) dengan imej atau video lain."
+      },
+      {
+        "question": "Mengapa gunakan hijau?",
+        "answer": "Hijau jarang terdapat dalam ton kulit manusia, memudahkan pemisahan semasa lapisan."
+      },
+      {
+        "question": "Perisian apa yang digunakan untuk chroma key?",
+        "answer": "OBS Studio, Adobe Premiere, Final Cut Pro, atau aplikasi mudah alih seperti KineMaster."
+      },
+      {
+        "question": "Bagaimana untuk mendapat pencahayaan yang baik?",
+        "answer": "Gunakan pencahayaan seragam dan elakkan bayang-bayang pada skrin hijau untuk hasil yang lebih baik."
+      },
+      {
+        "question": "Adakah skrin hijau selamat untuk mata?",
+        "answer": "Ya, warna hijau umumnya dianggap selamat untuk mata dan boleh membantu mengurangkan ketegangan mata."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Spesifikasi teknikal",
+    "subtitle": "Butiran teknikal alat skrin hijau kami",
+    "specs": [
+      {
+        "label": "Warna",
+        "value": "#00FF00 (Hijau chroma)"
+      },
+      {
+        "label": "Resolusi",
+        "value": "Menyesuaikan dengan semua skrin"
+      },
+      {
+        "label": "Keserasian",
+        "value": "Semua pelayar moden"
+      },
+      {
+        "label": "Penggunaan",
+        "value": "Chroma key profesional"
+      }
+    ]
+  }
+} 

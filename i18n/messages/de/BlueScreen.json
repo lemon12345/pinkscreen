@@ -1,0 +1,132 @@
+{
+  "hero": {
+    "title": "Vollständiger Blauer Bildschirm | Online-Tool",
+    "description": "Ein stimmungsvoller blauer Bildschirm. Wenn Sie auf einen blauen Bildschirm blicken, können Sie Ruhe oder Frieden empfinden. Er wird oft als ruhig, sicher, schön und stabil empfunden.",
+    "badge": "Blauer Bildschirm Tool",
+    "features": {
+      "noRegistration": "Keine Registrierung",
+      "worksOffline": "Funktioniert offline",
+      "allDevices": "Alle Geräte"
+    }
+  },
+  "keywords": "blauer Bildschirm, blaues Display, blauer Bildschirm, hellblauer Bildschirm, gefälschter blauer Bildschirm, leerer blauer Bildschirm, dunkelblauer Bildschirm, blaue Bildschirmansicht, PC-blauer Bildschirm, Computer-blauer Bildschirm",
+  "colorPicker": {
+    "title": "Wählen Sie Ihre Farbe",
+    "custom": "Benutzerdefiniert",
+    "description": "Perfekt für Monitortests, Fotografie-Beleuchtung und Präsentationen",
+    "launchButton": "Blaue Seite starten"
+  },
+  "useCases": {
+    "title": "Menschen verwenden blauen Bildschirm für:",
+    "description": "Unser blauer Bildschirm-Tool dient verschiedenen professionellen und persönlichen Zwecken in verschiedenen Branchen und Szenarien.",
+    "cases": [
+      {
+        "icon": "🖥️",
+        "title": "Blauer Bildschirm zum Überprüfen des Monitors",
+        "description": "Überprüfen Sie Ihren Monitor und finden Sie tote Pixel mit dem blauen Bildschirm."
+      },
+      {
+        "icon": "🧹",
+        "title": "Blauer Bildschirm zum Finden schmutziger Stellen",
+        "description": "Der blaue Bildschirm hilft dabei, Schmutzflecken auf Ihrem Monitor zu identifizieren."
+      },
+      {
+        "icon": "📸",
+        "title": "Blauer Bildschirm für Fotografie",
+        "description": "Verwenden Sie den blauen Bildschirm als Hintergrund für Produktfotografie."
+      },
+      {
+        "icon": "🎨",
+        "title": "Blauer Bildschirm für Design",
+        "description": "Der blaue Bildschirm kann als Referenz für Farbdesign verwendet werden."
+      },
+      {
+        "icon": "😌",
+        "title": "Blauschirm für Entspannung",
+        "description": "Verwandeln Sie Ihren Bildschirm mit unserem Blauschirm-Werkzeug in eine beruhigende und entspannende Umgebung. Perfekt für Meditation oder zum Entspannen nach einem langen Arbeitstag."
+      },
+      {
+        "icon": "👁️",
+        "title": "Blauschirm als visuelle Hilfe",
+        "description": "Nutzen Sie unseren Blauschirm, um den Augen eine Pause zu geben oder um das Kontrastsehen zu verbessern. Ideal für Menschen mit Sehproblemen oder als visuelle Unterstützung."
+      },
+      {
+        "icon": "😴",
+        "title": "Blauschirm für Schlafhygiene",
+        "description": "Mit unserem Blauschirm können Sie Ihren Schlaf verbessern. Das bläuliche Licht kann helfen, das Schlafhormon Melatonin zu produzieren und so den Schlaf zu fördern."
+      },
+      {
+        "icon": "🎨",
+        "title": "Blauschirm für kreative Arbeit",
+        "description": "Unser Blauschirm ist perfekt für kreative Arbeit, wie zum Beispiel Design oder Fotobearbeitung. Die einheitliche blaue Farbe kann dazu beitragen, die Konzentration auf das Wesentliche zu lenken."
+      },
+      {
+        "icon": "😊",
+        "title": "Blauschirm für Stimmungsverbesserung",
+        "description": "Unser Blauschirm kann als Stimmungsbooster dienen. Die Farbe Blau wird oft mit positiven Gefühlen wie Ruhe und Frieden assoziiert und kann so zu einer Verbesserung des Wohlbefindens beitragen."
+      },
+      {
+        "icon": "📹",
+        "title": "um Videos zu machen",
+        "description": "Weil meine YouTube-Videos mit Bluescreen besser sind &weil Greenscreens überbewertet werden"
+      },
+      {
+        "icon": "📋",
+        "title": "Bild kopieren",
+        "description": "Um ein Bild zu kopieren, das mein Klassenkamerad gezeichnet hat"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Wofür wird ein blauer Bildschirm verwendet?",
+        "answer": "Ein blauer Bildschirm wird hauptsächlich für Monitortests verwendet, um tote Pixel und Schmutzflecken zu identifizieren."
+      },
+      {
+        "question": "Wie verwende ich blauen Bildschirm für Monitortests?",
+        "answer": "Starten Sie den blauen Bildschirm im Vollbildmodus und untersuchen Sie Ihren Monitor sorgfältig auf tote Pixel oder Schmutzflecken."
+      },
+      {
+        "question": "Kann ich blauen Bildschirm für Fotografie verwenden?",
+        "answer": "Ja! Der blaue Bildschirm kann als Hintergrund für Produktfotografie oder als Referenzfarbe verwendet werden."
+      },
+      {
+        "question": "Warum blauen Bildschirm als Schlafhilfe verwenden?",
+        "answer": "Blaues Licht in der richtigen Intensität kann helfen, Schlafmuster zu regulieren. Unser blauer Bildschirm bietet ein weiches, beruhigendes blaues Licht, das Schläfrigkeit fördern und die Schlafqualität verbessern kann."
+      },
+      {
+        "question": "Ist blauer Bildschirm gut für Präsentationen?",
+        "answer": "Ja, ein blauer Bildschirm kann als ausgezeichnetes visuelles Hilfsmittel in Präsentationen dienen. Der blaue Hintergrund hilft dabei, Text und Bilder hervorzuheben und macht Inhalte lesbarer und visuell ansprechender."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Zusätzliche Bildschirm-Tools",
+    "description": "Entdecken Sie unsere Sammlung spezialisierter Bildschirm-Tools für verschiedene Zwecke.",
+    "colorScreens": "Farbbildschirme",
+    "prankScreens": "Streich-Bildschirme",
+    "fakeUpdateScreens": "Gefälschte Update-Bildschirme",
+    "screensaverScreens": "Bildschirmschoner"
+  },
+  "howToUse": {
+    "title": "Verwendung",
+    "steps": [
+      "Wählen Sie Ihre bevorzugte Farbe aus der Palette",
+      "Klicken Sie auf den 'Starten'-Button, um im Vollbildmodus zu öffnen",
+      "Verwenden Sie F11 oder ESC, um den Vollbildmodus zu beenden",
+      "Laden Sie das Bild in Ihrer bevorzugten Auflösung herunter"
+    ]
+  },
+  "techSpecs": {
+    "title": "Technische Spezifikationen",
+    "specs": [
+      "Auflösung: Bis zu 8K (7680x4320)",
+      "Farbtiefe: 24-bit RGB",
+      "Format: PNG, JPEG, WebP",
+      "Kompatibilität: Alle modernen Browser",
+      "Offline-Funktionalität: Vollständig verfügbar"
+    ]
+  }
+}

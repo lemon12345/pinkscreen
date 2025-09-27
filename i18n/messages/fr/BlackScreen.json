@@ -1,0 +1,171 @@
+{
+  "hero": {
+    "badge": "Outil Écran Noir",
+    "title": "Écran Noir | Outil en Ligne",
+    "description": "Utilisez un écran noir en plein écran pour économiser de l'énergie, apaiser vos yeux et détecter les pixels morts ou lumineux.",
+    "features": {
+      "noRegistration": "Aucune inscription",
+      "worksOffline": "Fonctionne hors ligne",
+      "allDevices": "Tous les appareils"
+    }
+  },
+  "keywords": "écran noir, écran noir en ligne, nettoyage écran, test pixels morts, économie énergie, fond noir, écran noir plein écran, outil écran noir, réduction éblouissement",
+  "colorPicker": {
+    "title": "Choisissez votre couleur",
+    "custom": "Personnalisé",
+    "description": "Parfait pour le nettoyage d'écran, les tests de pixels et la réduction de l'éblouissement",
+    "launchButton": "Lancer l'écran noir"
+  },
+  "interface": {
+    "livePreview": "Aperçu en Direct",
+    "chooseYourColor": "Choisissez Votre Couleur",
+    "clickForFullscreen": "Cliquer pour Plein Écran",
+    "current": "Actuel",
+    "perfectFor": "Parfait pour les tests de moniteur, l'éclairage photographique et les présentations",
+    "launchBlackScreen": "Lancer l'Écran Noir"
+  },
+  "colors": {
+    "Black": "Écran Noir",
+    "White": "Écran Blanc",
+    "Red": "Écran Rouge",
+    "Blue": "Écran Bleu",
+    "Green": "Écran Vert",
+    "Yellow": "Écran Jaune",
+    "Purple": "Écran Violet",
+    "Pink": "Écran Rose",
+    "Orange": "Écran Orange",
+    "Zoom Lighting": "Zoom d'éclairage"
+  },
+  "useCases": {
+    "title": "Cas d'utilisation de l'écran noir",
+    "subtitle": "Découvrez les différentes façons d'utiliser notre écran noir",
+    "description": "Notre outil d'écran noir sert de multiples objectifs professionnels et personnels dans diverses industries et scénarios.",
+    "cases": [
+      {
+        "title": "Assombrir le deuxième moniteur sans l'éteindre",
+        "description": "Assombrir rapidement le deuxième écran sans l'éteindre lorsque vous jouez à un jeu atmosphérique ou que vous regardez un film.",
+        "icon": "monitor"
+      },
+      {
+        "title": "Économiser l'électricité",
+        "description": "Essayer d'économiser de l'électricité, réduire les émissions de carbone.",
+        "icon": "battery"
+      },
+      {
+        "title": "Masquer le fait que l'ordinateur est actif",
+        "description": "Pour mettre mes 4 moniteurs quand je vais dormir, au lieu de les mettre en veille.",
+        "icon": "eye-off"
+      },
+      {
+        "title": "Nettoyer le moniteur",
+        "description": "Plus facile de voir les taches lorsque j'efface mon écran.",
+        "icon": "search"
+      },
+      {
+        "title": "Faire un fond sombre pour les jeux",
+        "description": "Arrière-plan pour un jeu. L'écran est trop grand, 3440x1440. Je n'aime pas y jouer aussi grand, donc je fais 2560x1440. J'ai besoin de cadres noirs des deux côtés.",
+        "icon": "gamepad"
+      },
+      {
+        "title": "Éviter les brûlures sur les téléviseurs plasma",
+        "description": "Les écrans plasma sont très sensibles aux brûlures, donc plutôt que de laisser Windows Media Player ou quoi que ce soit sur l'écran, j'utilise un écran noir pour éviter la rémanence.",
+        "icon": "tv"
+      },
+      {
+        "title": "Se concentrer en étudiant",
+        "description": "Pour ne pas éteindre mon écran et me concentrer pendant mes études. Mon écran est très lumineux et cela n'aide pas à la concentration, un écran noir corrige cela.",
+        "icon": "book"
+      },
+      {
+        "title": "Détendre les yeux",
+        "description": "Parce que j'ai besoin de détendre mes yeux et d'avoir juste un écran noir même quand je joue de la musique sur mon pc ou que je veux basculer rapidement entre tout noir et autre chose.",
+        "icon": "eye"
+      },
+      {
+        "title": "Concentration et minimalisme",
+        "description": "Adoptez le minimalisme et réduisez les distractions avec notre outil d'écran noir. Idéal pour les tâches nécessitant de la concentration ou pour les personnes pratiquant le minimalisme digital.",
+        "icon": "focus"
+      },
+      {
+        "title": "Art numérique",
+        "description": "Les artistes peuvent utiliser notre affichage plein écran noir comme une toile pour créer un contraste frappant dans l'art numérique. Les arrière-plans noirs peuvent améliorer la profondeur et l'intensité des couleurs.",
+        "icon": "palette"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Comment utiliser l'écran noir",
+    "subtitle": "Guide simple pour tirer le meilleur parti de notre outil",
+    "steps": [
+      "Cliquez sur le bouton pour afficher l'écran noir en plein écran",
+      "Placez la fenêtre sur l'écran que vous souhaitez assombrir",
+      "Économisez de l'énergie et reposez vos yeux avec l'écran noir"
+    ]
+  },
+  "info": {
+    "title": "Écran Noir – Outil de Fond Plein Écran",
+    "subtitle": "Un écran noir fait ressortir la poussière et les taches pour un nettoyage facile, aide à détecter les pixels et réduit l'éblouissement dans les pièces sombres",
+    "professionalTool": "Outil Professionnel",
+    "downloadReady": "Téléchargement Prêt",
+    "downloadTitle": "Télécharger Fond d'Écran Noir",
+    "downloadDescription": "Obtenez des écrans noirs haute qualité pour vos besoins professionnels",
+    "hdTitle": "Fond d'Écran Noir 1920×1080",
+    "hdDescription": "Image noire plein écran pure pour le nettoyage d'écran, les tests de pixels morts et le confort visuel",
+    "hdButton": "Télécharger HD",
+    "fourKTitle": "Fond d'Écran Noir 4K",
+    "fourKDescription": "Image d'écran noir ultra HD pour la réduction de l'éblouissement et les tests d'affichage",
+    "fourKButton": "Télécharger 4K",
+    "proTipBadge": "Conseil Pro",
+    "proTipTitle": "Conseil Pro",
+    "proTipDescription": "Utilisez l'écran noir en combinaison avec des écrans blancs ou rouges pour tester la réponse de luminosité et de contraste de votre moniteur."
+  },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "subtitle": "Réponses aux questions courantes sur l'écran noir",
+    "description": "Trouvez des réponses aux questions courantes sur l'utilisation de notre outil d'écran noir à diverses fins.",
+    "questions": [
+      {
+        "question": "L'écran noir est-il vraiment noir ?",
+        "answer": "Oui, nous utilisons le noir pur (#000000) pour une obscurité maximale."
+      },
+      {
+        "question": "Cela économise-t-il vraiment de l'énergie ?",
+        "answer": "Sur les écrans OLED et AMOLED, les pixels noirs consomment moins d'énergie que les pixels colorés."
+      },
+      {
+        "question": "Puis-je utiliser l'écran noir sur plusieurs moniteurs ?",
+        "answer": "Oui, ouvrez plusieurs onglets et placez-les sur chaque écran que vous souhaitez assombrir."
+      },
+      {
+        "question": "L'outil fonctionne-t-il hors ligne ?",
+        "answer": "Une fois la page chargée, vous pouvez utiliser l'écran noir sans connexion internet."
+      },
+      {
+        "question": "L'écran noir peut-il aider à réduire la fatigue oculaire ?",
+        "answer": "Absolument ! L'écran noir réduit considérablement l'exposition à la lumière bleue et permet à vos yeux de se reposer, particulièrement utile lors de longues sessions d'étude ou de travail."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Spécifications techniques",
+    "subtitle": "Détails techniques de notre outil d'écran noir",
+    "specs": [
+      {
+        "label": "Couleur",
+        "value": "#000000 (Noir pur)"
+      },
+      {
+        "label": "Résolution",
+        "value": "S'adapte à tous les écrans"
+      },
+      {
+        "label": "Compatibilité",
+        "value": "Tous les navigateurs modernes"
+      },
+      {
+        "label": "Consommation",
+        "value": "Minimale sur écrans OLED"
+      }
+    ]
+  }
+} 

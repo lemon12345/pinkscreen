@@ -1,0 +1,172 @@
+{
+  "hero": {
+    "badge": "Iluminação Zoom",
+    "title": "Iluminação Zoom | Ferramenta Online",
+    "description": "Melhore sua aparência em chamadas de vídeo com uma tela clara e uniforme. Ideal para Zoom, Meet e gravações. Sem anúncios. Sem distrações.",
+    "features": {
+      "noRegistration": "Sem registo",
+      "worksOffline": "Funciona offline",
+      "allDevices": "Todos os dispositivos"
+    }
+  },
+  "keywords": "melhor iluminação para chamadas zoom, iluminação zoom, iluminação para reuniões zoom, luz para reuniões zoom, iluminação de videoconferência, melhor luz para reuniões zoom, kit de iluminação zoom, melhor iluminação zoom, melhor luz para videoconferência",
+  "colorPicker": {
+    "title": "Escolha sua cor",
+    "custom": "Personalizado",
+    "description": "Perfeito para videoconferência, fundos fotográficos e criar condições de iluminação ideais",
+    "launchButton": "Iniciar Iluminação Zoom"
+  },
+  "colors": {
+    "Black": "Tela Preta",
+    "White": "Tela Branca",
+    "Red": "Tela Vermelha",
+    "Blue": "Tela Azul",
+    "Green": "Tela Verde",
+    "Yellow": "Tela Amarela",
+    "Purple": "Tela Roxa",
+    "Pink": "Tela Rosa",
+    "Orange": "Tela Laranja",
+    "Zoom Lighting": "Iluminação para Zoom"
+  },
+  "interface": {
+    "livePreview": "Pré-visualização ao vivo",
+    "clickForFullscreen": "Clique para tela cheia",
+    "current": "Atual",
+    "chooseYourColor": "Escolha sua cor",
+    "perfectFor": "Perfeito para",
+    "launchZoomLighting": "Iniciar Iluminação Zoom"
+  },
+  "useCases": {
+    "title": "As pessoas usam a iluminação Zoom para:",
+    "subtitle": "Descubra como melhorar sua iluminação de vídeo",
+    "description": "Nossa ferramenta de iluminação Zoom serve múltiplos propósitos profissionais e pessoais em várias indústrias e cenários.",
+    "cases": [
+      {
+        "title": "Iluminação Personalizada para Videoconferências",
+        "description": "Use nossa ferramenta de tela de iluminação Zoom para criar a configuração de iluminação perfeita para suas chamadas de vídeo. Com cor e temperatura ajustáveis, você pode obter uma iluminação de videoconferência de nível profissional com facilidade.",
+        "icon": "💡"
+      },
+      {
+        "title": "Fundo de Fotografia com Tela de Iluminação Zoom",
+        "description": "Melhore sua configuração de fotografia com nossa tela de iluminação Zoom ajustável. Ajuste a cor e temperatura conforme o clima de sua sessão de fotos e crie imagens impressionantes.",
+        "icon": "📸"
+      },
+      {
+        "title": "Melhore a Experiência de eLearning com Iluminação Ótima",
+        "description": "Com nossa tela de iluminação Zoom, crie um ambiente de aprendizado propício para eLearning. Configurações de luz personalizáveis garantem conforto ótimo para leitura e melhor concentração.",
+        "icon": "🎓"
+      },
+      {
+        "title": "Ferramenta de Teste de Iluminação para Desenvolvedores Web",
+        "description": "Desenvolvedores web podem usar nossa tela de iluminação Zoom em tela cheia para testar como diferentes temperaturas e cores de luz afetam a aparência de seus designs, ajudando a criar sites visualmente envolventes e acessíveis.",
+        "icon": "💻"
+      },
+      {
+        "title": "Terapia de Cor com Tela de Iluminação Zoom",
+        "description": "Terapeutas e coaches de bem-estar podem utilizar nossa tela de iluminação Zoom com cor e temperatura ajustáveis para sessões de terapia de cor, promovendo relaxamento e cura.",
+        "icon": "🧘"
+      },
+      {
+        "title": "tela branca como iluminação para chamadas Zoom",
+        "description": "Para chamadas de vídeo! Eu não tenho uma ring light fácil, mas tenho dois monitores. Então, posso usar uma das telas para iluminar meu rosto!",
+        "icon": "📹"
+      },
+      {
+        "title": "iluminação Zoom para obter brilho",
+        "description": "Eu uso para obter brilho enquanto estou em uma chamada de vídeo.",
+        "icon": "✨"
+      },
+      {
+        "title": "iluminação Zoom para iluminar",
+        "description": "Para iluminar quando faço chamadas de videoconferência.",
+        "icon": "💡"
+      },
+      {
+        "title": "iluminação Zoom transforma meu monitor em uma luz",
+        "description": "Transforma meu monitor em uma luz para compensar quando estou contra a luz em chamadas de vídeo.",
+        "icon": "🖥️"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Como usar a iluminação Zoom",
+    "subtitle": "Guia simples para iluminação de vídeo perfeita",
+    "steps": [
+      "Escolha sua cor preferida da paleta",
+      "Clique no botão 'Iniciar' para abrir em tela cheia",
+      "Use F11 ou ESC para sair do modo tela cheia",
+      "Baixe a imagem na resolução de sua preferência"
+    ]
+  },
+  "temperatureControl": {
+    "title": "Controle de Temperatura",
+    "temperature": "Temperatura",
+    "description": "Ajuste a temperatura de cor para criar a iluminação perfeita para suas chamadas de vídeo. Valores mais baixos criam luz mais quente, valores mais altos criam luz mais fria."
+  },
+  "info": {
+    "title": "Iluminação Zoom – Ferramenta de Fundo de Tela Cheia",
+    "subtitle": "Use esta tela branca em tela cheia para iluminar seu rosto durante chamadas Zoom, vídeos YouTube ou sessões fotográficas. Limpo, rápido e sem anúncios.",
+    "professionalTool": "Ferramenta Profissional",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Baixar Fundo de Iluminação Zoom",
+    "downloadDescription": "Prefere uma imagem estática de iluminação Zoom? Use uma de nossas PNGs de alta resolução:",
+    "hdTitle": "Fundo de Iluminação Zoom 1920×1080",
+    "hdDescription": "Perfeito para displays HD padrão e chamadas de vídeo. Otimizado para reuniões Zoom e videoconferência.",
+    "hdButton": "Baixar HD",
+    "fourKTitle": "Fundo de Iluminação Zoom 4K",
+    "fourKDescription": "Fundo branco Ultra HD em tela cheia para iluminar seu rosto em reuniões de vídeo. Perfeito para displays de alta resolução.",
+    "fourKButton": "Baixar 4K",
+    "proTipBadge": "Dica Pro",
+    "proTipTitle": "Maximize Sua Iluminação de Chamada de Vídeo",
+    "proTipDescription": "Maximize o brilho da tela e posicione seu monitor na sua frente para o melhor efeito de iluminação durante as chamadas."
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "subtitle": "Respostas para perguntas comuns sobre iluminação Zoom",
+    "description": "Encontre respostas para perguntas comuns sobre o uso de nossa ferramenta de iluminação Zoom para vários propósitos.",
+    "questions": [
+      {
+        "question": "Para que é usada a iluminação Zoom?",
+        "answer": "A iluminação Zoom é usada para criar condições de iluminação ideais para videoconferência, fotografia, eLearning e várias aplicações profissionais onde iluminação adequada é essencial."
+      },
+      {
+        "question": "Como usar a iluminação Zoom para chamadas de vídeo?",
+        "answer": "Simplesmente abra nossa tela de iluminação Zoom e ajuste a temperatura de cor e brilho para criar a iluminação perfeita para suas chamadas de vídeo. A iluminação quente e ajustável ajuda a melhorar sua aparência na câmera."
+      },
+      {
+        "question": "Posso usar a iluminação Zoom para fotografia?",
+        "answer": "Sim! Nossa tela de iluminação Zoom fornece configurações ajustáveis de cor e temperatura que são perfeitas para fundos fotográficos e criar condições de iluminação ideais para suas sessões de fotos."
+      },
+      {
+        "question": "Por que usar a iluminação Zoom para eLearning?",
+        "answer": "Iluminação adequada é crucial para ambientes de eLearning. Nossa tela de iluminação Zoom cria condições ideais de leitura e ajuda a reduzir a tensão ocular, melhorando a concentração e resultados de aprendizado."
+      },
+      {
+        "question": "A iluminação Zoom é boa para desenvolvimento web?",
+        "answer": "Sim, desenvolvedores web podem usar nossa tela de iluminação Zoom para testar como diferentes condições de iluminação afetam a aparência de seus designs, garantindo que seus sites pareçam ótimos sob vários cenários de iluminação."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificações técnicas",
+    "subtitle": "Detalhes técnicos da iluminação Zoom",
+    "specs": [
+      {
+        "label": "Cor",
+        "value": "#FFFFFF (Branco puro)"
+      },
+      {
+        "label": "Temperatura",
+        "value": "6500K (Luz do dia)"
+      },
+      {
+        "label": "Compatibilidade",
+        "value": "Todos os dispositivos com tela"
+      },
+      {
+        "label": "Aplicação",
+        "value": "Iluminação profissional de vídeo"
+      }
+    ]
+  }
+} 

@@ -1,0 +1,175 @@
+{
+  "hero": {
+    "badge": "Strumento Schermo Rosa",
+    "title": "Schermo Rosa | Strumento Online",
+    "description": "Strumento schermo rosa gratuito e professionale per creazione contenuti, terapia della luce, design visivo e calibrazione colori. Schermo rosa a schermo intero senza pubblicità, perfetto per video YouTube, presentazioni virtuali, rilassamento e benessere. Funziona offline su tutti i dispositivi.",
+    "features": {
+      "noRegistration": "Nessuna registrazione",
+      "worksOffline": "Funziona offline",
+      "allDevices": "Tutti i dispositivi"
+    }
+  },
+  "keywords": "schermo rosa, sfondo rosa, schermo rosa online, colore rosa, dolcezza, relax, creatività",
+  "colorPicker": {
+    "title": "Scegli il tuo colore",
+    "custom": "Personalizzato",
+    "description": "Perfetto per creare un'atmosfera dolce e rilassante",
+    "launchButton": "Avvia schermo rosa"
+  },
+  "colors": {
+    "Black": "Schermo Nero",
+    "White": "Schermo Bianco",
+    "Red": "Schermo Rosso",
+    "Blue": "Schermo Blu",
+    "Green": "Schermo Verde",
+    "Yellow": "Giallo",
+    "Purple": "Viola",
+    "Pink": "Rosa",
+    "Orange": "Arancione",
+    "Zoom Lighting": "Illuminazione Zoom"
+  },
+  "interface": {
+    "livePreview": "Anteprima dal vivo",
+    "clickForFullscreen": "Clicca per schermo intero",
+    "current": "Attuale",
+    "chooseYourColor": "Scegli il tuo colore",
+    "perfectFor": "Perfetto per",
+    "launchPinkScreen": "Avvia Schermo Rosa"
+  },
+  "useCases": {
+    "title": "Le persone utilizzano lo schermo rosa per:",
+    "subtitle": "Scopri i diversi modi di utilizzare il nostro schermo rosa",
+    "description": "Il nostro strumento schermo rosa crea un'atmosfera dolce e rilassante, ideale per il relax e ambienti creativi.",
+    "cases": [
+      {
+        "title": "Sfondo Rosa per la Creazione di Contenuti",
+        "description": "Ottieni senza sforzo uno sfondo rosa per la tua creazione di contenuti online. Questo strumento offre un display rosa a schermo intero perfetto per aggiungere un tocco di colore vibrante ai tuoi video, dirette e presentazioni virtuali.",
+        "icon": "🎬"
+      },
+      {
+        "title": "Facile Terapia della Luce Rosa",
+        "description": "Trasforma il tuo schermo in una sorgente terapeutica di luce rosa. Beneficia degli effetti rilassanti della terapia della luce rosa direttamente dallo schermo del tuo dispositivo. Ideale per il rilassamento, il miglioramento dell'umore e la riduzione dello stress.",
+        "icon": "💆"
+      },
+      {
+        "title": "Ispirazione per il Design Visivo",
+        "description": "Ispira la tua creatività di design con una tela rosa a schermo intero. Il nostro strumento permette ai designer di immergersi nel colore rosa, stimolando idee creative per progetti di design.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Test di Calibrazione del Colore",
+        "description": "Valuta l'accuratezza del colore del tuo schermo con il nostro display rosa. Perfetto per verificare la fedeltà della sfumatura rosa su diversi dispositivi e impostazioni dello schermo.",
+        "icon": "🔧"
+      },
+      {
+        "title": "Display Che Cattura l'Attenzione",
+        "description": "Attira l'attenzione con un display rosa a schermo intero durante presentazioni online, webinar o riunioni virtuali. Usa il nostro strumento per enfatizzare momenti chiave e coinvolgere il tuo pubblico in modo unico.",
+        "icon": "👁️"
+      },
+      {
+        "title": "schermo rosa per creare un'atmosfera",
+        "description": "Mi piace l'atmosfera che il rosa trasmette.",
+        "icon": "🌟"
+      },
+      {
+        "title": "schermo rosa per copiare immagini",
+        "description": "Per copiare un'immagine disegnata da un mio compagno di classe.",
+        "icon": "📋"
+      },
+      {
+        "title": "schermo rosa per realizzare video",
+        "description": "Perché i miei video su YouTube sono migliori con uno schermo rosa.",
+        "icon": "🎥"
+      },
+      {
+        "title": "schermo rosa per chiamate online",
+        "description": "Per aggiungere una luce rosa durante la riunione.",
+        "icon": "📞"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Come usare lo schermo rosa",
+    "subtitle": "Guida semplice per ottenere il massimo dal nostro strumento",
+    "steps": [
+      {
+        "title": "Aprire lo strumento",
+        "description": "Clicca sul pulsante per visualizzare lo schermo rosa a schermo intero"
+      },
+      {
+        "title": "Creare l'atmosfera",
+        "description": "Abbassa le altre fonti di luce per massimizzare l'effetto"
+      },
+      {
+        "title": "Rilassarsi",
+        "description": "Goditi l'atmosfera calmante creata dal colore rosa"
+      }
+    ]
+  },
+  "info": {
+    "title": "Schermo Rosa – Strumento Sfondo a Schermo Intero",
+    "subtitle": "Uno schermo rosa crea un'atmosfera dolce e rilassante, perfetta per il relax e ambienti creativi",
+    "professionalTool": "Strumento Professionale",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Scarica Sfondo Schermo Rosa",
+    "downloadDescription": "Ottieni schermi rosa di alta qualità per le tue esigenze professionali",
+    "hdTitle": "Sfondo Schermo Rosa 1920×1080",
+    "hdDescription": "Immagine rosa a schermo intero pura per creare un'atmosfera dolce, rilassante e creativa",
+    "hdButton": "Scarica HD",
+    "fourKTitle": "Sfondo Schermo Rosa 4K",
+    "fourKDescription": "Immagine schermo rosa ultra HD per ambienti rilassanti e progetti creativi delicati",
+    "fourKButton": "Scarica 4K",
+    "proTipBadge": "Suggerimento Pro",
+    "proTipTitle": "Suggerimento Pro",
+    "proTipDescription": "Il rosa è ideale per creare un'atmosfera calma e benevola, perfetta per spazi di relax e creatività."
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "subtitle": "Risposte alle domande comuni sullo schermo rosa",
+    "description": "Impara come utilizzare il colore rosa per creare spazi di relax e stimolare la creatività dolce.",
+    "questions": [
+      {
+        "question": "Il rosa ha davvero effetti calmanti?",
+        "answer": "Sì, gli studi mostrano che il rosa può ridurre l'aggressività e favorire il rilassamento."
+      },
+      {
+        "question": "Posso usare lo schermo rosa per dormire?",
+        "answer": "La luce rosa soffusa può aiutare a creare un'atmosfera favorevole al sonno."
+      },
+      {
+        "question": "Lo schermo rosa è adatto ai bambini?",
+        "answer": "Assolutamente! Il rosa è un colore calmante, ideale per gli spazi dei bambini."
+      },
+      {
+        "question": "Come combinare il rosa con altri colori?",
+        "answer": "Il rosa si abbina bene con il bianco, il beige e altri toni pastello."
+      },
+      {
+        "question": "Lo schermo rosa è sicuro per gli occhi?",
+        "answer": "Sì, il rosa è generalmente considerato sicuro per gli occhi e può aiutare a ridurre l'affaticamento visivo."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specifiche tecniche",
+    "subtitle": "Dettagli tecnici del nostro strumento schermo rosa",
+    "specs": [
+      {
+        "label": "Colore",
+        "value": "#FFC0CB (Rosa dolce)"
+      },
+      {
+        "label": "Risoluzione",
+        "value": "Si adatta a tutti gli schermi"
+      },
+      {
+        "label": "Compatibilità",
+        "value": "Tutti i browser moderni"
+      },
+      {
+        "label": "Benefici",
+        "value": "Rilassamento e benessere"
+      }
+    ]
+  }
+} 

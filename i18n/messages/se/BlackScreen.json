@@ -1,0 +1,177 @@
+{
+  "hero": {
+    "badge": "Svart Skärm Verktyg",
+    "title": "Svart Skärm | Onlineverktyg",
+    "description": "Onlineverktyg för att visa en svart helskärmssida. Använd för att mörkläggning av en andra skärm utan att stänga av den, för att dölja att datorn är aktiv, för att spara el.",
+    "features": {
+      "noRegistration": "Ingen registrering",
+      "worksOffline": "Fungerar offline",
+      "allDevices": "Alla enheter"
+    }
+  },
+  "keywords": "svart skärm, svart skärm online, skärmrengöring, döda pixlar test, energibesparing, svart bakgrund",
+  "colorPicker": {
+    "title": "Välj din färg",
+    "custom": "Anpassad",
+    "description": "Perfekt för skärmrengöring, pixeltestning och bländningsreduktion",
+    "launchButton": "Starta svart skärm"
+  },
+  "colors": {
+    "Black": "Svart Skärm",
+    "White": "Vit Skärm",
+    "Red": "Röd Skärm",
+    "Blue": "Blå Skärm",
+    "Green": "Grön Skärm",
+    "Yellow": "Gul Skärm",
+    "Purple": "Lila Skärm",
+    "Pink": "Rosa Skärm",
+    "Orange": "Orange Skärm",
+    "Zoom Lighting": "Zoom-belysning"
+  },
+  "interface": {
+    "livePreview": "Live-förhandsvisning",
+    "clickForFullscreen": "Klicka för helskärm",
+    "current": "Aktuell",
+    "chooseYourColor": "Välj din färg",
+    "perfectFor": "Perfekt för",
+    "launchBlackScreen": "Starta Svart Skärm"
+  },
+  "useCases": {
+    "title": "Människor använder svart skärm för:",
+    "subtitle": "Upptäck de olika sätten att använda vår svarta skärm",
+    "description": "Vårt svarta skärmverktyg erbjuder praktiska lösningar för energibesparing och minskning av visuella distraktioner.",
+    "cases": [
+      {
+        "title": "svart skärm för att göra andra skärmen mörk utan att stänga av den",
+        "description": "Snabbt göra en andra skärm mörk utan att stänga av den när du spelar något atmosfäriskt spel eller tittar på en film som visade sig vara värd att göra det för.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "svart skärm för att spara el",
+        "description": "Försöker spara el, minska koldioxidutsläpp.",
+        "icon": "⚡"
+      },
+      {
+        "title": "svart skärm för att dölja att datorn är aktiv",
+        "description": "Att sätta på mina 4 skärmar när jag går och lägger mig, istället för att sätta dem i viloläge.",
+        "icon": "🔒"
+      },
+      {
+        "title": "svart skärm för att rengöra skärmen",
+        "description": "Lättare att se fläckar när jag torkar av skärmen.",
+        "icon": "🧽"
+      },
+      {
+        "title": "svart skärm för att skapa en mörk bakgrund",
+        "description": "Bakgrund för ett spel. Skärmen är för stor, 3440x1440. Gillar inte att spela det så stort, så jag kör 2560x1440. Behöver svarta ramar på båda sidor.",
+        "icon": "🎮"
+      },
+      {
+        "title": "svart skärm för att förhindra inbränning på plasma-TV",
+        "description": "Jag har en gammal plasma-TV. Jag har ingen datorsound så när jag vill spela musik högt, sätter jag på min TV och kopplar den via HDMI. Plasma är mycket känslig för inbränning så istället för att lämna Windows Media Player eller vad som helst på skärmen använder jag svart skärm för att hjälpa till att förhindra inbränning. Jag har använt olika webbplatser. Men de verkar inte vara online särskilt länge.",
+        "icon": "📺"
+      },
+      {
+        "title": "svart skärm för att koncentrera sig under studier",
+        "description": "Att inte stänga av skärmen och koncentrera sig under studier. Min skärm är mycket ljus och det hjälper inte med koncentrationen, en svart skärm fixar det.",
+        "icon": "👁️"
+      },
+      {
+        "title": "svart skärm för att vila ögonen",
+        "description": "Eftersom jag behöver vila ögonen och ha bara en svart skärm även när jag spelar musik på min dator eller vill byta snabbt mellan helt svart och något annat. Det mest värdefulla är kvaliteten på det, färgen och vila och, naturligtvis, att det ska vara lätt att växla in och ut ur helskärmsläge.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Svart skärm för fokus och minimalism",
+        "description": "Omfamna minimalism och minska distraktioner med vårt verktyg för svart skärm. Perfekt för uppgifter som kräver fokus eller för personer som praktiserar digital minimalism.",
+        "icon": "🎯"
+      },
+      {
+        "title": "Svart skärm för energibesparing",
+        "description": "Uttnyttja vårt verktyg för svart skärm som en lösning för energibesparing för OLED och AMOLED-skärmar. Att visa svarta pixlar kan bidra till batteribesparingen.",
+        "icon": "🔋"
+      },
+      {
+        "title": "Svart skärm för digital konst",
+        "description": "Konstnärer kan använda vår helskärmsvarta skärm som en duk för att skapa slående kontraster i digital konst. Svarta bakgrunder kan förbättra djupet och intensiteten i färger.",
+        "icon": "🎨"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Hur man använder svart skärm",
+    "subtitle": "Enkel guide för att få ut det mesta av vårt verktyg",
+    "steps": [
+      "Välj din föredragna färg från paletten",
+      "Klicka på 'Starta'-knappen för att öppna i helskärm",
+      "Använd F11 eller ESC för att lämna helskärmsläge",
+      "Ladda ner bilden i din föredragna upplösning"
+    ]
+  },
+  "info": {
+    "title": "Svart Skärm – Helskärmsbakgrundsverktyg",
+    "subtitle": "En svart skärm gör damm och fläckar synliga för enkel rengöring, hjälper till att upptäcka pixlar och minskar bländning i mörka rum",
+    "professionalTool": "Professionellt verktyg",
+    "downloadReady": "Nedladdning redo",
+    "downloadTitle": "Ladda ner Svart Skärm Bakgrund",
+    "downloadDescription": "Få högkvalitativa svarta skärmar för dina professionella behov",
+    "hdTitle": "1920×1080 Svart Skärm Bakgrund",
+    "hdDescription": "Ren helskärm svart bild för skärmrengöring, döda pixlar testning och ögonkomfort",
+    "hdButton": "Ladda ner HD",
+    "fourKTitle": "4K Svart Skärm Bakgrund",
+    "fourKDescription": "Ultra HD svart skärmbild för bländningsreduktion och skärmtestning",
+    "fourKButton": "Ladda ner 4K",
+    "proTipBadge": "Pro-tips",
+    "proTipTitle": "Pro-tips",
+    "proTipDescription": "Använd svart skärm i kombination med vita eller röda skärmar för att testa ljusstyrka och kontrastrespons på din monitor."
+  },
+  "faq": {
+    "title": "Vanliga frågor",
+    "subtitle": "Svar på vanliga frågor om svart skärm",
+    "description": "Hitta svar på vanliga frågor om att använda vårt svarta skärmverktyg för olika ändamål.",
+    "questions": [
+      {
+        "question": "Vad används ett Svart Skärmverktyg till?",
+        "answer": "Ett Svart Skärmverktyg visar en svart färg i helskärmsläge, vanligtvis använt för skärmtestning, ruh hali panolar, ögonkomfort, innehållsskapande och förbättring av visuell kreativitet."
+      },
+      {
+        "question": "Hur använder jag Svart Skärm för ögonkomfort?",
+        "answer": "Den Svarta Skärmen minskar blått ljus exponering, vilket gör det lättare för dina ögon under nattsurfning eller långa arbetstimmar. Det hjälper till att minska ögonansträngning och förbättra visuell komfort."
+      },
+      {
+        "question": "Kan jag använda Svart Skärm för innehållsskapande?",
+        "answer": "Ja! Den Svarta Skärmen är perfekt för att skapa varma, inbjudande bakgrunder för onlineinnehåll, virtuella klasser eller livestreams. Den lägger till energi och positivitet till ditt innehåll."
+      },
+      {
+        "question": "Varför använda Svart Skärm för skärmtestning?",
+        "answer": "Svart är en utmärkt färg för att testa skärmnoggrannhet och färgkalibrering. Det hjälper till att identifiera färgproblem och finjustera monitorinställningar för optimal visning."
+      },
+      {
+        "question": "Är Svart Skärm bra för kreativitet?",
+        "answer": "Ja, svart är associerat med kreativitet och optimism. En Svart Skärm kan inspirera kreativt tänkande och fungera som en ruh hali panel för designprojekt och konstnärligt arbete."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Tekniska specifikationer",
+    "subtitle": "Tekniska detaljer för vårt svarta skärmverktyg",
+    "specs": [
+      {
+        "label": "Färg",
+        "value": "#000000 (Ren svart)"
+      },
+      {
+        "label": "Upplösning",
+        "value": "Anpassar sig till alla skärmar"
+      },
+      {
+        "label": "Kompatibilitet",
+        "value": "Alla moderna webbläsare"
+      },
+      {
+        "label": "Förbrukning",
+        "value": "Minimal på OLED-skärmar"
+      }
+    ]
+  }
+} 

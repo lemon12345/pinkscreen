@@ -1,0 +1,167 @@
+{
+  "hero": {
+    "badge": "Mor Ekran Aracı",
+    "title": "Mor Ekran | Çevrimiçi araç",
+    "description": "Yaratıcılığı, maneviyatı desteklemek ve gizemli atmosfer yaratmak için çevrimiçi mor ekran. Meditasyon ve sanatsal ilham için mükemmel.",
+    "features": {
+      "noRegistration": "Kayıt yok",
+      "worksOffline": "Çevrimdışı çalışır",
+      "allDevices": "Tüm cihazlar"
+    }
+  },
+  "keywords": "mor ekran, mor arkaplan, mor ekran online, mor renk, yaratıcılık, maneviyat, mistik",
+  "colorPicker": {
+    "title": "Renginizi seçin",
+    "custom": "Özel",
+    "description": "Yaratıcılığa ilham vermek ve mistik atmosfer yaratmak için mükemmel",
+    "launchButton": "Mor ekranı başlat"
+  },
+  "colors": {
+    "Black": "Siyah Ekran",
+    "White": "Beyaz Ekran",
+    "Red": "Kırmızı Ekran",
+    "Blue": "Mavi Ekran",
+    "Green": "Yeşil Ekran",
+    "Yellow": "Sarı Ekran",
+    "Purple": "Mor Ekran",
+    "Pink": "Pembe Ekran",
+    "Orange": "Turuncu Ekran",
+    "Zoom Lighting": "Zoom Aydınlatması"
+  },
+  "interface": {
+    "livePreview": "Canlı önizleme",
+    "clickForFullscreen": "Tam ekran için tıklayın",
+    "current": "Mevcut",
+    "chooseYourColor": "Renginizi seçin",
+    "perfectFor": "İçin mükemmel",
+    "launchPurpleScreen": "Mor Ekranı Başlat"
+  },
+  "useCases": {
+    "title": "İnsanlar mor ekranı şunun için kullanır:",
+    "subtitle": "Mor ekranımızın farklı kullanım yollarını keşfedin",
+    "description": "Mor ekran aracımız yaratıcılığa ve maneviyata ilham vererek mistik ve sofistike bir atmosfer yaratır.",
+    "cases": [
+      {
+        "title": "Wellness Uygulamaları İçin Tam Ekran Mor",
+        "description": "Wellness uygulamanıza sakinleştirici bir mor ekran oluşturmak için aracımızı entegre edin. Bu huzurlu renk, rahatlama ve zihinsel iyilik hali için mükemmeldir.",
+        "icon": "🧘"
+      },
+      {
+        "title": "Aydınlatma Efekti İçin Mor Ekran",
+        "description": "Tam ekran mor gösterim ile dinamik bir aydınlatma efekti oluşturun. Video aramalarınız, sanal etkinlikleriniz veya müzik oturumlarınız için benzersiz bir ambiyans ayarlama konusunda mükemmeldir.",
+        "icon": "💡"
+      },
+      {
+        "title": "Mor Ekran ile Renk Teorisi Çalışması",
+        "description": "Renk teorisi için öğrenme aracı olarak canlı tam ekran mor bir gösterim kullanın. Bu, sanat öğrencilerinin ve tasarımcılarının çalışmalarındaki rengin etkisini ve önemini anlamalarına yardımcı olur.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Mor Tam Ekran ile Ekran Testi",
+        "description": "Monitörlerinizin veya ekranlarınızın renk doğruluğunu, tam ekran mor bir gösterim oluşturan aracımızla kontrol edin. Tasarımcılar, fotoğrafçılar ve videografçılar için esastır.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "Çocukların Öğrenmesi İçin Etkileşimli Mor Gösterim",
+        "description": "Çocukları, tam ekran mor bir gösterimle etkileşimli e-öğrenmeye dahil edin. Cesur renk, hayal gücünü ve odaklanmayı teşvik eder, öğrenme deneyimini artırır.",
+        "icon": "👶"
+      },
+      {
+        "title": "Bir atmosfer yaratmak için mor ekran",
+        "description": "Morun verdiği atmosferi seviyorum",
+        "icon": "💜"
+      },
+      {
+        "title": "Resim kopyalamak için mor ekran",
+        "description": "Sınıf arkadaşımın çizdiği bir resmi kopyalamak için",
+        "icon": "💻"
+      },
+      {
+        "title": "Video yapmak için mor ekran",
+        "description": "YouTube videolarım mor ekranla daha iyi çünkü",
+        "icon": "🎬"
+      },
+      {
+        "title": "Çevrimiçi aramalar için mor ekran",
+        "description": "Toplantı sırasında mor bir parıltı eklemek için.",
+        "icon": "📞"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Mor ekran nasıl kullanılır",
+    "subtitle": "Aracımızdan en iyi şekilde yararlanmak için basit rehber",
+    "steps": [
+      "Paletten tercih ettiğiniz rengi seçin",
+      "Tam ekranda açmak için 'Başlat' butonuna tıklayın",
+      "Tam ekran modundan çıkmak için F11 veya ESC kullanın",
+      "Tercih ettiğiniz çözünürlükte görüntüyü indirin"
+    ]
+  },
+  "info": {
+    "title": "Mor Ekran – Tam Ekran Arkaplan Aracı",
+    "subtitle": "Mor ekran parlaklık ve renk dengesizliklerini tespit etmeye yardımcı olur, ortam aydınlatması ve yaratıcı arka planlar için mükemmel",
+    "professionalTool": "Profesyonel Araç",
+    "downloadReady": "İndirme Hazır",
+    "downloadTitle": "Mor Ekran Arkaplanı İndir",
+    "downloadDescription": "Profesyonel ihtiyaçlarınız için yüksek kaliteli mor ekranlar alın",
+    "hdTitle": "1920×1080 Mor Ekran Arkaplanı",
+    "hdDescription": "Test, ambiyans ve ekran değerlendirmesi için tam ekran mor görüntü",
+    "hdButton": "HD İndir",
+    "fourKTitle": "4K Mor Ekran Arkaplanı",
+    "fourKDescription": "Ortam aydınlatması ve ekran kalibrasyonu için ultra HD derin mor görüntü",
+    "fourKButton": "4K İndir",
+    "proTipBadge": "Pro İpucu",
+    "proTipTitle": "Pro İpucu",
+    "proTipDescription": "Video düzenlerken farklı renk ortamları altında içeriğin nasıl performans gösterdiğini görmek için mor ve beyaz ekranlar arasında geçiş yapmayı deneyin."
+  },
+  "faq": {
+    "title": "Sık sorulan sorular",
+    "subtitle": "Mor ekran hakkında yaygın soruların cevapları",
+    "description": "Mor ekran aracımızı çeşitli amaçlar için kullanma hakkında yaygın soruların cevaplarını bulun.",
+    "questions": [
+      {
+        "question": "Mor Ekran aracı ne için kullanılır?",
+        "answer": "Mor Ekran aracı tam ekran modunda mor renk gösterir, genellikle ekran testi, ruh hali panoları, göz konforu, içerik oluşturma ve görsel yaratıcılığı artırmak için kullanılır."
+      },
+      {
+        "question": "Göz konforu için Mor Ekranı nasıl kullanırım?",
+        "answer": "Mor Ekran mavi ışık maruziyetini azaltır, gece saatlerinde göz atma veya uzun çalışma saatleri sırasında gözlerinizi daha az yorar. Göz yorgunluğunu azaltmaya ve görsel konforu iyileştirmeye yardımcı olur."
+      },
+      {
+        "question": "İçerik oluşturma için Mor Ekranı kullanabilir miyim?",
+        "answer": "Evet! Mor Ekran çevrimiçi içerik, sanal sınıflar veya canlı yayınlar için sıcak, davetkar arka planlar oluşturmak için mükemmeldir. İçeriğinize enerji ve pozitiflik katar."
+      },
+      {
+        "question": "Ekran testi için neden Mor Ekran kullanılır?",
+        "answer": "Mor, ekran doğruluğunu ve renk kalibrasyonunu test etmek için mükemmel bir renktir. Renk sorunlarını tanımlamaya ve optimal görüntüleme için monitör ayarlarını ince ayarlamaya yardımcı olur."
+      },
+      {
+        "question": "Mor Ekran yaratıcılık için iyi mi?",
+        "answer": "Evet, mor yaratıcılık ve iyimserlikle ilişkilendirilir. Mor Ekran yaratıcı düşünceyi ilham verebilir ve tasarım projeleri ve sanatsal çalışmalar için bir ruh hali panosu olarak hizmet edebilir."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Teknik özellikler",
+    "subtitle": "Mor ekran aracımızın teknik detayları",
+    "specs": [
+      {
+        "label": "Renk",
+        "value": "#800080 (Kraliyet moru)"
+      },
+      {
+        "label": "Çözünürlük",
+        "value": "Tüm ekranlara uyum sağlar"
+      },
+      {
+        "label": "Uyumluluk",
+        "value": "Tüm modern tarayıcılar"
+      },
+      {
+        "label": "Etki",
+        "value": "Yaratıcı ve ruhani"
+      }
+    ]
+  }
+} 

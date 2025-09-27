@@ -1,0 +1,207 @@
+{
+  "hero": {
+    "badge": "Beyaz Ekran Aracı",
+    "title": "Beyaz Ekran | Çevrimiçi araç",
+    "description": "Çevrimiçi araç. Yakınlaştırma çağrıları için veya monitörü test etmek, çizimleri kopyalamak, bir flipbook yapmak için bir ışık kaynağı olarak kullanın.",
+    "features": {
+      "noRegistration": "Kayıt yok",
+      "worksOffline": "Çevrimdışı çalışır",
+      "allDevices": "Tüm cihazlar"
+    }
+  },
+  "keywords": "beyaz ekran, beyaz sayfa, beyaz ekran online, ekran temizliği, piksel testi, zoom aydınlatma, beyaz arkaplan",
+  "colorPicker": {
+    "title": "Renginizi seçin",
+    "custom": "Özel",
+    "description": "Ekran temizliği, piksel testi ve aydınlatma iyileştirmesi için mükemmel",
+    "launchButton": "Beyaz ekranı başlat"
+  },
+  "colors": {
+    "Black": "Siyah Ekran",
+    "White": "Beyaz Ekran",
+    "Red": "Kırmızı Ekran",
+    "Blue": "Mavi Ekran",
+    "Green": "Yeşil Ekran",
+    "Yellow": "Sarı Ekran",
+    "Purple": "Mor Ekran",
+    "Pink": "Pembe Ekran",
+    "Orange": "Turuncu Ekran",
+    "Zoom Lighting": "Zoom Aydınlatması"
+  },
+  "interface": {
+    "livePreview": "Canlı önizleme",
+    "clickForFullscreen": "Tam ekran için tıklayın",
+    "current": "Mevcut",
+    "chooseYourColor": "Renginizi seçin",
+    "perfectFor": "İçin mükemmel",
+    "launchWhiteScreen": "Beyaz Ekranı Başlat"
+  },
+  "useCases": {
+    "title": "Beyaz Ekran şu durumlarda kullanılır:",
+    "subtitle": "Beyaz ekranımızın farklı kullanım yollarını keşfedin",
+    "description": "Beyaz ekran aracımız çeşitli endüstri ve senaryolarda birden fazla profesyonel ve kişisel amaca hizmet eder.",
+    "cases": [
+      {
+        "title": "zoom görüşmeleri için ışıklandırma",
+        "description": "Video görüşmeleri için! Ring light yerine ikinci ekranınızı kullanarak yüzünüzü aydınlatabilirsiniz",
+        "icon": "📹"
+      },
+      {
+        "title": "çizimleri kopyalamak",
+        "description": "Bir resmi daha kolay yeniden çizebilmek için kağıdın altında parlak bir şeye ihtiyacım vardı.",
+        "icon": "📝"
+      },
+      {
+        "title": "ışık kaynağı olarak",
+        "description": "Ürün fotoğrafçılığı için bir ışık kutusunun arkasını aydınlatmak",
+        "icon": "💡"
+      },
+      {
+        "title": "monitörü kontrol etmek için",
+        "description": "Monitörünüzü kontrol edin ve ölü pikselleri bulun.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "boş ekrana",
+        "description": "Bozulmak istemiyor musun? Fren yapmak ister misin? Ekranınızı boşaltmak için beyaz bir ekran kullanın.",
+        "icon": "🚫"
+      },
+      {
+        "title": "okumak için ışık",
+        "description": "Bir ışık kaynağı elde etmek ve oda karanlıkken ve ışık düğmesi çok uzaktayken kitap okuyabilmek.",
+        "icon": "📖"
+      },
+      {
+        "title": "makyaj için hafif",
+        "description": "Makyaj yapmak veya fotoğraf çekmek için parlak bir ışık kaynağı olarak",
+        "icon": "💄"
+      },
+      {
+        "title": "monitörü temizlemek için",
+        "description": "Aptalca, ama monitör temizliği için kullanıyorum. Ekrandaki şeyleri belirginleştirir. :) Farklı monitörler için düz renk üretimini doğrulamak için de kullanıyorum, ancak bu nadiren ortaya çıkıyor ve profesyonel renk derecelendirmesi aramıyorum.",
+        "icon": "🧽"
+      },
+      {
+        "title": "toz aramak",
+        "description": "Monitörümü temizlemek ve ayrıca ölü/sıkışmış pikselleri kontrol etmek için tutarlı bir zemin. Ayrıca bazen bir web kamerası kullanırken yüzümü aydınlatmak için.",
+        "icon": "🔍"
+      },
+      {
+        "title": "sinek yakalamak",
+        "description": "Ekranımdaki beyaz ekrana çekildikleri için küçük sinekleri yakalıyordum.",
+        "icon": "🪰"
+      },
+      {
+        "title": "flipbook yapmak",
+        "description": "Animasyonlu bir sekans üzerinde çalışıyorum ve bunu geleneksel yolla (elle) yapıyorum, bu yüzden bir kağıt parçasını diğerinin üzerine koymama ve her ikisini de görebilmeme izin veren ışıklı beyaz bir yüzeye ihtiyacım var. Bunun için profesyonel bir ekranım olmadığı için bilgisayarımı kullanıyorum ve beyaz ekranı üzerine koyuyorum ki yanlışlıkla hiçbir şeye dokunmayayım",
+        "icon": "📚"
+      },
+      {
+        "title": "kendine odaklanmak",
+        "description": "Ders çalışırken biri zamanlayıcılı, diğeri internette ihtiyacım olan her şeyi aramak için 2 ekran kullanıyorum. Arama yapmadığımda bilgisayardaki hiçbir şey dikkatimi dağıtmamak için beyaz ekranı koyarım",
+        "icon": "🎯"
+      },
+      {
+        "title": "monitör ayarlarınızı yapılandırmak için",
+        "description": "İkincil monitörümde ayarları değiştirirken kullanışlıdır (oldukça eski olduğundan, yalnızca varsayılan olarak olması gerektiği gibi ayarlamaz). Dikey/yatay konum ve dikey/yatay ölçek gibi ayarlar. Ayrıca ölü pikselleri ararken de kullanışlıdır.",
+        "icon": "⚙️"
+      },
+      {
+        "title": "gece çizmek",
+        "description": "Kağıt üzerine çizim yapıyorsam, ekran çizim tabletimin üzerine kağıt koyabilir ve geceleri ne çizdiğimi görebilirim.",
+        "icon": "✏️"
+      },
+      {
+        "title": "Beyaz Ekran Aydınlatma İçin",
+        "description": "Ekranınızı beyaz ekran aracımızla basit ve etkili bir ışık kaynağına dönüştürün. Video çağrıları veya ek aydınlatmanın gerektiği fotoğrafçılık için mükemmeldir.",
+        "icon": "💡"
+      },
+      {
+        "title": "Görsel Saflık İçin Beyaz Ekran",
+        "description": "Tam ekran beyaz gösterimimizi kullanarak saf, temiz ve rahatlatıcı bir görsel ortam yaşayın. Görsel dağınıklıklar olmadan rahatlama, meditasyon veya görevlere odaklanma için idealdir.",
+        "icon": "✨"
+      },
+      {
+        "title": "Tasarım Çalışması İçin Beyaz Ekran",
+        "description": "Tasarım, çizim veya herhangi bir yaratıcı faaliyet için beyaz ekran aracımızı boş bir tuval olarak kullanın. Boş bir beyaz ekran, yaratıcılığınızın engelsiz akmasını sağlar.",
+        "icon": "🎨"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Beyaz ekran nasıl kullanılır",
+    "subtitle": "Aracımızdan en iyi şekilde yararlanmak için basit rehber",
+    "steps": [
+      "Paletten tercih ettiğiniz rengi seçin",
+      "Tam ekranda açmak için 'Başlat' butonuna tıklayın",
+      "Tam ekran modundan çıkmak için F11 veya ESC kullanın",
+      "Tercih ettiğiniz çözünürlükte görüntüyü indirin"
+    ]
+  },
+  "info": {
+    "title": "Beyaz Ekran – Tam Ekran Arkaplan Aracı",
+    "subtitle": "Temiz, dikkat dağıtıcı olmayan tam ekran beyaz ekran aracı. Monitörünüzü temizlemek, pikselleri test etmek, Zoom aydınlatmasını iyileştirmek veya odaklanmanıza yardımcı olmak için mükemmel.",
+    "professionalTool": "Profesyonel Araç",
+    "downloadReady": "İndirme Hazır",
+    "downloadTitle": "Beyaz Arkaplan İndir",
+    "downloadDescription": "Statik beyaz görüntü tercih ediyor musunuz? Yüksek çözünürlüklü PNG'lerimizden birini kullanın:",
+    "hdTitle": "1920×1080 Beyaz Ekran Arkaplanı",
+    "hdDescription": "Temizlik, odaklanma ve Zoom aydınlatması için saf tam ekran beyaz görüntü",
+    "hdButton": "HD İndir",
+    "fourKTitle": "4K Beyaz Ekran Arkaplanı",
+    "fourKDescription": "Aydınlatma, temizlik ve piksel testi için ultra HD çözünürlükte saf tam ekran beyaz ekran görüntüsü",
+    "fourKButton": "4K İndir",
+    "proTipBadge": "Pro İpucu",
+    "proTipTitle": "Pro İpucu",
+    "proTipDescription": "Yüzünüzü eşit şekilde aydınlatan yumuşak aydınlatma için Zoom çağrılarınız veya fotoğraf seanslarınız sırasında beyaz ekranı kullanın!"
+  },
+  "faq": {
+    "title": "Sık sorulan sorular",
+    "subtitle": "Beyaz ekran hakkında yaygın soruların cevapları",
+    "description": "Beyaz ekran aracımız ve çeşitli uygulamaları hakkında yaygın soruların cevaplarını bulun.",
+    "questions": [
+      {
+        "question": "Beyaz ekran aracı ne için kullanılır?",
+        "answer": "Beyaz ekran aracı tam ekran modunda beyaz renk gösterir, genellikle monitör testi, fotoğrafçılık aydınlatması, okuma ve çeşitli amaçlar için temiz arkaplan oluşturmak için kullanılır."
+      },
+      {
+        "question": "Monitör testi için beyaz ekranı nasıl kullanırım?",
+        "answer": "Beyaz ekran ölü pikselleri tespit etmek, kir noktalarını bulmak ve monitör kalibrasyonunu kontrol etmek için mükemmeldir. Sadece beyaz ekranı tam ekran modunda başlatın ve ekranınızı dikkatli bir şekilde inceleyin."
+      },
+      {
+        "question": "Fotoğrafçılık için beyaz ekranı kullanabilir miyim?",
+        "answer": "Evet! Beyaz ekran ürün fotoğrafçılığı, temiz arkaplan oluşturma ve fotoğraflarınız için tutarlı aydınlatma sağlama konusunda mükemmeldir."
+      },
+      {
+        "question": "Okuma için neden beyaz ekran kullanılır?",
+        "answer": "Beyaz ışık metin okuma için iyi kontrast sağlar, düşük ışık koşullarında kitap veya belge okurken gözlerinizi daha az yorar."
+      },
+      {
+        "question": "Beyaz ekran odaklanma için iyi mi?",
+        "answer": "Evet, beyaz ekran dikkat dağıtıcıları ortadan kaldırarak odaklanmanıza yardımcı olabilir. Çalışırken konsantrasyonlarını korumak isteyen öğrenciler ve profesyoneller tarafından yaygın olarak kullanılır."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Teknik özellikler",
+    "subtitle": "Beyaz ekran aracımızın teknik detayları",
+    "specs": [
+      {
+        "label": "Renk",
+        "value": "#FFFFFF (Saf beyaz)"
+      },
+      {
+        "label": "Çözünürlük",
+        "value": "Tüm ekranlara uyum sağlar"
+      },
+      {
+        "label": "Uyumluluk",
+        "value": "Tüm modern tarayıcılar"
+      },
+      {
+        "label": "Performans",
+        "value": "Düşük tüketim için optimize edilmiş"
+      }
+    ]
+  }
+} 

@@ -1,0 +1,170 @@
+{
+  "hero": {
+    "badge": "Herramienta de Pantalla Roja",
+    "title": "Pantalla Roja | Herramienta en Línea",
+    "description": "Pantalla roja a pantalla completa para mejorar el enfoque, probar píxeles de pantalla o crear luz ambiental. Funciona en todos los dispositivos. Gratis y sin anuncios.",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Sin Conexión",
+      "allDevices": "Todos los Dispositivos"
+    }
+  },
+  "keywords": "pantalla roja, pantalla roja brillante, pantalla roja completa, pantalla roja",
+  "colorPicker": {
+    "title": "Elige Tu Color",
+    "custom": "Personalizado",
+    "description": "Perfecto para pruebas de monitor, iluminación fotográfica y presentaciones",
+    "launchButton": "Lanzar Página Roja"
+  },
+  "colors": {
+    "Black": "Pantalla Negra",
+    "White": "Pantalla Blanca",
+    "Red": "Pantalla Roja",
+    "Blue": "Pantalla Azul",
+    "Green": "Pantalla Verde",
+    "Yellow": "Pantalla Amarilla",
+    "Purple": "Pantalla Morada",
+    "Pink": "Pantalla Rosa",
+    "Orange": "Pantalla Naranja",
+    "Zoom Lighting": "Iluminación Zoom"
+  },
+  "interface": {
+    "livePreview": "Vista Previa en Vivo",
+    "clickForFullscreen": "Haz Clic para Pantalla Completa",
+    "current": "Actual",
+    "chooseYourColor": "Elige Tu Color",
+    "perfectFor": "Perfecto para",
+    "launchRedScreen": "Lanzar Pantalla Roja"
+  },
+  "useCases": {
+    "title": "Pantalla roja se usa para:",
+    "description": "Nuestra herramienta de pantalla roja sirve para múltiples propósitos profesionales y personales en varias industrias y escenarios.",
+    "cases": [
+      {
+        "icon": "🎬",
+        "title": "Pantalla Roja para Cine y Fotografía",
+        "description": "Utiliza nuestra pantalla roja para experimentar con filtros de color y efectos en cine y fotografía. El vibrante fondo rojo puede añadir un toque dramático a tus composiciones."
+      },
+      {
+        "icon": "👁️",
+        "title": "Pantalla Roja para la Salud Ocular",
+        "description": "Nuestra herramienta de pantalla roja puede ser utilizada para disminuir el impacto de la luz azul, ayudando en el confort y la salud ocular, particularmente en condiciones de poca luz o antes de dormir."
+      },
+      {
+        "icon": "",
+        "title": "Pantalla Roja para Eventos Virtuales",
+        "description": "Crea un ambiente cautivador para eventos virtuales con nuestra pantalla roja de pantalla completa. Puede establecer un tono y un estado de ánimo distintivo para tus reuniones."
+      },
+      {
+        "icon": "🎨",
+        "title": "Pantalla Roja para Diseño Gráfico",
+        "description": "Los diseñadores gráficos pueden aprovechar nuestra herramienta de pantalla roja para crear diseños audaces e impactantes. El color rojo puede evocar emociones fuertes y captar la atención del espectador."
+      },
+      {
+        "icon": "📚",
+        "title": "Pantalla Roja para Presentaciones Temáticas",
+        "description": "Los educadores y presentadores pueden usar nuestra pantalla roja para crear presentaciones temáticas, destacando puntos importantes y captando el interés del público."
+      },
+      {
+        "icon": "📱",
+        "title": "pantalla roja brillante para hacer tiktoks",
+        "description": "Porque tengo luces LED azules encendidas y coincide perfectamente haciendo que mi cara o una parte de mi cara sea roja y dejando las luces azules detrás de mí. La verdad, me gustó la pantalla roja, es genial para hacer tiktoks o fotos y editarlas para que parezcan profesionales."
+      },
+      {
+        "icon": "💻",
+        "title": "pantalla roja para llamadas online",
+        "description": "Para la corrección de colorcast al usar Google Meets."
+      },
+      {
+        "icon": "🌙",
+        "title": "pantalla roja para preservar la visión nocturna",
+        "description": "No es dura para los ojos, especialmente al salir de una zona oscura."
+      },
+      {
+        "icon": "📖",
+        "title": "pantalla roja para leer libros",
+        "description": "Para leer un libro con menos luz azul."
+      },
+      {
+        "icon": "🔧",
+        "title": "pantalla roja para arreglar el proyector",
+        "description": "Ayuda a corregir el keystoning del proyector."
+      },
+      {
+        "icon": "😄",
+        "title": "luz roja para hacer bromas",
+        "description": "Para gastar una broma a mis amigos y decir que tengo LEDs."
+      }
+    ]
+  },
+  "info": {
+    "title": "Pantalla Roja – Herramienta de Fondo de Pantalla Completa",
+    "subtitle": "Una pantalla roja puede estimular el enfoque y la agudeza mental, perfecta para pruebas de píxeles e iluminación dramática",
+    "professionalTool": "Herramienta Profesional",
+    "downloadReady": "Descarga Lista",
+    "downloadTitle": "Descargar Fondo de Pantalla Roja",
+    "downloadDescription": "Obtén pantallas rojas de alta calidad para tus necesidades profesionales",
+    "hdTitle": "1920×1080 Fondo de Pantalla Roja",
+    "hdDescription": "Imagen roja pura a pantalla completa para pruebas de píxeles, enfoque e iluminación de ambiente",
+    "hdButton": "Descargar HD",
+    "fourKTitle": "4K Fondo de Pantalla Roja",
+    "fourKDescription": "Imagen roja a pantalla completa ultra HD para iluminación audaz y diagnósticos visuales",
+    "fourKButton": "Descargar 4K",
+    "proTipBadge": "Consejo Pro",
+    "proTipTitle": "Consejo Pro",
+    "proTipDescription": "Usa la pantalla roja en combinación con pantallas negras o blancas para alternar el brillo en pruebas de contraste profundo."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "description": "Encuentra respuestas a preguntas comunes sobre el uso de nuestra herramienta de pantalla roja para diversos propósitos.",
+    "questions": [
+      {
+        "question": "¿Para qué se usa una herramienta de pantalla roja?",
+        "answer": "Una herramienta de pantalla roja muestra un color rojo en modo pantalla completa, comúnmente usado para pruebas de pantalla, tableros de humor, comodidad ocular, creación de contenido y mejora de la creatividad visual."
+      },
+      {
+        "question": "¿Cómo uso la pantalla roja para comodidad ocular?",
+        "answer": "La pantalla roja reduce la exposición a la luz azul, haciéndola más fácil para tus ojos durante la navegación nocturna o largas horas de trabajo. Ayuda a reducir la fatiga visual y mejorar la comodidad visual."
+      },
+      {
+        "question": "¿Puedo usar la pantalla roja para creación de contenido?",
+        "answer": "¡Sí! La pantalla roja es perfecta para crear fondos cálidos e invitadores para contenido en línea, clases virtuales o transmisiones en vivo. Añade energía y positividad a tu contenido."
+      },
+      {
+        "question": "¿Por qué usar pantalla roja para pruebas de pantalla?",
+        "answer": "El rojo es un color excelente para probar la precisión de la pantalla y la calibración del color. Ayuda a identificar problemas de color y ajustar la configuración del monitor para una visualización óptima."
+      },
+      {
+        "question": "¿La pantalla roja es buena para la creatividad?",
+        "answer": "Sí, el rojo está asociado con la creatividad y el optimismo. Una pantalla roja puede inspirar el pensamiento creativo y servir como un tablero de humor para proyectos de diseño y trabajo artístico."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "prankScreens": "Pantallas de Broma",
+    "fakeUpdateScreens": "Pantallas de Actualización Falsa",
+    "screensaverScreens": "Pantallas de Protector de Pantalla"
+  },
+  "howToUse": {
+    "title": "Cómo Usar",
+    "steps": [
+      "Elige tu color preferido de la paleta",
+      "Haz clic en el botón 'Lanzar' para abrir en pantalla completa",
+      "Usa F11 o ESC para salir del modo pantalla completa",
+      "Descarga la imagen en tu resolución preferida"
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificaciones Técnicas",
+    "specs": [
+      "Resolución: Hasta 8K (7680x4320)",
+      "Profundidad de Color: 24-bit RGB",
+      "Formato: PNG, JPEG, WebP",
+      "Compatibilidad: Todos los navegadores modernos",
+      "Funcionalidad Offline: Completamente disponible"
+    ]
+  }
+}

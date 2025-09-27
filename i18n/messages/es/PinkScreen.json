@@ -1,0 +1,159 @@
+{
+  "hero": {
+    "badge": "Herramienta de Pantalla Rosa",
+    "title": "Pantalla Rosa | En Línea",
+    "description": "Pantalla rosa en modo completo para crear ambientes calmados, usar como fondo cálido o hacer pruebas visuales. Color rosado puro, sin distracciones.",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Sin Conexión",
+      "allDevices": "Todos los Dispositivos"
+    }
+  },
+  "keywords": "pantalla rosa, pantalla rosa en blanco, una pantalla rosa, pantallas en blanco, pantalla rosa completa, pantalla rosa de pc, pantalla rosa de computadora, pantalla rosa total, pantalla rosa simple, pantalla rosa 10 horas, pantalla rosa, pantalla de computadora en blanco, completo pantalla rosa, pantalla rosa total",
+  "colorPicker": {
+    "title": "Elige Tu Color",
+    "custom": "Personalizado",
+    "description": "Perfecto para pruebas de monitor, iluminación fotográfica y presentaciones",
+    "launchButton": "Lanzar Página Rosa"
+  },
+  "colors": {
+    "Black": "Pantalla Negra",
+    "White": "Pantalla Blanca",
+    "Red": "Pantalla Roja",
+    "Blue": "Pantalla Azul",
+    "Green": "Pantalla Verde",
+    "Yellow": "Pantalla Amarilla",
+    "Purple": "Pantalla Morada",
+    "Pink": "Pantalla Rosa",
+    "Orange": "Pantalla Naranja",
+    "Zoom Lighting": "Iluminación Zoom"
+  },
+  "interface": {
+    "livePreview": "Vista Previa en Vivo",
+    "clickForFullscreen": "Haz Clic para Pantalla Completa",
+    "current": "Actual",
+    "chooseYourColor": "Elige Tu Color",
+    "perfectFor": "Perfecto para",
+    "launchPinkScreen": "Lanzar Pantalla Rosa"
+  },
+  "useCases": {
+    "title": "La gente usa la pantalla rosa para:",
+    "description": "Nuestra herramienta de pantalla rosa sirve múltiples propósitos profesionales y personales en varias industrias y escenarios.",
+    "cases": [
+      {
+        "icon": "",
+        "title": "Fondo Rosa para la Creación de Contenido",
+        "description": "Logra sin esfuerzo un fondo rosa para la creación de tu contenido en línea. Esta herramienta ofrece una pantalla rosa de pantalla completa, perfecta para agregar un toque vibrante de color a tus videos, transmisiones en vivo y presentaciones virtuales."
+      },
+      {
+        "icon": "💡",
+        "title": "Fácil Terapia de Luz Rosa",
+        "description": "Transforma tu pantalla en una fuente de luz rosa terapéutica. Benefíciate de los efectos calmantes de la terapia de luz rosa directamente desde la pantalla de tu dispositivo. Ideal para la relajación, la mejora del estado de ánimo y la reducción del estrés."
+      },
+      {
+        "icon": "",
+        "title": "Inspiración de Diseño Visual",
+        "description": "Inspira tu creatividad de diseño con un lienzo rosa de pantalla completa. Nuestra herramienta permite a los diseñadores sumergirse en el color rosa, estimulando ideas creativas para proyectos de diseño."
+      },
+      {
+        "icon": "",
+        "title": "Prueba de Calibración de Color",
+        "description": "Evalúa la precisión del color de tu pantalla con la pantalla rosa de nuestra herramienta. Perfecto para verificar la fidelidad del tono rosa en diferentes dispositivos y configuraciones de pantalla."
+      },
+      {
+        "icon": "",
+        "title": "Pantalla que Capta la Atención",
+        "description": "Capta la atención con una pantalla rosa de pantalla completa durante presentaciones en línea, webinars o reuniones virtuales. Utiliza nuestra herramienta para enfatizar momentos clave y comprometer a tu audiencia de una manera única."
+      },
+      {
+        "icon": "",
+        "title": "pantalla rosa para crear un ambiente",
+        "description": "Me gusta el ambiente que proporciona el rosa"
+      },
+      {
+        "icon": "",
+        "title": "pantalla rosa para copiar imagen",
+        "description": "Para copiar una imagen que dibujó mi compañero de clase"
+      },
+      {
+        "icon": "",
+        "title": "pantalla rosa para hacer videos",
+        "description": "Porque mis videos de YouTube son mejores con una pantalla rosa"
+      },
+      {
+        "icon": "",
+        "title": "pantalla rosa para llamadas en línea",
+        "description": "Para agregar un brillo rosa durante la reunión."
+      }
+    ]
+  },
+  "info": {
+    "title": "Pantalla Rosa – Herramienta de Fondo de Pantalla Completa",
+    "subtitle": "Experimenta el equilibrio perfecto entre calidez y profesionalismo con nuestra herramienta avanzada de pantalla rosa",
+    "professionalTool": "Herramienta Profesional",
+    "downloadReady": "Descarga Lista",
+    "downloadTitle": "Descargar Fondo de Pantalla Rosa",
+    "downloadDescription": "Obtén pantallas rosas de alta calidad para tus necesidades profesionales",
+    "hdTitle": "1920×1080 HD",
+    "hdDescription": "Resolución HD estándar perfecta para la mayoría de pantallas, streaming y uso diario",
+    "hdButton": "Descargar HD",
+    "fourKTitle": "3840×2160 4K",
+    "fourKDescription": "Resolución Ultra HD para uso profesional, pantallas de alta gama y contenido premium",
+    "fourKButton": "Descargar 4K",
+    "proTipBadge": "Consejo Pro",
+    "proTipTitle": "Uso Profesional Creativo",
+    "proTipDescription": "Usa pantallas rosas en tus configuraciones creativas para añadir un tono visual único y elegante en fotografía o fondos de livestream. El tono cálido crea una atmósfera acogedora mientras mantiene la calidad profesional de tu contenido."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "questions": [
+      {
+        "question": "¿Para qué se usa una herramienta de pantalla rosa?",
+        "answer": "Una herramienta de pantalla rosa muestra un color rosa en modo de pantalla completa, comúnmente usado para limpieza de monitor, encontrar píxeles muertos, crear contenido calmante, relajar la tensión ocular y pruebas completas de pantalla."
+      },
+      {
+        "question": "¿Cómo uso la pantalla rosa para limpieza de monitor?",
+        "answer": "La pantalla rosa hace fácil detectar polvo, suciedad y píxeles muertos en tu monitor. Simplemente muestra la pantalla rosa y examina cuidadosamente tu pantalla en busca de cualquier imperfección."
+      },
+      {
+        "question": "¿Puedo usar la pantalla rosa para creación de contenido?",
+        "answer": "¡Sí! La pantalla rosa es perfecta para crear fondos calmantes para contenido en línea, videollamadas o como papel tapiz relajante de escritorio. Añade un toque suave y pacífico a tu contenido."
+      },
+      {
+        "question": "¿Por qué usar pantalla rosa para aliviar la tensión ocular?",
+        "answer": "El rosa es un color relajante que es más fácil para los ojos que la luz blanca brillante o azul. Ayuda a reducir la tensión ocular durante sesiones largas de trabajo o navegación nocturna."
+      },
+      {
+        "question": "¿La pantalla rosa es buena para pruebas de proyector?",
+        "answer": "Sí, el rosa es un color excelente para pruebas y calibración de proyector. Ayuda con las pruebas de precisión de color y puede revelar cualquier problema de color con tu sistema de proyección."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "prankScreens": "Pantallas de Broma",
+    "fakeUpdateScreens": "Pantallas de Actualización Falsa",
+    "screensaverScreens": "Pantallas de Protector de Pantalla"
+  },
+  "howToUse": {
+    "title": "Cómo Usar",
+    "steps": [
+      "Elige tu color preferido de la paleta",
+      "Haz clic en el botón 'Lanzar' para abrir en pantalla completa",
+      "Usa F11 o ESC para salir del modo pantalla completa",
+      "Descarga la imagen en tu resolución preferida"
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificaciones Técnicas",
+    "specs": [
+      "Resolución: Hasta 8K (7680x4320)",
+      "Profundidad de Color: 24-bit RGB",
+      "Formato: PNG, JPEG, WebP",
+      "Compatibilidad: Todos los navegadores modernos",
+      "Funcionalidad Offline: Completamente disponible"
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "hero": {
+    "badge": "Oświetlenie Zoom",
+    "title": "Oświetlenie Zoom | Narzędzie Online",
+    "description": "Użyj tego pełnoekranowego białego ekranu, aby oświetlić swoją twarz podczas połączeń Zoom, filmów YouTube lub sesji fotograficznych. Czyste, szybkie i bez reklam.",
+    "features": {
+      "noRegistration": "Bez rejestracji",
+      "worksOffline": "Działa offline",
+      "allDevices": "Wszystkie urządzenia"
+    }
+  },
+  "keywords": "najlepsze oświetlenie do rozmów Zoom, oświetlenie Zoom, oświetlenie do spotkań Zoom, światło do spotkań Zoom, oświetlenie wideokonferencji, najlepsze światło do spotkań Zoom, zestaw oświetlenia Zoom, najlepsze oświetlenie Zoom, najlepsze światło do wideokonferencji",
+  "colorPicker": {
+    "title": "Wybierz swój kolor",
+    "custom": "Niestandardowy",
+    "description": "Idealny do wideokonferencji, tła fotograficznego i tworzenia optymalnych warunków oświetlenia",
+    "launchButton": "Uruchom oświetlenie Zoom"
+  },
+  "colors": {
+    "Black": "Czarny",
+    "White": "Biały",
+    "Red": "Czerwony",
+    "Blue": "Niebieski",
+    "Green": "Zielony",
+    "Yellow": "Żółty",
+    "Purple": "Fioletowy",
+    "Pink": "Różowy",
+    "Orange": "Pomarańczowy",
+    "Zoom Lighting": "Oświetlenie Zoom"
+  },
+  "interface": {
+    "livePreview": "Podgląd na żywo",
+    "clickForFullscreen": "Kliknij, aby przejść na pełny ekran",
+    "current": "Aktualny",
+    "chooseYourColor": "Wybierz swój kolor",
+    "perfectFor": "Idealny do",
+    "launchZoomLighting": "Uruchom Oświetlenie Zoom"
+  },
+  "useCases": {
+    "title": "Ludzie używają oświetlenia Zoom do:",
+    "subtitle": "Odkryj, jak poprawić swoje oświetlenie wideo",
+    "description": "Nasze narzędzie oświetlenia Zoom służy wielu profesjonalnym i osobistym celom w różnych branżach i scenariuszach.",
+    "cases": [
+      {
+        "title": "Dostosowane oświetlenie do wideokonferencji",
+        "description": "Korzystaj z naszego narzędzia do oświetlenia ekranu Zoom, aby stworzyć idealne ustawienie oświetlenia do wideorozmów. Dzięki regulowanemu kolorowi i temperaturze możesz osiągnąć profesjonalny poziom oświetlenia wideokonferencji bez wysiłku.",
+        "icon": "💡"
+      },
+      {
+        "title": "Tło do fotografii z ekranem oświetlenia Zoom",
+        "description": "Wzbogać swoje ustawienie fotograficzne naszym regulowanym ekranem oświetlenia Zoom. Dostosuj kolor i temperaturę do nastroju twojego zdjęcia i stwórz zachwycające obrazy.",
+        "icon": "📸"
+      },
+      {
+        "title": "Popraw doświadczenie z e-learningiem dzięki optymalnemu oświetleniu",
+        "description": "Dzięki naszemu ekranowi oświetleniowemu Zoom stwórz sprzyjające środowisko do e-learningu. Dostosowywane ustawienia światła zapewniają optymalny komfort czytania i poprawiają koncentrację.",
+        "icon": "🎓"
+      },
+      {
+        "title": "Narzędzie testowe oświetlenia dla deweloperów stron internetowych",
+        "description": "Deweloperzy stron internetowych mogą używać naszego pełnoekranowego ekranu oświetlenia Zoom do testowania, jak różne temperatury i kolory światła wpływają na wygląd ich projektów, pomagając tworzyć wizualnie angażujące i dostępne strony internetowe.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "Terapia kolorami z ekranem oświetlenia Zoom",
+        "description": "Terapeuci i trenerzy wellness mogą wykorzystać nasz ekran oświetleniowy Zoom z regulowanym kolorem i temperaturą do sesji terapii kolorami, promując relaksację i leczenie.",
+        "icon": "🧘"
+      },
+      {
+        "title": "biały ekran jako oświetlenie do rozmów na Zoom",
+        "description": "Do wideorozmów! Nie mam łatwego pierścienia świetlnego, ale mam dwa ekrany. Mogę więc używać jednego z ekranów, aby oświetlić moją twarz!",
+        "icon": "📹"
+      },
+      {
+        "title": "oświetlenie Zoom, aby uzyskać jasność",
+        "description": "Używam go, aby uzyskać jasność podczas rozmowy wideo.",
+        "icon": "✨"
+      },
+      {
+        "title": "oświetlenie Zoom do oświetlenia",
+        "description": "Do oświetlenia podczas korzystania z połączeń wideokonferencyjnych.",
+        "icon": "💡"
+      },
+      {
+        "title": "oświetlenie Zoom, które zamienia mój monitor w światło",
+        "description": "Zamienia mój monitor w światło, które kompensuje podświetlenie podczas wideorozmów.",
+        "icon": "💡"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Jak korzystać z oświetlenia Zoom",
+    "subtitle": "Prosty przewodnik do doskonałego oświetlenia wideo",
+    "steps": [
+      {
+        "title": "Umieść ekran",
+        "description": "Umieść ekran lub tablet przed sobą, nieco powyżej poziomu oczu"
+      },
+      {
+        "title": "Otwórz narzędzie",
+        "description": "Uruchom białe oświetlenie pełnoekranowe na swoim urządzeniu"
+      },
+      {
+        "title": "Dostosuj intensywność",
+        "description": "Dostosuj jasność ekranu zgodnie ze swoimi potrzebami i oświetleniem otoczenia"
+      },
+      {
+        "title": "Rozpocznij połączenie",
+        "description": "Zacznij swoje połączenie wideo lub nagrywanie z optymalnym oświetleniem"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Często zadawane pytania",
+    "subtitle": "Odpowiedzi na częste pytania o oświetlenie Zoom",
+    "description": "Znajdź odpowiedzi na często zadawane pytania dotyczące korzystania z naszego narzędzia oświetlenia Zoom do różnych celów.",
+    "questions": [
+      {
+        "question": "Czy to naprawdę działa jako oświetlenie?",
+        "answer": "Tak! Biały ekran może służyć jako doskonałe źródło miękkiego i równomiernego światła."
+      },
+      {
+        "question": "Czy mogę używać telefonu jako oświetlenia?",
+        "answer": "Absolutnie! Nawet smartfon może zapewnić skuteczne oświetlenie wspomagające."
+      },
+      {
+        "question": "Jak uniknąć odblasków?",
+        "answer": "Dostosuj jasność ekranu i umieść go nieco poza bezpośrednią linią wzroku."
+      },
+      {
+        "question": "Czy to zużywa dużo baterii?",
+        "answer": "Zużycie zależy od jasności. Użyj podłączonego urządzenia podczas długich sesji."
+      },
+      {
+        "question": "Czy oświetlenie Zoom jest dobre dla rozwoju stron internetowych?",
+        "answer": "Tak, deweloperzy stron internetowych mogą używać naszego ekranu oświetlenia Zoom do testowania, jak różne warunki oświetlenia wpływają na wygląd ich projektów, zapewniając, że ich strony internetowe wyglądają świetnie w różnych scenariuszach oświetlenia."
+      }
+    ]
+  },
+  "temperatureControl": {
+    "title": "Kontrola temperatury",
+    "temperature": "Temperatura",
+    "description": "Dostosuj temperaturę koloru, aby stworzyć idealne oświetlenie do swoich połączeń wideo. Niższe wartości tworzą cieplejsze światło, wyższe wartości tworzą chłodniejsze światło."
+  },
+  "info": {
+    "professionalTool": "Narzędzie Profesjonalne",
+    "title": "Pobierz tło oświetlenia Zoom",
+    "subtitle": "Użyj tego pełnoekranowego białego ekranu, aby oświetlić swoją twarz podczas połączeń Zoom, filmów YouTube lub sesji fotograficznych. Czyste, szybkie i bez reklam.",
+    "downloadReady": "Pobieranie Gotowe",
+    "downloadTitle": "Tło oświetlenia Zoom",
+    "downloadDescription": "Wolisz statyczny obraz oświetlenia Zoom? Użyj jednego z naszych obrazów PNG wysokiej rozdzielczości:",
+    "hdTitle": "Tło oświetlenia Zoom 1920x1080",
+    "hdDescription": "Idealne do standardowych wyświetlaczy HD i połączeń wideo. Zoptymalizowane do spotkań Zoom i wideokonferencji.",
+    "hdButton": "Pobierz HD",
+    "fourKTitle": "Tło oświetlenia Zoom 4K",
+    "fourKDescription": "Ultra HD pełnoekranowe białe tło do oświetlania Twojej twarzy podczas spotkań wideo. Idealne do wyświetlaczy wysokiej rozdzielczości.",
+    "fourKButton": "Pobierz 4K",
+    "proTipBadge": "Wskazówka Pro",
+    "proTipTitle": "Maksymalizuj oświetlenie połączeń wideo",
+    "proTipDescription": "Maksymalizuj jasność ekranu i umieść monitor przed sobą dla najlepszego efektu oświetlenia podczas połączeń."
+  },
+  "techSpecs": {
+    "title": "Specyfikacje techniczne",
+    "subtitle": "Szczegóły techniczne oświetlenia Zoom",
+    "specs": [
+      {
+        "label": "Kolor",
+        "value": "#FFFFFF (Czysty biały)"
+      },
+      {
+        "label": "Temperatura",
+        "value": "6500K (Światło dzienne)"
+      },
+      {
+        "label": "Kompatybilność",
+        "value": "Wszystkie urządzenia z ekranem"
+      },
+      {
+        "label": "Zastosowanie",
+        "value": "Profesjonalne oświetlenie wideo"
+      }
+    ]
+  }
+} 

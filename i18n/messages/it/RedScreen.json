@@ -1,0 +1,172 @@
+{
+  "hero": {
+    "badge": "Strumento Schermo Rosso",
+    "title": "Schermo Rosso | Strumento Online",
+    "description": "Strumento online per visualizzare una pagina a schermo intero rosso. Usalo come fonte di luce per creare TikTok, per chiamate online o per preservare la visione notturna, per leggere libri, per scherzi.",
+    "features": {
+      "noRegistration": "Nessuna registrazione",
+      "worksOffline": "Funziona offline",
+      "allDevices": "Tutti i dispositivi"
+    }
+  },
+  "keywords": "schermo rosso, sfondo rosso, schermo rosso online, colore rosso, energia, dinamismo, schermo rosso fullscreen",
+  "colorPicker": {
+    "title": "Scegli il tuo colore",
+    "custom": "Personalizzato",
+    "description": "Perfetto per stimolare l'energia e creare un'atmosfera dinamica",
+    "launchButton": "Avvia schermo rosso"
+  },
+  "interface": {
+    "livePreview": "Anteprima dal Vivo",
+    "chooseYourColor": "Scegli il Tuo Colore",
+    "clickForFullscreen": "Clicca per Schermo Intero",
+    "current": "Attuale",
+    "perfectFor": "Perfetto per TikTok, chiamate online, visione notturna e lettura",
+    "launchRedScreen": "Avvia Schermo Rosso"
+  },
+  "colors": {
+    "Black": "Schermo Nero",
+    "White": "Schermo Bianco",
+    "Red": "Schermo Rosso",
+    "Blue": "Schermo Blu",
+    "Green": "Schermo Verde",
+    "Yellow": "Giallo",
+    "Purple": "Viola",
+    "Pink": "Rosa",
+    "Orange": "Arancione",
+    "Zoom Lighting": "Illuminazione Zoom"
+  },
+  "useCases": {
+    "title": "Le persone usano lo schermo rosso per:",
+    "subtitle": "Scopri i diversi modi di utilizzare il nostro schermo rosso",
+    "description": "Il nostro strumento schermo rosso stimola l'energia e l'attenzione per progetti creativi e presentazioni di impatto.",
+    "cases": [
+      {
+        "title": "fare tiktok",
+        "description": "Perché ho le luci a LED blu accese e si abbinano perfettamente rendendo rossa la mia faccia o una parte della mia faccia e lasciando le luci blu dietro di me. Mi è piaciuto lo schermo rosso, è bello fare tiktok o mettere mi piace alle foto e modificali per farli sembrare professionali.",
+        "icon": "📱"
+      },
+      {
+        "title": "per le chiamate online",
+        "description": "Per la correzione della dominante di colore quando si utilizza Google Meets.",
+        "icon": "📞"
+      },
+      {
+        "title": "per preservare la visione notturna",
+        "description": "Non è duro per gli occhi, soprattutto quando si esce da una zona buia",
+        "icon": "🌙"
+      },
+      {
+        "title": "leggere il libro",
+        "description": "Per leggere un libro con meno luce blu.",
+        "icon": "📖"
+      },
+      {
+        "title": "per riparare il proiettore",
+        "description": "aiuta a riparare la chiave di volta di un proiettore",
+        "icon": "📽️"
+      },
+      {
+        "title": "fare uno scherzo",
+        "description": "Per fare uno scherzo ai miei amici e dire che ho i LED.",
+        "icon": "😄"
+      },
+      {
+        "title": "per creare contenuti video",
+        "description": "Lo schermo rosso è perfetto per creare effetti drammatici nei video e contenuti social media.",
+        "icon": "💻"
+      },
+      {
+        "title": "per l'astronomia",
+        "description": "La luce rossa preserva l'adattamento al buio, ideale per osservazioni astronomiche.",
+        "icon": "🌙"
+      },
+      {
+        "title": "per la fotografia",
+        "description": "Usa lo schermo rosso come fonte di luce per effetti fotografici artistici e drammatici.",
+        "icon": "📖"
+      },
+      {
+        "title": "per riparazioni tecniche",
+        "description": "La luce rossa aiuta nella calibrazione e riparazione di dispositivi elettronici e proiettori.",
+        "icon": "🔧"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Come usare lo schermo rosso",
+    "subtitle": "Guida semplice per ottenere il massimo dal nostro strumento",
+    "steps": [
+      "Scegli il tuo colore preferito dalla tavolozza",
+      "Clicca sul pulsante 'Avvia' per aprire a schermo intero",
+      "Usa F11 o ESC per uscire dalla modalità schermo intero",
+      "Scarica l'immagine nella risoluzione preferita"
+    ]
+  },
+  "info": {
+    "title": "Schermo Rosso – Strumento Sfondo a Schermo Intero",
+    "subtitle": "Uno schermo rosso stimola l'energia, attira l'attenzione e crea un'atmosfera dinamica per i tuoi progetti creativi",
+    "professionalTool": "Strumento Professionale",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Scarica Sfondo Schermo Rosso",
+    "downloadDescription": "Ottieni schermi rossi di alta qualità per le tue esigenze professionali",
+    "hdTitle": "Sfondo Schermo Rosso 1920×1080",
+    "hdDescription": "Immagine rossa a schermo intero pura per stimolare l'energia, attirare l'attenzione e creare un'atmosfera dinamica",
+    "hdButton": "Scarica HD",
+    "fourKTitle": "Sfondo Schermo Rosso 4K",
+    "fourKDescription": "Immagine schermo rosso ultra HD per progetti creativi energici e presentazioni d'impatto",
+    "fourKButton": "Scarica 4K",
+    "proTipBadge": "Suggerimento Pro",
+    "proTipTitle": "Suggerimento Pro",
+    "proTipDescription": "Usa lo schermo rosso con moderazione poiché questo colore intenso può affaticare gli occhi durante l'esposizione prolungata."
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "subtitle": "Risposte alle domande comuni sullo schermo rosso",
+    "description": "Scopri come utilizzare efficacemente il colore rosso per massimizzare il suo impatto energetico nei tuoi progetti.",
+    "questions": [
+      {
+        "question": "Perché la luce rossa preserva la visione notturna?",
+        "answer": "La luce rossa non influisce sui bastoncelli dell'occhio responsabili della visione al buio."
+      },
+      {
+        "question": "Lo schermo rosso può aiutare per il sonno?",
+        "answer": "Sì, la luce rossa disturba meno la produzione di melatonina rispetto alla luce blu."
+      },
+      {
+        "question": "Posso usare lo schermo rosso per la fotografia?",
+        "answer": "Assolutamente! Crea effetti di illuminazione drammatici e artistici."
+      },
+      {
+        "question": "Lo strumento funziona su mobile?",
+        "answer": "Sì, lo schermo rosso funziona perfettamente su tutti i dispositivi mobili."
+      },
+      {
+        "question": "È sicuro per gli occhi?",
+        "answer": "La luce rossa è generalmente più sicura per gli occhi rispetto alla luce blu, ma è comunque consigliabile usarla con moderazione."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specifiche tecniche",
+    "subtitle": "Dettagli tecnici del nostro strumento schermo rosso",
+    "specs": [
+      {
+        "label": "Colore",
+        "value": "#FF0000 (Rosso puro)"
+      },
+      {
+        "label": "Risoluzione",
+        "value": "Si adatta a tutti gli schermi"
+      },
+      {
+        "label": "Compatibilità",
+        "value": "Tutti i browser moderni"
+      },
+      {
+        "label": "Utilizzo speciale",
+        "value": "Visione notturna preservata"
+      }
+    ]
+  }
+} 

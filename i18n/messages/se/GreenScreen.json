@@ -1,0 +1,162 @@
+{
+  "hero": {
+    "badge": "Grön Skärm Verktyg",
+    "title": "Grön Skärm | Onlineverktyg",
+    "description": "Grön skärm online för chroma key, grön bakgrund, videoöverlagring och specialeffekter. Perfekt för innehållsskapare och filmskapare.",
+    "features": {
+      "noRegistration": "Ingen registrering",
+      "worksOffline": "Fungerar offline",
+      "allDevices": "Alla enheter"
+    }
+  },
+  "keywords": "grön skärm, chroma key, grön bakgrund, grön skärm online, green screen, specialeffekter, videoproduktion",
+  "colorPicker": {
+    "title": "Välj din färg",
+    "custom": "Anpassad",
+    "description": "Perfekt för chroma key och professionell videoproduktion",
+    "launchButton": "Starta grön skärm"
+  },
+  "colors": {
+    "Black": "Svart Skärm",
+    "White": "Vit Skärm",
+    "Red": "Röd Skärm",
+    "Blue": "Blå Skärm",
+    "Green": "Grön Skärm",
+    "Yellow": "Gul Skärm",
+    "Purple": "Lila Skärm",
+    "Pink": "Rosa Skärm",
+    "Orange": "Orange Skärm",
+    "Zoom Lighting": "Zoom-belysning"
+  },
+  "interface": {
+    "livePreview": "Live-förhandsvisning",
+    "clickForFullscreen": "Klicka för helskärm",
+    "current": "Aktuell",
+    "chooseYourColor": "Välj din färg",
+    "perfectFor": "Perfekt för",
+    "launchGreenScreen": "Starta Grön Skärm"
+  },
+  "useCases": {
+    "title": "Människor använder grön skärm för:",
+    "subtitle": "Upptäck de olika sätten att använda vår gröna skärm",
+    "description": "Vårt gröna skärmverktyg är väsentligt för professionell videoproduktion och chroma key-effekter.",
+    "cases": [
+      {
+        "title": "Grön skärm för skapande av videomaterial",
+        "description": "Använd vår helskärm grön skärm för att skapa professionella videor. Grön skärm är perfekt för videoeffekter och redigering efter produktion.",
+        "icon": "🎬"
+      },
+      {
+        "title": "Avslappnande visuell upplevelse med grönt gränssnitt",
+        "description": "Använd vårt verktyg för grön skärm för att skapa en lugnande visuell miljö. De lugnande nyanserna av grönt kan hjälpa till att minska ögonbelastning och främja avslappning.",
+        "icon": "😌"
+      },
+      {
+        "title": "Grön skärm för en fördjupande spelupplevelse",
+        "description": "Förhöj din spelupplevelse med vår helskärm grön skärm. Den kan fungera som en dynamisk bakgrund för en mer fördjupande spelmiljö.",
+        "icon": "🎮"
+      },
+      {
+        "title": "Grön skärm för virtuella möten",
+        "description": "Använd vårt verktyg för grön skärm för att lägga till professionella bakgrunder under dina virtuella möten. Det kan betydligt förbättra kvaliteten på dina videokonversationer.",
+        "icon": "📹"
+      },
+      {
+        "title": "Grön skärm som undervisningshjälpmedel",
+        "description": "Lärare kan använda vårt verktyg för grön skärm för att göra online-undervisningen mer interaktiv och engagerande. Det är ett utmärkt sätt att visuellt illustrera komplexa begrepp.",
+        "icon": "🖼️"
+      },
+      {
+        "title": "Grön skärm för Photoshop",
+        "description": "Photoshoppar mig själv i mitt rum så när jag tar ner det och fortfarande är i mitt rum, blir folk som 'wow' i några sekunder, vilket gör mig glad eftersom jag på sätt och vis är wow-faktorn under de få sekunderna av deras liv.",
+        "icon": "🖼️"
+      },
+      {
+        "title": "Grön skärm för avkoppling",
+        "description": "I en klassrumsituation, medan jag pausar datorarbete och lyssnar på andra. Grönt, eftersom det är den mest avslappnande av färgerna. Det är bara en tyst, stillastående grön färg, färgen på träd och gräs. Tack vare det avger skärmen något grönt, avkopplande ljus under pauser från datorarbete.",
+        "icon": "🧘"
+      },
+      {
+        "title": "Grön skärm för online-samtal",
+        "description": "För att lägga till en grön glöd under möten.",
+        "icon": "💻"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Hur man använder grön skärm",
+    "subtitle": "Enkel guide för att få ut det mesta av vårt verktyg",
+    "steps": [
+      "Välj din föredragna färg från paletten",
+      "Klicka på 'Starta'-knappen för att öppna i helskärm",
+      "Använd F11 eller ESC för att lämna helskärmsläge",
+      "Ladda ner bilden i din föredragna upplösning"
+    ]
+  },
+  "info": {
+    "title": "Grön Skärm – Helskärmsbakgrundsverktyg",
+    "subtitle": "En grön skärm hjälper till att minimera distraktioner och öka produktiviteten, perfekt för belysning och pixelkontroll",
+    "professionalTool": "Professionellt verktyg",
+    "downloadReady": "Nedladdning redo",
+    "downloadTitle": "Ladda ner Grön Skärm Bakgrund",
+    "downloadDescription": "Få högkvalitativa gröna skärmar för dina professionella behov",
+    "hdTitle": "1920×1080 Grön Skärm Bakgrund",
+    "hdDescription": "Ren helskärm grön bild för rengöring, visuellt fokus och webbkamerabelysning",
+    "hdButton": "Ladda ner HD",
+    "fourKTitle": "4K Grön Skärm Bakgrund",
+    "fourKDescription": "Helskärm ultra HD grön bild för belysning, skärmtestning och visuell förbättring",
+    "fourKButton": "Ladda ner 4K",
+    "proTipBadge": "Pro-tips",
+    "proTipTitle": "Pro-tips",
+    "proTipDescription": "Växla mellan vita, svarta och gröna skärmar beroende på vilken belysningseffekt du vill skapa under inspelning eller arbete."
+  },
+  "faq": {
+    "title": "Vanliga frågor",
+    "subtitle": "Svar på vanliga frågor om grön skärm",
+    "description": "Hitta svar på vanliga frågor om att använda vårt gröna skärmverktyg för olika ändamål.",
+    "questions": [
+      {
+        "question": "Vad används ett Grön Skärmverktyg till?",
+        "answer": "Ett Grön Skärmverktyg visar en grön färg i helskärmsläge, vanligtvis använt för skärmtestning, ruh hali panolar, ögonkomfort, innehållsskapande och förbättring av visuell kreativitet."
+      },
+      {
+        "question": "Hur använder jag Grön Skärm för ögonkomfort?",
+        "answer": "Den Gröna Skärmen minskar blått ljus exponering, vilket gör det lättare för dina ögon under nattsurfning eller långa arbetstimmar. Det hjälper till att minska ögonansträngning och förbättra visuell komfort."
+      },
+      {
+        "question": "Kan jag använda Grön Skärm för innehållsskapande?",
+        "answer": "Ja! Den Gröna Skärmen är perfekt för att skapa varma, inbjudande bakgrunder för onlineinnehåll, virtuella klasser eller livestreams. Den lägger till energi och positivitet till ditt innehåll."
+      },
+      {
+        "question": "Varför använda Grön Skärm för skärmtestning?",
+        "answer": "Grön är en utmärkt färg för att testa skärmnoggrannhet och färgkalibrering. Det hjälper till att identifiera färgproblem och finjustera monitorinställningar för optimal visning."
+      },
+      {
+        "question": "Är Grön Skärm bra för kreativitet?",
+        "answer": "Ja, grön är associerat med kreativitet och optimism. En Grön Skärm kan inspirera kreativt tänkande och fungera som en ruh hali panel för designprojekt och konstnärligt arbete."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Tekniska specifikationer",
+    "subtitle": "Tekniska detaljer för vårt gröna skärmverktyg",
+    "specs": [
+      {
+        "label": "Färg",
+        "value": "#00FF00 (Grön chroma)"
+      },
+      {
+        "label": "Upplösning",
+        "value": "Anpassar sig till alla skärmar"
+      },
+      {
+        "label": "Kompatibilitet",
+        "value": "Alla moderna webbläsare"
+      },
+      {
+        "label": "Tillämpning",
+        "value": "Professionell chroma key"
+      }
+    ]
+  }
+} 

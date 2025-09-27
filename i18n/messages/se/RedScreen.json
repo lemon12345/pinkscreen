@@ -1,0 +1,177 @@
+{
+  "hero": {
+    "badge": "Röd Skärm Verktyg",
+    "title": "Röd Skärm | Onlineverktyg",
+    "description": "Onlineverktyg för att visa en röd helskärmssida. Använd som ljuskälla för att skapa TikToks, onlinesamtal eller bevara nattseende, läsa böcker, skämt.",
+    "features": {
+      "noRegistration": "Ingen registrering",
+      "worksOffline": "Fungerar offline",
+      "allDevices": "Alla enheter"
+    }
+  },
+  "keywords": "röd skärm, röd bakgrund, röd skärm online, röd färg, energi, dynamik, röd helskärm",
+  "colorPicker": {
+    "title": "Välj din färg",
+    "custom": "Anpassad",
+    "description": "Perfekt för att stimulera energi och skapa dynamisk atmosfär",
+    "launchButton": "Starta röd skärm"
+  },
+  "colors": {
+    "Black": "Svart Skärm",
+    "White": "Vit Skärm",
+    "Red": "Röd Skärm",
+    "Blue": "Blå Skärm",
+    "Green": "Grön Skärm",
+    "Yellow": "Gul Skärm",
+    "Purple": "Lila Skärm",
+    "Pink": "Rosa Skärm",
+    "Orange": "Orange Skärm",
+    "Zoom Lighting": "Zoom-belysning"
+  },
+  "interface": {
+    "livePreview": "Live-förhandsvisning",
+    "clickForFullscreen": "Klicka för helskärm",
+    "current": "Aktuell",
+    "chooseYourColor": "Välj din färg",
+    "perfectFor": "Perfekt för",
+    "launchRedScreen": "Starta Röd Skärm"
+  },
+  "useCases": {
+    "title": "Människor använder röd skärm för:",
+    "subtitle": "Upptäck de olika sätten att använda vår röda skärm",
+    "description": "Vårt röda skärmverktyg stimulerar energi och uppmärksamhet för kreativa projekt och slagkraftiga presentationer.",
+    "cases": [
+      {
+        "title": "Röd skärm för film och fotografi",
+        "description": "Använd vår röda skärm för att experimentera med färgfilter och effekter inom film och fotografi. Den livfulla röda bakgrunden kan lägga till en dramatisk touch till dina kompositioner.",
+        "icon": "🎬"
+      },
+      {
+        "title": "Röd display för ögonhälsa",
+        "description": "Vår röda skärmverktyg kan användas för att minska påverkan av blått ljus, vilket hjälper till med ögonkomfort och hälsa, särskilt i svagt ljus eller före sömn.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Röd skärm för virtuella evenemang",
+        "description": "Skapa en fängslande virtuell evenemangsmiljö med vår helskärm röda display. Den kan sätta en distinkt ton och stämning för dina sammankomster.",
+        "icon": "🎯"
+      },
+      {
+        "title": "Röd skärm för grafisk design",
+        "description": "Grafiska designers kan dra nytta av vår röda skärm för att skapa djärva och påverkansfulla design. Färgen röd kan framkalla starka känslor och fånga tittarens uppmärksamhet.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Röd skärm för tematiska presentationer",
+        "description": "Utbildare och presentatörer kan använda vår röda skärm för att skapa tematiska presentationer, belysa viktiga punkter och fånga publikens intresse.",
+        "icon": "📊"
+      },
+      {
+        "title": "Ljus röd skärm för att skapa TikToks",
+        "description": "Eftersom jag har blå LED-ljus på och det matchar perfekt och får mitt ansikte eller en del av mitt ansikte rött och lämnar de blåa ljusen bakom mig. Jag gillade den röda skärmen faktiskt, det är coolt att göra TikToks eller redigera foton för att få dem att se professionella ut.",
+        "icon": "📱"
+      },
+      {
+        "title": "Rött ljus för videosamtal",
+        "description": "För färgkorrigering vid användning av Google Meet.",
+        "icon": "📞"
+      },
+      {
+        "title": "Röd skärm för att bevara nattsynen",
+        "description": "Inte påfrestande för ögonen, särskilt när du kommer ut från ett mörkt område.",
+        "icon": "🌙"
+      },
+      {
+        "title": "Röd skärm för att läsa böcker",
+        "description": "För att läsa en bok med mindre blått ljus.",
+        "icon": "📖"
+      },
+      {
+        "title": "Röd skärm för att fixa projektor",
+        "description": "Det hjälper till att fixa en projektorns keystone.",
+        "icon": "🎯"
+      },
+      {
+        "title": "Rött ljus för skämt",
+        "description": "För att skoja med mina vänner och säga att jag har LED-lampor.",
+        "icon": "😄"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Hur man använder röd skärm",
+    "subtitle": "Enkel guide för att få ut det mesta av vårt verktyg",
+    "steps": [
+      "Välj din föredragna färg från paletten",
+      "Klicka på 'Starta'-knappen för att öppna i helskärm",
+      "Använd F11 eller ESC för att lämna helskärmsläge",
+      "Ladda ner bilden i din föredragna upplösning"
+    ]
+  },
+  "info": {
+    "title": "Röd Skärm – Helskärmsbakgrundsverktyg",
+    "subtitle": "En röd skärm kan stimulera fokus och mental skärpa, perfekt för pixeltestning och dramatisk belysning",
+    "professionalTool": "Professionellt verktyg",
+    "downloadReady": "Nedladdning redo",
+    "downloadTitle": "Ladda ner Röd Skärm Bakgrund",
+    "downloadDescription": "Få högkvalitativa röda skärmar för dina professionella behov",
+    "hdTitle": "1920×1080 Röd Skärm Bakgrund",
+    "hdDescription": "Ren helskärm röd bild för pixeltestning, fokus och stämningsbelysning",
+    "hdButton": "Ladda ner HD",
+    "fourKTitle": "4K Röd Skärm Bakgrund",
+    "fourKDescription": "Helskärm ultra HD röd bild för djärv belysning och visuell diagnostik",
+    "fourKButton": "Ladda ner 4K",
+    "proTipBadge": "Pro-tips",
+    "proTipTitle": "Pro-tips",
+    "proTipDescription": "Använd den röda skärmen i kombination med svarta eller vita skärmar för att växla ljusstyrka för djup kontrasttestning."
+  },
+  "faq": {
+    "title": "Vanliga frågor",
+    "subtitle": "Svar på vanliga frågor om röd skärm",
+    "description": "Hitta svar på vanliga frågor om att använda vårt röda skärmverktyg för olika ändamål.",
+    "questions": [
+      {
+        "question": "Vad används ett Röd Skärmverktyg till?",
+        "answer": "Ett Röd Skärmverktyg visar en röd färg i helskärmsläge, vanligtvis använt för skärmtestning, ruh hali panolar, ögonkomfort, innehållsskapande och förbättring av visuell kreativitet."
+      },
+      {
+        "question": "Hur använder jag Röd Skärm för ögonkomfort?",
+        "answer": "Den Röda Skärmen minskar blått ljus exponering, vilket gör det lättare för dina ögon under nattsurfning eller långa arbetstimmar. Det hjälper till att minska ögonansträngning och förbättra visuell komfort."
+      },
+      {
+        "question": "Kan jag använda Röd Skärm för innehållsskapande?",
+        "answer": "Ja! Den Röda Skärmen är perfekt för att skapa varma, inbjudande bakgrunder för onlineinnehåll, virtuella klasser eller livestreams. Den lägger till energi och positivitet till ditt innehåll."
+      },
+      {
+        "question": "Varför använda Röd Skärm för skärmtestning?",
+        "answer": "Röd är en utmärkt färg för att testa skärmnoggrannhet och färgkalibrering. Det hjälper till att identifiera färgproblem och finjustera monitorinställningar för optimal visning."
+      },
+      {
+        "question": "Är Röd Skärm bra för kreativitet?",
+        "answer": "Ja, röd är associerat med kreativitet och optimism. En Röd Skärm kan inspirera kreativt tänkande och fungera som en ruh hali panel för designprojekt och konstnärligt arbete."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Tekniska specifikationer",
+    "subtitle": "Tekniska detaljer för vårt röda skärmverktyg",
+    "specs": [
+      {
+        "label": "Färg",
+        "value": "#FF0000 (Ren röd)"
+      },
+      {
+        "label": "Upplösning",
+        "value": "Anpassar sig till alla skärmar"
+      },
+      {
+        "label": "Kompatibilitet",
+        "value": "Alla moderna webbläsare"
+      },
+      {
+        "label": "Speciell tillämpning",
+        "value": "Bevarat nattseende"
+      }
+    ]
+  }
+} 

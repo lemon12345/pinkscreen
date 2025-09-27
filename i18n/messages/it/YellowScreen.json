@@ -1,0 +1,159 @@
+{
+  "hero": {
+    "badge": "Strumento Schermo Giallo",
+    "title": "Schermo Giallo | Strumento Online",
+    "description": "Schermo giallo online per stimolare la creatività, ridurre l'affaticamento degli occhi e creare un'atmosfera calda. Perfetto per il lavoro e il relax.",
+    "features": {
+      "noRegistration": "Nessuna registrazione",
+      "worksOffline": "Funziona offline",
+      "allDevices": "Tutti i dispositivi"
+    }
+  },
+  "keywords": "schermo giallo, sfondo giallo, schermo giallo online, colore giallo, creatività, ottimismo, concentrazione",
+  "colorPicker": {
+    "title": "Scegli il tuo colore",
+    "custom": "Personalizzato",
+    "description": "Perfetto per stimolare la creatività e migliorare la concentrazione",
+    "launchButton": "Avvia schermo giallo"
+  },
+  "colors": {
+    "Black": "Schermo Nero",
+    "White": "Schermo Bianco",
+    "Red": "Schermo Rosso",
+    "Blue": "Schermo Blu",
+    "Green": "Schermo Verde",
+    "Yellow": "Giallo",
+    "Purple": "Viola",
+    "Pink": "Rosa",
+    "Orange": "Arancione",
+    "Zoom Lighting": "Illuminazione Zoom"
+  },
+  "useCases": {
+    "title": "Le persone usano lo schermo giallo per:",
+    "subtitle": "Scopri i diversi modi di utilizzare il nostro schermo giallo",
+    "description": "Il nostro strumento schermo giallo stimola la creatività e l'ottimismo per ambienti di lavoro ispiranti.",
+    "cases": [
+      {
+        "title": "Sfondo Giallo Versatile per Contenuti",
+        "description": "Immergi il tuo pubblico in un ambiente caldo e accogliente con un display giallo a schermo intero. Ideale per infondere energia e positività nei tuoi contenuti online, lezioni virtuali o trasmissioni in diretta.",
+        "icon": "📺"
+      },
+      {
+        "title": "Schermo Giallo per il Comfort Visivo",
+        "description": "Migliora il comfort visivo con uno schermo dai toni gialli. Usa il nostro strumento per ridurre l'affaticamento visivo della luce blu, specialmente durante la navigazione notturna o le lunghe ore di lavoro.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Punto di Partenza per Mood Board Creativi",
+        "description": "Dai il via ai tuoi progetti creativi con un mood board giallo. Il nostro display giallo a schermo intero può aiutare a ispirare il pensiero creativo e i concetti di design.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Test dello Schermo del Dispositivo",
+        "description": "Verifica la precisione del colore del tuo dispositivo con un output giallo a schermo intero. È uno strumento utile per perfezionare le impostazioni di colore di monitor, tablet o smartphone.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "Aid Didattico Interattivo",
+        "description": "Utilizza un display giallo a schermo intero come supporto didattico nelle aule virtuali. Può fungere da sfondo coinvolgente per presentare materiali didattici, evidenziare informazioni e attirare l'attenzione degli studenti.",
+        "icon": "📚"
+      },
+      {
+        "title": "schermo giallo per creare un'atmosfera",
+        "description": "Mi piace l'atmosfera che crea",
+        "icon": "☀️"
+      },
+      {
+        "title": "schermo giallo per copiare immagini",
+        "description": "Per copiare un'immagine disegnata da un mio compagno di classe",
+        "icon": "📋"
+      },
+      {
+        "title": "schermo giallo per realizzare video",
+        "description": "Perché i miei video su YouTube sono migliori con uno schermo giallo e perché gli schermi verdi sono sopravvalutati",
+        "icon": "🎥"
+      },
+      {
+        "title": "schermo giallo per chiamate online",
+        "description": "Per aggiungere un bagliore giallo durante la riunione.",
+        "icon": "📞"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Come usare lo schermo giallo",
+    "subtitle": "Guida semplice per ottenere il massimo dal nostro strumento",
+    "steps": [
+      "Scegli il tuo colore preferito dalla tavolozza",
+      "Clicca sul pulsante 'Avvia' per aprire a schermo intero",
+      "Usa F11 o ESC per uscire dalla modalità schermo intero",
+      "Scarica l'immagine nella risoluzione preferita"
+    ]
+  },
+  "info": {
+    "title": "Schermo Giallo – Strumento Sfondo a Schermo Intero",
+    "subtitle": "Uno schermo giallo stimola la creatività, migliora la concentrazione e crea un'atmosfera calda e ottimista",
+    "professionalTool": "Strumento Professionale",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Scarica Sfondo Schermo Giallo",
+    "downloadDescription": "Ottieni schermi gialli di alta qualità per le tue esigenze professionali",
+    "hdTitle": "Sfondo Schermo Giallo 1920×1080",
+    "hdDescription": "Immagine gialla a schermo intero pura per stimolare la creatività, migliorare la concentrazione e creare un'atmosfera ottimista",
+    "hdButton": "Scarica HD",
+    "fourKTitle": "Sfondo Schermo Giallo 4K",
+    "fourKDescription": "Immagine schermo giallo ultra HD per ambienti creativi e spazi di lavoro ispiranti",
+    "fourKButton": "Scarica 4K",
+    "proTipBadge": "Suggerimento Pro",
+    "proTipTitle": "Suggerimento Pro",
+    "proTipDescription": "Lo schermo giallo è perfetto per sessioni di brainstorming e attività creative poiché stimola l'ottimismo e la creatività."
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "subtitle": "Risposte alle domande comuni sullo schermo giallo",
+    "description": "Impara come utilizzare il colore giallo per massimizzare la creatività e migliorare il benessere sul lavoro.",
+    "questions": [
+      {
+        "question": "Il giallo aiuta davvero la creatività?",
+        "answer": "Sì, gli studi mostrano che il giallo stimola l'attività mentale e favorisce il pensiero creativo."
+      },
+      {
+        "question": "Posso usare lo schermo giallo per lavorare?",
+        "answer": "Assolutamente! La luce gialla soffusa può ridurre l'affaticamento degli occhi durante il lavoro prolungato."
+      },
+      {
+        "question": "Lo schermo giallo influisce sul sonno?",
+        "answer": "La luce gialla è meno disturbante della luce blu per il ciclo del sonno."
+      },
+      {
+        "question": "Come ottimizzare l'effetto dello schermo giallo?",
+        "answer": "Usalo in un ambiente poco illuminato per massimizzare l'impatto visivo."
+      },
+      {
+        "question": "È sicuro per gli occhi?",
+        "answer": "Sì, il giallo è generalmente sicuro per gli occhi e può persino aiutare a ridurre l'affaticamento visivo rispetto alla luce blu."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specifiche tecniche",
+    "subtitle": "Dettagli tecnici del nostro strumento schermo giallo",
+    "specs": [
+      {
+        "label": "Colore",
+        "value": "#FFFF00 (Giallo puro)"
+      },
+      {
+        "label": "Risoluzione",
+        "value": "Si adatta a tutti gli schermi"
+      },
+      {
+        "label": "Compatibilità",
+        "value": "Tutti i browser moderni"
+      },
+      {
+        "label": "Benefici",
+        "value": "Creatività e benessere"
+      }
+    ]
+  }
+} 

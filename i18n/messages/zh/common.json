@@ -1,0 +1,183 @@
+{
+  "LanguageDetection": {
+    "title": "语言建议",
+    "description": "检测到你的浏览器语言和当前语言不一样，你随时都可切换语言 👉",
+    "countdown": "将在 {countdown} 秒后关闭"
+  },
+  "Header": {
+    "links": []
+  },
+  "Footer": {
+    "Copyright": "版权所有 © {year} {name} 保留所有权利。",
+    "PrivacyPolicy": "隐私政策",
+    "TermsOfService": "条款与条件",
+    "Links": {
+      "groups": [
+        {
+          "title": "产品",
+          "links": [
+            {
+              "href": "/white-screen",
+              "name": "白屏"
+            },
+            {
+              "href": "/black-screen",
+              "name": "黑屏"
+            },
+            {
+              "href": "/blue-screen",
+              "name": "蓝屏"
+            },
+            {
+              "href": "/green-screen",
+              "name": "绿屏"
+            },
+            {
+              "href": "/red-screen",
+              "name": "红屏"
+            },
+            {
+              "href": "/yellow-screen",
+              "name": "黄屏"
+            },
+            {
+              "href": "/orange-screen",
+              "name": "橙屏"
+            },
+            {
+              "href": "/",
+              "name": "粉屏"
+            },
+            {
+              "href": "/purple-screen",
+              "name": "紫屏"
+            },
+            {
+              "href": "/zoom-lighting",
+              "name": "变焦照明"
+            }
+          ]
+        },
+        {
+          "title": "支持",
+          "links": [
+            {
+              "href": "mailto:hi@pinkscreen.org",
+              "name": "联系我们"
+            }
+          ]
+        },
+        {
+          "title": "语言",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/fr",
+              "name": "Français",
+              "useA": true
+            },
+            {
+              "href": "/it",
+              "name": "Italiano",
+              "useA": true
+            },
+            {
+              "href": "/ms",
+              "name": "Bahasa Melayu",
+              "useA": true
+            },
+            {
+              "href": "/pl",
+              "name": "Polski",
+              "useA": true
+            },
+            {
+              "href": "/pt",
+              "name": "Português",
+              "useA": true
+            },
+            {
+              "href": "/se",
+              "name": "Svenska",
+              "useA": true
+            },
+            {
+              "href": "/tr",
+              "name": "Türkçe",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "Pink Screen",
+    "tagLine": "满足各种需求的专业屏幕工具",
+    "description": "完整的在线屏幕工具集合 - 白屏、彩色屏幕、屏幕保护程序、系统模拟器和显示实用工具。完美适用于显示器测试、摄影照明、演示、直播和创意项目。",
+    "pageData": {
+      "tagLine": "满足各种需求的专业屏幕工具",
+      "description": "完整的在线屏幕工具集合 - 白屏、彩色屏幕、屏幕保护程序、系统模拟器和显示实用工具。完美适用于显示器测试、摄影照明、演示、直播和创意项目。"
+    }
+  },
+  "Blogs": {
+    "title": "Pink Screen 博客",
+    "pageData": {
+      "tagLine": "发现最新的屏幕工具和功能",
+      "description": "探索我们的博客文章，了解屏幕工具的使用技巧、最新功能和创意应用。"
+    },
+    "description": "发现 Pink Screen 的最新功能、技巧和更新 - 您的终极屏幕体验平台。",
+    "emptyState": {
+      "title": "暂无博客文章",
+      "description": "我们正在创作精彩内容，敬请期待！"
+    },
+    "loadMorePostsFailed": "加载更多博客失败",
+    "loadMorePosts": "加载更多博客……",
+    "filterPostsFailed": "加载博客失败",
+    "noPostsFoundForThisTag": "暂无此分类的文章",
+    "reachedTheEnd": "已加载全部博客文章",
+    "BlogDetail": {
+      "featured": "精选文章",
+      "accessRestricted": "访问受限",
+      "unauthorized": "此文章仅对登录用户开放",
+      "premium": "付费内容",
+      "premiumContent": "此文章仅对订阅用户开放",
+      "signIn": "登录",
+      "upgrade": "升级",
+      "backToBlogs": "返回博客列表",
+      "notFound": "文章未找到"
+    }
+  },
+  "TermsOfService": {
+    "title": "服务条款",
+    "description": "服务条款"
+  },
+  "PrivacyPolicy": {
+    "title": "隐私政策",
+    "description": "隐私政策"
+  }
+}

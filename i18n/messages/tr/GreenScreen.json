@@ -1,0 +1,162 @@
+{
+  "hero": {
+    "badge": "Yeşil Ekran Aracı",
+    "title": "Yeşil Ekran | Çevrimiçi araç",
+    "description": "Chroma key, yeşil arka plan, video kaplama ve özel efektler için çevrimiçi yeşil ekran. İçerik üreticileri ve film yapımcıları için mükemmel.",
+    "features": {
+      "noRegistration": "Kayıt yok",
+      "worksOffline": "Çevrimdışı çalışır",
+      "allDevices": "Tüm cihazlar"
+    }
+  },
+  "keywords": "yeşil ekran, chroma key, yeşil arkaplan, yeşil ekran online, green screen, özel efektler, video prodüksiyonu",
+  "colorPicker": {
+    "title": "Renginizi seçin",
+    "custom": "Özel",
+    "description": "Chroma key ve profesyonel video prodüksiyonu için mükemmel",
+    "launchButton": "Yeşil ekranı başlat"
+  },
+  "colors": {
+    "Black": "Siyah Ekran",
+    "White": "Beyaz Ekran",
+    "Red": "Kırmızı Ekran",
+    "Blue": "Mavi Ekran",
+    "Green": "Yeşil Ekran",
+    "Yellow": "Sarı Ekran",
+    "Purple": "Mor Ekran",
+    "Pink": "Pembe Ekran",
+    "Orange": "Turuncu Ekran",
+    "Zoom Lighting": "Zoom Aydınlatması"
+  },
+  "interface": {
+    "livePreview": "Canlı önizleme",
+    "clickForFullscreen": "Tam ekran için tıklayın",
+    "current": "Mevcut",
+    "chooseYourColor": "Renginizi seçin",
+    "perfectFor": "İçin mükemmel",
+    "launchGreenScreen": "Yeşil Ekranı Başlat"
+  },
+  "useCases": {
+    "title": "İnsanlar yeşil ekranı şu amaçlarla kullanır:",
+    "subtitle": "Yeşil ekranımızın farklı kullanım yollarını keşfedin",
+    "description": "Yeşil ekran aracımız profesyonel video prodüksiyonu ve chroma key efektleri için vazgeçilmezdir.",
+    "cases": [
+      {
+        "title": "Video İçerik Oluşturma İçin Yeşil Ekran",
+        "description": "Profesyonel kalitede videolar oluşturmak için tam ekran yeşil gösterimimizi kullanın. Yeşil ekran, video efektleri ve post-produksiyon düzenlemesi için mükemmeldir.",
+        "icon": "🎬"
+      },
+      {
+        "title": "Yeşil Görüntüyle Yatıştırıcı Görsel Deneyim",
+        "description": "Sakinleştirici bir görsel ortam oluşturmak için yeşil ekran aracımızı kullanın. Yeşilin yatıştırıcı tonları, göz yorgunluğunu azaltmaya yardımcı olabilir ve rahatlama sağlayabilir.",
+        "icon": "😌"
+      },
+      {
+        "title": "Sürükleyici Oyun Deneyimi İçin Yeşil Ekran",
+        "description": "Oyun deneyiminizi tam ekran yeşil gösterimimizle zenginleştirin. Daha sürükleyici bir oyun ortamı için dinamik bir arka plan olarak hizmet edebilir.",
+        "icon": "🎮"
+      },
+      {
+        "title": "Sanal Toplantılar İçin Yeşil Ekran",
+        "description": "Sanal toplantılarınızda profesyonel arka planlar eklemek için yeşil ekran aracımızı kullanın. Video aramalarınızın kalitesini önemli ölçüde artırabilir.",
+        "icon": "📹"
+      },
+      {
+        "title": "Öğretim Yardımı Olarak Yeşil Ekran",
+        "description": "Eğitimciler, online öğretimi daha etkileşimli ve ilgi çekici hale getirmek için yeşil ekran aracımızı kullanabilirler. Karmaşık kavramları görsel olarak anlatmak için harika bir yoldur.",
+        "icon": "📚"
+      },
+      {
+        "title": "photoshop için yeşil ekran",
+        "description": "Kendimi odamda fotoğraflandırıyorum, bu yüzden onu indirdiğimde ve hala odamda olduğumda insanlar birkaç saniye boyunca oh diyor, bu beni mutlu ediyor çünkü bir şekilde hayatlarının birkaç saniyesinin wow faktörüyüm.",
+        "icon": "🖼️"
+      },
+      {
+        "title": "rahatlamak için yeşil ekran",
+        "description": "Bir sınıf odası durumunda, bilgisayar çalışmasını durdururken ve diğerlerini dinlerken. Yeşil, renklerin en rahatlatıcısı olduğu için. Sadece sessiz, hareketsiz bir yeşil renktir, ağaçların ve çimenin rengidir. Sayesinde ekran, bilgisayar çalışması aralarında bazı yeşil, rahatlatıcı ışık yayıyor.",
+        "icon": "🧘"
+      },
+      {
+        "title": "online aramalar için yeşil ekran",
+        "description": "Toplantı sırasında yeşil bir parıltı eklemek için.",
+        "icon": "💻"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Yeşil ekran nasıl kullanılır",
+    "subtitle": "Aracımızdan en iyi şekilde yararlanmak için basit rehber",
+    "steps": [
+      "Paletten tercih ettiğiniz rengi seçin",
+      "Tam ekranda açmak için 'Başlat' butonuna tıklayın",
+      "Tam ekran modundan çıkmak için F11 veya ESC kullanın",
+      "Tercih ettiğiniz çözünürlükte görüntüyü indirin"
+    ]
+  },
+  "info": {
+    "title": "Yeşil Ekran – Tam Ekran Arkaplan Aracı",
+    "subtitle": "Yeşil ekran dikkat dağınıklığını minimize eder ve verimliliği artırır, aydınlatma ve piksel kontrolü için mükemmel",
+    "professionalTool": "Profesyonel Araç",
+    "downloadReady": "İndirme Hazır",
+    "downloadTitle": "Yeşil Ekran Arkaplanı İndir",
+    "downloadDescription": "Profesyonel ihtiyaçlarınız için yüksek kaliteli yeşil ekranlar alın",
+    "hdTitle": "1920×1080 Yeşil Ekran Arkaplanı",
+    "hdDescription": "Temizlik, görsel odaklanma ve web kamerası aydınlatması için saf tam ekran yeşil görüntü",
+    "hdButton": "HD İndir",
+    "fourKTitle": "4K Yeşil Ekran Arkaplanı",
+    "fourKDescription": "Aydınlatma, ekran testi ve görsel geliştirme için tam ekran ultra HD yeşil görüntü",
+    "fourKButton": "4K İndir",
+    "proTipBadge": "Pro İpucu",
+    "proTipTitle": "Pro İpucu",
+    "proTipDescription": "Çekim veya çalışma sırasında yaratmak istediğiniz aydınlatma efektine bağlı olarak beyaz, siyah ve yeşil ekranlar arasında geçiş yapın."
+  },
+  "faq": {
+    "title": "Sık sorulan sorular",
+    "subtitle": "Yeşil ekran hakkında yaygın soruların cevapları",
+    "description": "Yeşil ekran aracımızı çeşitli amaçlar için kullanma hakkında yaygın soruların cevaplarını bulun.",
+    "questions": [
+      {
+        "question": "Yeşil Ekran aracı ne için kullanılır?",
+        "answer": "Yeşil Ekran aracı tam ekran modunda yeşil renk gösterir, genellikle ekran testi, ruh hali panoları, göz konforu, içerik oluşturma ve görsel yaratıcılığı artırmak için kullanılır."
+      },
+      {
+        "question": "Göz konforu için Yeşil Ekranı nasıl kullanırım?",
+        "answer": "Yeşil Ekran mavi ışık maruziyetini azaltır, gece saatlerinde göz atma veya uzun çalışma saatleri sırasında gözlerinizi daha az yorar. Göz yorgunluğunu azaltmaya ve görsel konforu iyileştirmeye yardımcı olur."
+      },
+      {
+        "question": "İçerik oluşturma için Yeşil Ekranı kullanabilir miyim?",
+        "answer": "Evet! Yeşil Ekran çevrimiçi içerik, sanal sınıflar veya canlı yayınlar için sıcak, davetkar arka planlar oluşturmak için mükemmeldir. İçeriğinize enerji ve pozitiflik katar."
+      },
+      {
+        "question": "Ekran testi için neden Yeşil Ekran kullanılır?",
+        "answer": "Yeşil, ekran doğruluğunu ve renk kalibrasyonunu test etmek için mükemmel bir renktir. Renk sorunlarını tanımlamaya ve optimal görüntüleme için monitör ayarlarını ince ayarlamaya yardımcı olur."
+      },
+      {
+        "question": "Yeşil Ekran yaratıcılık için iyi mi?",
+        "answer": "Evet, yeşil yaratıcılık ve iyimserlikle ilişkilendirilir. Yeşil Ekran yaratıcı düşünceyi ilham verebilir ve tasarım projeleri ve sanatsal çalışmalar için bir ruh hali panosu olarak hizmet edebilir."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Teknik özellikler",
+    "subtitle": "Yeşil ekran aracımızın teknik detayları",
+    "specs": [
+      {
+        "label": "Renk",
+        "value": "#00FF00 (Yeşil chroma)"
+      },
+      {
+        "label": "Çözünürlük",
+        "value": "Tüm ekranlara uyum sağlar"
+      },
+      {
+        "label": "Uyumluluk",
+        "value": "Tüm modern tarayıcılar"
+      },
+      {
+        "label": "Uygulama",
+        "value": "Profesyonel chroma key"
+      }
+    ]
+  }
+} 

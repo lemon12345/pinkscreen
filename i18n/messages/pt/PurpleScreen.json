@@ -1,0 +1,167 @@
+{
+  "hero": {
+    "badge": "Ferramenta de Tela Roxa",
+    "title": "Tela Roxa | Ferramenta Online",
+    "description": "Use tela roxa vibrante para criar um ambiente criativo, testar cores intensas ou melhorar o foco em ambientes escuros. Sem distrações.",
+    "features": {
+      "noRegistration": "Sem registo",
+      "worksOffline": "Funciona offline",
+      "allDevices": "Todos os dispositivos"
+    }
+  },
+  "keywords": "tela roxa, fundo roxo, tela roxa online, cor roxa, criatividade, espiritualidade, místico",
+  "colorPicker": {
+    "title": "Escolha sua cor",
+    "custom": "Personalizado",
+    "description": "Perfeito para inspirar criatividade e criar atmosfera mística",
+    "launchButton": "Iniciar tela roxa"
+  },
+  "colors": {
+    "Black": "Tela Preta",
+    "White": "Tela Branca",
+    "Red": "Tela Vermelha",
+    "Blue": "Tela Azul",
+    "Green": "Tela Verde",
+    "Yellow": "Tela Amarela",
+    "Purple": "Tela Roxa",
+    "Pink": "Tela Rosa",
+    "Orange": "Tela Laranja",
+    "Zoom Lighting": "Iluminação para Zoom"
+  },
+  "interface": {
+    "livePreview": "Pré-visualização ao vivo",
+    "clickForFullscreen": "Clique para tela cheia",
+    "current": "Atual",
+    "chooseYourColor": "Escolha sua cor",
+    "perfectFor": "Perfeito para",
+    "launchPurpleScreen": "Iniciar Tela Roxa"
+  },
+  "useCases": {
+    "title": "Pessoas usam tela roxa para:",
+    "subtitle": "Descubra as diferentes formas de usar nossa tela roxa",
+    "description": "Nossa ferramenta de tela roxa inspira criatividade e espiritualidade, criando uma atmosfera mística e sofisticada.",
+    "cases": [
+      {
+        "title": "Tela Roxa em Tela Cheia para Apps de Bem-Estar",
+        "description": "Integre nossa ferramenta ao seu aplicativo de bem-estar para gerar uma tela roxa calmante, perfeita para meditação e exercícios de atenção plena. A cor serena auxilia no relaxamento e bem-estar mental.",
+        "icon": "🧘"
+      },
+      {
+        "title": "Tela Roxa para Efeito de Iluminação",
+        "description": "Crie um efeito de iluminação dinâmico com uma exibição roxa em tela cheia. Perfeito para estabelecer um ambiente único para suas chamadas de vídeo, eventos virtuais ou sessões musicais.",
+        "icon": "💡"
+      },
+      {
+        "title": "Estudo de Teoria das Cores com Tela Roxa",
+        "description": "Utilize uma exibição roxa vibrante em tela cheia como uma ferramenta de aprendizado para a teoria das cores. Ajuda estudantes de arte e designers a entenderem o impacto e a significância da cor em seus trabalhos.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Teste de Exibição com Tela Roxa Completa",
+        "description": "Verifique a precisão de cores de seus monitores ou telas com nossa ferramenta que gera uma exibição roxa em tela cheia. Essencial para designers, fotógrafos e videomakers.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "Exibição Roxa Interativa para Aprendizagem Infantil",
+        "description": "Envolve as crianças em aprendizado e-learning interativo com uma exibição roxa em tela cheia. A cor marcante estimula a imaginação e o foco, enriquecendo a experiência de aprendizagem.",
+        "icon": "👶"
+      },
+      {
+        "title": "tela roxa para criar uma vibe",
+        "description": "Gosto da vibe que a cor roxa proporciona",
+        "icon": "💜"
+      },
+      {
+        "title": "tela roxa para copiar imagem",
+        "description": "Para copiar uma imagem que meu colega desenhou",
+        "icon": "💻"
+      },
+      {
+        "title": "tela roxa para fazer vídeos",
+        "description": "Porque meus vídeos do YouTube ficam melhores com uma tela roxa",
+        "icon": "🎬"
+      },
+      {
+        "title": "tela roxa para chamadas online",
+        "description": "Para adicionar um brilho roxo durante a reunião.",
+        "icon": "📞"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Como usar a tela roxa",
+    "subtitle": "Guia simples para aproveitar ao máximo nossa ferramenta",
+    "steps": [
+      "Escolha sua cor preferida da paleta",
+      "Clique no botão 'Iniciar' para abrir em tela cheia",
+      "Use F11 ou ESC para sair do modo tela cheia",
+      "Baixe a imagem na resolução de sua preferência"
+    ]
+  },
+  "info": {
+    "title": "Tela Roxa – Ferramenta de Fundo de Tela Cheia",
+    "subtitle": "A tela roxa ajuda a detectar desequilíbrios de brilho e cor, perfeita para iluminação ambiente e fundos criativos",
+    "professionalTool": "Ferramenta Profissional",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Baixar Fundo de Tela Roxa",
+    "downloadDescription": "Obtenha telas roxas de alta qualidade para suas necessidades profissionais",
+    "hdTitle": "Fundo de Tela Roxa 1920×1080",
+    "hdDescription": "Imagem roxa em tela cheia para teste, ambiente e avaliação de tela",
+    "hdButton": "Baixar HD",
+    "fourKTitle": "Fundo de Tela Roxa 4K",
+    "fourKDescription": "Imagem roxa ultra HD para iluminação ambiente e calibração de display",
+    "fourKButton": "Baixar 4K",
+    "proTipBadge": "Dica Pro",
+    "proTipTitle": "Dica Pro",
+    "proTipDescription": "Tente alternar entre telas roxas e brancas ao editar vídeo para ver como o conteúdo se comporta sob diferentes ambientes de cor."
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "subtitle": "Respostas para perguntas comuns sobre a tela roxa",
+    "description": "Encontre respostas para perguntas comuns sobre o uso de nossa ferramenta de tela roxa para vários propósitos.",
+    "questions": [
+      {
+        "question": "Para que é usada uma ferramenta de Tela Roxa?",
+        "answer": "Uma ferramenta de Tela Roxa exibe uma cor roxa em modo tela cheia, comumente usada para teste de tela, painéis de humor, conforto ocular, criação de conteúdo e aprimoramento da criatividade visual."
+      },
+      {
+        "question": "Como usar a Tela Roxa para conforto ocular?",
+        "answer": "A Tela Roxa reduz a exposição à luz azul, tornando mais fácil para seus olhos durante a navegação noturna ou longas horas de trabalho. Ajuda a reduzir a tensão ocular e melhorar o conforto visual."
+      },
+      {
+        "question": "Posso usar a Tela Roxa para criação de conteúdo?",
+        "answer": "Sim! A Tela Roxa é perfeita para criar fundos quentes e convidativos para conteúdo online, aulas virtuais ou transmissões ao vivo. Adiciona energia e positividade ao seu conteúdo."
+      },
+      {
+        "question": "Por que usar a Tela Roxa para teste de tela?",
+        "answer": "O roxo é uma excelente cor para testar a precisão do display e calibração de cores. Ajuda a identificar problemas de cor e ajustar configurações do monitor para visualização ideal."
+      },
+      {
+        "question": "A Tela Roxa é boa para criatividade?",
+        "answer": "Sim, o roxo está associado à criatividade e otimismo. Uma Tela Roxa pode inspirar o pensamento criativo e servir como uma placa de humor para projetos de design e trabalho artístico."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificações técnicas",
+    "subtitle": "Detalhes técnicos da nossa ferramenta de tela roxa",
+    "specs": [
+      {
+        "label": "Cor",
+        "value": "#800080 (Roxo real)"
+      },
+      {
+        "label": "Resolução",
+        "value": "Adapta-se a todas as telas"
+      },
+      {
+        "label": "Compatibilidade",
+        "value": "Todos os navegadores modernos"
+      },
+      {
+        "label": "Efeito",
+        "value": "Criativo e espiritual"
+      }
+    ]
+  }
+} 

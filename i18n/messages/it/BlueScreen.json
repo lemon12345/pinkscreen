@@ -1,0 +1,162 @@
+{
+  "hero": {
+    "badge": "Strumento Schermo Blu",
+    "title": "Schermo Blu | Strumento Online",
+    "description": "Strumento schermo blu gratuito e professionale per creare video YouTube, copiare immagini, testare monitor e creare atmosfera calmante. Schermo blu a schermo intero senza pubblicità, perfetto per progetti creativi, presentazioni e rilassamento. Funziona offline su tutti i dispositivi.",
+    "features": {
+      "noRegistration": "Nessuna registrazione",
+      "worksOffline": "Funziona offline",
+      "allDevices": "Tutti i dispositivi"
+    }
+  },
+  "keywords": "schermo blu, sfondo blu, schermo blu online, colore blu, effetto calmante, test colore, schermo blu fullscreen",
+  "colorPicker": {
+    "title": "Scegli il tuo colore",
+    "custom": "Personalizzato",
+    "description": "Perfetto per creare un'atmosfera calmante e test del colore",
+    "launchButton": "Avvia schermo blu"
+  },
+  "interface": {
+    "livePreview": "Anteprima dal Vivo",
+    "chooseYourColor": "Scegli il Tuo Colore",
+    "clickForFullscreen": "Clicca per Schermo Intero",
+    "current": "Attuale",
+    "perfectFor": "Perfetto per video YouTube, copia immagini e creare atmosfera",
+    "launchBlueScreen": "Avvia Schermo Blu"
+  },
+  "colors": {
+    "Black": "Schermo Nero",
+    "White": "Schermo Bianco",
+    "Red": "Schermo Rosso",
+    "Blue": "Schermo Blu",
+    "Green": "Schermo Verde",
+    "Yellow": "Giallo",
+    "Purple": "Viola",
+    "Pink": "Rosa",
+    "Orange": "Arancione",
+    "Zoom Lighting": "Illuminazione Zoom"
+  },
+  "useCases": {
+    "title": "Le persone usano lo schermo blu per:",
+    "subtitle": "Scopri i diversi modi di utilizzare il nostro schermo blu",
+    "description": "Il nostro strumento schermo blu offre soluzioni calmanti e professionali per diverse applicazioni.",
+    "cases": [
+      {
+        "title": "fare video",
+        "description": "Perché i miei video di YouTube sono migliori con uno schermo blu e perché gli schermi verdi sono sopravvalutati",
+        "icon": "🎥"
+      },
+      {
+        "title": "per copiare l'immagine",
+        "description": "Per copiare un'immagine disegnata da un mio compagno di classe",
+        "icon": "📋"
+      },
+      {
+        "title": "per creare un'atmosfera",
+        "description": "Mi piace l'atmosfera che dà",
+        "icon": "🌊"
+      },
+      {
+        "title": "per progetti creativi",
+        "description": "Lo schermo blu è perfetto per progetti artistici e creativi che richiedono un'atmosfera calmante.",
+        "icon": "🎨"
+      },
+      {
+        "title": "per presentazioni",
+        "description": "Crea un'atmosfera professionale e rilassante durante le presentazioni e le riunioni.",
+        "icon": "📊"
+      },
+      {
+        "title": "per produzione video",
+        "description": "Ideale per la produzione video e cinematografica grazie al suo effetto calmante e professionale.",
+        "icon": "🎬"
+      },
+      {
+        "title": "per fotografia",
+        "description": "Usa lo schermo blu come sfondo per sessioni fotografiche che richiedono un'atmosfera serena.",
+        "icon": "📷"
+      },
+      {
+        "title": "per rilassamento",
+        "description": "Il colore blu ha un effetto calmante e rilassante, perfetto per momenti di pace e tranquillità.",
+        "icon": "✨"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Come usare lo schermo blu",
+    "subtitle": "Guida semplice per ottenere il massimo dal nostro strumento",
+    "steps": [
+      "Scegli il tuo colore preferito dalla tavolozza",
+      "Clicca sul pulsante 'Avvia' per aprire a schermo intero",
+      "Usa F11 o ESC per uscire dalla modalità schermo intero",
+      "Scarica l'immagine nella risoluzione preferita"
+    ]
+  },
+  "info": {
+    "title": "Schermo Blu – Strumento Sfondo a Schermo Intero",
+    "subtitle": "Uno schermo blu offre un effetto calmante, aiuta nei test del colore e crea un'atmosfera professionale per le presentazioni",
+    "professionalTool": "Strumento Professionale",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Scarica Sfondo Schermo Blu",
+    "downloadDescription": "Ottieni schermi blu di alta qualità per le tue esigenze professionali",
+    "hdTitle": "Sfondo Schermo Blu 1920×1080",
+    "hdDescription": "Immagine blu a schermo intero pura per effetto calmante, test del colore e comfort visivo",
+    "hdButton": "Scarica HD",
+    "fourKTitle": "Sfondo Schermo Blu 4K",
+    "fourKDescription": "Immagine schermo blu ultra HD per presentazioni professionali e test del display",
+    "fourKButton": "Scarica 4K",
+    "proTipBadge": "Suggerimento Pro",
+    "proTipTitle": "Suggerimento Pro",
+    "proTipDescription": "Usa lo schermo blu per creare un'atmosfera calma e professionale durante le tue presentazioni o videochiamate."
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "subtitle": "Risposte alle domande comuni sullo schermo blu",
+    "description": "Scopri come utilizzare efficacemente il nostro strumento schermo blu per i tuoi progetti e necessità quotidiane.",
+    "questions": [
+      {
+        "question": "Perché usare il blu per testare lo schermo?",
+        "answer": "Il blu offre un eccellente contrasto per rilevare impurità e pixel difettosi."
+      },
+      {
+        "question": "Come rilevare un pixel morto?",
+        "answer": "Un pixel morto apparirà come un punto nero sullo schermo blu uniforme."
+      },
+      {
+        "question": "Lo strumento funziona su tutti i tipi di schermo?",
+        "answer": "Sì, funziona su LCD, LED, OLED e tutti i tipi di schermi moderni."
+      },
+      {
+        "question": "Posso regolare l'intensità del blu?",
+        "answer": "Usa le impostazioni di luminosità del tuo dispositivo per regolare l'intensità."
+      },
+      {
+        "question": "Il blu è buono per gli occhi?",
+        "answer": "Il blu ha un effetto calmante e rilassante, ma è comunque consigliabile usarlo con moderazione per evitare affaticamento degli occhi."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specifiche tecniche",
+    "subtitle": "Dettagli tecnici del nostro strumento schermo blu",
+    "specs": [
+      {
+        "label": "Colore",
+        "value": "#0000FF (Blu puro)"
+      },
+      {
+        "label": "Risoluzione",
+        "value": "Si adatta a tutti gli schermi"
+      },
+      {
+        "label": "Compatibilità",
+        "value": "Tutti i browser moderni"
+      },
+      {
+        "label": "Utilizzo",
+        "value": "Test e diagnostica schermo"
+      }
+    ]
+  }
+} 

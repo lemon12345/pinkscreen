@@ -1,0 +1,167 @@
+{
+  "hero": {
+    "badge": "Strumento Schermo Viola",
+    "title": "Schermo Viola | Strumento Online",
+    "description": "Schermo viola online per favorire la creatività, la spiritualità e creare un'atmosfera mistica. Perfetto per la meditazione e l'ispirazione artistica.",
+    "features": {
+      "noRegistration": "Nessuna registrazione",
+      "worksOffline": "Funziona offline",
+      "allDevices": "Tutti i dispositivi"
+    }
+  },
+  "keywords": "schermo viola, sfondo viola, schermo viola online, colore viola, creatività, spiritualità, mistico",
+  "colorPicker": {
+    "title": "Scegli il tuo colore",
+    "custom": "Personalizzato",
+    "description": "Perfetto per creare un'atmosfera mistica e stimolare la creatività",
+    "perfectFor": "Perfetto per"
+  },
+  "colors": {
+    "Black": "Schermo Nero",
+    "White": "Schermo Bianco",
+    "Red": "Schermo Rosso",
+    "Blue": "Schermo Blu",
+    "Green": "Schermo Verde",
+    "Yellow": "Giallo",
+    "Purple": "Viola",
+    "Pink": "Rosa",
+    "Orange": "Arancione",
+    "Zoom Lighting": "Illuminazione Zoom"
+  },
+  "interface": {
+    "livePreview": "Anteprima dal vivo",
+    "clickForFullscreen": "Clicca per schermo intero",
+    "current": "Attuale",
+    "chooseYourColor": "Scegli il tuo colore",
+    "perfectFor": "Perfetto per",
+    "launchPurpleScreen": "Avvia Schermo Viola"
+  },
+  "useCases": {
+    "title": "Le persone utilizzano lo schermo viola per:",
+    "subtitle": "Scopri i diversi modi di utilizzare il nostro schermo viola",
+    "description": "Il nostro strumento schermo viola ispira creatività e spiritualità, creando un'atmosfera mistica e sofisticata.",
+    "cases": [
+      {
+        "title": "Schermo Viola a Schermo Intero per App Benessere",
+        "description": "Integra il nostro strumento nella tua app benessere per generare uno schermo viola rilassante, perfetto per esercizi di meditazione e mindfulness. Il colore sereno favorisce il rilassamento e il benessere mentale.",
+        "icon": "🧘"
+      },
+      {
+        "title": "Schermo Viola per Effetti di Illuminazione",
+        "description": "Crea un effetto luminoso dinamico con uno schermo viola a schermo intero. Ideale per creare un'atmosfera unica per le tue videochiamate, eventi virtuali o sessioni musicali.",
+        "icon": "💡"
+      },
+      {
+        "title": "Studio della Teoria del Colore con Schermo Viola",
+        "description": "Utilizza un vivace schermo viola a schermo intero come strumento didattico per la teoria del colore. Aiuta studenti d'arte e designer a comprendere l'importanza e l'impatto del colore nel loro lavoro.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Test di Visualizzazione con Schermo Viola Completo",
+        "description": "Verifica l'accuratezza cromatica dei tuoi monitor o schermi con il nostro strumento che genera un display viola a schermo intero. Essenziale per designer, fotografi e videomaker.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "Schermo Viola Interattivo per l'Apprendimento dei Bambini",
+        "description": "Coinvolgi i bambini in un e-learning interattivo con uno schermo viola a schermo intero. Il colore vivace stimola l'immaginazione e la concentrazione, migliorando l'esperienza di apprendimento.",
+        "icon": "👶"
+      },
+      {
+        "title": "schermo viola per creare un'atmosfera",
+        "description": "Mi piace l'atmosfera che dà il viola",
+        "icon": "🌟"
+      },
+      {
+        "title": "schermo viola per copiare immagini",
+        "description": "Per copiare un'immagine disegnata da un mio compagno di classe",
+        "icon": "📋"
+      },
+      {
+        "title": "schermo viola per realizzare video",
+        "description": "Perché i miei video su YouTube sono migliori con uno schermo viola",
+        "icon": "🎥"
+      },
+      {
+        "title": "schermo viola per videochiamate",
+        "description": "Per aggiungere un bagliore viola durante le riunioni.",
+        "icon": "📞"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Come utilizzare lo schermo viola",
+    "subtitle": "Guida semplice per ottenere il massimo dal nostro strumento",
+    "steps": [
+      "Scegli il tuo colore preferito dalla tavolozza",
+      "Clicca sul pulsante 'Avvia' per aprire a schermo intero",
+      "Usa F11 o ESC per uscire dalla modalità schermo intero",
+      "Scarica l'immagine nella risoluzione preferita"
+    ]
+  },
+  "info": {
+    "title": "Schermo Viola – Strumento Sfondo a Schermo Intero",
+    "subtitle": "Uno schermo viola ispira creatività e spiritualità, creando un'atmosfera mistica e sofisticata",
+    "professionalTool": "Strumento Professionale",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Scarica Sfondo Schermo Viola",
+    "downloadDescription": "Ottieni schermi viola di alta qualità per le tue esigenze professionali",
+    "hdTitle": "Sfondo Schermo Viola 1920×1080",
+    "hdDescription": "Immagine viola a schermo intero pura per ispirare creatività, spiritualità e creare un'atmosfera mistica",
+    "hdButton": "Scarica HD",
+    "fourKTitle": "Sfondo Schermo Viola 4K",
+    "fourKDescription": "Immagine schermo viola ultra HD per ambienti creativi sofisticati e progetti artistici",
+    "fourKButton": "Scarica 4K",
+    "proTipBadge": "Suggerimento Pro",
+    "proTipTitle": "Suggerimento Pro",
+    "proTipDescription": "Il viola combina la stabilità del blu e l'energia del rosso, perfetto per stimolare creatività e immaginazione."
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "subtitle": "Risposte alle domande più comuni sullo schermo viola",
+    "description": "Scopri come utilizzare il colore viola per stimolare la creatività e creare ambienti sofisticati.",
+    "questions": [
+      {
+        "question": "Cos'è lo schermo viola?",
+        "answer": "Lo schermo viola è uno strumento online che visualizza un display viola a schermo intero, perfetto per stimolare la creatività e creare un'atmosfera mistica."
+      },
+      {
+        "question": "Come posso usare lo schermo viola?",
+        "answer": "Puoi utilizzare lo schermo viola per meditazione, ispirazione artistica, creare atmosfere mistiche o semplicemente per rilassarti."
+      },
+      {
+        "question": "Lo schermo viola è gratuito?",
+        "answer": "Sì, il nostro strumento schermo viola è completamente gratuito e non richiede registrazione."
+      },
+      {
+        "question": "Posso usare lo schermo viola offline?",
+        "answer": "Sì, una volta caricato, lo schermo viola funziona offline senza connessione internet."
+      },
+      {
+        "question": "Lo schermo viola è sicuro per gli occhi?",
+        "answer": "Sì, il colore viola è generalmente considerato sicuro per gli occhi e può aiutare a ridurre l'affaticamento visivo."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specifiche tecniche",
+    "subtitle": "Dettagli tecnici del nostro strumento schermo viola",
+    "specs": [
+      {
+        "label": "Colore",
+        "value": "#800080 (Viola reale)"
+      },
+      {
+        "label": "Risoluzione",
+        "value": "Si adatta a tutti gli schermi"
+      },
+      {
+        "label": "Compatibilità",
+        "value": "Tutti i browser moderni"
+      },
+      {
+        "label": "Effetto",
+        "value": "Creativo e spirituale"
+      }
+    ]
+  }
+} 

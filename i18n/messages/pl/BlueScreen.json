@@ -1,0 +1,161 @@
+{
+  "hero": {
+    "badge": "Narzędzie Niebieskiego Ekranu",
+    "title": "Niebieski Ekran | Narzędzie Online",
+    "description": "Niebieski ekran, strona internetowa do znajdowania brudnych plam lub testowania martwych pikseli na ekranie.",
+    "features": {
+      "noRegistration": "Bez rejestracji",
+      "worksOffline": "Działa offline",
+      "allDevices": "Wszystkie urządzenia"
+    }
+  },
+  "keywords": "niebieski ekran, niebieskie tło, niebieski ekran online, kolor niebieski, efekt uspokajający, test koloru",
+  "colorPicker": {
+    "title": "Wybierz swój kolor",
+    "custom": "Niestandardowy",
+    "description": "Idealny do tworzenia uspokajającej atmosfery i testów koloru",
+    "launchButton": "Uruchom niebieski ekran"
+  },
+  "colors": {
+    "Black": "Czarny",
+    "White": "Biały",
+    "Red": "Czerwony",
+    "Blue": "Niebieski",
+    "Green": "Zielony",
+    "Yellow": "Żółty",
+    "Purple": "Fioletowy",
+    "Pink": "Różowy",
+    "Orange": "Pomarańczowy",
+    "Zoom Lighting": "Oświetlenie Zoom"
+  },
+  "interface": {
+    "livePreview": "Podgląd na żywo",
+    "clickForFullscreen": "Kliknij, aby przejść na pełny ekran",
+    "current": "Aktualny",
+    "chooseYourColor": "Wybierz swój kolor",
+    "perfectFor": "Idealny do",
+    "launchBlueScreen": "Uruchom Niebieski Ekran"
+  },
+  "useCases": {
+    "title": "Ludzie używają niebieskiego ekranu:",
+    "subtitle": "Odkryj różne sposoby korzystania z naszego niebieskiego ekranu",
+    "description": "Nasze narzędzie niebieskiego ekranu oferuje uspokajające i profesjonalne rozwiązania dla różnych zastosowań.",
+    "cases": [
+      {
+        "title": "Relaksacja z niebieskim ekranem",
+        "description": "Odkryj kojącą moc naszego pełnoekranowego niebieskiego wyświetlacza. Jego uspokajające niebieskie tony mogą pomóc zredukować stres i promować relaksację po długim dniu.",
+        "icon": "😌"
+      },
+      {
+        "title": "Pomoc w zasypianiu z narzędziem niebieskiego ekranu",
+        "description": "Nasze narzędzie niebieskiego ekranu może być używane jako pomoc w zasypianiu. Miękkie, uspokajające niebieskie światło jest znane z zachęcania do senności i poprawy jakości snu.",
+        "icon": "😴"
+      },
+      {
+        "title": "Filtr niebieskiego światła na zmęczenie oczu",
+        "description": "Użyj naszego pełnoekranowego niebieskiego wyświetlacza jako filtra niebieskiego światła, aby złagodzić zmęczenie oczu wynikające z patrzenia na ekrany. Idealny przy długich godzinach spędzonych przed ekranem, może pomóc w utrzymaniu zdrowia oczu.",
+        "icon": "👀"
+      },
+      {
+        "title": "Niebieski ekran dla artystycznej inspiracji",
+        "description": "Artyści i projektanci mogą używać naszego narzędzia niebieskiego ekranu do inspiracji. Głębokie, spokojne odcienie niebieskiego mogą pobudzić kreatywność i stymulować wyobraźnię.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Niebieski ekran jako pomoc wizualna w prezentacjach",
+        "description": "Użyj naszego narzędzia niebieskiego ekranu jako pomocy wizualnej w prezentacjach. Niebieskie tło może pomóc w podkreśleniu tekstu i obrazów, poprawiając komunikację i zrozumienie.",
+        "icon": "📊"
+      },
+      {
+        "title": "niebieski ekran do tworzenia filmów",
+        "description": "Ponieważ moje filmy na YouTube są lepsze z niebieskim ekranem i ponieważ zielone ekrany są przereklamowane",
+        "icon": "🎬"
+      },
+      {
+        "title": "niebieski ekran do kopiowania obrazu",
+        "description": "Aby skopiować obraz narysowany przez mojego kolegę z klasy",
+        "icon": "📋"
+      },
+      {
+        "title": "niebieski ekran dla stworzenia klimatu",
+        "description": "Lubię klimat, który tworzy",
+        "icon": "🌊"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Jak korzystać z niebieskiego ekranu",
+    "subtitle": "Prosty przewodnik, jak najlepiej wykorzystać nasze narzędzie",
+    "steps": [
+      "Otwórz narzędzie",
+      "Sprawdź",
+      "Wyczyść"
+    ]
+  },
+  "info": {
+    "title": "Niebieski Ekran – Narzędzie Tła Pełnoekranowego",
+    "subtitle": "Niebieski ekran oferuje uspokajający efekt, pomaga w testach kolorów i tworzy profesjonalną atmosferę dla prezentacji",
+    "professionalTool": "Narzędzie Profesjonalne",
+    "downloadReady": "Pobieranie Gotowe",
+    "downloadTitle": "Pobierz Tło Niebieskiego Ekranu",
+    "downloadDescription": "Uzyskaj wysokiej jakości niebieskie ekrany dla swoich potrzeb zawodowych",
+    "hdTitle": "Tło Niebieskiego Ekranu 1920×1080",
+    "hdDescription": "Czysto niebieski obraz pełnoekranowy dla uspokajającego efektu, testów kolorów i komfortu wizualnego",
+    "hdButton": "Pobierz HD",
+    "fourKTitle": "Tło Niebieskiego Ekranu 4K",
+    "fourKDescription": "Ultra HD niebieski ekran dla profesjonalnych prezentacji i testów wyświetlacza",
+    "fourKButton": "Pobierz 4K",
+    "proTipBadge": "Wskazówka Pro",
+    "proTipTitle": "Wskazówka Pro",
+    "proTipDescription": "Użyj niebieskiego ekranu, aby stworzyć spokojną i profesjonalną atmosferę podczas prezentacji lub wideorozmów."
+  },
+  "faq": {
+    "title": "Często zadawane pytania",
+    "subtitle": "Odpowiedzi na częste pytania o niebieski ekran",
+    "description": "Znajdź odpowiedzi na często zadawane pytania dotyczące korzystania z naszego narzędzia niebieskiego ekranu do różnych celów.",
+    "questions": [
+      {
+        "question": "Dlaczego używać niebieskiego do testowania ekranu?",
+        "answer": "Niebieski oferuje doskonały kontrast do wykrywania zanieczyszczeń i wadliwych pikseli."
+      },
+      {
+        "question": "Jak wykryć martwy piksel?",
+        "answer": "Martwy piksel pojawi się jako czarna kropka na jednolitym niebieskim ekranie."
+      },
+      {
+        "question": "Czy narzędzie działa na wszystkich typach ekranów?",
+        "answer": "Tak, działa na LCD, LED, OLED i wszystkich typach nowoczesnych ekranów."
+      },
+      {
+        "question": "Czy mogę dostosować intensywność niebieskiego?",
+        "answer": "Użyj ustawień jasności swojego urządzenia, aby dostosować intensywność."
+      },
+      {
+        "question": "Czy niebieski ekran jest bezpieczny dla oczu?",
+        "answer": "Tak, niebieski ekran jest ogólnie uważany za bezpieczny dla oczu i może pomóc zmniejszyć zmęczenie oczu."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specyfikacje techniczne",
+    "subtitle": "Szczegóły techniczne naszego narzędzia niebieskiego ekranu",
+    "specs": [
+      {
+        "label": "Kolor",
+        "value": "#0000FF (Czysty niebieski)"
+      },
+      {
+        "label": "Rozdzielczość",
+        "value": "Dostosowuje się do wszystkich ekranów"
+      },
+      {
+        "label": "Kompatybilność",
+        "value": "Wszystkie nowoczesne przeglądarki"
+      },
+      {
+        "label": "Zastosowanie",
+        "value": "Test i diagnostyka ekranu"
+      }
+    ]
+  }
+} 

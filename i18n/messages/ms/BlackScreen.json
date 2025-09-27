@@ -1,0 +1,180 @@
+{
+  "hero": {
+    "badge": "Alat Skrin Hitam",
+    "title": "Skrin Hitam | Alat Dalam Talian",
+    "description": "Alat skrin hitam percuma dan profesional untuk menjimatkan tenaga, berehatkan mata, memfokuskan diri dan menggelapkan monitor tanpa mematikannya. Skrin hitam skrin penuh tanpa iklan, sempurna untuk TV plasma, gaming, pembelajaran dan kerja. Berfungsi luar talian pada semua peranti.",
+    "features": {
+      "noRegistration": "Tiada pendaftaran",
+      "worksOffline": "Berfungsi luar talian",
+      "allDevices": "Semua peranti"
+    }
+  },
+  "keywords": "skrin hitam, skrin hitam dalam talian, pembersihan skrin, ujian piksel mati, jimat tenaga, latar belakang hitam, skrin hitam skrin penuh",
+  "colorPicker": {
+    "title": "Pilih warna anda",
+    "custom": "Tersuai",
+    "description": "Sempurna untuk pembersihan skrin dan ujian piksel",
+    "perfectFor": "Sempurna untuk"
+  },
+  "colors": {
+    "Black": "Hitam",
+    "White": "Putih",
+    "Red": "Merah",
+    "Blue": "Biru",
+    "Green": "Hijau",
+    "Yellow": "Kuning",
+    "Purple": "Ungu",
+    "Pink": "Merah Jambu",
+    "Orange": "Oren",
+    "Zoom Lighting": "Pencahayaan Zoom"
+  },
+  "interface": {
+    "livePreview": "Pratonton langsung",
+    "clickForFullscreen": "Klik untuk skrin penuh",
+    "current": "Semasa",
+    "chooseYourColor": "Pilih warna anda",
+    "perfectFor": "Sempurna untuk",
+    "launchBlackScreen": "Lancarkan Skrin Hitam"
+  },
+  "useCases": {
+    "title": "Kes penggunaan skrin hitam",
+    "subtitle": "Temui pelbagai cara untuk menggunakan skrin hitam kami",
+    "description": "Alat skrin hitam kami mencipta persekitaran yang gelap dan tenang untuk pelbagai keperluan teknikal dan relaksasi.",
+    "cases": [
+      {
+        "title": "Gelapkan monitor kedua",
+        "description": "Matikan secara visual skrin kedua anda tanpa mematikannya untuk menjimatkan tenaga.",
+        "icon": "monitor"
+      },
+      {
+        "title": "Sembunyikan aktiviti komputer",
+        "description": "Sembunyikan secara diskret bahawa komputer anda hidup dan aktif.",
+        "icon": "eye-off"
+      },
+      {
+        "title": "Jimat elektrik",
+        "description": "Kurangkan penggunaan tenaga dengan memaparkan skrin hitam berbanding latar belakang terang.",
+        "icon": "battery"
+      },
+      {
+        "title": "Berehat mata",
+        "description": "Berikan rehat kepada mata anda dengan skrin hitam yang menenangkan, sesuai untuk rehat.",
+        "icon": "eye"
+      },
+      {
+        "title": "Ujian piksel mati",
+        "description": "Kesan piksel rosak dengan mudah pada skrin anda dengan latar belakang hitam seragam.",
+        "icon": "search"
+      },
+      {
+        "title": "Meditasi dan relaksasi",
+        "description": "Cipta persekitaran tenang dan tanpa gangguan untuk meditasi.",
+        "icon": "heart"
+      },
+      {
+        "title": "Pembersihan skrin",
+        "description": "Lebih mudah melihat tempat kotor apabila membersihkan skrin.",
+        "icon": "📚"
+      },
+      {
+        "title": "Mengelakkan burn-in TV plasma",
+        "description": "Saya mempunyai TV plasma lama. Saya tidak mempunyai speaker komputer, jadi apabila saya mahu mendengar muzik dengan kuat, saya menghidupkan TV saya dan menyambungkannya melalui HDMI. Plasma sangat mudah terdedah kepada burn-in, jadi daripada membiarkan Windows Media Player atau apa sahaja di skrin, saya menggunakan skrin hitam untuk mengelakkan burn-in.",
+        "icon": "😴"
+      },
+      {
+        "title": "Memfokuskan diri semasa belajar",
+        "description": "Untuk tidak mematikan skrin dan memfokuskan diri semasa belajar. Baik, skrin saya sangat terang dan tidak membantu dengan tumpuan, skrin hitam menyelesaikannya.",
+        "icon": "🎯"
+      },
+      {
+        "title": "Berehatkan mata",
+        "description": "Kerana saya perlu berehatkan mata dan hanya mempunyai skrin hitam walaupun ketika mendengar muzik di komputer saya atau mahu beralih dengan cepat dari semua hitam ke sesuatu yang lain.",
+        "icon": "🔋"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Cara menggunakan skrin hitam",
+    "subtitle": "Panduan mudah untuk mendapatkan yang terbaik dari alat kami",
+    "steps": [
+      {
+        "title": "Buka alat",
+        "description": "Klik butang untuk memaparkan skrin hitam dalam skrin penuh"
+      },
+      {
+        "title": "Posisi",
+        "description": "Letakkan tetingkap pada skrin yang ingin anda gelapkan"
+      },
+      {
+        "title": "Nikmati",
+        "description": "Jimat tenaga dan berehatkan mata dengan skrin hitam"
+      }
+    ]
+  },
+  "info": {
+    "title": "Skrin Hitam – Alat Latar Belakang Skrin Penuh",
+    "subtitle": "Skrin hitam menonjolkan habuk dan kotoran untuk pembersihan mudah, membantu mengesan piksel dan mengurangkan silau di bilik gelap",
+    "professionalTool": "Alat Profesional",
+    "downloadReady": "Muat Turun Sedia",
+    "downloadTitle": "Muat Turun Latar Belakang Skrin Hitam",
+    "downloadDescription": "Dapatkan skrin hitam berkualiti tinggi untuk keperluan profesional anda",
+    "hdTitle": "Latar Belakang Skrin Hitam 1920×1080",
+    "hdDescription": "Imej hitam skrin penuh tulen untuk pembersihan skrin, ujian piksel mati dan keselesaan visual",
+    "hdButton": "Muat Turun HD",
+    "fourKTitle": "Latar Belakang Skrin Hitam 4K",
+    "fourKDescription": "Imej skrin hitam ultra HD untuk pengurangan silau dan ujian paparan",
+    "fourKButton": "Muat Turun 4K",
+    "proTipBadge": "Petua Pro",
+    "proTipTitle": "Petua Pro",
+    "proTipDescription": "Gunakan skrin hitam bersama dengan skrin putih atau merah untuk menguji tindak balas kecerahan dan kontras monitor anda."
+  },
+  "faq": {
+    "title": "Soalan lazim",
+    "subtitle": "Jawapan kepada soalan biasa tentang skrin hitam",
+    "description": "Pelajari cara menggunakan skrin hitam untuk menjimatkan tenaga, berehatkan mata dan mengelakkan gangguan.",
+    "questions": [
+      {
+        "question": "Adakah skrin hitam benar-benar hitam?",
+        "answer": "Ya, kami menggunakan hitam tulen (#000000) untuk kegelapan maksimum."
+      },
+      {
+        "question": "Adakah ia benar-benar menjimatkan tenaga?",
+        "answer": "Pada skrin OLED dan AMOLED, piksel hitam menggunakan kurang tenaga daripada piksel berwarna."
+      },
+      {
+        "question": "Bolehkah saya menggunakan skrin hitam pada beberapa monitor?",
+        "answer": "Ya, buka beberapa tab dan letakkan pada setiap skrin yang ingin anda gelapkan."
+      },
+      {
+        "question": "Adakah alat berfungsi tanpa talian?",
+        "answer": "Setelah halaman dimuatkan, anda boleh menggunakan skrin hitam tanpa sambungan internet."
+      },
+      {
+        "question": "Adakah skrin hitam selamat untuk mata?",
+        "answer": "Ya, skrin hitam boleh membantu mengurangkan ketegangan mata dan memberikan rehat yang diperlukan."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Spesifikasi teknikal",
+    "subtitle": "Butiran teknikal alat skrin hitam kami",
+    "specs": [
+      {
+        "label": "Warna",
+        "value": "#000000 (Hitam tulen)"
+      },
+      {
+        "label": "Resolusi",
+        "value": "Menyesuaikan dengan semua skrin"
+      },
+      {
+        "label": "Keserasian",
+        "value": "Semua pelayar moden"
+      },
+      {
+        "label": "Penggunaan",
+        "value": "Minimum pada skrin OLED"
+      }
+    ]
+  }
+} 

@@ -1,0 +1,172 @@
+{
+  "hero": {
+    "badge": "Pencahayaan Zoom",
+    "title": "Pencahayaan Zoom | Alat Dalam Talian",
+    "description": "Alat pencahayaan zoom profesional dalam talian untuk panggilan video Zoom, Teams, Skype, Google Meet dan platform persidangan maya. Skrin putih skrin penuh berkualiti tinggi untuk menerangi wajah anda semasa video YouTube, penstriman Twitch, sesi fotografi, selfie dan penciptaan kandungan. Pencahayaan video profesional tanpa peralatan mahal - bersih, pantas, tanpa iklan dan berfungsi luar talian. Sesuai untuk YouTuber, penstrimer, influencer, ahli perniagaan dan sesiapa yang memerlukan pencahayaan video yang sempurna.",
+    "features": {
+      "noRegistration": "Tiada pendaftaran",
+      "worksOffline": "Berfungsi luar talian",
+      "allDevices": "Semua peranti"
+    }
+  },
+  "keywords": "pencahayaan zoom, pencahayaan video, skrin putih, pencahayaan dalam talian, zoom lighting, pencahayaan profesional, panggilan video",
+  "colorPicker": {
+    "title": "Pilih warna anda",
+    "custom": "Tersuai",
+    "description": "Sempurna untuk pencahayaan video profesional dan sesi fotografi",
+    "launchButton": "Lancarkan pencahayaan zoom"
+  },
+  "temperatureControl": {
+    "title": "Kawalan Suhu",
+    "temperature": "Suhu",
+    "description": "Laraskan suhu warna untuk pencahayaan yang sesuai"
+  },
+  "colors": {
+    "Black": "Hitam",
+    "White": "Putih",
+    "Red": "Merah",
+    "Blue": "Biru",
+    "Green": "Hijau",
+    "Yellow": "Kuning",
+    "Purple": "Ungu",
+    "Pink": "Merah Jambu",
+    "Orange": "Oren",
+    "Zoom Lighting": "Pencahayaan Zoom"
+  },
+  "interface": {
+    "livePreview": "Pratonton langsung",
+    "clickForFullscreen": "Klik untuk skrin penuh",
+    "current": "Semasa",
+    "chooseYourColor": "Pilih warna anda",
+    "perfectFor": "Sempurna untuk",
+    "launchZoomLighting": "Lancarkan Pencahayaan Zoom"
+  },
+  "useCases": {
+    "title": "Orang menggunakan pencahayaan zoom untuk:",
+    "subtitle": "Temui cara untuk meningkatkan pencahayaan video anda",
+    "description": "Alat pencahayaan zoom kami menawarkan penyelesaian profesional untuk pencahayaan video dan fotografi.",
+    "cases": [
+      {
+        "title": "Pencahayaan Tersuai untuk Persidangan Video",
+        "description": "Gunakan alat skrin pencahayaan zoom kami untuk mencipta persediaan pencahayaan yang sempurna untuk panggilan video anda. Dengan warna dan suhu yang boleh disesuaikan, anda boleh mencapai pencahayaan persidangan video tahap profesional dengan mudah.",
+        "icon": "💡"
+      },
+      {
+        "title": "Latar Belakang Fotografi dengan Skrin Pencahayaan Zoom",
+        "description": "Tingkatkan persediaan fotografi anda dengan skrin pencahayaan zoom yang boleh disesuaikan kami. Sesuaikan warna dan suhu untuk memenuhi suasana sesi fotografi anda dan hasilkan imej yang menakjubkan.",
+        "icon": "📸"
+      },
+      {
+        "title": "Tingkatkan Pengalaman ePembelajaran dengan Pencahayaan Optimum",
+        "description": "Dengan skrin pencahayaan zoom kami, cipta persekitaran pembelajaran yang kondusif untuk ePembelajaran. Tetapan cahaya yang boleh disesuaikan memastikan keselesaan membaca yang optimum dan meningkatkan konsentrasi.",
+        "icon": "📚"
+      },
+      {
+        "title": "Alat Ujian Pencahayaan untuk Pembangun Web",
+        "description": "Pembangun web boleh menggunakan skrin pencahayaan zoom skrin penuh kami untuk menguji bagaimana suhu dan warna cahaya yang berbeza mempengaruhi penampilan reka bentuk mereka, membantu mencipta laman web yang menarik secara visual dan mudah diakses.",
+        "icon": "💻"
+      },
+      {
+        "title": "Terapi Warna dengan Skrin Pencahayaan Zoom",
+        "description": "Ahli terapi dan jurulatih kesejahteraan boleh menggunakan skrin pencahayaan zoom kami dengan warna dan suhu yang boleh disesuaikan untuk sesi terapi warna, menggalakkan relaksasi dan penyembuhan.",
+        "icon": "🌈"
+      },
+      {
+        "title": "skrin putih sebagai pencahayaan untuk panggilan zoom",
+        "description": "Untuk panggilan video! Saya tidak mempunyai lampu cincin yang mudah, tetapi mempunyai dua skrin. Jadi saya boleh menggunakan salah satu skrin untuk menerangi muka saya!",
+        "icon": "💻"
+      },
+      {
+        "title": "pencahayaan zoom untuk mendapatkan kecerahan",
+        "description": "Saya menggunakannya untuk mendapatkan kecerahan semasa saya dalam panggilan video",
+        "icon": "✨"
+      },
+      {
+        "title": "pencahayaan zoom untuk menerangi",
+        "description": "Untuk menerangi apabila saya menggunakan panggilan persidangan video",
+        "icon": "🔆"
+      },
+      {
+        "title": "pencahayaan zoom untuk menukar monitor saya menjadi lampu",
+        "description": "Menukar monitor saya menjadi lampu untuk mengimbangi pencahayaan belakang pada panggilan video",
+        "icon": "🖥️"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Cara menggunakan pencahayaan Zoom",
+    "subtitle": "Panduan mudah untuk pencahayaan video sempurna",
+    "steps": [
+      "Posisikan skrin",
+      "Buka alat",
+      "Laraskan keamatan",
+      "Mulakan panggilan"
+    ]
+  },
+  "info": {
+    "title": "Pencahayaan Zoom – Alat Pencahayaan Skrin Penuh",
+    "subtitle": "Pencahayaan zoom profesional untuk panggilan video dan sesi fotografi",
+    "professionalTool": "Alat Profesional",
+    "downloadReady": "Muat Turun Sedia",
+    "downloadTitle": "Muat Turun Latar Belakang Pencahayaan Zoom",
+    "downloadDescription": "Dapatkan pencahayaan zoom berkualiti tinggi untuk keperluan profesional anda",
+    "hdTitle": "Latar Belakang Pencahayaan Zoom 1920×1080",
+    "hdDescription": "Imej pencahayaan zoom skrin penuh tulen untuk panggilan video profesional",
+    "hdButton": "Muat Turun HD",
+    "fourKTitle": "Latar Belakang Pencahayaan Zoom 4K",
+    "fourKDescription": "Imej pencahayaan zoom ultra HD untuk projek video profesional dan sesi fotografi",
+    "fourKButton": "Muat Turun 4K",
+    "proTipBadge": "Petua Pro",
+    "proTipTitle": "Petua Pro",
+    "proTipDescription": "Gunakan pencahayaan zoom untuk mencipta pencahayaan yang seragam dan profesional dalam panggilan video anda."
+  },
+  "faq": {
+    "title": "Soalan lazim",
+    "subtitle": "Jawapan kepada soalan biasa tentang pencahayaan Zoom",
+    "description": "Pelajari cara menggunakan pencahayaan zoom untuk meningkatkan kualiti panggilan video dan sesi fotografi anda.",
+    "questions": [
+      {
+        "question": "Adakah ia benar-benar berfungsi sebagai pencahayaan?",
+        "answer": "Ya! Skrin putih boleh berfungsi sebagai sumber cahaya lembut dan seragam yang sangat baik."
+      },
+      {
+        "question": "Bolehkah saya gunakan telefon sebagai pencahayaan?",
+        "answer": "Tentu sekali! Walaupun telefon pintar boleh memberikan pencahayaan sokongan yang berkesan."
+      },
+      {
+        "question": "Bagaimana untuk mengelakkan silau?",
+        "answer": "Laraskan kecerahan skrin dan posisikannya sedikit di luar garis penglihatan langsung anda."
+      },
+      {
+        "question": "Adakah ia menggunakan banyak bateri?",
+        "answer": "Penggunaan bergantung pada kecerahan. Gunakan peranti yang disambungkan untuk sesi yang panjang."
+      },
+      {
+        "question": "Adakah pencahayaan zoom selamat untuk mata?",
+        "answer": "Ya, pencahayaan zoom umumnya dianggap selamat untuk mata dan boleh membantu mengurangkan ketegangan mata."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Spesifikasi teknikal",
+    "subtitle": "Butiran teknikal pencahayaan Zoom",
+    "specs": [
+      {
+        "label": "Warna",
+        "value": "#FFFFFF (Putih tulen)"
+      },
+      {
+        "label": "Suhu",
+        "value": "6500K (Cahaya siang)"
+      },
+      {
+        "label": "Keserasian",
+        "value": "Semua peranti dengan skrin"
+      },
+      {
+        "label": "Penggunaan",
+        "value": "Pencahayaan video profesional"
+      }
+    ]
+  }
+} 

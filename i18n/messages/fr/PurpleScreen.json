@@ -1,0 +1,166 @@
+{
+  "hero": {
+    "badge": "Outil Écran Violet",
+    "title": "Écran Violet | Outil en Ligne",
+    "description": "Activez un écran violet en plein écran pour créer une atmosphère inspirante, tester les teintes sombres, ou ajouter une touche élégante à votre environnement numérique.",
+    "features": {
+      "noRegistration": "Aucune inscription",
+      "worksOffline": "Fonctionne hors ligne",
+      "allDevices": "Tous les appareils"
+    }
+  },
+  "keywords": "écran violet, fond violet, écran violet en ligne, couleur violette, créativité, spiritualité, mystique, écran violet plein écran",
+  "colorPicker": {
+    "title": "Choisissez votre couleur",
+    "custom": "Personnalisé",
+    "description": "Parfait pour inspirer la créativité et créer une ambiance mystique",
+    "launchButton": "Lancer l'écran violet"
+  },
+  "interface": {
+    "livePreview": "Aperçu en Direct",
+    "chooseYourColor": "Choisissez Votre Couleur",
+    "clickForFullscreen": "Cliquer pour Plein Écran",
+    "current": "Actuel",
+    "perfectFor": "Parfait pour les tests de moniteur, l'éclairage photographique et les présentations",
+    "launchPurpleScreen": "Lancer l'Écran Violet"
+  },
+  "colors": {
+    "Black": "Écran Noir",
+    "White": "Écran Blanc",
+    "Red": "Écran Rouge",
+    "Blue": "Écran Bleu",
+    "Green": "Écran Vert",
+    "Yellow": "Écran Jaune",
+    "Purple": "Écran Violet",
+    "Pink": "Écran Rose",
+    "Orange": "Écran Orange",
+    "Zoom Lighting": "Zoom d'éclairage"
+  },
+  "useCases": {
+    "title": "Les gens utilisent l'écran violet pour:",
+    "subtitle": "Découvrez les différentes façons d'utiliser notre écran violet",
+    "description": "Notre outil d'écran violet inspire la créativité et la spiritualité, créant une atmosphère mystique et sophistiquée.",
+    "cases": [
+      {
+        "title": "Écran Violet en Plein Écran pour les Applications de Bien-Être",
+        "description": "Intégrez notre outil dans votre application de bien-être pour générer un écran violet apaisant, parfait pour les exercices de méditation et de pleine conscience. La couleur sereine favorise la relaxation et le bien-être mental.",
+        "icon": "heart"
+      },
+      {
+        "title": "Écran Violet pour Effet d'Éclairage",
+        "description": "Créez un effet d'éclairage dynamique avec un affichage violet en plein écran. Parfait pour établir une ambiance unique pour vos appels vidéo, événements virtuels ou sessions de musique.",
+        "icon": "lightbulb"
+      },
+      {
+        "title": "Étude de la Théorie des Couleurs avec Écran Violet",
+        "description": "Utilisez un affichage violet vibrant en plein écran comme outil d'apprentissage pour la théorie des couleurs. Cela aide les étudiants en art et les designers à comprendre l'impact et la signification de la couleur dans leur travail.",
+        "icon": "palette"
+      },
+      {
+        "title": "Test d'Affichage avec Écran Violet en Plein Écran",
+        "description": "Vérifiez la précision des couleurs de vos moniteurs ou écrans avec notre outil qui génère un affichage violet en plein écran. Essentiel pour les designers, photographes et vidéastes.",
+        "icon": "monitor"
+      },
+      {
+        "title": "Affichage Violet Interactif pour l'Apprentissage des Enfants",
+        "description": "Faites participer les enfants à l'apprentissage interactif en ligne avec un affichage violet en plein écran. La couleur audacieuse stimule l'imagination et la concentration, améliorant l'expérience d'apprentissage.",
+        "icon": "book"
+      },
+      {
+        "title": "Écran violet pour créer une ambiance",
+        "description": "J'aime l'ambiance que le violet donne",
+        "icon": "star"
+      },
+      {
+        "title": "Écran violet pour copier une image",
+        "description": "Pour copier une image que mon camarade de classe a dessinée",
+        "icon": "copy"
+      },
+      {
+        "title": "Écran violet pour faire des vidéos",
+        "description": "Parce que mes vidéos YouTube sont meilleures avec un écran violet",
+        "icon": "video"
+      },
+      {
+        "title": "Écran violet pour les appels en ligne",
+        "description": "Pour ajouter une lueur violette pendant la réunion.",
+        "icon": "phone"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Comment utiliser l'écran violet",
+    "subtitle": "Guide simple pour tirer le meilleur parti de notre outil",
+    "steps": [
+      "Cliquez sur le bouton pour afficher l'écran violet en plein écran",
+      "Tamisez l'éclairage ambiant pour maximiser l'effet mystique",
+      "Laissez la couleur violet stimuler votre créativité et votre spiritualité"
+    ]
+  },
+  "info": {
+    "title": "Écran Violet – Outil de Fond Plein Écran",
+    "subtitle": "Un écran violet inspire la créativité et la spiritualité, créant une ambiance mystique et sophistiquée",
+    "professionalTool": "Outil Professionnel",
+    "downloadReady": "Téléchargement Prêt",
+    "downloadTitle": "Télécharger Fond d'Écran Violet",
+    "downloadDescription": "Obtenez des écrans violets haute qualité pour vos besoins professionnels",
+    "hdTitle": "Fond d'Écran Violet 1920×1080",
+    "hdDescription": "Image violette plein écran pure pour inspirer la créativité, la spiritualité et créer une ambiance mystique",
+    "hdButton": "Télécharger HD",
+    "fourKTitle": "Fond d'Écran Violet 4K",
+    "fourKDescription": "Image d'écran violet ultra HD pour les environnements créatifs sophistiqués et les projets artistiques",
+    "fourKButton": "Télécharger 4K",
+    "proTipBadge": "Conseil Pro",
+    "proTipTitle": "Conseil Pro",
+    "proTipDescription": "Le violet combine la stabilité du bleu et l'énergie du rouge, parfait pour stimuler la créativité et l'imagination."
+  },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "subtitle": "Réponses aux questions courantes sur l'écran violet",
+    "description": "Découvrez comment utiliser la couleur violette pour stimuler la créativité et créer des environnements sophistiqués.",
+    "questions": [
+      {
+        "question": "Le violet aide-t-il vraiment la créativité ?",
+        "answer": "Oui, le violet est associé à l'imagination et peut stimuler la pensée créative."
+      },
+      {
+        "question": "Puis-je utiliser l'écran violet pour méditer ?",
+        "answer": "Absolument ! Le violet est une couleur spirituelle idéale pour la méditation."
+      },
+      {
+        "question": "Le violet a-t-il des effets sur l'humeur ?",
+        "answer": "Le violet peut favoriser la réflexion et créer une atmosphère contemplative."
+      },
+      {
+        "question": "Comment utiliser le violet en décoration ?",
+        "answer": "Utilisez le violet par touches pour ajouter de l'élégance et du mystère à un espace."
+      },
+      {
+        "question": "L'écran violet peut-il stimuler la créativité ?",
+        "answer": "Oui, la couleur violette est reconnue pour stimuler l'imagination et favoriser la pensée créative et artistique."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Spécifications techniques",
+    "subtitle": "Détails techniques de notre outil d'écran violet",
+    "specs": [
+      {
+        "label": "Couleur",
+        "value": "#800080 (Violet royal)"
+      },
+      {
+        "label": "Résolution",
+        "value": "S'adapte à tous les écrans"
+      },
+      {
+        "label": "Compatibilité",
+        "value": "Tous les navigateurs modernes"
+      },
+      {
+        "label": "Effet",
+        "value": "Créatif et spirituel"
+      }
+    ]
+  }
+} 

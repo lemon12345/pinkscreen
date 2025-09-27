@@ -1,0 +1,204 @@
+{
+  "hero": {
+    "title": "Pantalla Blanca | Herramienta en Línea",
+    "description": "Pantalla blanca a pantalla completa para limpieza de monitores, pruebas de píxeles muertos, luz para videollamadas o concentración visual. Sin anuncios, sin distracciones.",
+    "badge": "Herramienta Online Gratuita",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Sin Conexión",
+      "allDevices": "Todos los Dispositivos"
+    }
+  },
+  "keywords": "pantalla blanca, pantalla blanca en blanco, pantalla blanca simple, pantalla blanca de pantalla completa, pantalla blanca youtube, una pantalla blanca, pantalla de monitor blanca, pantalla de computadora blanca, sitio web de pantalla blanca, pc pantalla blanca, pantalla blanca en blanco, pantalla completa pantalla blanca, 24 horas pantalla blanca, pantalla blanca 2, página blanca, página blanca en blanco, página blanca simple, página blanca de pantalla completa, herramienta de página blanca, página blanca en línea, sitio web de página blanca, página blanca de pantalla completa, prueba de monitor de página blanca, fotografía de página blanca, herramienta de enfoque de página blanca",
+  "colorPicker": {
+    "title": "Elige Tu Color",
+    "custom": "Personalizado",
+    "description": "Perfecto para pruebas de monitor, iluminación fotográfica y presentaciones",
+    "launchButton": "Lanzar Página Blanca"
+  },
+  "colors": {
+    "Black": "Pantalla Negra",
+    "White": "Pantalla Blanca",
+    "Red": "Pantalla Roja",
+    "Blue": "Pantalla Azul",
+    "Green": "Pantalla Verde",
+    "Yellow": "Pantalla Amarilla",
+    "Purple": "Pantalla Morada",
+    "Pink": "Pantalla Rosa",
+    "Orange": "Pantalla Naranja",
+    "Zoom Lighting": "Iluminación Zoom"
+  },
+  "interface": {
+    "livePreview": "Vista Previa en Vivo",
+    "clickForFullscreen": "Haz Clic para Pantalla Completa",
+    "current": "Actual",
+    "chooseYourColor": "Elige Tu Color",
+    "perfectFor": "Perfecto para",
+    "launchWhiteScreen": "Lanzar Pantalla Blanca"
+  },
+  "useCases": {
+    "title": "Pantalla blanca se usa para:",
+    "description": "Nuestra herramienta de pantalla blanca sirve para múltiples propósitos profesionales y personales en varias industrias y escenarios.",
+    "cases": [
+      {
+        "icon": "📹",
+        "title": "iluminación para llamadas de zoom",
+        "description": "Para videollamadas! No tengo anillo de luz, pero sí dos pantallas. Puedo usar una para iluminar mi cara!"
+      },
+      {
+        "icon": "📝",
+        "title": "copiar dibujos",
+        "description": "Necesito un fondo blanco brillante debajo de mi papel para copiar un dibujo mas facilmente"
+      },
+      {
+        "icon": "💡",
+        "title": "fuente de iluminación",
+        "description": "Iluminar la parte de atras de una caja de luz para fotos de productos"
+      },
+      {
+        "icon": "🖥️",
+        "title": "comprobar el monitor",
+        "description": "Para revisar el monitor y encontrar pixeles muertos"
+      },
+      {
+        "icon": "🚫",
+        "title": "para vaciar la pantalla",
+        "description": "No quieres que te molesten? Quieres un descanso? Usa pantalla blanca para vaciar tu pantalla"
+      },
+      {
+        "icon": "",
+        "title": "luz para leer",
+        "description": "Para tener una fuente de luz para lectura nocturna, cuando el interruptor está demasiado lejos"
+      },
+      {
+        "icon": "💄",
+        "title": "luz para maquillaje",
+        "description": "Una fuente de luz brillante para maquillaje o fotos"
+      },
+      {
+        "icon": "🧽",
+        "title": "limpiar el monitor",
+        "description": "Lo uso para limpiar el monitor, es facil ver la suciedad. Tambien lo uso para calibrar los colores entre diferentes pantallas."
+      },
+      {
+        "icon": "",
+        "title": "quitar el polvo",
+        "description": "Limpio la pantalla y verifico si hay pixeles muertos. Tambien a veces para videollamadas"
+      },
+      {
+        "icon": "🪰",
+        "title": "atrapar moscas",
+        "description": "Lo uso para atrapar mosquitos y moscas, al ser estos atraidos a la pantalla blanca"
+      },
+      {
+        "icon": "📚",
+        "title": "para hacer folioscopios",
+        "description": "Estoy trabajando en un flipbook y lo hago todo a mano. Necesito un fondo blanco brillante debajo de mis paginas para poder hacer la siguiente, y al no tener un monitor profesional, uso whitescreen.online"
+      },
+      {
+        "icon": "",
+        "title": "para mantener la concentración",
+        "description": "Mientras estudio, uso dos pantallas. Una con un temporizador y en la otra busco informacion. Cuando no necesito nada, uso pantalla en blanco para mantener la concentración y no distraerme"
+      },
+      {
+        "icon": "⚙️",
+        "title": "para configurar los ajustes de mi monitor",
+        "description": "Es muy útil cuando estoy cambiando los ajustes en mi segundo monitor (es muy antiguo y no tiene las cosas como deberian estár). Ajustes como posición o escala vertical/horizontal. Tambien muy cómodo para encontrar pixeles muertos"
+      },
+      {
+        "icon": "✏️",
+        "title": "para dibujar por las noches",
+        "description": "Cuando dibujo sobre papel, lo puedo poner en la pantalla de mi tablet y ver con claridad los detalles por las noches"
+      },
+      {
+        "icon": "🖼️",
+        "title": "Pantalla Blanca para Iluminación",
+        "description": "Convierte tu pantalla en una fuente de luz simple y eficiente con nuestra herramienta de pantalla blanca. Perfecta para video llamadas o fotografía donde se necesita iluminación adicional."
+      },
+      {
+        "icon": "✨",
+        "title": "Pantalla Blanca para Pureza Visual",
+        "description": "Experimenta un entorno visual puro, limpio y relajante utilizando nuestra pantalla blanca a pantalla completa. Ideal para relajarse, meditar o concentrarse en tareas sin distracciones visuales."
+      },
+      {
+        "icon": "🎨",
+        "title": "Pantalla Blanca para Trabajos de Diseño",
+        "description": "Utiliza nuestra herramienta de pantalla blanca como un lienzo en blanco para diseño, dibujo o cualquier actividad creativa. Una pantalla blanca permite que tu creatividad fluya sin impedimentos."
+      }
+    ]
+  },
+  "info": {
+    "title": "Pantalla Blanca – Herramienta de Fondo de Pantalla Completa",
+    "subtitle": "Herramienta de pantalla blanca limpia y sin distracciones a pantalla completa. Perfecta para limpieza de monitores, pruebas de píxeles, mejora de iluminación de zoom o ayuda de concentración.",
+    "professionalTool": "Herramienta Profesional",
+    "downloadReady": "Descarga Lista",
+    "downloadTitle": "Descargar Fondo de Pantalla Blanca",
+    "downloadDescription": "¿Prefieres una imagen blanca estática? Utiliza una de nuestras imágenes PNG de alta resolución:",
+    "hdTitle": "1920×1080 Fondo de Pantalla Blanca",
+    "hdDescription": "Imagen blanca pura a pantalla completa para limpieza, concentración e iluminación de zoom",
+    "hdButton": "Descargar HD",
+    "fourKTitle": "4K Fondo de Pantalla Blanca",
+    "fourKDescription": "Imagen de pantalla blanca pura a pantalla completa de ultra alta resolución para iluminación, limpieza y pruebas de píxeles",
+    "fourKButton": "Descargar 4K",
+    "proTipBadge": "Consejo Pro",
+    "proTipTitle": "Consejo Pro",
+    "proTipDescription": "¡Usa pantalla blanca durante llamadas de zoom o sesiones fotográficas para crear una iluminación suave y uniforme en tu cara!"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "description": "Encuentra respuestas a preguntas comunes sobre nuestra herramienta de pantalla blanca y sus diversas aplicaciones.",
+    "questions": [
+      {
+        "question": "¿Para qué se usa una herramienta de pantalla blanca?",
+        "answer": "Una herramienta de pantalla blanca muestra un color blanco en modo pantalla completa, comúnmente usado para pruebas de monitor, iluminación fotográfica, lectura y crear un fondo limpio para varios propósitos."
+      },
+      {
+        "question": "¿Cómo uso pantalla blanca para pruebas de monitor?",
+        "answer": "La pantalla blanca es perfecta para detectar píxeles muertos, manchas de suciedad y verificar la calibración del monitor. Simplemente lanza la pantalla blanca en modo pantalla completa y examina tu pantalla cuidadosamente."
+      },
+      {
+        "question": "¿Puedo usar pantalla blanca para fotografía?",
+        "answer": "¡Sí! La pantalla blanca es excelente para fotografía de productos, crear un fondo limpio y proporcionar iluminación consistente para tus fotos."
+      },
+      {
+        "question": "¿Por qué usar pantalla blanca para leer?",
+        "answer": "La luz blanca proporciona buen contraste para leer texto, facilitando la lectura de libros o documentos en condiciones de poca luz."
+      },
+      {
+        "question": "¿Es buena la pantalla blanca para concentrarse?",
+        "answer": "Sí, una pantalla blanca puede ayudarte a concentrarte eliminando distracciones. Es comúnmente usada por estudiantes y profesionales que quieren mantener la concentración mientras trabajan."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "colorScreensDescription": "Pantallas de fondo de color puro para varios escenarios",
+    "prankScreens": "Pantallas de Broma",
+    "prankScreensDescription": "Efectos divertidos de pantalla de broma",
+    "fakeUpdateScreens": "Pantallas de Actualización Falsa",
+    "fakeUpdateScreensDescription": "Interfaces de actualización del sistema simuladas para bromas y pruebas",
+    "screensaverScreens": "Pantallas de Protector de Pantalla",
+    "screensaverScreensDescription": "Efectos clásicos de protector de pantalla para hacer tu pantalla más divertida"
+  },
+  "howToUse": {
+    "title": "Cómo Usar",
+    "steps": [
+      "Elige tu color preferido de la paleta",
+      "Haz clic en el botón 'Lanzar' para abrir en pantalla completa",
+      "Usa F11 o ESC para salir del modo pantalla completa",
+      "Descarga la imagen en tu resolución preferida"
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificaciones Técnicas",
+    "specs": [
+      "Resolución: Hasta 8K (7680x4320)",
+      "Profundidad de Color: 24-bit RGB",
+      "Formato: PNG, JPEG, WebP",
+      "Compatibilidad: Todos los navegadores modernos",
+      "Funcionalidad Offline: Completamente disponible"
+    ]
+  }
+}

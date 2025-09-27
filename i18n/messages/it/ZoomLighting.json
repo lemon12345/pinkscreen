@@ -1,0 +1,174 @@
+{
+  "hero": {
+    "badge": "Illuminazione Zoom",
+    "title": "Illuminazione Zoom | Strumento Online",
+    "description": "Usa questo schermo bianco a schermo intero per illuminare il tuo viso durante le chiamate Zoom, i video YouTube o le sessioni fotografiche. Pulito, veloce e senza pubblicità.",
+    "features": {
+      "noRegistration": "Nessuna registrazione",
+      "worksOffline": "Funziona offline",
+      "allDevices": "Tutti i dispositivi"
+    }
+  },
+  "keywords": "migliore illuminazione per chiamate zoom, illuminazione zoom, illuminazione per riunioni zoom, luce per riunioni zoom, illuminazione videoconferenza, migliore luce per riunioni zoom, kit illuminazione zoom, migliore illuminazione zoom, migliore luce per videoconferenze",
+  "colorPicker": {
+    "title": "Scegli il Tuo Colore",
+    "custom": "Personalizzato",
+    "description": "Perfetto per videoconferenze, sfondi fotografici e creare condizioni di illuminazione ottimali",
+    "launchButton": "Avvia Illuminazione Zoom"
+  },
+  "colors": {
+    "Black": "Schermo Nero",
+    "White": "Schermo Bianco",
+    "Red": "Schermo Rosso",
+    "Blue": "Schermo Blu",
+    "Green": "Schermo Verde",
+    "Yellow": "Giallo",
+    "Purple": "Viola",
+    "Pink": "Rosa",
+    "Orange": "Arancione",
+    "Zoom Lighting": "Illuminazione Zoom"
+  },
+  "useCases": {
+    "title": "Le persone utilizzano l'illuminazione Zoom per:",
+    "description": "Il nostro strumento di illuminazione Zoom serve a molteplici scopi professionali e personali in vari settori e scenari.",
+    "cases": [
+      {
+        "title": "Illuminazione Personalizzata per Videoconferenze",
+        "description": "Utilizza il nostro strumento di illuminazione Zoom per creare l'illuminazione perfetta per le tue videochiamate. Con colore e temperatura regolabili, puoi ottenere facilmente un'illuminazione da videoconferenza di livello professionale.",
+        "icon": "💡"
+      },
+      {
+        "title": "Sfondo Fotografico con Schermo di Illuminazione Zoom",
+        "description": "Migliora la tua attrezzatura fotografica con il nostro schermo di illuminazione Zoom regolabile. Regola colore e temperatura per adattarsi all'atmosfera del tuo shooting e creare immagini sorprendenti.",
+        "icon": "📸"
+      },
+      {
+        "title": "Migliora l'Esperienza di eLearning con Illuminazione Ottimale",
+        "description": "Con il nostro schermo di illuminazione Zoom, crea un ambiente di apprendimento propizio per l'eLearning. Le impostazioni di luce personalizzabili garantiscono una lettura ottimale e una maggiore concentrazione.",
+        "icon": "🎓"
+      },
+      {
+        "title": "Strumento di Test Illuminazione per Sviluppatori Web",
+        "description": "Gli sviluppatori web possono utilizzare il nostro schermo di illuminazione Zoom a schermo intero per testare come diverse temperature e colori di luce influenzano l'aspetto dei loro progetti, aiutando a creare siti web visivamente accattivanti e accessibili.",
+        "icon": "💻"
+      },
+      {
+        "title": "Terapia del Colore con Schermo di Illuminazione Zoom",
+        "description": "Terapisti e coach del benessere possono utilizzare il nostro schermo di illuminazione Zoom con colore e temperatura regolabili per sessioni di terapia del colore, promuovendo relax e guarigione.",
+        "icon": "🧘"
+      },
+      {
+        "title": "Schermo bianco come illuminazione per chiamate Zoom",
+        "description": "Per videochiamate! Non ho una luce anulare facile, ma ho due schermi. Quindi posso usare uno degli schermi per illuminare il mio viso!",
+        "icon": "📹"
+      },
+      {
+        "title": "Illuminazione Zoom per ottenere luminosità",
+        "description": "Lo uso per ottenere luminosità mentre sono in una videochiamata.",
+        "icon": "✨"
+      },
+      {
+        "title": "Illuminazione Zoom per illuminare",
+        "description": "Per illuminarmi quando uso videochiamate.",
+        "icon": "💡"
+      },
+      {
+        "title": "Illuminazione Zoom che trasforma il mio monitor in una luce",
+        "description": "Trasforma il mio monitor in una luce per compensare l'essere retroilluminato durante le videochiamate.",
+        "icon": "🖥️"
+      }
+    ]
+  },
+  "temperatureControl": {
+    "title": "Controllo Temperatura",
+    "temperature": "Temperatura",
+    "description": "Regola la temperatura colore per creare l'illuminazione perfetta per le tue videochiamate. Valori più bassi creano luce più calda, valori più alti creano luce più fredda."
+  },
+  "info": {
+    "professionalTool": "Strumento Professionale",
+    "title": "Scarica Sfondo Illuminazione Zoom",
+    "subtitle": "Usa questo schermo bianco a schermo intero per illuminare il tuo viso durante le chiamate Zoom, i video YouTube o le sessioni fotografiche. Pulito, veloce e senza pubblicità.",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Sfondo Illuminazione Zoom",
+    "downloadDescription": "Preferisci un'immagine statica di illuminazione Zoom? Usa uno dei nostri PNG ad alta risoluzione:",
+    "hdTitle": "Sfondo Illuminazione Zoom 1920x1080",
+    "hdDescription": "Perfetto per display HD standard e videochiamate. Ottimizzato per riunioni Zoom e videoconferenze.",
+    "hdButton": "Scarica HD",
+    "fourKTitle": "Sfondo Illuminazione Zoom 4K",
+    "fourKDescription": "Sfondo bianco a schermo intero Ultra HD per illuminare il tuo viso nelle videochiamate. Perfetto per display ad alta risoluzione.",
+    "fourKButton": "Scarica 4K",
+    "proTipBadge": "Consiglio Pro",
+    "proTipTitle": "Massimizza l'Illuminazione delle Tue Videochiamate",
+    "proTipDescription": "Massimizza la luminosità dello schermo e posiziona il tuo monitor di fronte a te per il miglior effetto di illuminazione durante le chiamate."
+  },
+  "howToUse": {
+    "title": "Come usare l'illuminazione Zoom",
+    "subtitle": "Guida semplice per un'illuminazione video perfetta",
+    "steps": [
+      {
+        "title": "Posizionare lo schermo",
+        "description": "Posiziona uno schermo o tablet di fronte a te, leggermente sopra il livello degli occhi"
+      },
+      {
+        "title": "Aprire lo strumento",
+        "description": "Avvia l'illuminazione bianca a schermo intero sul tuo dispositivo"
+      },
+      {
+        "title": "Regolare l'intensità",
+        "description": "Regola la luminosità dello schermo secondo le tue esigenze e l'illuminazione ambientale"
+      },
+      {
+        "title": "Iniziare la chiamata",
+        "description": "Avvia la tua videochiamata o registrazione con un'illuminazione ottimale"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "subtitle": "Risposte alle domande comuni sull'illuminazione Zoom",
+    "questions": [
+      {
+        "question": "A cosa serve l'illuminazione Zoom?",
+        "answer": "L'illuminazione Zoom viene utilizzata per creare condizioni di illuminazione ottimali per videoconferenze, fotografia, eLearning e varie applicazioni professionali dove un'illuminazione adeguata è essenziale."
+      },
+      {
+        "question": "Come uso l'illuminazione Zoom per le videochiamate?",
+        "answer": "Apri semplicemente il nostro schermo di illuminazione Zoom e regola la temperatura colore e la luminosità per creare l'illuminazione perfetta per le tue videochiamate. L'illuminazione calda e regolabile aiuta a migliorare il tuo aspetto in camera."
+      },
+      {
+        "question": "Posso usare l'illuminazione Zoom per la fotografia?",
+        "answer": "Sì! Il nostro schermo di illuminazione Zoom fornisce impostazioni di colore e temperatura regolabili che sono perfette per sfondi fotografici e creare le condizioni di illuminazione ideali per i tuoi shooting."
+      },
+      {
+        "question": "Perché usare l'illuminazione Zoom per l'eLearning?",
+        "answer": "Un'illuminazione adeguata è cruciale per gli ambienti di eLearning. Il nostro schermo di illuminazione Zoom crea condizioni di lettura ottimali e aiuta a ridurre l'affaticamento degli occhi, migliorando la concentrazione e i risultati di apprendimento."
+      },
+      {
+        "question": "L'illuminazione Zoom è buona per lo sviluppo web?",
+        "answer": "Sì, gli sviluppatori web possono usare il nostro schermo di illuminazione Zoom per testare come diverse condizioni di illuminazione influenzano l'aspetto dei loro progetti, assicurando che i loro siti web abbiano un bell'aspetto sotto vari scenari di illuminazione."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specifiche tecniche",
+    "subtitle": "Dettagli tecnici dell'illuminazione Zoom",
+    "specs": [
+      {
+        "label": "Colore",
+        "value": "#FFFFFF (Bianco puro)"
+      },
+      {
+        "label": "Temperatura",
+        "value": "6500K (Luce diurna)"
+      },
+      {
+        "label": "Compatibilità",
+        "value": "Tutti i dispositivi con schermo"
+      },
+      {
+        "label": "Utilizzo",
+        "value": "Illuminazione video professionale"
+      }
+    ]
+  }
+} 

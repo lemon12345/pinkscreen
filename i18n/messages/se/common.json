@@ -1,0 +1,154 @@
+{
+  "LanguageDetection": {
+    "title": "Språkförslag",
+    "description": "Vi märkte att ditt webbläsarspråk skiljer sig från den aktuella webbplatsens språk. Du kan byta språk när som helst 👉",
+    "countdown": "Stänger om {countdown} sekunder"
+  },
+  "Header": {
+    "links": []
+  },
+  "Footer": {
+    "Copyright": "Copyright © {year} {name} Alla rättigheter förbehållna.",
+    "PrivacyPolicy": "Integritetspolicy",
+    "TermsOfService": "Användarvillkor",
+    "Links": {
+      "groups": [
+        {
+          "title": "Produkter",
+          "links": [
+            {
+              "href": "/white-screen",
+              "name": "Vit Skärm"
+            },
+            {
+              "href": "/black-screen",
+              "name": "Svart Skärm"
+            },
+            {
+              "href": "/blue-screen",
+              "name": "Blå Skärm"
+            },
+            {
+              "href": "/green-screen",
+              "name": "Grön Skärm"
+            },
+            {
+              "href": "/red-screen",
+              "name": "Röd Skärm"
+            },
+            {
+              "href": "/yellow-screen",
+              "name": "Gul Skärm"
+            },
+            {
+              "href": "/orange-screen",
+              "name": "Orange Skärm"
+            },
+            {
+              "href": "/",
+              "name": "Rosa Skärm"
+            },
+            {
+              "href": "/purple-screen",
+              "name": "Lila Skärm"
+            },
+            {
+              "href": "/zoom-lighting",
+              "name": "Zoom-belysning"
+            }
+          ]
+        },
+        {
+          "title": "Support",
+          "links": [
+            {
+              "href": "mailto:hi@pinkscreen.org",
+              "name": "Kontakta oss"
+            }
+          ]
+        },
+        {
+          "title": "Språk",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/se",
+              "name": "Svenska",
+              "useA": true
+            },
+            {
+              "href": "/tr",
+              "name": "Türkçe",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "Pink Screen",
+    "tagLine": "Professionella skärmverktyg för alla behov",
+    "description": "Komplett samling av online-skärmverktyg - vit skärm, färgade skärmar, skärmsläckare, systemsimulatorer och displayverktyg. Perfekt för monitortestning, fotografisk belysning, presentationer, streaming och kreativa projekt.",
+    "pageData": {
+      "tagLine": "Professionella skärmverktyg för alla behov",
+      "description": "Komplett samling av online-skärmverktyg - vit skärm, färgade skärmar, skärmsläckare, systemsimulatorer och displayverktyg. Perfekt för monitortestning, fotografisk belysning, presentationer, streaming och kreativa projekt."
+    }
+  },
+  "Blogs": {
+    "title": "Rosa Skärm Blogg",
+    "description": "Upptäck de senaste funktionerna, tipsen och uppdateringarna om Pink Screen - din ultimata skärmupplevelseplattform.",
+    "emptyState": {
+      "title": "Inga blogginlägg",
+      "description": "Vi skapar spännande innehåll, håll utkik!"
+    },
+    "loadMorePostsFailed": "Misslyckades med att ladda fler inlägg",
+    "loadMorePosts": "Laddar fler inlägg...",
+    "filterPostsFailed": "Misslyckades med att ladda inlägg",
+    "noPostsFoundForThisTag": "Inga artiklar hittades för denna kategori",
+    "reachedTheEnd": "Du har nått slutet av alla inlägg",
+    "BlogDetail": {
+      "featured": "Utvalt inlägg",
+      "accessRestricted": "Begränsad åtkomst",
+      "unauthorized": "Denna artikel är endast tillgänglig för inloggade användare",
+      "premium": "Premium-innehåll",
+      "premiumContent": "Denna artikel är exklusiv för prenumeranter",
+      "signIn": "Logga in",
+      "upgrade": "Uppgradera",
+      "backToBlogs": "Tillbaka till blogglistan",
+      "notFound": "Artikel inte hittad"
+    }
+  },
+  "TermsOfService": {
+    "title": "Användarvillkor",
+    "description": "Användarvillkor"
+  },
+  "PrivacyPolicy": {
+    "title": "Integritetspolicy",
+    "description": "Integritetspolicy"
+  }
+} 

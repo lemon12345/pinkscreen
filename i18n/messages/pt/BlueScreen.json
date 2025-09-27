@@ -1,0 +1,162 @@
+{
+  "hero": {
+    "badge": "Ferramenta de Tela Azul",
+    "title": "Tela Azul | Ferramenta Online",
+    "description": "Tela azul brilhante e sem distrações, ideal para testes de pixels, contraste de tela, iluminação ambiente ou concentração.",
+    "features": {
+      "noRegistration": "Sem registo",
+      "worksOffline": "Funciona offline",
+      "allDevices": "Todos os dispositivos"
+    }
+  },
+  "keywords": "tela azul, fundo azul, tela azul online, cor azul, efeito calmante, teste de cor",
+  "colorPicker": {
+    "title": "Escolha sua cor",
+    "custom": "Personalizado",
+    "description": "Perfeito para criar uma atmosfera calmante e testes de cor",
+    "launchButton": "Iniciar tela azul"
+  },
+  "colors": {
+    "Black": "Tela Preta",
+    "White": "Tela Branca",
+    "Red": "Tela Vermelha",
+    "Blue": "Tela Azul",
+    "Green": "Tela Verde",
+    "Yellow": "Tela Amarela",
+    "Purple": "Tela Roxa",
+    "Pink": "Tela Rosa",
+    "Orange": "Tela Laranja",
+    "Zoom Lighting": "Iluminação para Zoom"
+  },
+  "interface": {
+    "livePreview": "Pré-visualização ao vivo",
+    "clickForFullscreen": "Clique para tela cheia",
+    "current": "Atual",
+    "chooseYourColor": "Escolha sua cor",
+    "perfectFor": "Perfeito para",
+    "launchBlueScreen": "Iniciar Tela Azul"
+  },
+  "useCases": {
+    "title": "As pessoas usam a tela azul para:",
+    "subtitle": "Descubra as diferentes formas de usar nossa tela azul",
+    "description": "Nossa ferramenta de tela azul oferece soluções calmantes e profissionais para diversos usos.",
+    "cases": [
+      {
+        "title": "Relaxamento com Tela Azul",
+        "description": "Descubra o poder calmante da nossa tela azul em tela cheia. Seus tons azuis calmantes podem ajudar a reduzir o estresse e promover relaxamento após um longo dia.",
+        "icon": "😌"
+      },
+      {
+        "title": "Auxílio para o Sono com Tela Azul",
+        "description": "Nossa ferramenta de tela azul pode ser usada como auxílio para o sono. A luz azul suave e calmante é conhecida por encorajar o sono e melhorar a qualidade do seu sono.",
+        "icon": "😴"
+      },
+      {
+        "title": "Filtro de Luz Azul para Tensão Digital dos Olhos",
+        "description": "Use nossa tela azul em tela cheia como filtro de luz azul para aliviar a tensão digital dos olhos. Ideal para longas horas de tempo de tela, pode ajudar a manter a saúde dos seus olhos.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Tela Azul para Inspiração Artística",
+        "description": "Artistas e designers podem usar nossa ferramenta de tela azul para inspiração. Os tons profundos e serenos do azul podem despertar criatividade e estimular o pensamento imaginativo.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Tela Azul como Auxílio Visual em Apresentações",
+        "description": "Use nossa ferramenta de tela azul como auxílio visual em apresentações. O fundo azul pode ajudar a enfatizar texto e imagens, melhorando a comunicação e compreensão.",
+        "icon": "📊"
+      },
+      {
+        "title": "tela azul para fazer vídeos",
+        "description": "Porque meus vídeos do YouTube são melhores com uma tela azul e porque telas verdes são superestimadas",
+        "icon": "🎬"
+      },
+      {
+        "title": "tela azul para copiar imagem",
+        "description": "Para copiar uma imagem que meu colega de classe desenhou",
+        "icon": "🖼️"
+      },
+      {
+        "title": "tela azul para criar uma atmosfera",
+        "description": "Eu gosto da atmosfera que ela dá",
+        "icon": "💙"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Como usar a tela azul",
+    "subtitle": "Guia simples para aproveitar ao máximo nossa ferramenta",
+    "steps": [
+      "Escolha sua cor preferida da paleta",
+      "Clique no botão 'Iniciar' para abrir em tela cheia",
+      "Use F11 ou ESC para sair do modo tela cheia",
+      "Baixe a imagem na resolução de sua preferência"
+    ]
+  },
+  "info": {
+    "title": "Tela Azul – Ferramenta de Fundo de Tela Cheia",
+    "subtitle": "Telas azuis reduzem tensão ocular e promovem calma, perfeitas para modo foco e teste de display",
+    "professionalTool": "Ferramenta Profissional",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Baixar Fundo de Tela Azul",
+    "downloadDescription": "Obtenha telas azuis de alta qualidade para suas necessidades profissionais",
+    "hdTitle": "Fundo de Tela Azul 1920×1080",
+    "hdDescription": "Imagem azul pura em tela cheia para foco, iluminação e teste",
+    "hdButton": "Baixar HD",
+    "fourKTitle": "Fundo de Tela Azul 4K",
+    "fourKDescription": "Imagem de tela azul ultra HD em tela cheia para iluminação suave e clareza visual",
+    "fourKButton": "Baixar 4K",
+    "proTipBadge": "Dica Pro",
+    "proTipTitle": "Dica Pro",
+    "proTipDescription": "Alterne entre telas brancas, pretas ou azuis para ajustar sua iluminação ambiente dependendo da sua atividade ou humor."
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "subtitle": "Respostas para perguntas comuns sobre a tela azul",
+    "description": "Encontre respostas para perguntas comuns sobre o uso de nossa ferramenta de tela azul para vários propósitos.",
+    "questions": [
+      {
+        "question": "Por que usar azul para testar a tela?",
+        "answer": "O azul oferece excelente contraste para detetar sujidade e pixels defeituosos."
+      },
+      {
+        "question": "Como detetar um pixel morto?",
+        "answer": "Um pixel morto aparecerá como um ponto preto numa tela azul uniforme."
+      },
+      {
+        "question": "A ferramenta funciona em todos os tipos de tela?",
+        "answer": "Sim, funciona em LCD, LED, OLED e todos os tipos de telas modernas."
+      },
+      {
+        "question": "Posso ajustar a intensidade do azul?",
+        "answer": "Use as configurações de brilho do seu dispositivo para ajustar a intensidade."
+      },
+      {
+        "question": "A tela azul é boa para criatividade?",
+        "answer": "Sim, azul está associado à criatividade e otimismo. Uma tela azul pode inspirar o pensamento criativo e servir como uma placa de humor para projetos de design e trabalho artístico."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificações técnicas",
+    "subtitle": "Detalhes técnicos da nossa ferramenta de tela azul",
+    "specs": [
+      {
+        "label": "Cor",
+        "value": "#0000FF (Azul puro)"
+      },
+      {
+        "label": "Resolução",
+        "value": "Adapta-se a todas as telas"
+      },
+      {
+        "label": "Compatibilidade",
+        "value": "Todos os navegadores modernos"
+      },
+      {
+        "label": "Aplicação",
+        "value": "Teste e diagnóstico de tela"
+      }
+    ]
+  }
+} 

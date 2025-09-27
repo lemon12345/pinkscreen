@@ -1,0 +1,155 @@
+{
+  "hero": {
+    "badge": "Herramienta de Pantalla Verde",
+    "title": "Pantalla Verde | Herramienta En Línea",
+    "description": "Pantalla verde a pantalla completa para limpieza de monitores, mejora de iluminación de video o reducción de distracciones. Gratis, sin anuncios, funciona en todos los dispositivos.",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Sin Conexión",
+      "allDevices": "Todos los Dispositivos"
+    }
+  },
+  "keywords": "pantalla verde, chroma key, fondo chroma key, pantalla verde youtube, teléfono pantalla verde, chroma key pantalla verde, tv pantalla verde, pantalla verde, mejor pantalla verde, chroma key verde, pantalla verde barata, pantalla verde virtual, iluminación pantalla verde",
+  "colorPicker": {
+    "title": "Elige Tu Color",
+    "custom": "Personalizado",
+    "description": "Perfecto para creación de contenido de video, efectos chroma key y crear ambientes verdes calmantes",
+    "launchButton": "Lanzar Página Verde"
+  },
+  "colors": {
+    "Black": "Pantalla Negra",
+    "White": "Pantalla Blanca",
+    "Red": "Pantalla Roja",
+    "Blue": "Pantalla Azul",
+    "Green": "Pantalla Verde",
+    "Yellow": "Pantalla Amarilla",
+    "Purple": "Pantalla Morada",
+    "Pink": "Pantalla Rosa",
+    "Orange": "Pantalla Naranja",
+    "Zoom Lighting": "Iluminación Zoom"
+  },
+  "interface": {
+    "livePreview": "Vista Previa en Vivo",
+    "clickForFullscreen": "Haz Clic para Pantalla Completa",
+    "current": "Actual",
+    "chooseYourColor": "Elige Tu Color",
+    "perfectFor": "Perfecto para",
+    "launchGreenScreen": "Lanzar Pantalla Verde"
+  },
+  "useCases": {
+    "title": "La gente usa la pantalla verde para:",
+    "description": "Nuestra herramienta de pantalla verde sirve múltiples propósitos profesionales y personales en varias industrias y escenarios.",
+    "cases": [
+      {
+        "icon": "🎬",
+        "title": "Pantalla Verde para Creación de Contenido de Video",
+        "description": "Aprovecha nuestra pantalla verde de pantalla completa para crear videos de calidad profesional. La pantalla verde es perfecta para efectos de video y edición post-producción."
+      },
+      {
+        "icon": "😌",
+        "title": "Experiencia Visual Relajante con Pantalla Verde",
+        "description": "Usa nuestra herramienta de pantalla verde para crear un ambiente visual calmante. Los suaves matices de verde pueden ayudar a reducir la tensión ocular y promover la relajación."
+      },
+      {
+        "icon": "🎮",
+        "title": "Pantalla Verde para una Experiencia de Juego Inmersiva",
+        "description": "Mejora tu experiencia de juego con nuestra pantalla verde de pantalla completa. Puede servir como un fondo dinámico para un ambiente de juego más inmersivo."
+      },
+      {
+        "icon": "📹",
+        "title": "Pantalla Verde para Reuniones Virtuales",
+        "description": "Utiliza nuestra herramienta de pantalla verde para añadir fondos profesionales durante tus reuniones virtuales. Puede mejorar significativamente la calidad de tus videollamadas."
+      },
+      {
+        "icon": "📚",
+        "title": "Pantalla Verde como Ayuda para la Enseñanza",
+        "description": "Los educadores pueden usar nuestra herramienta de pantalla verde para hacer la enseñanza online más interactiva y atractiva. Es una excelente manera de ilustrar conceptos complejos visualmente."
+      },
+      {
+        "icon": "🖼️",
+        "title": "pantalla verde para photoshop",
+        "description": "Me photoshopeo en mi habitación, así cuando la quito y sigo en mi habitación, las personas dicen 'oh, wow' por unos segundos, lo cual me hace feliz porque de alguna manera soy el factor sorpresa de esos pocos segundos de sus vidas."
+      },
+      {
+        "icon": "🧘",
+        "title": "pantalla verde para relajarse",
+        "description": "En una situación de aula, mientras hago una pausa en el trabajo con la computadora y escucho a los demás. Verde, porque es el color más relajante. Es simplemente un color verde silencioso e inmóvil, el color de los árboles y el césped. Gracias a él, la pantalla emite una luz verde relajante durante las pausas en el trabajo informático."
+      },
+      {
+        "icon": "💻",
+        "title": "pantalla verde para llamadas en línea",
+        "description": "Para agregar un resplandor verde durante la reunión."
+      }
+    ]
+  },
+  "info": {
+    "title": "Pantalla Verde – Herramienta de Fondo de Pantalla Completa",
+    "subtitle": "La pantalla verde minimiza las distracciones, mejora la productividad y es perfecta para iluminación y control de píxeles",
+    "professionalTool": "Herramienta Profesional",
+    "downloadReady": "Descarga Lista",
+    "downloadTitle": "Descargar Fondo de Pantalla Verde",
+    "downloadDescription": "Obtén pantallas verdes de alta calidad para tus necesidades profesionales",
+    "hdTitle": "1920×1080 Fondo de Pantalla Verde",
+    "hdDescription": "Imagen verde pura a pantalla completa para limpieza, enfoque visual e iluminación de webcam",
+    "hdButton": "Descargar HD",
+    "fourKTitle": "4K Fondo de Pantalla Verde",
+    "fourKDescription": "Imagen verde a pantalla completa ultra HD para iluminación, pruebas de pantalla y mejoras visuales",
+    "fourKButton": "Descargar 4K",
+    "proTipBadge": "Consejo Pro",
+    "proTipTitle": "Consejo Pro",
+    "proTipDescription": "Alterna entre pantallas blancas, negras o verdes según el efecto de iluminación que quieras crear durante la grabación o el trabajo."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "description": "Encuentra respuestas a preguntas comunes sobre el uso de nuestra herramienta de pantalla verde para diversos propósitos.",
+    "questions": [
+      {
+        "question": "¿Para qué se usa una herramienta de pantalla verde?",
+        "answer": "Una herramienta de pantalla verde muestra un color verde en modo pantalla completa, comúnmente usado para creación de contenido de video, efectos chroma key, reuniones virtuales y crear ambientes visuales calmantes."
+      },
+      {
+        "question": "¿Cómo uso la pantalla verde para creación de video?",
+        "answer": "La pantalla verde proporciona un fondo consistente para la edición de video. Puedes usarla junto con software de edición de video para reemplazar el fondo verde con cualquier imagen o video, creando contenido profesional."
+      },
+      {
+        "question": "¿Puedo usar la pantalla verde para reuniones virtuales?",
+        "answer": "¡Sí! Muchas plataformas de videoconferencia soportan fondos virtuales. Nuestra pantalla verde proporciona un fondo consistente que puede ser fácilmente reemplazado con un fondo profesional durante las llamadas."
+      },
+      {
+        "question": "¿Por qué usar pantalla verde para relajación?",
+        "answer": "El verde es conocido como el color más relajante. Nuestra pantalla verde crea un ambiente visual calmante que ayuda a reducir la tensión ocular y promover la relajación durante las pausas del trabajo."
+      },
+      {
+        "question": "¿La pantalla verde es buena para la enseñanza?",
+        "answer": "Sí, los educadores pueden usar nuestra herramienta de pantalla verde para hacer la enseñanza online más interactiva. Proporciona un fondo consistente para videos educativos y ayuda a ilustrar conceptos complejos visualmente."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "prankScreens": "Pantallas de Broma",
+    "fakeUpdateScreens": "Pantallas de Actualización Falsa",
+    "screensaverScreens": "Pantallas de Protector de Pantalla"
+  },
+  "howToUse": {
+    "title": "Cómo Usar",
+    "steps": [
+      "Elige tu color preferido de la paleta",
+      "Haz clic en el botón 'Lanzar' para abrir en pantalla completa",
+      "Usa F11 o ESC para salir del modo pantalla completa",
+      "Descarga la imagen en tu resolución preferida"
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificaciones Técnicas",
+    "specs": [
+      "Resolución: Hasta 8K (7680x4320)",
+      "Profundidad de Color: 24-bit RGB",
+      "Formato: PNG, JPEG, WebP",
+      "Compatibilidad: Todos los navegadores modernos",
+      "Funcionalidad Offline: Completamente disponible"
+    ]
+  }
+}

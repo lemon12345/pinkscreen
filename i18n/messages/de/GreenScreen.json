@@ -1,0 +1,117 @@
+{
+  "hero": {
+    "title": "Vollständiger Grüner Bildschirm | Online-Tool",
+    "description": "Ein stimmungsvoller grüner Bildschirm. Kurze Wellenlängen sind charakteristisch für entspannende oder kühle grüne Bildschirme. Grüne Bildschirme sind gut für Beziehungen und Harmonie.",
+    "badge": "Grüner Bildschirm Tool",
+    "features": {
+      "noRegistration": "Keine Registrierung",
+      "worksOffline": "Funktioniert offline",
+      "allDevices": "Alle Geräte"
+    }
+  },
+  "keywords": "grüner Bildschirm, Chroma Key, Chroma Key Hintergrund, Youtube Green Screen, Green Screen Telefon, Chroma Key Green Screen, TV Green Screen, Bildschirm Green, Bildschirm Green, bester Green Screen, Chroma Key Green, billiger Green Screen, Bildschirm Green, virtuelles Grün Bildschirm, Green Screen Beleuchtung, bester Green Screen",
+  "colorPicker": {
+    "title": "Wählen Sie Ihre Farbe",
+    "custom": "Benutzerdefiniert",
+    "description": "Perfekt für Monitortests, Fotografie-Beleuchtung und Präsentationen",
+    "launchButton": "Grüne Seite starten"
+  },
+  "useCases": {
+    "title": "Menschen verwenden grünen Bildschirm für:",
+    "description": "Unser grüner Bildschirm-Tool dient verschiedenen professionellen und persönlichen Zwecken in verschiedenen Branchen und Szenarien.",
+    "cases": [
+      {
+        "icon": "🎬",
+        "title": "Grüner Bildschirm für Videoinhalte-Erstellung",
+        "description": "Nutzen Sie unsere Vollbild-Grünanzeige, um professionelle Videos zu erstellen. Der grüne Bildschirm ist perfekt für Videoeffekte und Postproduktionsbearbeitung."
+      },
+      {
+        "icon": "😌",
+        "title": "Beruhigende visuelle Erfahrung mit grüner Anzeige",
+        "description": "Verwenden Sie unser Grüner-Bildschirm-Tool, um eine beruhigende visuelle Umgebung zu schaffen. Die beruhigenden Grüntöne können helfen, die Augenbelastung zu reduzieren und Entspannung zu fördern."
+      },
+      {
+        "icon": "🎮",
+        "title": "Grüner Bildschirm für immersives Spielerlebnis",
+        "description": "Verbessern Sie Ihr Spielerlebnis mit unserer Vollbild-Grünanzeige. Es kann als dynamischer Hintergrund für eine noch immersivere Spielumgebung dienen."
+      },
+      {
+        "icon": "📹",
+        "title": "Grüner Bildschirm für virtuelle Meetings",
+        "description": "Nutzen Sie unser Grüner-Bildschirm-Tool, um professionelle Hintergründe während Ihrer virtuellen Meetings hinzuzufügen. Es kann die Qualität Ihrer Videoanrufe erheblich verbessern."
+      },
+      {
+        "icon": "📚",
+        "title": "Grüner Bildschirm als Unterrichtshilfe",
+        "description": "Pädagogen können unser Grüner-Bildschirm-Tool verwenden, um Online-Unterricht interaktiver und ansprechender zu gestalten. Es ist eine großartige Möglichkeit, komplexe Konzepte visuell zu veranschaulichen."
+      },
+      {
+        "icon": "🖼️",
+        "title": "Grüner Bildschirm für Photoshop",
+        "description": "Photoshop mich selbst in meinem Zimmer, also wenn ich es abnehme und immer noch in meinem Zimmer bin, sagen die Leute für ein paar Sekunden oh wow, was mich glücklich macht, weil ich in gewisser Weise der Wow-Faktor dieser wenigen Sekunden ihres Lebens bin."
+      },
+      {
+        "icon": "🧘",
+        "title": "Grüner Bildschirm zum Entspannen",
+        "description": "In einer Klassenzimmersituation, während man die Computerarbeit unterbricht und anderen zuhört. Grün, weil es die entspannendste der Farben ist. Es ist einfach eine stille, bewegungslose grüne Farbe, die Farbe von Bäumen und Gras. Dank ihm strahlt der Bildschirm während der Computerpausen etwas grünes, entspannendes Licht aus."
+      },
+      {
+        "icon": "💻",
+        "title": "Grüner Bildschirm für Online-Anrufe",
+        "description": "Um während Meetings einen grünen Schimmer hinzuzufügen."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Wofür wird ein grüner Bildschirm verwendet?",
+        "answer": "Ein grüner Bildschirm wird hauptsächlich für Chroma Key-Effekte in Videos, Fotografie und Monitortests verwendet."
+      },
+      {
+        "question": "Wie verwende ich grünen Bildschirm für Chroma Key?",
+        "answer": "Starten Sie den grünen Bildschirm im Vollbildmodus und verwenden Sie ihn als Hintergrund für Ihre Videoaufnahmen."
+      },
+      {
+        "question": "Kann ich grünen Bildschirm für Fotografie verwenden?",
+        "answer": "Ja! Der grüne Bildschirm ist ausgezeichnet für Produktfotografie und Chroma Key-Effekte."
+      },
+      {
+        "question": "Warum grünen Bildschirm zur Entspannung verwenden?",
+        "answer": "Grün ist bekannt als die entspannendste Farbe. Unser grüner Bildschirm schafft eine beruhigende visuelle Umgebung, die bei Arbeitspausen helfen kann, die Augenbelastung zu reduzieren und Entspannung zu fördern."
+      },
+      {
+        "question": "Ist grüner Bildschirm gut für den Unterricht?",
+        "answer": "Ja, Pädagogen können unser grünes Bildschirm-Tool verwenden, um den Online-Unterricht interaktiver zu gestalten. Es bietet einen konsistenten Hintergrund für Bildungsvideos und kann helfen, komplexe Konzepte visuell zu veranschaulichen."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Zusätzliche Bildschirm-Tools",
+    "description": "Entdecken Sie unsere Sammlung spezialisierter Bildschirm-Tools für verschiedene Zwecke.",
+    "colorScreens": "Farbbildschirme",
+    "prankScreens": "Streich-Bildschirme",
+    "fakeUpdateScreens": "Gefälschte Update-Bildschirme",
+    "screensaverScreens": "Bildschirmschoner"
+  },
+  "howToUse": {
+    "title": "Verwendung",
+    "steps": [
+      "Wählen Sie Ihre bevorzugte Farbe aus der Palette",
+      "Klicken Sie auf den 'Starten'-Button, um im Vollbildmodus zu öffnen",
+      "Verwenden Sie F11 oder ESC, um den Vollbildmodus zu beenden",
+      "Laden Sie das Bild in Ihrer bevorzugten Auflösung herunter"
+    ]
+  },
+  "techSpecs": {
+    "title": "Technische Spezifikationen",
+    "specs": [
+      "Auflösung: Bis zu 8K (7680x4320)",
+      "Farbtiefe: 24-bit RGB",
+      "Format: PNG, JPEG, WebP",
+      "Kompatibilität: Alle modernen Browser",
+      "Offline-Funktionalität: Vollständig verfügbar"
+    ]
+  }
+}

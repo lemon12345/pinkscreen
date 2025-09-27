@@ -1,0 +1,150 @@
+{
+  "hero": {
+    "badge": "Strumento Schermo Verde",
+    "title": "Schermo Verde | Strumento Online",
+    "description": "Schermo verde online per chroma key, sfondo verde, sovrapposizione video ed effetti speciali. Perfetto per creatori di contenuti e videomaker.",
+    "features": {
+      "noRegistration": "Nessuna registrazione",
+      "worksOffline": "Funziona offline",
+      "allDevices": "Tutti i dispositivi"
+    }
+  },
+  "keywords": "schermo verde, chroma key, sfondo verde, schermo verde online, green screen, effetti speciali, creazione video, streaming",
+  "colorPicker": {
+    "title": "Scegli il tuo colore",
+    "custom": "Personalizzato",
+    "description": "Perfetto per effetti chroma key e creazione di contenuti video",
+    "launchButton": "Avvia schermo verde"
+  },
+  "colors": {
+    "Black": "Schermo Nero",
+    "White": "Schermo Bianco",
+    "Red": "Schermo Rosso",
+    "Blue": "Schermo Blu",
+    "Green": "Schermo Verde",
+    "Yellow": "Giallo",
+    "Purple": "Viola",
+    "Pink": "Rosa",
+    "Orange": "Arancione",
+    "Zoom Lighting": "Illuminazione Zoom"
+  },
+  "useCases": {
+    "title": "Le persone usano lo schermo verde per:",
+    "subtitle": "Scopri i diversi modi di utilizzare il nostro schermo verde",
+    "description": "Il nostro strumento schermo verde è essenziale per la creazione di contenuti, effetti speciali e produzioni video professionali.",
+    "cases": [
+      {
+        "title": "per Photoshop",
+        "description": "Photoshop me stesso nella mia stanza, quindi quando lo tolgo e sono ancora nella mia stanza le persone sono tipo oh wow per alcuni secondi, il che mi rende felice perché sono in un certo senso il fattore wow di quei pochi secondi della loro vita.",
+        "icon": "🎨"
+      },
+      {
+        "title": "rilassarsi",
+        "description": "In una situazione in classe, mentre interrompi il lavoro al computer e ascolti gli altri. Verde, perché è il più rilassante dei colori. È solo un verde silenzioso, immobile, il colore degli alberi e dell'erba. Grazie ad esso, lo schermo emette una luce verde rilassante durante le pause di lavoro al computer.",
+        "icon": "🌿"
+      },
+      {
+        "title": "per le chiamate online",
+        "description": "Per aggiungere un bagliore verde durante la riunione.",
+        "icon": "📞"
+      },
+      {
+        "title": "per creare contenuti video",
+        "description": "Lo schermo verde è perfetto per creare effetti speciali e contenuti video professionali con chroma key.",
+        "icon": "📹"
+      },
+      {
+        "title": "per streaming",
+        "description": "Ideale per streamer che vogliono sostituire il loro sfondo in tempo reale durante le trasmissioni live.",
+        "icon": "📚"
+      },
+      {
+        "title": "per effetti speciali",
+        "description": "Usa lo schermo verde per creare effetti visivi impressionanti e sovrapposizioni video professionali.",
+        "icon": "🎨"
+      },
+      {
+        "title": "per rilassamento",
+        "description": "Il colore verde ha un effetto calmante e rilassante, perfetto per momenti di pace e tranquillità.",
+        "icon": "😴"
+      },
+      {
+        "title": "per natura",
+        "description": "Il verde ricorda la natura, gli alberi e l'erba, creando un'atmosfera naturale e rilassante.",
+        "icon": "💚"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Come usare lo schermo verde",
+    "subtitle": "Guida semplice per ottenere il massimo dal nostro strumento",
+    "steps": [
+      "Scegli il tuo colore preferito dalla tavolozza",
+      "Clicca sul pulsante 'Avvia' per aprire a schermo intero",
+      "Usa F11 o ESC per uscire dalla modalità schermo intero",
+      "Scarica l'immagine nella risoluzione preferita"
+    ]
+  },
+  "info": {
+    "title": "Schermo Verde – Strumento Sfondo a Schermo Intero",
+    "subtitle": "Uno schermo verde è perfetto per effetti chroma key, creazione di contenuti e sfondi virtuali professionali",
+    "professionalTool": "Strumento Professionale",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Scarica Sfondo Schermo Verde",
+    "downloadDescription": "Ottieni schermi verdi di alta qualità per le tue esigenze professionali",
+    "hdTitle": "Sfondo Schermo Verde 1920×1080",
+    "hdDescription": "Immagine verde a schermo intero pura per effetti chroma key, creazione di contenuti e sfondi virtuali",
+    "hdButton": "Scarica HD",
+    "fourKTitle": "Sfondo Schermo Verde 4K",
+    "fourKDescription": "Immagine schermo verde ultra HD per produzioni video professionali ed effetti speciali",
+    "fourKButton": "Scarica 4K",
+    "proTipBadge": "Suggerimento Pro",
+    "proTipTitle": "Suggerimento Pro",
+    "proTipDescription": "Per migliori risultati chroma key, assicurati di avere un'illuminazione uniforme ed evita ombre sullo schermo verde."
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "subtitle": "Risposte alle domande comuni sullo schermo verde",
+    "description": "Impara le migliori pratiche per utilizzare il nostro schermo verde nei tuoi progetti di creazione video ed effetti speciali.",
+    "questions": [
+      {
+        "question": "Cos'è il chroma key?",
+        "answer": "Il chroma key è una tecnica che permette di sostituire un colore specifico (generalmente il verde) con un'altra immagine o video."
+      },
+      {
+        "question": "Perché usare il verde?",
+        "answer": "Il verde è raramente presente nei toni della pelle umana, facilitando la separazione durante la sovrapposizione."
+      },
+      {
+        "question": "Quale software usare per il chroma key?",
+        "answer": "OBS Studio, Adobe Premiere, Final Cut Pro, o anche app mobile come KineMaster."
+      },
+      {
+        "question": "Come avere una buona illuminazione?",
+        "answer": "Usa un'illuminazione uniforme ed evita le ombre sullo schermo verde per un risultato migliore."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specifiche tecniche",
+    "subtitle": "Dettagli tecnici del nostro strumento schermo verde",
+    "specs": [
+      {
+        "label": "Colore",
+        "value": "#00FF00 (Verde chroma)"
+      },
+      {
+        "label": "Risoluzione",
+        "value": "Si adatta a tutti gli schermi"
+      },
+      {
+        "label": "Compatibilità",
+        "value": "Tutti i browser moderni"
+      },
+      {
+        "label": "Utilizzo",
+        "value": "Chroma key professionale"
+      }
+    ]
+  }
+} 

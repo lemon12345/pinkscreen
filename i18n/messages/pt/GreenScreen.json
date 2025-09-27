@@ -1,0 +1,162 @@
+{
+  "hero": {
+    "badge": "Ferramenta de Tela Verde",
+    "title": "Tela Verde | Ferramenta Online",
+    "description": "Tela verde vibrante em modo tela cheia para contraste de vídeo, iluminação de chroma key ou descanso visual. Ideal para testes de cor e uso profissional.",
+    "features": {
+      "noRegistration": "Sem registo",
+      "worksOffline": "Funciona offline",
+      "allDevices": "Todos os dispositivos"
+    }
+  },
+  "keywords": "tela verde, chroma key, fundo verde, tela verde online, green screen, efeitos especiais, criação de vídeo",
+  "colorPicker": {
+    "title": "Escolha sua cor",
+    "custom": "Personalizado",
+    "description": "Perfeito para chroma key e produção de vídeo profissional",
+    "launchButton": "Iniciar tela verde"
+  },
+  "colors": {
+    "Black": "Tela Preta",
+    "White": "Tela Branca",
+    "Red": "Tela Vermelha",
+    "Blue": "Tela Azul",
+    "Green": "Tela Verde",
+    "Yellow": "Tela Amarela",
+    "Purple": "Tela Roxa",
+    "Pink": "Tela Rosa",
+    "Orange": "Tela Laranja",
+    "Zoom Lighting": "Iluminação para Zoom"
+  },
+  "interface": {
+    "livePreview": "Pré-visualização ao vivo",
+    "clickForFullscreen": "Clique para tela cheia",
+    "current": "Atual",
+    "chooseYourColor": "Escolha sua cor",
+    "perfectFor": "Perfeito para",
+    "launchGreenScreen": "Iniciar Tela Verde"
+  },
+  "useCases": {
+    "title": "As pessoas usam a tela verde para:",
+    "subtitle": "Descubra as diferentes formas de usar nossa tela verde",
+    "description": "Nossa ferramenta de tela verde é essencial para produção de vídeo profissional e efeitos de chroma key.",
+    "cases": [
+      {
+        "title": "Tela Verde para Criação de Conteúdo de Vídeo",
+        "description": "Aproveite nossa tela verde em tela cheia para criar vídeos de qualidade profissional. A tela verde é perfeita para efeitos de vídeo e edição pós-produção.",
+        "icon": "🎬"
+      },
+      {
+        "title": "Experiência Visual Calmante com Tela Verde",
+        "description": "Use nossa ferramenta de tela verde para criar um ambiente visual calmante. Os tons calmantes do verde podem ajudar a reduzir a tensão ocular e promover relaxamento.",
+        "icon": "😌"
+      },
+      {
+        "title": "Tela Verde para Experiência de Gaming Imersiva",
+        "description": "Melhore sua experiência de gaming com nossa tela verde em tela cheia. Pode servir como fundo dinâmico para um ambiente de gaming mais imersivo.",
+        "icon": "🎮"
+      },
+      {
+        "title": "Tela Verde para Reuniões Virtuais",
+        "description": "Utilize nossa ferramenta de tela verde para adicionar fundos profissionais durante suas reuniões virtuais. Pode melhorar significativamente a qualidade de suas chamadas de vídeo.",
+        "icon": "📹"
+      },
+      {
+        "title": "Tela Verde como Auxílio de Ensino",
+        "description": "Educadores podem usar nossa ferramenta de tela verde para tornar o ensino online mais interativo e envolvente. É uma ótima maneira de ilustrar conceitos complexos visualmente.",
+        "icon": "📚"
+      },
+      {
+        "title": "tela verde para photoshop",
+        "description": "Photoshop eu mesmo no meu quarto para que quando eu tirar e ainda estou no meu quarto as pessoas fiquem tipo uau por alguns segundos o que me deixa feliz porque sou de certa forma o fator uau daqueles poucos segundos de suas vidas.",
+        "icon": "🤩"
+      },
+      {
+        "title": "tela verde para relaxar",
+        "description": "Em uma situação de sala de aula, enquanto pauso o trabalho no computador e escuto outros. Verde, porque é a mais relaxante das cores. É apenas uma cor verde silenciosa e imóvel, a cor das árvores e grama. Graças a isso, a tela emite alguma luz verde relaxante durante as pausas do trabalho no computador.",
+        "icon": "😴"
+      },
+      {
+        "title": "tela verde para chamadas online",
+        "description": "Para adicionar um brilho verde durante a reunião.",
+        "icon": "💚"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Como usar a tela verde",
+    "subtitle": "Guia simples para aproveitar ao máximo nossa ferramenta",
+    "steps": [
+      "Escolha sua cor preferida da paleta",
+      "Clique no botão 'Iniciar' para abrir em tela cheia",
+      "Use F11 ou ESC para sair do modo tela cheia",
+      "Baixe a imagem na resolução de sua preferência"
+    ]
+  },
+  "info": {
+    "title": "Tela Verde – Ferramenta de Fundo de Tela Cheia",
+    "subtitle": "Uma tela verde ajuda a minimizar distrações e aumentar a produtividade, perfeita para iluminação e verificação de pixels",
+    "professionalTool": "Ferramenta Profissional",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Baixar Fundo de Tela Verde",
+    "downloadDescription": "Obtenha telas verdes de alta qualidade para suas necessidades profissionais",
+    "hdTitle": "Fundo de Tela Verde 1920×1080",
+    "hdDescription": "Imagem verde pura em tela cheia para limpeza, foco visual e iluminação de webcam",
+    "hdButton": "Baixar HD",
+    "fourKTitle": "Fundo de Tela Verde 4K",
+    "fourKDescription": "Imagem verde ultra HD em tela cheia para iluminação, teste de tela e aprimoramento visual",
+    "fourKButton": "Baixar 4K",
+    "proTipBadge": "Dica Pro",
+    "proTipTitle": "Dica Pro",
+    "proTipDescription": "Alterne entre telas brancas, pretas e verdes dependendo do efeito de iluminação que você quer criar durante filmagem ou trabalho."
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "subtitle": "Respostas para perguntas comuns sobre a tela verde",
+    "description": "Encontre respostas para perguntas comuns sobre o uso de nossa ferramenta de tela verde para vários propósitos.",
+    "questions": [
+      {
+        "question": "O que é chroma key?",
+        "answer": "Chroma key é uma técnica que permite substituir uma cor específica (geralmente verde) por outra imagem ou vídeo."
+      },
+      {
+        "question": "Por que usar verde?",
+        "answer": "O verde raramente aparece nos tons de pele humana, facilitando a separação durante a sobreposição."
+      },
+      {
+        "question": "Que software usar para chroma key?",
+        "answer": "OBS Studio, Adobe Premiere, Final Cut Pro, ou até aplicações móveis como KineMaster."
+      },
+      {
+        "question": "Como obter boa iluminação?",
+        "answer": "Use iluminação uniforme e evite sombras na tela verde para melhor resultado."
+      },
+      {
+        "question": "A tela verde é boa para criatividade?",
+        "answer": "Sim, verde está associado à criatividade e otimismo. Uma tela verde pode inspirar o pensamento criativo e servir como uma placa de humor para projetos de design e trabalho artístico."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificações técnicas",
+    "subtitle": "Detalhes técnicos da nossa ferramenta de tela verde",
+    "specs": [
+      {
+        "label": "Cor",
+        "value": "#00FF00 (Verde chroma)"
+      },
+      {
+        "label": "Resolução",
+        "value": "Adapta-se a todas as telas"
+      },
+      {
+        "label": "Compatibilidade",
+        "value": "Todos os navegadores modernos"
+      },
+      {
+        "label": "Aplicação",
+        "value": "Chroma key profissional"
+      }
+    ]
+  }
+} 

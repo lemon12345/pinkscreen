@@ -1,0 +1,166 @@
+{
+  "hero": {
+    "badge": "Narzędzie Żółtego Ekranu",
+    "title": "Żółty Ekran | Narzędzie Online",
+    "description": "Żółty ekran online do stymulowania kreatywności, zmniejszania zmęczenia oczu i tworzenia ciepłej atmosfery. Idealny do pracy i relaksu.",
+    "features": {
+      "noRegistration": "Bez rejestracji",
+      "worksOffline": "Działa offline",
+      "allDevices": "Wszystkie urządzenia"
+    }
+  },
+  "keywords": "żółty ekran, żółte tło, żółty ekran online, kolor żółty, kreatywność, optymizm, koncentracja",
+  "colorPicker": {
+    "title": "Wybierz swój kolor",
+    "custom": "Niestandardowy",
+    "description": "Idealny do stymulowania kreatywności i poprawy koncentracji",
+    "launchButton": "Uruchom żółty ekran"
+  },
+  "colors": {
+    "Black": "Czarny",
+    "White": "Biały",
+    "Red": "Czerwony",
+    "Blue": "Niebieski",
+    "Green": "Zielony",
+    "Yellow": "Żółty",
+    "Purple": "Fioletowy",
+    "Pink": "Różowy",
+    "Orange": "Pomarańczowy",
+    "Zoom Lighting": "Oświetlenie Zoom"
+  },
+  "interface": {
+    "livePreview": "Podgląd na żywo",
+    "clickForFullscreen": "Kliknij, aby przejść na pełny ekran",
+    "current": "Aktualny",
+    "chooseYourColor": "Wybierz swój kolor",
+    "perfectFor": "Idealny do",
+    "launchYellowScreen": "Uruchom Żółty Ekran"
+  },
+  "useCases": {
+    "title": "Ludzie używają żółtego ekranu do:",
+    "subtitle": "Odkryj różne sposoby korzystania z naszego żółtego ekranu",
+    "description": "Nasze narzędzie żółtego ekranu stymuluje kreatywność i optymizm dla inspirujących środowisk pracy.",
+    "cases": [
+      {
+        "title": "Wszechstronne żółte tło do treści",
+        "description": "Zanurz swoją publiczność w ciepłym i przyjaznym środowisku z pełnoekranowym żółtym wyświetlaczem. Idealne do wstrzykiwania energii i pozytywności do Twojej treści online, wirtualnych lekcji czy transmisji na żywo.",
+        "icon": "🌟"
+      },
+      {
+        "title": "Żółty ekran dla komfortu oczu",
+        "description": "Popraw komfort wzrokowy dzięki ekranowi o żółtym odcieniu. Użyj naszego narzędzia, by zmniejszyć zmęczenie oczu spowodowane niebieskim światłem, zwłaszcza podczas nocnego przeglądania lub długich godzin pracy.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Kreatywny początek tablicy nastrojów",
+        "description": "Rozpocznij swoje kreatywne projekty z żółtą tablicą nastrojów. Nasz pełnoekranowy żółty wyświetlacz może pomóc inspirować kreatywne myślenie i koncepcje projektowe.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Testowanie ekranu urządzenia",
+        "description": "Testuj dokładność kolorów swojego wyświetlacza za pomocą pełnoekranowego żółtego wyjścia. To użyteczne narzędzie do precyzyjnego dostosowywania ustawień kolorów monitorów, tabletów czy smartfonów.",
+        "icon": "📱"
+      },
+      {
+        "title": "Interaktywna pomoc dydaktyczna",
+        "description": "Użyj pełnoekranowego żółtego wyświetlacza jako narzędzia dydaktycznego w wirtualnych salach lekcyjnych. Może służyć jako angażujące tło do prezentowania materiałów dydaktycznych, wyróżniania informacji i przyciągania uwagi uczniów.",
+        "icon": "📚"
+      },
+      {
+        "title": "żółty ekran dla atmosfery",
+        "description": "Podoba mi się atmosfera, jaką daje.",
+        "icon": "😊"
+      },
+      {
+        "title": "żółty ekran do kopiowania obrazu",
+        "description": "Aby skopiować obraz, który narysował mój kolega z klasy.",
+        "icon": "📋"
+      },
+      {
+        "title": "żółty ekran do tworzenia filmów",
+        "description": "Ponieważ moje filmy na YouTube są lepsze z żółtym ekranem i ponieważ zielone ekrany są przereklamowane.",
+        "icon": "🎬"
+      },
+      {
+        "title": "żółty ekran do rozmów online",
+        "description": "Aby dodać żółty blask podczas spotkania.",
+        "icon": "💛"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Jak korzystać z żółtego ekranu",
+    "subtitle": "Prosty przewodnik, jak najlepiej wykorzystać nasze narzędzie",
+    "steps": [
+      "Otwórz narzędzie",
+      "Dostosuj jasność",
+      "Ciesz się korzyściami"
+    ]
+  },
+  "info": {
+    "title": "Żółty Ekran – Narzędzie Tła Pełnoekranowego",
+    "subtitle": "Żółty ekran stymuluje kreatywność, poprawia koncentrację i tworzy ciepłą i optymistyczną atmosferę",
+    "professionalTool": "Narzędzie Profesjonalne",
+    "downloadReady": "Pobieranie Gotowe",
+    "downloadTitle": "Pobierz Tło Żółtego Ekranu",
+    "downloadDescription": "Uzyskaj wysokiej jakości żółte ekrany dla swoich potrzeb zawodowych",
+    "hdTitle": "Tło Żółtego Ekranu 1920×1080",
+    "hdDescription": "Czysto żółty obraz pełnoekranowy do stymulowania kreatywności, poprawy koncentracji i tworzenia optymistycznej atmosfery",
+    "hdButton": "Pobierz HD",
+    "fourKTitle": "Tło Żółtego Ekranu 4K",
+    "fourKDescription": "Ultra HD żółty ekran dla kreatywnych środowisk i inspirujących przestrzeni roboczych",
+    "fourKButton": "Pobierz 4K",
+    "proTipBadge": "Wskazówka Pro",
+    "proTipTitle": "Wskazówka Pro",
+    "proTipDescription": "Żółty ekran jest idealny na sesje burzy mózgów i działania kreatywne, ponieważ stymuluje optymizm i kreatywność."
+  },
+  "faq": {
+    "title": "Często zadawane pytania",
+    "subtitle": "Odpowiedzi na częste pytania o żółty ekran",
+    "description": "Znajdź odpowiedzi na często zadawane pytania dotyczące korzystania z naszego narzędzia żółtego ekranu do różnych celów.",
+    "questions": [
+      {
+        "question": "Czy żółty naprawdę pomaga kreatywności?",
+        "answer": "Tak, badania pokazują, że żółty stymuluje aktywność umysłową i sprzyja myśleniu kreatywnemu."
+      },
+      {
+        "question": "Czy mogę używać żółtego ekranu do pracy?",
+        "answer": "Oczywiście! Miękkie żółte światło może zmniejszyć zmęczenie oczu podczas długotrwałej pracy."
+      },
+      {
+        "question": "Czy żółty ekran wpływa na sen?",
+        "answer": "Żółte światło mniej zakłóca cykl snu niż niebieskie światło."
+      },
+      {
+        "question": "Jak zoptymalizować efekt żółtego ekranu?",
+        "answer": "Używaj go w słabo oświetlonym otoczeniu, aby zmaksymalizować wpływ wizualny."
+      },
+      {
+        "question": "Czy żółty ekran jest bezpieczny dla oczu?",
+        "answer": "Tak, żółty ekran jest ogólnie uważany za bezpieczny dla oczu i może pomóc zmniejszyć zmęczenie oczu."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specyfikacje techniczne",
+    "subtitle": "Szczegóły techniczne naszego narzędzia żółtego ekranu",
+    "specs": [
+      {
+        "label": "Kolor",
+        "value": "#FFFF00 (Czysty żółty)"
+      },
+      {
+        "label": "Rozdzielczość",
+        "value": "Dostosowuje się do wszystkich ekranów"
+      },
+      {
+        "label": "Kompatybilność",
+        "value": "Wszystkie nowoczesne przeglądarki"
+      },
+      {
+        "label": "Korzyści",
+        "value": "Kreatywność i dobre samopoczucie"
+      }
+    ]
+  }
+} 

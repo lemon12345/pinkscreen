@@ -1,0 +1,172 @@
+{
+  "hero": {
+    "badge": "Strumento Schermo Nero",
+    "title": "Schermo Nero | Strumento Online",
+    "description": "Strumento schermo nero gratuito e professionale per risparmiare energia, rilassare gli occhi, concentrarsi meglio e oscurare monitor senza spegnerli. Schermo nero a schermo intero senza pubblicità, perfetto per TV al plasma, gaming, studio e lavoro. Funziona offline su tutti i dispositivi.",
+    "features": {
+      "noRegistration": "Nessuna registrazione",
+      "worksOffline": "Funziona offline",
+      "allDevices": "Tutti i dispositivi"
+    }
+  },
+  "keywords": "schermo nero, schermo nero online, pulizia schermo, test pixel morti, risparmio energia, sfondo nero, schermo nero fullscreen",
+  "colorPicker": {
+    "title": "Scegli il tuo colore",
+    "custom": "Personalizzato",
+    "description": "Perfetto per la pulizia dello schermo, test dei pixel e riduzione dell'abbagliamento",
+    "launchButton": "Avvia schermo nero"
+  },
+  "interface": {
+    "livePreview": "Anteprima dal Vivo",
+    "chooseYourColor": "Scegli il Tuo Colore",
+    "clickForFullscreen": "Clicca per Schermo Intero",
+    "current": "Attuale",
+    "perfectFor": "Perfetto per risparmio energetico, rilassamento degli occhi e concentrazione",
+    "launchBlackScreen": "Avvia Schermo Nero"
+  },
+  "colors": {
+    "Black": "Schermo Nero",
+    "White": "Schermo Bianco",
+    "Red": "Schermo Rosso",
+    "Blue": "Schermo Blu",
+    "Green": "Schermo Verde",
+    "Yellow": "Giallo",
+    "Purple": "Viola",
+    "Pink": "Rosa",
+    "Orange": "Arancione",
+    "Zoom Lighting": "Illuminazione Zoom"
+  },
+  "useCases": {
+    "title": "Le persone usano lo schermo nero per:",
+    "subtitle": "Scopri i diversi modi di utilizzare il nostro schermo nero",
+    "description": "Il nostro strumento schermo nero serve molteplici scopi professionali e personali in varie industrie e scenari.",
+    "cases": [
+      {
+        "title": "per rendere scuro il secondo monitor senza spegnerlo",
+        "description": "Rendi rapidamente scuro il secondo monitor senza spegnerlo quando giochi a un gioco suggestivo o guardi un film che si è rivelato degno di farlo",
+        "icon": "🖥️"
+      },
+      {
+        "title": "per risparmiare elettricità",
+        "description": "Cercare di risparmiare elettricità, ridurre le emissioni di carbonio.",
+        "icon": "⚡"
+      },
+      {
+        "title": "per pulire il monitor",
+        "description": "È più facile vedere i punti quando pulisco lo schermo",
+        "icon": "🧽"
+      },
+      {
+        "title": "per creare uno sfondo scuro",
+        "description": "Sfondo per un gioco. Lo schermo è troppo grande, 3440 x 1440. Non mi piace giocare così grande, quindi faccio 2560 x 1440. Ho bisogno di cornici nere su entrambi i lati.",
+        "icon": "🎮"
+      },
+      {
+        "title": "per aiutare a prevenire le ustioni nella TV al plasma",
+        "description": "Ho una vecchia TV al plasma. Non ho gli altoparlanti del computer, quindi quando voglio ascoltare la musica ad alto volume, accendo la mia TV e la collego tramite HDMI. I plasma sono altamente suscettibili al burn-in, quindi piuttosto piuttosto che lasciare Windows Media Player o qualsiasi altra cosa sullo schermo, utilizzo lo schermo nero per evitare il burn-in. Ho utilizzato vari siti Web. Ma non sembrano rimanere online per molto tempo.",
+        "icon": "📺"
+      },
+      {
+        "title": "concentrarsi mentre si studia",
+        "description": "Per non spegnere lo schermo e concentrarmi mentre studio. Bene, il mio schermo è molto luminoso e non aiuta con la concentrazione, uno schermo nero lo risolve.",
+        "icon": "📚"
+      },
+      {
+        "title": "per rilassare gli occhi",
+        "description": "Perché ho bisogno di rilassare gli occhi e avere solo uno schermo nero anche quando ascolto musica sul mio pc o voglio passare velocemente da tutto nero a qualcos'altro. La cosa più preziosa è la sua qualità, il colore e il resto e, naturalmente, che sia facile passare e uscire dalla modalità a schermo intero.",
+        "icon": "👀"
+      },
+      {
+        "title": "per dormire meglio",
+        "description": "Uso lo schermo nero per creare un ambiente buio e rilassante prima di andare a dormire, riducendo la luce blu che può disturbare il sonno.",
+        "icon": "😴"
+      },
+      {
+        "title": "per concentrarsi sul lavoro",
+        "description": "Quando lavoro da casa, uso lo schermo nero per eliminare le distrazioni e concentrarmi meglio sui compiti importanti.",
+        "icon": "🎯"
+      },
+      {
+        "title": "per risparmiare batteria",
+        "description": "Su dispositivi con schermi OLED, lo schermo nero consuma meno batteria rispetto ai colori chiari, prolungando la durata della batteria.",
+        "icon": "🔋"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Come usare lo schermo nero",
+    "subtitle": "Guida semplice per ottenere il massimo dal nostro strumento",
+    "steps": [
+      "Scegli il tuo colore preferito dalla tavolozza",
+      "Clicca sul pulsante 'Avvia' per aprire a schermo intero",
+      "Usa F11 o ESC per uscire dalla modalità schermo intero",
+      "Scarica l'immagine nella risoluzione preferita"
+    ]
+  },
+  "info": {
+    "title": "Schermo Nero – Strumento Sfondo a Schermo Intero",
+    "subtitle": "Uno schermo nero fa risaltare polvere e macchie per una pulizia facile, aiuta a rilevare i pixel e riduce l'abbagliamento in stanze buie",
+    "professionalTool": "Strumento Professionale",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Scarica Sfondo Schermo Nero",
+    "downloadDescription": "Ottieni schermi neri di alta qualità per le tue esigenze professionali",
+    "hdTitle": "Sfondo Schermo Nero 1920×1080",
+    "hdDescription": "Immagine nera a schermo intero pura per la pulizia dello schermo, test dei pixel morti e comfort visivo",
+    "hdButton": "Scarica HD",
+    "fourKTitle": "Sfondo Schermo Nero 4K",
+    "fourKDescription": "Immagine schermo nero ultra HD per riduzione dell'abbagliamento e test del display",
+    "fourKButton": "Scarica 4K",
+    "proTipBadge": "Suggerimento Pro",
+    "proTipTitle": "Suggerimento Pro",
+    "proTipDescription": "Usa lo schermo nero in combinazione con schermi bianchi o rossi per testare la risposta di luminosità e contrasto del tuo monitor."
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "subtitle": "Risposte alle domande comuni sullo schermo nero",
+    "description": "Trova risposte alle domande comuni sull'uso del nostro strumento schermo nero per vari scopi.",
+    "questions": [
+      {
+        "question": "Lo schermo nero è davvero nero?",
+        "answer": "Sì, usiamo il nero puro (#000000) per la massima oscurità."
+      },
+      {
+        "question": "Risparmia davvero energia?",
+        "answer": "Su schermi OLED e AMOLED, i pixel neri consumano meno energia dei pixel colorati."
+      },
+      {
+        "question": "Posso usare lo schermo nero su più monitor?",
+        "answer": "Sì, apri più schede e posizionale su ogni schermo che vuoi oscurare."
+      },
+      {
+        "question": "Lo strumento funziona offline?",
+        "answer": "Una volta caricata la pagina, puoi usare lo schermo nero senza connessione internet."
+      },
+      {
+        "question": "È buono per gli occhi?",
+        "answer": "Sì, lo schermo nero riduce l'affaticamento degli occhi e può aiutare a rilassarsi, specialmente in ambienti bui."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specifiche tecniche",
+    "subtitle": "Dettagli tecnici del nostro strumento schermo nero",
+    "specs": [
+      {
+        "label": "Colore",
+        "value": "#000000 (Nero puro)"
+      },
+      {
+        "label": "Risoluzione",
+        "value": "Si adatta a tutti gli schermi"
+      },
+      {
+        "label": "Compatibilità",
+        "value": "Tutti i browser moderni"
+      },
+      {
+        "label": "Consumo",
+        "value": "Minimo su schermi OLED"
+      }
+    ]
+  }
+} 

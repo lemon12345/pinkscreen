@@ -1,0 +1,192 @@
+{
+  "hero": {
+    "badge": "Ferramenta de Tela Branca",
+    "title": "Tela Branca | Ferramenta Online",
+    "description": "Ferramenta on-line. Use como fonte de luz para chamadas de zoom ou para testar o monitor, para copiar desenhos, para fazer um flipbook, para se concentrar.",
+    "features": {
+      "noRegistration": "Sem registo",
+      "worksOffline": "Funciona offline",
+      "allDevices": "Todos os dispositivos"
+    }
+  },
+  "keywords": "tela branca, página branca, tela branca online, limpeza de tela, teste de pixels, iluminação zoom, fundo branco",
+  "colorPicker": {
+    "title": "Escolha sua cor",
+    "custom": "Personalizado",
+    "description": "Perfeito para limpeza de tela, teste de pixels e melhoria da iluminação",
+    "launchButton": "Iniciar tela branca"
+  },
+  "colors": {
+    "Black": "Tela Preta",
+    "White": "Tela Branca",
+    "Red": "Tela Vermelha",
+    "Blue": "Tela Azul",
+    "Green": "Tela Verde",
+    "Yellow": "Tela Amarela",
+    "Purple": "Tela Roxa",
+    "Pink": "Tela Rosa",
+    "Orange": "Tela Laranja",
+    "Zoom Lighting": "Iluminação para Zoom"
+  },
+  "interface": {
+    "livePreview": "Pré-visualização ao vivo",
+    "clickForFullscreen": "Clique para tela cheia",
+    "current": "Atual",
+    "chooseYourColor": "Escolha sua cor",
+    "perfectFor": "Perfeito para",
+    "launchWhiteScreen": "Iniciar Tela Branca"
+  },
+  "useCases": {
+    "title": "As pessoas usam uma tela branca para:",
+    "subtitle": "Descubra as diferentes formas de usar nossa tela branca",
+    "description": "Nossa ferramenta de tela branca serve múltiplos propósitos profissionais e pessoais em várias indústrias e cenários.",
+    "cases": [
+      {
+        "title": "iluminação para chamadas de zoom",
+        "description": "Para chamadas de vídeo! Não tenho um anel de luz fácil, mas tenho duas telas. Posso usar uma das telas para iluminar meu rosto!",
+        "icon": "📹"
+      },
+      {
+        "title": "copiar desenhos",
+        "description": "Eu precisava ter algo brilhante sob o papel, para que pudesse redesenhar a imagem com mais facilidade.",
+        "icon": ""
+      },
+      {
+        "title": "como uma fonte de luz",
+        "description": "Iluminando a parte de trás de uma mesa de luz para fotos de produtos",
+        "icon": "💡"
+      },
+      {
+        "title": "verificar o monitor",
+        "description": "Verifique seu monitor e encontre pixels mortos.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "para a tela em branco",
+        "description": "Não quer ser interrompido? Quer frear? Use uma tela branca para apagar a tela.",
+        "icon": ""
+      },
+      {
+        "title": "luz para ler",
+        "description": "Para obter uma fonte de luz e poder ler livros quando está escuro no quarto e o interruptor de luz está muito longe.",
+        "icon": "📖"
+      },
+      {
+        "title": "luz para maquiagem",
+        "description": "Como uma fonte de luz forte para fazer maquiagem ou tirar fotos",
+        "icon": "💄"
+      },
+      {
+        "title": "limpar o monitor",
+        "description": "Bobagem, mas eu uso para limpeza de monitores. Isso torna as coisas óbvias na tela. :) Eu também o uso para validar a reprodução de cores simples para monitores diferentes, mas isso raramente aparece e não estou procurando gradação de cores profissional.",
+        "icon": "🧽"
+      },
+      {
+        "title": "para procurar poeira",
+        "description": "Pano de fundo consistente para limpar meu monitor e também para verificar se há pixels mortos / presos. Às vezes, também para iluminar meu rosto quando estou usando uma webcam.",
+        "icon": "🔍"
+      },
+      {
+        "title": "pegar moscas",
+        "description": "Eu estava pegando pequenas moscas quando elas foram atraídas para a tela branca do meu monitor",
+        "icon": "🪰"
+      },
+      {
+        "title": "fazer um flipbook",
+        "description": "Estou trabalhando em uma sequência animada, e estou fazendo da maneira tradicional (à mão), então preciso de uma superfície branca com luz que me permita colocar um pedaço de papel sobre o outro e ser capaz de ver os dois. como não tenho uma tela profissional para isso, estou usando meu computador e colocando a tela branca nele para não tocar em nada por engano",
+        "icon": "📚"
+      },
+      {
+        "title": "para se concentrar",
+        "description": "Enquanto estudo, utilizo 2 telas, uma com cronômetro e outra para pesquisar o que preciso na internet. Quando não estou pesquisando, coloco a tela branca para não me distrair com nada no computador",
+        "icon": "🎯"
+      },
+      {
+        "title": "configurar as configurações do monitor",
+        "description": "Útil ao ajustar as configurações no meu monitor secundário (já que é muito antigo, não apenas define as coisas como deveriam ser por padrão). Configurações como posição vertical / horizontal e escala vertical / horizontal. Também é útil ao pesquisar pixels mortos.",
+        "icon": "⚙️"
+      },
+      {
+        "title": "desenhar à noite",
+        "description": "Se estou desenhando no papel, posso colocá-lo em cima da minha mesa gráfica de desenho e ver o que estou desenhando à noite",
+        "icon": "🌙"
+      }
+    ]
+  },
+  "info": {
+    "title": "Tela Branca – Ferramenta de Tela Cheia",
+    "subtitle": "Uma tela branca revela facilmente poeira e manchas para limpeza fácil, ajuda a detectar pixels e melhora a iluminação em salas escuras",
+    "professionalTool": "Ferramenta Profissional",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Baixar Fundo de Tela Branca",
+    "downloadDescription": "Obtenha telas brancas de alta qualidade para suas necessidades profissionais",
+    "hdTitle": "Fundo de Tela Branca 1920×1080",
+    "hdDescription": "Imagem branca pura em tela cheia para limpeza de tela, teste de pixels mortos e conforto visual",
+    "hdButton": "Baixar HD",
+    "fourKTitle": "Fundo de Tela Branca 4K",
+    "fourKDescription": "Imagem de tela branca ultra HD para melhoria da iluminação e teste de display",
+    "fourKButton": "Baixar 4K",
+    "proTipBadge": "Dica Pro",
+    "proTipTitle": "Dica Pro",
+    "proTipDescription": "Use a tela branca em combinação com telas pretas ou vermelhas para testar a resposta de brilho e contraste do seu monitor."
+  },
+  "howToUse": {
+    "title": "Como usar a tela branca",
+    "subtitle": "Guia simples para aproveitar ao máximo nossa ferramenta",
+    "steps": [
+      "Escolha sua cor preferida da paleta",
+      "Clique no botão 'Iniciar' para abrir em tela cheia",
+      "Use F11 ou ESC para sair do modo tela cheia",
+      "Baixe a imagem na resolução de sua preferência"
+    ]
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "subtitle": "Respostas para perguntas comuns sobre a tela branca",
+    "description": "Aprenda como usar a cor branca para limpeza de tela, teste de pixels e melhoria da iluminação em ambientes profissionais.",
+    "questions": [
+      {
+        "question": "A tela branca é gratuita?",
+        "answer": "Sim, nossa ferramenta de tela branca é completamente gratuita e sem anúncios."
+      },
+      {
+        "question": "Posso usar a tela branca offline?",
+        "answer": "Uma vez carregada a página, você pode usar a tela branca mesmo sem conexão com a internet."
+      },
+      {
+        "question": "A tela branca funciona em dispositivos móveis?",
+        "answer": "Sim, nossa ferramenta é otimizada para todos os dispositivos: computadores, tablets e smartphones."
+      },
+      {
+        "question": "Como ajustar o brilho?",
+        "answer": "Use os controles de brilho do seu dispositivo para ajustar a intensidade da tela branca."
+      },
+      {
+        "question": "A tela branca é boa para concentração?",
+        "answer": "Sim, uma tela branca pode ajudá-lo a se concentrar eliminando distrações. É comumente usada por estudantes e profissionais que querem manter a concentração enquanto trabalham."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificações técnicas",
+    "subtitle": "Detalhes técnicos da nossa ferramenta de tela branca",
+    "specs": [
+      {
+        "label": "Cor",
+        "value": "#FFFFFF (Branco puro)"
+      },
+      {
+        "label": "Resolução",
+        "value": "Adapta-se a todas as telas"
+      },
+      {
+        "label": "Compatibilidade",
+        "value": "Todos os navegadores modernos"
+      },
+      {
+        "label": "Performance",
+        "value": "Otimizado para baixo consumo"
+      }
+    ]
+  }
+} 

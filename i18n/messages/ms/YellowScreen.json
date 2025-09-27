@@ -1,0 +1,166 @@
+{
+  "hero": {
+    "badge": "Alat Skrin Kuning",
+    "title": "Skrin Kuning | Alat Dalam Talian",
+    "description": "Skrin kuning skrin penuh profesional dalam talian untuk merangsang kreativiti, meningkatkan produktiviti kerja, mengurangkan keletihan mata dan mencipta suasana hangat yang menggalakkan. Alat skrin kuning berkualiti tinggi untuk kerja pejabat, pembelajaran dalam talian, meditasi, terapi warna dan penciptaan kandungan. Warna kuning yang menenangkan membantu mengurangkan tekanan, meningkatkan mood dan menggalakkan pemikiran kreatif. Sesuai untuk pelajar, pekerja pejabat, artis, pereka dan sesiapa yang memerlukan persekitaran kerja yang memberi inspirasi dan produktif.",
+    "features": {
+      "noRegistration": "Tiada pendaftaran",
+      "worksOffline": "Berfungsi luar talian",
+      "allDevices": "Semua peranti"
+    }
+  },
+  "keywords": "skrin kuning, latar belakang kuning, skrin kuning online, warna kuning, kreativiti, optimisme, tumpuan",
+  "colorPicker": {
+    "title": "Pilih warna anda",
+    "custom": "Tersuai",
+    "description": "Sempurna untuk merangsang kreativiti dan meningkatkan tumpuan",
+    "launchButton": "Lancarkan skrin kuning"
+  },
+  "colors": {
+    "Black": "Hitam",
+    "White": "Putih",
+    "Red": "Merah",
+    "Blue": "Biru",
+    "Green": "Hijau",
+    "Yellow": "Kuning",
+    "Purple": "Ungu",
+    "Pink": "Merah Jambu",
+    "Orange": "Oren",
+    "Zoom Lighting": "Pencahayaan Zoom"
+  },
+  "interface": {
+    "livePreview": "Pratonton langsung",
+    "clickForFullscreen": "Klik untuk skrin penuh",
+    "current": "Semasa",
+    "chooseYourColor": "Pilih warna anda",
+    "perfectFor": "Sempurna untuk",
+    "launchYellowScreen": "Lancarkan Skrin Kuning"
+  },
+  "useCases": {
+    "title": "Orang menggunakan skrin kuning untuk:",
+    "subtitle": "Temui pelbagai cara untuk menggunakan skrin kuning kami",
+    "description": "Alat skrin kuning kami merangsang kreativiti dan optimisme untuk persekitaran kerja yang memberi inspirasi.",
+    "cases": [
+      {
+        "title": "Latar Belakang Kuning Serbaguna untuk Kandungan",
+        "description": "Rendamkan penonton anda dalam persekitaran yang hangat dan mengundang dengan paparan kuning skrin penuh. Sesuai untuk menyuntik tenaga dan positif ke dalam kandungan dalam talian, kelas maya, atau siaran langsung anda.",
+        "icon": "🌟"
+      },
+      {
+        "title": "Skrin Kuning untuk Keselesaan Mata",
+        "description": "Tingkatkan keselesaan visual dengan skrin berwarna kuning. Gunakan alat kami untuk mengurangkan ketegangan mata dari cahaya biru, terutamanya semasa pelayaran waktu malam atau waktu kerja yang panjang.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Permulaan Papan Suasana Kreatif",
+        "description": "Mulakan projek kreatif anda dengan papan suasana kuning. Paparan kuning skrin penuh kami boleh membantu mencetuskan pemikiran kreatif dan konsep reka bentuk.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Ujian Skrin Peranti",
+        "description": "Uji ketepatan warna peranti paparan anda dengan output kuning skrin penuh. Ia adalah alat yang berguna untuk menala halus tetapan warna monitor, tablet, atau telefon pintar.",
+        "icon": "📱"
+      },
+      {
+        "title": "Alat Bantu Mengajar Interaktif",
+        "description": "Gunakan paparan kuning skrin penuh sebagai alat bantu mengajar dalam bilik darjah maya. Ia boleh berfungsi sebagai latar belakang yang menarik untuk membentangkan bahan pembelajaran, menyerlahkan maklumat, dan menarik perhatian pelajar.",
+        "icon": "📚"
+      },
+      {
+        "title": "skrin kuning untuk mewujudkan suasana",
+        "description": "Saya suka suasana yang diberikannya",
+        "icon": "😊"
+      },
+      {
+        "title": "skrin kuning untuk menyalin imej",
+        "description": "Untuk menyalin imej yang dilukis oleh rakan sekelas saya",
+        "icon": "📋"
+      },
+      {
+        "title": "skrin kuning untuk membuat video",
+        "description": "Kerana video YouTube saya lebih baik dengan skrin kuning & kerana skrin hijau terlalu biasa",
+        "icon": "🎬"
+      },
+      {
+        "title": "skrin kuning untuk panggilan dalam talian",
+        "description": "Untuk menambah cahaya kuning semasa mesyuarat.",
+        "icon": "💛"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Cara menggunakan skrin kuning",
+    "subtitle": "Panduan mudah untuk mendapatkan yang terbaik dari alat kami",
+    "steps": [
+      "Buka alat",
+      "Laraskan kecerahan",
+      "Nikmati manfaat"
+    ]
+  },
+  "info": {
+    "title": "Skrin Kuning – Alat Latar Belakang Skrin Penuh",
+    "subtitle": "Skrin kuning merangsang kreativiti dan optimisme, sempurna untuk kerja dan relaksasi",
+    "professionalTool": "Alat Profesional",
+    "downloadReady": "Muat Turun Sedia",
+    "downloadTitle": "Muat Turun Latar Belakang Skrin Kuning",
+    "downloadDescription": "Dapatkan skrin kuning berkualiti tinggi untuk keperluan profesional anda",
+    "hdTitle": "Latar Belakang Skrin Kuning 1920×1080",
+    "hdDescription": "Imej kuning skrin penuh tulen untuk merangsang kreativiti dan meningkatkan mood",
+    "hdButton": "Muat Turun HD",
+    "fourKTitle": "Latar Belakang Skrin Kuning 4K",
+    "fourKDescription": "Imej skrin kuning ultra HD untuk projek kreatif dan persembahan yang memberi inspirasi",
+    "fourKButton": "Muat Turun 4K",
+    "proTipBadge": "Petua Pro",
+    "proTipTitle": "Petua Pro",
+    "proTipDescription": "Gunakan skrin kuning untuk mencipta persekitaran yang hangat dan menggalakkan kreativiti dalam kerja anda."
+  },
+  "faq": {
+    "title": "Soalan lazim",
+    "subtitle": "Jawapan kepada soalan biasa tentang skrin kuning",
+    "description": "Pelajari cara menggunakan warna kuning untuk memaksimumkan kreativiti dan meningkatkan kesejahteraan di tempat kerja.",
+    "questions": [
+      {
+        "question": "Adakah kuning benar-benar membantu kreativiti?",
+        "answer": "Ya, kajian menunjukkan bahawa kuning merangsang aktiviti mental dan menggalakkan pemikiran kreatif."
+      },
+      {
+        "question": "Bolehkah saya gunakan skrin kuning untuk bekerja?",
+        "answer": "Tentu sekali! Cahaya kuning lembut boleh mengurangkan keletihan mata semasa kerja berkepanjangan."
+      },
+      {
+        "question": "Adakah skrin kuning menjejaskan tidur?",
+        "answer": "Cahaya kuning kurang mengganggu kitaran tidur berbanding cahaya biru."
+      },
+      {
+        "question": "Bagaimana untuk mengoptimumkan kesan skrin kuning?",
+        "answer": "Gunakan dalam persekitaran yang kurang terang untuk memaksimumkan impak visual."
+      },
+      {
+        "question": "Adakah skrin kuning selamat untuk mata?",
+        "answer": "Ya, warna kuning umumnya dianggap selamat untuk mata dan boleh membantu mengurangkan ketegangan mata."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Spesifikasi teknikal",
+    "subtitle": "Butiran teknikal alat skrin kuning kami",
+    "specs": [
+      {
+        "label": "Warna",
+        "value": "#FFFF00 (Kuning tulen)"
+      },
+      {
+        "label": "Resolusi",
+        "value": "Menyesuaikan dengan semua skrin"
+      },
+      {
+        "label": "Keserasian",
+        "value": "Semua pelayar moden"
+      },
+      {
+        "label": "Manfaat",
+        "value": "Kreativiti dan kesejahteraan"
+      }
+    ]
+  }
+} 

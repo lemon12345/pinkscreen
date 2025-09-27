@@ -1,0 +1,179 @@
+{
+  "LanguageDetection": {
+    "title": "Sprachvorschlag",
+    "description": "Wir haben bemerkt, dass Ihre Browsersprache von der aktuellen Website-Sprache abweicht. Sie können die Sprache jederzeit wechseln 👉",
+    "countdown": "Schließt in {countdown} Sekunden"
+  },
+  "Header": {
+    "links": []
+  },
+  "Footer": {
+    "Copyright": "Copyright © {year} {name} Alle Rechte vorbehalten.",
+    "PrivacyPolicy": "Datenschutzrichtlinie",
+    "TermsOfService": "Nutzungsbedingungen",
+    "Links": {
+      "groups": [
+        {
+          "title": "Produkte",
+          "links": [
+            {
+              "href": "/white-screen",
+              "name": "Weißer Bildschirm"
+            },
+            {
+              "href": "/black-screen",
+              "name": "Schwarzer Bildschirm"
+            },
+            {
+              "href": "/blue-screen",
+              "name": "Blauer Bildschirm"
+            },
+            {
+              "href": "/green-screen",
+              "name": "Grüner Bildschirm"
+            },
+            {
+              "href": "/red-screen",
+              "name": "Roter Bildschirm"
+            },
+            {
+              "href": "/yellow-screen",
+              "name": "Gelber Bildschirm"
+            },
+            {
+              "href": "/orange-screen",
+              "name": "Oranger Bildschirm"
+            },
+            {
+              "href": "/",
+              "name": "Pinker Bildschirm"
+            },
+            {
+              "href": "/purple-screen",
+              "name": "Lila Bildschirm"
+            },
+            {
+              "href": "/zoom-lighting",
+              "name": "Zoom-Beleuchtung"
+            }
+          ]
+        },
+        {
+          "title": "Support",
+          "links": [
+            {
+              "href": "mailto:hi@pinkscreen.org",
+              "name": "Kontakt"
+            }
+          ]
+        },
+        {
+          "title": "Sprachen",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/fr",
+              "name": "Français",
+              "useA": true
+            },
+            {
+              "href": "/it",
+              "name": "Italiano",
+              "useA": true
+            },
+            {
+              "href": "/ms",
+              "name": "Bahasa Melayu",
+              "useA": true
+            },
+            {
+              "href": "/pl",
+              "name": "Polski",
+              "useA": true
+            },
+            {
+              "href": "/pt",
+              "name": "Português",
+              "useA": true
+            },
+            {
+              "href": "/se",
+              "name": "Svenska",
+              "useA": true
+            },
+            {
+              "href": "/tr",
+              "name": "Türkçe",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "Pink Screen",
+    "tagLine": "Professionelle Bildschirm-Tools für jeden Bedarf",
+    "description": "Vollständige Sammlung von Online-Bildschirm-Tools - Weißer Bildschirm, Farbbildschirme, Bildschirmschoner, System-Simulatoren und Display-Dienstprogramme. Perfekt für Monitor-Tests, Fotografie-Beleuchtung, Präsentationen, Streaming und kreative Projekte.",
+    "pageData": {
+      "tagLine": "Professionelle Bildschirm-Tools für jeden Bedarf",
+      "description": "Vollständige Sammlung von Online-Bildschirm-Tools - Weißer Bildschirm, Farbbildschirme, Bildschirmschoner, System-Simulatoren und Display-Dienstprogramme. Perfekt für Monitor-Tests, Fotografie-Beleuchtung, Präsentationen, Streaming und kreative Projekte."
+    }
+  },
+  "Blogs": {
+    "title": "Pink Screen Blog",
+    "description": "Entdecken Sie die neuesten Funktionen, Tipps und Updates über Pink Screen - Ihre ultimative Bildschirm-Erlebnisplattform.",
+    "emptyState": {
+      "title": "Keine Blog-Beiträge",
+      "description": "Wir erstellen spannende Inhalte, bleiben Sie dran!"
+    },
+    "loadMorePostsFailed": "Fehler beim Laden weiterer Beiträge",
+    "loadMorePosts": "Lade weitere Beiträge...",
+    "filterPostsFailed": "Fehler beim Laden der Beiträge",
+    "noPostsFoundForThisTag": "Keine Artikel für diese Kategorie gefunden",
+    "reachedTheEnd": "Sie haben das Ende aller Beiträge erreicht",
+    "BlogDetail": {
+      "featured": "Empfohlener Beitrag",
+      "accessRestricted": "Zugriff beschränkt",
+      "unauthorized": "Dieser Artikel ist nur für angemeldete Benutzer verfügbar",
+      "premium": "Premium-Inhalt",
+      "premiumContent": "Dieser Artikel ist exklusiv für Abonnenten",
+      "signIn": "Anmelden",
+      "upgrade": "Upgrade",
+      "backToBlogs": "Zurück zur Blog-Liste",
+      "notFound": "Artikel nicht gefunden"
+    }
+  },
+  "TermsOfService": {
+    "title": "Nutzungsbedingungen",
+    "description": "Nutzungsbedingungen"
+  },
+  "PrivacyPolicy": {
+    "title": "Datenschutzrichtlinie",
+    "description": "Datenschutzrichtlinie"
+  }
+}

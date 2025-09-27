@@ -1,0 +1,167 @@
+{
+  "hero": {
+    "badge": "Rosa Skärm Verktyg",
+    "title": "Rosa Skärm | Onlineverktyg",
+    "description": "Rosa skärm online för att skapa delikat atmosfär, minska stress och främja avkoppling. Perfekt för välbefinnande och kreativitet.",
+    "features": {
+      "noRegistration": "Ingen registrering",
+      "worksOffline": "Fungerar offline",
+      "allDevices": "Alla enheter"
+    }
+  },
+  "keywords": "rosa skärm, rosa bakgrund, rosa skärm online, rosa färg, mjukhet, avkoppling, kreativitet",
+  "colorPicker": {
+    "title": "Välj din färg",
+    "custom": "Anpassad",
+    "description": "Perfekt för att skapa mjuk och lugnande atmosfär",
+    "launchButton": "Starta rosa skärm"
+  },
+  "colors": {
+    "Black": "Svart Skärm",
+    "White": "Vit Skärm",
+    "Red": "Röd Skärm",
+    "Blue": "Blå Skärm",
+    "Green": "Grön Skärm",
+    "Yellow": "Gul Skärm",
+    "Purple": "Lila Skärm",
+    "Pink": "Rosa Skärm",
+    "Orange": "Orange Skärm",
+    "Zoom Lighting": "Zoom-belysning"
+  },
+  "interface": {
+    "livePreview": "Live-förhandsvisning",
+    "clickForFullscreen": "Klicka för helskärm",
+    "current": "Aktuell",
+    "chooseYourColor": "Välj din färg",
+    "perfectFor": "Perfekt för",
+    "launchPinkScreen": "Starta Rosa Skärm"
+  },
+  "useCases": {
+    "title": "Människor använder rosa skärm för:",
+    "subtitle": "Upptäck de olika sätten att använda vår rosa skärm",
+    "description": "Vårt rosa skärmverktyg skapar en mjuk och lugnande atmosfär, idealisk för avkoppling och kreativa miljöer.",
+    "cases": [
+      {
+        "title": "Rosa bakgrund för innehållsskapande",
+        "description": "Uppnå en rosa bakgrund för ditt online innehållsskapande med lätthet. Det här verktyget erbjuder en fullskärms rosa skärm som är perfekt för att lägga till en livlig färgklick i dina videor, livestreams och virtuella presentationer.",
+        "icon": "🎬"
+      },
+      {
+        "title": "Enkel rosa ljusbehandling",
+        "description": "Omvandla din skärm till en terapeutisk rosa ljuskälla. Dra nytta av de lugnande effekterna av rosa ljusbehandling direkt från din enhets skärm. Idealisk för avkoppling, stämningsskapande och stressreduktion.",
+        "icon": "💖"
+      },
+      {
+        "title": "Visuell designinspiration",
+        "description": "Inspirera din designkreativitet med en fullskärms rosa duk. Vårt verktyg låter designers fördjupa sig i färgen rosa och stimulera kreativa idéer för designprojekt.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Färgkalibreringstestning",
+        "description": "Utvärdera din skärms färgnoggrannhet med vårt verktygs rosa skärm. Perfekt för att kontrollera fideliteten hos den rosa nyansen på olika enheter och skärminställningar.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "Uppmärksamhetsväckande skärm",
+        "description": "Väck uppmärksamhet med en fullskärms rosa skärm under onlinepresentationer, webbinarier eller virtuella möten. Använd vårt verktyg för att betona nyckelmoment och engagera din publik på ett unikt sätt.",
+        "icon": "✨"
+      },
+      {
+        "title": "Rosa skärm för att skapa en vibe",
+        "description": "Jag gillar viben som rosa ger",
+        "icon": "💕"
+      },
+      {
+        "title": "Rosa skärm för att kopiera bild",
+        "description": "För att kopiera en bild som min klasskamrat ritade",
+        "icon": "📸"
+      },
+      {
+        "title": "Rosa skärm för att skapa videor",
+        "description": "För att mina YouTube-videor blir bättre med en rosa skärm",
+        "icon": "📹"
+      },
+      {
+        "title": "Rosa skärm för online-samtal",
+        "description": "För att lägga till en rosa glöd under mötet.",
+        "icon": "💬"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Hur man använder rosa skärm",
+    "subtitle": "Enkel guide för att få ut det mesta av vårt verktyg",
+    "steps": [
+      "Välj din föredragna färg från paletten",
+      "Klicka på 'Starta'-knappen för att öppna i helskärm",
+      "Använd F11 eller ESC för att lämna helskärmsläge",
+      "Ladda ner bilden i din föredragna upplösning"
+    ]
+  },
+  "info": {
+    "title": "Rosa Skärm – Helskärmsbakgrundsverktyg",
+    "subtitle": "Upplev den perfekta balansen mellan värme och professionalism med vårt avancerade rosa skärmverktyg",
+    "professionalTool": "Professionellt verktyg",
+    "downloadReady": "Nedladdning redo",
+    "downloadTitle": "Ladda ner Rosa Skärm Bakgrund",
+    "downloadDescription": "Få högkvalitativa rosa skärmar för dina professionella behov",
+    "hdTitle": "1920×1080 HD",
+    "hdDescription": "Standard HD-upplösning perfekt för de flesta skärmar, streaming och dagligt bruk",
+    "hdButton": "Ladda ner HD",
+    "fourKTitle": "3840×2160 4K",
+    "fourKDescription": "Ultra HD-upplösning för professionellt bruk, högkvalitativa skärmar och premiuminnehåll",
+    "fourKButton": "Ladda ner 4K",
+    "proTipBadge": "Pro-tips",
+    "proTipTitle": "Kreativ Professionell Användning",
+    "proTipDescription": "Använd rosa skärmar i dina kreativa uppsättningar för att lägga till en unik, elegant visuell ton i fotografering eller livestream-bakgrunder. Den varma nyansen skapar en välkomnande atmosfär samtidigt som den bibehåller professionell kvalitet för ditt innehåll."
+  },
+  "faq": {
+    "title": "Vanliga frågor",
+    "subtitle": "Svar på vanliga frågor om rosa skärm",
+    "description": "Hitta svar på vanliga frågor om att använda vårt rosa skärmverktyg för olika ändamål.",
+    "questions": [
+      {
+        "question": "Vad används ett Rosa Skärmverktyg till?",
+        "answer": "Ett Rosa Skärmverktyg visar en rosa färg i helskärmsläge, vanligtvis använt för skärmtestning, ruh hali panolar, ögonkomfort, innehållsskapande och förbättring av visuell kreativitet."
+      },
+      {
+        "question": "Hur använder jag Rosa Skärm för ögonkomfort?",
+        "answer": "Den Rosa Skärmen minskar blått ljus exponering, vilket gör det lättare för dina ögon under nattsurfning eller långa arbetstimmar. Det hjälper till att minska ögonansträngning och förbättra visuell komfort."
+      },
+      {
+        "question": "Kan jag använda Rosa Skärm för innehållsskapande?",
+        "answer": "Ja! Den Rosa Skärmen är perfekt för att skapa varma, inbjudande bakgrunder för onlineinnehåll, virtuella klasser eller livestreams. Den lägger till energi och positivitet till ditt innehåll."
+      },
+      {
+        "question": "Varför använda Rosa Skärm för skärmtestning?",
+        "answer": "Rosa är en utmärkt färg för att testa skärmnoggrannhet och färgkalibrering. Det hjälper till att identifiera färgproblem och finjustera monitorinställningar för optimal visning."
+      },
+      {
+        "question": "Är Rosa Skärm bra för kreativitet?",
+        "answer": "Ja, rosa är associerat med kreativitet och optimism. En Rosa Skärm kan inspirera kreativt tänkande och fungera som en ruh hali panel för designprojekt och konstnärligt arbete."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Tekniska specifikationer",
+    "subtitle": "Tekniska detaljer för vårt rosa skärmverktyg",
+    "specs": [
+      {
+        "label": "Färg",
+        "value": "#FFC0CB (Delikat rosa)"
+      },
+      {
+        "label": "Upplösning",
+        "value": "Anpassar sig till alla skärmar"
+      },
+      {
+        "label": "Kompatibilitet",
+        "value": "Alla moderna webbläsare"
+      },
+      {
+        "label": "Fördelar",
+        "value": "Avkoppling och välbefinnande"
+      }
+    ]
+  }
+} 

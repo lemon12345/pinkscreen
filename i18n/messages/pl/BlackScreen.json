@@ -1,0 +1,171 @@
+{
+  "hero": {
+    "badge": "Narzędzie Czarnego Ekranu",
+    "title": "Czarny Ekran | Narzędzie Online",
+    "description": "Czarny ekran, strona internetowa do znajdowania brudnych plam lub testowania martwych pikseli na ekranie.",
+    "features": {
+      "noRegistration": "Bez rejestracji",
+      "worksOffline": "Działa offline",
+      "allDevices": "Wszystkie urządzenia"
+    }
+  },
+  "keywords": "czarny ekran, czarny ekran online, czyszczenie ekranu, test martwych pikseli, oszczędzanie energii, czarne tło",
+  "colorPicker": {
+    "title": "Wybierz swój kolor",
+    "custom": "Niestandardowy",
+    "description": "Idealny do czyszczenia ekranu, testowania pikseli i redukcji oślepienia",
+    "launchButton": "Uruchom czarny ekran"
+  },
+  "colors": {
+    "Black": "Czarny",
+    "White": "Biały",
+    "Red": "Czerwony",
+    "Blue": "Niebieski",
+    "Green": "Zielony",
+    "Yellow": "Żółty",
+    "Purple": "Fioletowy",
+    "Pink": "Różowy",
+    "Orange": "Pomarańczowy",
+    "Zoom Lighting": "Oświetlenie Zoom"
+  },
+  "interface": {
+    "livePreview": "Podgląd na żywo",
+    "clickForFullscreen": "Kliknij, aby przejść na pełny ekran",
+    "current": "Aktualny",
+    "chooseYourColor": "Wybierz swój kolor",
+    "perfectFor": "Idealny do",
+    "launchBlackScreen": "Uruchom Czarny Ekran"
+  },
+  "useCases": {
+    "title": "Ludzie używają czarnego ekranu:",
+    "subtitle": "Odkryj różne sposoby korzystania z naszego czarnego ekranu",
+    "description": "Nasze narzędzie czarnego ekranu służy wielu celom zawodowym i osobistym w różnych branżach i scenariuszach.",
+    "cases": [
+      {
+        "title": "aby drugi monitor był ciemny bez wyłączania go",
+        "description": "Szybko przyciemnij drugi monitor bez wyłączania go podczas grania w klimatyczną grę lub oglądania filmu, który okazał się wart tego zrobić",
+        "icon": "🖥️"
+      },
+      {
+        "title": "oszczędzać energię elektryczną",
+        "description": "Próbując oszczędzać energię elektryczną, zmniejszać emisję dwutlenku węgla.",
+        "icon": "⚡"
+      },
+      {
+        "title": "ukryć fakt, że komputer jest aktywny",
+        "description": "Aby założyć moje 4 monitory, kiedy idę spać, zamiast usypiać je.",
+        "icon": "👁️"
+      },
+      {
+        "title": "czyścić monitor",
+        "description": "Łatwiej zobaczyć plamy, gdy wycieram ekran",
+        "icon": "🧽"
+      },
+      {
+        "title": "zrobić ciemne tło",
+        "description": "Tło do gry. Ekran jest za duży, 3440x1440. Nie lubię grać tak dużymi, więc robię 2560x1440. Potrzebujesz czarnych ramek po obu stronach.",
+        "icon": "🎮"
+      },
+      {
+        "title": "aby zapobiec poparzeniu w telewizorze plazmowym",
+        "description": "Mam stary telewizor plazmowy. Nie mam głośników komputerowych, więc gdy chcę głośno odtwarzać muzykę, włączam telewizor i podłączam go przez HDMI. Plazmy są bardzo podatne na wypalenie, więc zamiast zostawiać Windows Media Player lub cokolwiek na ekranie, używam czarnego ekranu, aby zapobiec wypaleniu. Korzystałem z różnych stron internetowych. Ale wydaje się, że nie pozostają w Internecie zbyt długo.",
+        "icon": "📺"
+      },
+      {
+        "title": "skoncentrować się podczas nauki",
+        "description": "Nie wyłączać ekranu i nie koncentrować się podczas nauki. Cóż, mój ekran jest bardzo jasny i nie pomaga w koncentracji, czarny ekran to naprawia.",
+        "icon": "📚"
+      },
+      {
+        "title": "zrelaksować oczy",
+        "description": "Ponieważ muszę się zrelaksować i mieć tylko czarny ekran, nawet gdy odtwarzam muzykę na komputerze lub chcę szybko przełączać się między czernią a czymś innym. Najcenniejsza jest jego jakość, kolor i cała reszta oraz oczywiście łatwość włączania i wyłączania trybu pełnoekranowego.",
+        "icon": "😌"
+      },
+      {
+        "title": "test martwych pikseli",
+        "description": "Łatwo wykryj wadliwe piksele na ekranie za pomocą jednolitego czarnego tła.",
+        "icon": "🔍"
+      },
+      {
+        "title": "medytacja i relaks",
+        "description": "Stwórz spokojne środowisko bez rozpraszaczy do medytacji i odpoczynku.",
+        "icon": "🧘"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Jak korzystać z czarnego ekranu",
+    "subtitle": "Prosty przewodnik, jak najlepiej wykorzystać nasze narzędzie",
+    "steps": [
+      "Otwórz narzędzie",
+      "Umieść",
+      "Ciesz się"
+    ]
+  },
+  "info": {
+    "title": "Czarny Ekran – Narzędzie Tła Pełnoekranowego",
+    "subtitle": "Czarny ekran wyróżnia kurz i plamy dla łatwego czyszczenia, pomaga wykryć piksele i redukuje oślepianie w ciemnych pomieszczeniach",
+    "professionalTool": "Narzędzie Profesjonalne",
+    "downloadReady": "Pobieranie Gotowe",
+    "downloadTitle": "Pobierz Tło Czarnego Ekranu",
+    "downloadDescription": "Uzyskaj wysokiej jakości czarne ekrany dla swoich potrzeb zawodowych",
+    "hdTitle": "Tło Czarnego Ekranu 1920×1080",
+    "hdDescription": "Czysto czarny obraz pełnoekranowy do czyszczenia ekranu, testowania martwych pikseli i komfortu wizualnego",
+    "hdButton": "Pobierz HD",
+    "fourKTitle": "Tło Czarnego Ekranu 4K",
+    "fourKDescription": "Ultra HD czarny ekran do redukcji oślepienia i testowania wyświetlacza",
+    "fourKButton": "Pobierz 4K",
+    "proTipBadge": "Wskazówka Pro",
+    "proTipTitle": "Wskazówka Pro",
+    "proTipDescription": "Użyj czarnego ekranu w połączeniu z białymi lub czerwonymi ekranami, aby przetestować reakcję jasności i kontrastu monitora."
+  },
+  "faq": {
+    "title": "Często zadawane pytania",
+    "subtitle": "Odpowiedzi na częste pytania o czarny ekran",
+    "description": "Znajdź odpowiedzi na często zadawane pytania dotyczące korzystania z naszego narzędzia czarnego ekranu do różnych celów.",
+    "questions": [
+      {
+        "question": "Czy czarny ekran jest naprawdę czarny?",
+        "answer": "Tak, używamy czystej czerni (#000000) dla maksymalnej ciemności."
+      },
+      {
+        "question": "Czy to naprawdę oszczędza energię?",
+        "answer": "Na ekranach OLED i AMOLED czarne piksele zużywają mniej energii niż kolorowe piksele."
+      },
+      {
+        "question": "Czy mogę używać czarnego ekranu na wielu monitorach?",
+        "answer": "Tak, otwórz kilka kart i umieść je na każdym ekranie, który chcesz przyciemnić."
+      },
+      {
+        "question": "Czy narzędzie działa offline?",
+        "answer": "Po załadowaniu strony możesz korzystać z czarnego ekranu bez połączenia z internetem."
+      },
+      {
+        "question": "Czy czarny ekran jest bezpieczny dla oczu?",
+        "answer": "Tak, czarny ekran jest ogólnie uważany za bezpieczny dla oczu i może pomóc zmniejszyć zmęczenie oczu."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specyfikacje techniczne",
+    "subtitle": "Szczegóły techniczne naszego narzędzia czarnego ekranu",
+    "specs": [
+      {
+        "label": "Kolor",
+        "value": "#000000 (Czysty czarny)"
+      },
+      {
+        "label": "Rozdzielczość",
+        "value": "Dostosowuje się do wszystkich ekranów"
+      },
+      {
+        "label": "Kompatybilność",
+        "value": "Wszystkie nowoczesne przeglądarki"
+      },
+      {
+        "label": "Zużycie",
+        "value": "Minimalne na ekranach OLED"
+      }
+    ]
+  }
+} 

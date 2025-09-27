@@ -1,0 +1,177 @@
+{
+  "hero": {
+    "badge": "Kırmızı Ekran Aracı",
+    "title": "Kırmızı Ekran | Çevrimiçi araç",
+    "description": "Çevrimiçi kırmızı ekran aracı. TikTok oluşturmak, çevrimiçi aramalar veya gece görüşünü korumak, kitap okumak, şakalar için ışık kaynağı olarak kullanın.",
+    "features": {
+      "noRegistration": "Kayıt yok",
+      "worksOffline": "Çevrimdışı çalışır",
+      "allDevices": "Tüm cihazlar"
+    }
+  },
+  "keywords": "kırmızı ekran, kırmızı arkaplan, kırmızı ekran online, kırmızı renk, enerji, dinamizm, kırmızı tam ekran",
+  "colorPicker": {
+    "title": "Renginizi seçin",
+    "custom": "Özel",
+    "description": "Enerjiyi uyarmak ve dinamik atmosfer yaratmak için mükemmel",
+    "launchButton": "Kırmızı ekranı başlat"
+  },
+  "colors": {
+    "Black": "Siyah Ekran",
+    "White": "Beyaz Ekran",
+    "Red": "Kırmızı Ekran",
+    "Blue": "Mavi Ekran",
+    "Green": "Yeşil Ekran",
+    "Yellow": "Sarı Ekran",
+    "Purple": "Mor Ekran",
+    "Pink": "Pembe Ekran",
+    "Orange": "Turuncu Ekran",
+    "Zoom Lighting": "Zoom Aydınlatması"
+  },
+  "interface": {
+    "livePreview": "Canlı önizleme",
+    "clickForFullscreen": "Tam ekran için tıklayın",
+    "current": "Mevcut",
+    "chooseYourColor": "Renginizi seçin",
+    "perfectFor": "İçin mükemmel",
+    "launchRedScreen": "Kırmızı Ekranı Başlat"
+  },
+  "useCases": {
+    "title": "İnsanlar kırmızı ekranı şunlar için kullanır:",
+    "subtitle": "Kırmızı ekranımızın farklı kullanım yollarını keşfedin",
+    "description": "Kırmızı ekran aracımız yaratıcı projeler ve etkili sunumlar için enerji ve dikkat uyandırır.",
+    "cases": [
+      {
+        "title": "Film ve Fotoğrafçılık İçin Kırmızı Ekran",
+        "description": "Film ve fotoğrafçılıkta renk filtreleri ve efektlerle deney yapmak için kırmızı ekranımızı kullanın. Canlı kırmızı arka plan, kompozisyonunuza dramatik bir dokunuş ekleyebilir.",
+        "icon": "📸"
+      },
+      {
+        "title": "Göz Sağlığı İçin Kırmızı Ekran",
+        "description": "Kırmızı ekran aracımız, mavi ışığın etkisini azaltmak, özellikle düşük ışık koşullarında veya uykudan önce göz rahatlığı ve sağlığında yardımcı olmak için kullanılabilir.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Sanal Etkinlikler İçin Kırmızı Ekran",
+        "description": "Tam ekran kırmızı gösterimimizle etkileyici bir sanal etkinlik ortamı oluşturun. Toplantılarınız için ayırt edici bir ton ve ruh hali belirleyebilir.",
+        "icon": "📸"
+      },
+      {
+        "title": "Grafik Tasarım İçin Kırmızı Ekran",
+        "description": "Grafik tasarımcılar, cesur ve etkileyici tasarımlar oluşturmak için kırmızı ekran aracımızdan yararlanabilirler. Kırmızı renk, güçlü duygular uyandırabilir ve izleyicinin dikkatini çekebilir.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Tematik Sunumlar İçin Kırmızı Ekran",
+        "description": "Eğitimciler ve sunum yapanlar, önemli noktaları vurgulamak ve izleyicinin ilgisini çekmek için kırmızı ekranımızı kullanarak tematik sunumlar oluşturabilir.",
+        "icon": "📊"
+      },
+      {
+        "title": "tik tok yapmak için",
+        "description": "Çünkü mavi LED ışıklarım açık ve yüzümü veya yüzümün bir kısmını kırmızı yapıp mavi ışıkları arkamda bırakarak mükemmel bir şekilde eşleşiyor. profesyonel görünmeleri için düzenleyin.",
+        "icon": "📱"
+      },
+      {
+        "title": "çevrimiçi aramalar için",
+        "description": "Google Meets kullanılırken renk dağılımı düzeltmesi için.",
+        "icon": "📞"
+      },
+      {
+        "title": "gece görüşünü korumak için",
+        "description": "Özellikle karanlık bir alandan çıkarken gözleri yormaz",
+        "icon": "🌙"
+      },
+      {
+        "title": "kitap okumak için",
+        "description": "Bir kitabı daha az mavi ışıkla okumak için.",
+        "icon": "📖"
+      },
+      {
+        "title": "projektörü düzeltmek için",
+        "description": "projektörlerin kilit taşını düzeltmeye yardımcı olur",
+        "icon": "🎯"
+      },
+      {
+        "title": "şaka yapmak",
+        "description": "Arkadaşlarıma şaka yapmak ve L.E.D'lerim olduğunu söylemek için.",
+        "icon": "😄"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Kırmızı ekran nasıl kullanılır",
+    "subtitle": "Aracımızdan en iyi şekilde yararlanmak için basit rehber",
+    "steps": [
+      "Paletten tercih ettiğiniz rengi seçin",
+      "Tam ekranda açmak için 'Başlat' butonuna tıklayın",
+      "Tam ekran modundan çıkmak için F11 veya ESC kullanın",
+      "Tercih ettiğiniz çözünürlükte görüntüyü indirin"
+    ]
+  },
+  "info": {
+    "title": "Kırmızı Ekran – Tam Ekran Arkaplan Aracı",
+    "subtitle": "Kırmızı ekran odaklanmayı ve zihinsel keskinliği uyarabilir, piksel testi ve dramatik aydınlatma için mükemmel",
+    "professionalTool": "Profesyonel Araç",
+    "downloadReady": "İndirme Hazır",
+    "downloadTitle": "Kırmızı Ekran Arkaplanı İndir",
+    "downloadDescription": "Profesyonel ihtiyaçlarınız için yüksek kaliteli kırmızı ekranlar alın",
+    "hdTitle": "1920×1080 Kırmızı Ekran Arkaplanı",
+    "hdDescription": "Piksel testi, odaklanma ve ruh hali aydınlatması için saf tam ekran kırmızı görüntü",
+    "hdButton": "HD İndir",
+    "fourKTitle": "4K Kırmızı Ekran Arkaplanı",
+    "fourKDescription": "Cesur aydınlatma ve görsel tanı için tam ekran ultra HD kırmızı görüntü",
+    "fourKButton": "4K İndir",
+    "proTipBadge": "Pro İpucu",
+    "proTipTitle": "Pro İpucu",
+    "proTipDescription": "Derin kontrast testi için parlaklığı değiştirmek üzere kırmızı ekranı siyah veya beyaz ekranlarla birlikte kullanın."
+  },
+  "faq": {
+    "title": "Sık sorulan sorular",
+    "subtitle": "Kırmızı ekran hakkında yaygın soruların cevapları",
+    "description": "Kırmızı ekran aracımızı çeşitli amaçlar için kullanma hakkında yaygın soruların cevaplarını bulun.",
+    "questions": [
+      {
+        "question": "Kırmızı Ekran aracı ne için kullanılır?",
+        "answer": "Kırmızı Ekran aracı tam ekran modunda kırmızı renk gösterir, genellikle ekran testi, ruh hali panoları, göz konforu, içerik oluşturma ve görsel yaratıcılığı artırmak için kullanılır."
+      },
+      {
+        "question": "Göz konforu için Kırmızı Ekranı nasıl kullanırım?",
+        "answer": "Kırmızı Ekran mavi ışık maruziyetini azaltır, gece saatlerinde göz atma veya uzun çalışma saatleri sırasında gözlerinizi daha az yorar. Göz yorgunluğunu azaltmaya ve görsel konforu iyileştirmeye yardımcı olur."
+      },
+      {
+        "question": "İçerik oluşturma için Kırmızı Ekranı kullanabilir miyim?",
+        "answer": "Evet! Kırmızı Ekran çevrimiçi içerik, sanal sınıflar veya canlı yayınlar için sıcak, davetkar arka planlar oluşturmak için mükemmeldir. İçeriğinize enerji ve pozitiflik katar."
+      },
+      {
+        "question": "Ekran testi için neden Kırmızı Ekran kullanılır?",
+        "answer": "Kırmızı, ekran doğruluğunu ve renk kalibrasyonunu test etmek için mükemmel bir renktir. Renk sorunlarını tanımlamaya ve optimal görüntüleme için monitör ayarlarını ince ayarlamaya yardımcı olur."
+      },
+      {
+        "question": "Kırmızı Ekran yaratıcılık için iyi mi?",
+        "answer": "Evet, kırmızı yaratıcılık ve iyimserlikle ilişkilendirilir. Kırmızı Ekran yaratıcı düşünceyi ilham verebilir ve tasarım projeleri ve sanatsal çalışmalar için bir ruh hali panosu olarak hizmet edebilir."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Teknik özellikler",
+    "subtitle": "Kırmızı ekran aracımızın teknik detayları",
+    "specs": [
+      {
+        "label": "Renk",
+        "value": "#FF0000 (Saf kırmızı)"
+      },
+      {
+        "label": "Çözünürlük",
+        "value": "Tüm ekranlara uyum sağlar"
+      },
+      {
+        "label": "Uyumluluk",
+        "value": "Tüm modern tarayıcılar"
+      },
+      {
+        "label": "Özel uygulama",
+        "value": "Gece görüşü koruması"
+      }
+    ]
+  }
+} 

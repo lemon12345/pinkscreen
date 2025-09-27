@@ -1,0 +1,169 @@
+{
+  "LanguageDetection": {
+    "title": "Cadangan Bahasa",
+    "description": "Kami perasan bahasa pelayar anda berbeza daripada bahasa laman web semasa. Anda boleh menukar bahasa pada bila-bila masa 👉",
+    "countdown": "Menutup dalam {countdown} saat"
+  },
+  "Header": {
+    "links": []
+  },
+  "Footer": {
+    "Copyright": "Hak Cipta © {year} {name} Semua hak terpelihara.",
+    "PrivacyPolicy": "Dasar Privasi",
+    "TermsOfService": "Syarat Perkhidmatan",
+    "Links": {
+      "groups": [
+        {
+          "title": "Produk",
+          "links": [
+            {
+              "href": "/white-screen",
+              "name": "Skrin Putih"
+            },
+            {
+              "href": "/black-screen",
+              "name": "Skrin Hitam"
+            },
+            {
+              "href": "/blue-screen",
+              "name": "Skrin Biru"
+            },
+            {
+              "href": "/green-screen",
+              "name": "Skrin Hijau"
+            },
+            {
+              "href": "/red-screen",
+              "name": "Skrin Merah"
+            },
+            {
+              "href": "/yellow-screen",
+              "name": "Skrin Kuning"
+            },
+            {
+              "href": "/orange-screen",
+              "name": "Skrin Jingga"
+            },
+            {
+              "href": "/",
+              "name": "Skrin Merah Jambu"
+            },
+            {
+              "href": "/purple-screen",
+              "name": "Skrin Ungu"
+            },
+            {
+              "href": "/zoom-lighting",
+              "name": "Pencahayaan Zoom"
+            }
+          ]
+        },
+        {
+          "title": "Sokongan",
+          "links": [
+            {
+              "href": "mailto:hi@pinkscreen.org",
+              "name": "Hubungi Kami"
+            }
+          ]
+        },
+        {
+          "title": "Bahasa",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/ms",
+              "name": "Bahasa Melayu",
+              "useA": true
+            },
+            {
+              "href": "/pl",
+              "name": "Polski",
+              "useA": true
+            },
+            {
+              "href": "/pt",
+              "name": "Português",
+              "useA": true
+            },
+            {
+              "href": "/se",
+              "name": "Svenska",
+              "useA": true
+            },
+            {
+              "href": "/tr",
+              "name": "Türkçe",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "Pink Screen",
+    "tagLine": "Alat Skrin Profesional untuk Setiap Keperluan",
+    "description": "Koleksi lengkap alat skrin dalam talian - skrin putih, skrin berwarna, penyelamat skrin, simulator sistem dan utiliti paparan. Sempurna untuk ujian monitor, pencahayaan fotografi, pembentangan, penstriman dan projek kreatif.",
+    "pageData": {
+      "tagLine": "Alat Skrin Profesional untuk Setiap Keperluan",
+      "description": "Koleksi lengkap alat skrin dalam talian - skrin putih, skrin berwarna, penyelamat skrin, simulator sistem dan utiliti paparan. Sempurna untuk ujian monitor, pencahayaan fotografi, pembentangan, penstriman dan projek kreatif."
+    }
+  },
+  "Blogs": {
+    "title": "Blog Skrin Merah Jambu",
+    "description": "Temui ciri-ciri terkini, petua dan kemas kini tentang Pink Screen - platform pengalaman skrin muktamad anda.",
+    "emptyState": {
+      "title": "Tiada pos blog",
+      "description": "Kami sedang mencipta kandungan menarik, sila nantikan!"
+    },
+    "loadMorePostsFailed": "Gagal memuatkan lebih banyak pos",
+    "loadMorePosts": "Memuatkan lebih banyak pos...",
+    "filterPostsFailed": "Gagal memuatkan pos",
+    "noPostsFoundForThisTag": "Tiada artikel ditemui untuk kategori ini",
+    "reachedTheEnd": "Anda telah sampai ke penghujung semua pos",
+    "BlogDetail": {
+      "featured": "Pos Terpilih",
+      "accessRestricted": "Akses Terhad",
+      "unauthorized": "Artikel ini hanya tersedia untuk pengguna yang log masuk",
+      "premium": "Kandungan Premium",
+      "premiumContent": "Artikel ini eksklusif untuk pelanggan",
+      "signIn": "Log Masuk",
+      "upgrade": "Naik Taraf",
+      "backToBlogs": "Kembali ke Senarai Blog",
+      "notFound": "Artikel Tidak Ditemui"
+    }
+  },
+  "TermsOfService": {
+    "title": "Syarat Perkhidmatan",
+    "description": "Syarat Perkhidmatan"
+  },
+  "PrivacyPolicy": {
+    "title": "Dasar Privasi",
+    "description": "Dasar Privasi"
+  }
+} 

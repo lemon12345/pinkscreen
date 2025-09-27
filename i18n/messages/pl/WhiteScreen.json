@@ -1,0 +1,192 @@
+{
+  "hero": {
+    "badge": "Narzędzie Białego Ekranu",
+    "title": "Biały Ekran | Narzędzie Online",
+    "description": "Biały ekran, strona internetowa do wyszukiwania zabrudzonych plam lub testowania martwych pikseli na ekranie.",
+    "features": {
+      "noRegistration": "Bez rejestracji",
+      "worksOffline": "Działa offline",
+      "allDevices": "Wszystkie urządzenia"
+    }
+  },
+  "keywords": "biały ekran, biała strona, biały ekran online, czyszczenie ekranu, test pikseli, oświetlenie zoom, białe tło",
+  "colorPicker": {
+    "title": "Wybierz swój kolor",
+    "custom": "Niestandardowy",
+    "description": "Idealny do czyszczenia ekranu, testowania pikseli i poprawy oświetlenia",
+    "launchButton": "Uruchom biały ekran"
+  },
+  "colors": {
+    "Black": "Czarny",
+    "White": "Biały",
+    "Red": "Czerwony",
+    "Blue": "Niebieski",
+    "Green": "Zielony",
+    "Yellow": "Żółty",
+    "Purple": "Fioletowy",
+    "Pink": "Różowy",
+    "Orange": "Pomarańczowy",
+    "Zoom Lighting": "Oświetlenie Zoom"
+  },
+  "interface": {
+    "livePreview": "Podgląd na żywo",
+    "clickForFullscreen": "Kliknij, aby przejść na pełny ekran",
+    "current": "Aktualny",
+    "chooseYourColor": "Wybierz swój kolor",
+    "perfectFor": "Idealny do",
+    "launchWhiteScreen": "Uruchom Biały Ekran"
+  },
+  "useCases": {
+    "title": "Ludzie wykorzystują biały ekran:",
+    "subtitle": "Odkryj różne sposoby korzystania z naszego białego ekranu",
+    "description": "Nasze narzędzie białego ekranu służy wielu celom zawodowym i osobistym w różnych branżach i scenariuszach.",
+    "cases": [
+      {
+        "title": "jako oświetlenie do rozmów z zoomem",
+        "description": "Do rozmów wideo! Nie mam łatwego światła pierścieniowego, ale mam dwa ekrany. Mogę więc użyć jednego z ekranów, aby oświetlić twarz!",
+        "icon": "💡"
+      },
+      {
+        "title": "kopiować rysunki",
+        "description": "Musiałem mieć coś jasnego pod papierem, aby łatwiej było przerysować obraz.",
+        "icon": "📋"
+      },
+      {
+        "title": "jako źródło światła",
+        "description": "Podświetlenie tyłu lightboxa do fotografii produktowej",
+        "icon": "🔆"
+      },
+      {
+        "title": "sprawdzić monitor",
+        "description": "Sprawdź swój monitor i znajdź martwe piksele.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "do pustego ekranu",
+        "description": "Nie chcesz, żeby Ci przeszkadzano? Chcesz zahamować? Użyj białego ekranu, aby wygasić ekran.",
+        "icon": "⚪"
+      },
+      {
+        "title": "światło do czytania",
+        "description": "Aby uzyskać źródło światła i móc czytać książki, gdy w pokoju jest ciemno, a włącznik światła jest zbyt daleko.",
+        "icon": "📖"
+      },
+      {
+        "title": "lekki do makijażu",
+        "description": "Jako jasne źródło światła do robienia makijażu lub robienia zdjęć",
+        "icon": "💄"
+      },
+      {
+        "title": "czyścić monitor",
+        "description": "To głupie, ale używam go do czyszczenia monitora. To sprawia, że rzeczy na ekranie stają się oczywiste. :) Używam go również do walidacji zwykłego odwzorowania kolorów na różnych monitorach, ale pojawia się to rzadko i nie szukam profesjonalnej korekcji kolorów.",
+        "icon": "🧽"
+      },
+      {
+        "title": "szukać kurzu",
+        "description": "Spójne tło do czyszczenia monitora, a także do sprawdzania martwych/zablokowanych pikseli. Czasami także do oświetlania twarzy, gdy używam kamery internetowej.",
+        "icon": "🔍"
+      },
+      {
+        "title": "łapać muchy",
+        "description": "Łapałem małe muchy, ponieważ przyciągał je biały ekran na moim wyświetlaczu",
+        "icon": "🪰"
+      },
+      {
+        "title": "zrobić flipbooka",
+        "description": "Pracuję nad animowaną sekwencją i robię to w tradycyjny sposób (ręcznie), więc potrzebuję białej powierzchni ze światłem, które pozwoli mi nałożyć jedną kartkę na drugą i zobaczyć obie, więc ponieważ nie mam do tego profesjonalnego ekranu, używam komputera i ustawiam na nim biały ekran, aby nie dotykać niczego przez pomyłkę",
+        "icon": "📚"
+      },
+      {
+        "title": "skupić się",
+        "description": "Podczas nauki korzystam z 2 ekranów, jednego z zegarem, a drugiego do wyszukiwania w internecie wszystkiego, czego potrzebuję. Kiedy nie szukam, ustawiam biały ekran, aby nic nie rozpraszało mnie na komputerze",
+        "icon": "🎯"
+      },
+      {
+        "title": "aby skonfigurować ustawienia monitora",
+        "description": "Przydatne podczas dostosowywania ustawień w moim drugim monitorze (ponieważ jest dość stary, nie ustawia domyślnie tylko rzeczy tak, jak powinno). Ustawienia takie jak pozycja pionowa/pozioma i skala pionowa/pozioma. Przydatne również podczas wyszukiwania martwych pikseli.",
+        "icon": "⚙️"
+      },
+      {
+        "title": "rysować w nocy",
+        "description": "Jeśli rysuję na papierze, mogę położyć papier na tablecie z wyświetlaczem i zobaczyć, co rysuję w nocy",
+        "icon": "🌙"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Jak korzystać z białego ekranu",
+    "subtitle": "Prosty przewodnik, jak najlepiej wykorzystać nasze narzędzie",
+    "steps": [
+      "Otwórz narzędzie",
+      "Dostosuj",
+      "Używaj",
+      "Ciesz się"
+    ]
+  },
+  "info": {
+    "title": "Biały Ekran – Narzędzie Pełnoekranowe",
+    "subtitle": "Biały ekran łatwo ujawnia kurz i plamy dla łatwego czyszczenia, pomaga wykryć piksele i poprawia oświetlenie w ciemnych pomieszczeniach",
+    "professionalTool": "Narzędzie Profesjonalne",
+    "downloadReady": "Pobieranie Gotowe",
+    "downloadTitle": "Pobierz Tło Białego Ekranu",
+    "downloadDescription": "Uzyskaj wysokiej jakości białe ekrany dla swoich potrzeb zawodowych",
+    "hdTitle": "Tło Białego Ekranu 1920×1080",
+    "hdDescription": "Czysto biały obraz pełnoekranowy do czyszczenia ekranu, testowania martwych pikseli i komfortu wizualnego",
+    "hdButton": "Pobierz HD",
+    "fourKTitle": "Tło Białego Ekranu 4K",
+    "fourKDescription": "Ultra HD biały ekran do poprawy oświetlenia i testowania wyświetlacza",
+    "fourKButton": "Pobierz 4K",
+    "proTipBadge": "Wskazówka Pro",
+    "proTipTitle": "Wskazówka Pro",
+    "proTipDescription": "Użyj białego ekranu w połączeniu z czarnymi lub czerwonymi ekranami, aby przetestować reakcję jasności i kontrastu monitora."
+  },
+  "faq": {
+    "title": "Często zadawane pytania",
+    "subtitle": "Odpowiedzi na częste pytania o biały ekran",
+    "description": "Znajdź odpowiedzi na często zadawane pytania dotyczące korzystania z naszego narzędzia białego ekranu do różnych celów.",
+    "questions": [
+      {
+        "question": "Czy biały ekran jest darmowy?",
+        "answer": "Tak, nasze narzędzie białego ekranu jest całkowicie darmowe i bez reklam."
+      },
+      {
+        "question": "Czy mogę używać białego ekranu offline?",
+        "answer": "Po załadowaniu strony możesz korzystać z białego ekranu nawet bez połączenia z internetem."
+      },
+      {
+        "question": "Czy biały ekran działa na urządzeniach mobilnych?",
+        "answer": "Tak, nasze narzędzie jest zoptymalizowane dla wszystkich urządzeń: komputerów, tabletów i smartfonów."
+      },
+      {
+        "question": "Jak dostosować jasność?",
+        "answer": "Użyj kontrolek jasności swojego urządzenia, aby dostosować intensywność białego ekranu."
+      },
+      {
+        "question": "Czy biały ekran jest bezpieczny dla oczu?",
+        "answer": "Tak, biały ekran jest ogólnie uważany za bezpieczny dla oczu i może pomóc zmniejszyć zmęczenie oczu."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specyfikacje techniczne",
+    "subtitle": "Szczegóły techniczne naszego narzędzia białego ekranu",
+    "specs": [
+      {
+        "label": "Kolor",
+        "value": "#FFFFFF (Czysty biały)"
+      },
+      {
+        "label": "Rozdzielczość",
+        "value": "Dostosowuje się do wszystkich ekranów"
+      },
+      {
+        "label": "Kompatybilność",
+        "value": "Wszystkie nowoczesne przeglądarki"
+      },
+      {
+        "label": "Wydajność",
+        "value": "Zoptymalizowane dla niskiego zużycia"
+      }
+    ]
+  }
+} 

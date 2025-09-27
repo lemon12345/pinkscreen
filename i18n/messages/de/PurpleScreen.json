@@ -1,0 +1,129 @@
+{
+  "hero": {
+    "title": "Vollständiger Lila Bildschirm | Online-Tool",
+    "description": "Der violette Bildschirm wird häufig mit Macht und Wohlstand assoziiert. Violett hingegen tendiert eher zu Königlichkeit und Adel als Rot, das eher die äußeren Erscheinungen betont.",
+    "badge": "Lila Bildschirm Tool",
+    "features": {
+      "noRegistration": "Keine Registrierung",
+      "worksOffline": "Funktioniert offline",
+      "allDevices": "Alle Geräte"
+    }
+  },
+  "keywords": "lila Bildschirm, leerer lila Bildschirm, ein lila Bildschirm, leere Bildschirme, voller lila Bildschirm, PC lila Bildschirm, Computer lila Bildschirm, gesamt lila Bildschirm, einfacher lila Bildschirm, lila Bildschirm 10 Stunden, lila Anzeige, leerer Computerbildschirm, voller lila Bildschirm, gesamter lila Bildschirm",
+  "colorPicker": {
+    "title": "Wählen Sie Ihre Farbe",
+    "custom": "Benutzerdefiniert",
+    "description": "Perfekt für Monitortests, Fotografie-Beleuchtung und Präsentationen",
+    "launchButton": "Lila Seite starten"
+  },
+  "useCases": {
+    "title": "Leute verwenden lila Bildschirm für:",
+    "description": "Unser lila Bildschirm-Tool dient verschiedenen professionellen und persönlichen Zwecken in verschiedenen Branchen und Szenarien.",
+    "cases": [
+      {
+        "icon": "🧘",
+        "title": "Vollbild-Lila für Wellness-Apps",
+        "description": "Integrieren Sie unser Tool in Ihre Wellness-App, um einen beruhigenden lila Bildschirm zu erzeugen, der perfekt für Meditation und Achtsamkeitsübungen ist. Die serene Farbe fördert Entspannung und geistiges Wohlbefinden."
+      },
+      {
+        "icon": "💡",
+        "title": "Lila Bildschirm für Lichteffekte",
+        "description": "Erzeugen Sie mit einem vollbildfüllenden lila Display einen dynamischen Lichteffekt. Perfekt für die Schaffung einer einzigartigen Atmosphäre während Videoanrufen, virtuellen Veranstaltungen oder Musiksessions."
+      },
+      {
+        "icon": "🎨",
+        "title": "Farbtheorie-Studie mit lila Bildschirm",
+        "description": "Nutzen Sie ein lebendiges vollbildfüllendes lila Display als Lernwerkzeug für die Farbtheorie. Es hilft Kunststudenten und Designern, die Auswirkungen und Bedeutung der Farbe in ihrer Arbeit zu verstehen."
+      },
+      {
+        "icon": "🖥️",
+        "title": "Bildschirmtests mit vollbildfüllendem Lila",
+        "description": "Überprüfen Sie die Farbgenauigkeit Ihrer Monitore oder Bildschirme mit unserem Tool, das einen vollbildfüllenden lila Display erzeugt. Unverzichtbar für Designer, Fotografen und Videografen."
+      },
+      {
+        "icon": "👶",
+        "title": "Interaktive lila Anzeige für Kinderlernen",
+        "description": "Binden Sie Kinder mit einem vollbildfüllenden lila Display in interaktives E-Learning ein. Die kräftige Farbe stimuliert die Vorstellungskraft und den Fokus und verbessert das Lernerlebnis."
+      },
+      {
+        "icon": "💜",
+        "title": "lila Bildschirm für eine Stimmung",
+        "description": "Mir gefällt die Stimmung, die Lila erzeugt"
+      },
+      {
+        "icon": "💻",
+        "title": "lila Bildschirm zum Kopieren von Bildern",
+        "description": "Um ein Bild zu kopieren, das mein Klassenkamerad gezeichnet hat"
+      },
+      {
+        "icon": "🎬",
+        "title": "lila Bildschirm zur Herstellung von Videos",
+        "description": "Weil meine YouTube-Videos mit einem lila Bildschirm besser sind"
+      },
+      {
+        "icon": "📞",
+        "title": "lila Bildschirm für Online-Anrufe",
+        "description": "Um während einer Besprechung einen lila Schimmer hinzuzufügen."
+      },
+      {
+        "icon": "😊",
+        "title": "Lila Bildschirm, um eine Stimmung zu erzeugen",
+        "description": "Mir gefällt die Stimmung, die Lila erzeugt"
+      },
+      {
+        "icon": "📋",
+        "title": "Lila Bildschirm zum Kopieren von Bildern",
+        "description": "Um ein Bild zu kopieren, das mein Klassenkamerad gezeichnet hat"
+      },
+      {
+        "icon": "📹",
+        "title": "Lila Bildschirm zur Herstellung von Videos",
+        "description": "Weil meine YouTube-Videos mit einem lila Bildschirm besser sind"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Wofür wird ein lila Bildschirm verwendet?",
+        "answer": "Ein lila Bildschirm wird zur Inspiration von Kreativität, zur Linderung von Augenmüdigkeit und für Displaytests verwendet."
+      },
+      {
+        "question": "Wie verwende ich lila Bildschirm für Kreativität?",
+        "answer": "Der lila Bildschirm ist ideal zur Inspiration von Kreativität und künstlerischen Projekten."
+      },
+      {
+        "question": "Kann ich lila Bildschirm für Fotografie verwenden?",
+        "answer": "Ja! Der lila Bildschirm kann als inspirierender Hintergrund für Fotografie verwendet werden."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Zusätzliche Bildschirm-Tools",
+    "description": "Entdecken Sie unsere Sammlung spezialisierter Bildschirm-Tools für verschiedene Zwecke.",
+    "colorScreens": "Farbbildschirme",
+    "prankScreens": "Streich-Bildschirme",
+    "fakeUpdateScreens": "Gefälschte Update-Bildschirme",
+    "screensaverScreens": "Bildschirmschoner"
+  },
+  "howToUse": {
+    "title": "Verwendung",
+    "steps": [
+      "Wählen Sie Ihre bevorzugte Farbe aus der Palette",
+      "Klicken Sie auf den 'Starten'-Button, um im Vollbildmodus zu öffnen",
+      "Verwenden Sie F11 oder ESC, um den Vollbildmodus zu beenden",
+      "Laden Sie das Bild in Ihrer bevorzugten Auflösung herunter"
+    ]
+  },
+  "techSpecs": {
+    "title": "Technische Spezifikationen",
+    "specs": [
+      "Auflösung: Bis zu 8K (7680x4320)",
+      "Farbtiefe: 24-bit RGB",
+      "Format: PNG, JPEG, WebP",
+      "Kompatibilität: Alle modernen Browser",
+      "Offline-Funktionalität: Vollständig verfügbar"
+    ]
+  }
+}

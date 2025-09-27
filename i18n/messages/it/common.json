@@ -1,0 +1,174 @@
+{
+  "LanguageDetection": {
+    "title": "Suggerimento lingua",
+    "description": "Abbiamo notato che la lingua del tuo browser differisce dalla lingua attuale del sito. Puoi cambiare lingua in qualsiasi momento 👉",
+    "countdown": "Chiusura tra {countdown} secondi"
+  },
+  "Header": {
+    "links": []
+  },
+  "Footer": {
+    "Copyright": "Copyright © {year} {name} Tutti i diritti riservati.",
+    "PrivacyPolicy": "Privacy Policy",
+    "TermsOfService": "Termini di servizio",
+    "Links": {
+      "groups": [
+        {
+          "title": "Prodotti",
+          "links": [
+            {
+              "href": "/white-screen",
+              "name": "Schermo Bianco"
+            },
+            {
+              "href": "/black-screen",
+              "name": "Schermo Nero"
+            },
+            {
+              "href": "/blue-screen",
+              "name": "Schermo Blu"
+            },
+            {
+              "href": "/green-screen",
+              "name": "Schermo Verde"
+            },
+            {
+              "href": "/red-screen",
+              "name": "Schermo Rosso"
+            },
+            {
+              "href": "/yellow-screen",
+              "name": "Schermo Giallo"
+            },
+            {
+              "href": "/orange-screen",
+              "name": "Schermo Arancione"
+            },
+            {
+              "href": "/",
+              "name": "Schermo Rosa"
+            },
+            {
+              "href": "/purple-screen",
+              "name": "Schermo Viola"
+            },
+            {
+              "href": "/zoom-lighting",
+              "name": "Illuminazione Zoom"
+            }
+          ]
+        },
+        {
+          "title": "Supporto",
+          "links": [
+            {
+              "href": "mailto:hi@pinkscreen.org",
+              "name": "Contattaci"
+            }
+          ]
+        },
+        {
+          "title": "Lingue",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/it",
+              "name": "Italiano",
+              "useA": true
+            },
+            {
+              "href": "/ms",
+              "name": "Bahasa Melayu",
+              "useA": true
+            },
+            {
+              "href": "/pl",
+              "name": "Polski",
+              "useA": true
+            },
+            {
+              "href": "/pt",
+              "name": "Português",
+              "useA": true
+            },
+            {
+              "href": "/se",
+              "name": "Svenska",
+              "useA": true
+            },
+            {
+              "href": "/tr",
+              "name": "Türkçe",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "Pink Screen",
+    "tagLine": "Strumenti professionali per schermo per ogni esigenza",
+    "description": "Collezione completa di strumenti per schermo online - schermo bianco, schermi colorati, salvaschermo, simulatori di sistema e utilità di visualizzazione. Perfetto per test del monitor, illuminazione fotografica, presentazioni, streaming e progetti creativi.",
+    "pageData": {
+      "tagLine": "Strumenti professionali per schermo per ogni esigenza",
+      "description": "Collezione completa di strumenti per schermo online - schermo bianco, schermi colorati, salvaschermo, simulatori di sistema e utilità di visualizzazione. Perfetto per test del monitor, illuminazione fotografica, presentazioni, streaming e progetti creativi."
+    }
+  },
+  "Blogs": {
+    "title": "Blog Schermo Rosa",
+    "description": "Scopri le ultime funzionalità, suggerimenti e aggiornamenti su Pink Screen - la tua piattaforma definitiva per l'esperienza dello schermo.",
+    "emptyState": {
+      "title": "Nessun post del blog",
+      "description": "Stiamo creando contenuti interessanti, rimanete sintonizzati!"
+    },
+    "loadMorePostsFailed": "Impossibile caricare altri post",
+    "loadMorePosts": "Caricamento altri post...",
+    "filterPostsFailed": "Impossibile caricare i post",
+    "noPostsFoundForThisTag": "Nessun articolo trovato per questa categoria",
+    "reachedTheEnd": "Hai raggiunto la fine di tutti i post",
+    "BlogDetail": {
+      "featured": "Post in evidenza",
+      "accessRestricted": "Accesso limitato",
+      "unauthorized": "Questo articolo è disponibile solo per gli utenti registrati",
+      "premium": "Contenuto premium",
+      "premiumContent": "Questo articolo è esclusivo per gli abbonati",
+      "signIn": "Accedi",
+      "upgrade": "Aggiorna",
+      "backToBlogs": "Torna all'elenco blog",
+      "notFound": "Articolo non trovato"
+    }
+  },
+  "TermsOfService": {
+    "title": "Termini di servizio",
+    "description": "Termini di servizio"
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "description": "Privacy Policy"
+  }
+} 

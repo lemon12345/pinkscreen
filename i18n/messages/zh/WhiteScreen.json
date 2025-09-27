@@ -1,0 +1,148 @@
+{
+  "hero": {
+    "title": "白色屏幕 | 在线工具",
+    "description": "使用这个全屏白屏工具清洁显示器、改善Zoom照明、提高专注力或测试坏点。无广告。纯白色。",
+    "badge": "白色页面工具",
+    "features": {
+      "noRegistration": "无需注册",
+      "worksOffline": "离线工作",
+      "allDevices": "所有设备"
+    }
+  },
+  "keywords": "白色屏幕, 空白白色屏幕, 纯白屏幕, 全屏白色屏幕, 白色屏幕 youtube, 白色屏幕, 显示器白色屏幕, 电脑白色屏幕, 白色屏幕网站, pc 白色屏幕, 空白白色屏幕, 全屏白色屏幕, 24小时白色屏幕, 白色屏幕 2, 白页, 空白白页, 纯白白页, 全屏白页, 白页工具, 在线白页, 白页网站, 全屏白页, 白页显示器测试, 白页摄影, 白页专注工具",
+  "colorPicker": {
+    "title": "选择您的颜色",
+    "custom": "自定义",
+    "description": "完美适用于显示器测试、摄影照明和演示",
+    "launchButton": "启动白色页面"
+  },
+  "colors": {
+    "Black": "黑屏",
+    "White": "白屏",
+    "Red": "红屏",
+    "Blue": "蓝屏",
+    "Green": "绿屏",
+    "Yellow": "黄屏",
+    "Purple": "紫屏",
+    "Pink": "粉屏",
+    "Orange": "橙屏",
+    "Zoom Lighting": "Zoom照明"
+  },
+  "interface": {
+    "livePreview": "实时预览",
+    "clickForFullscreen": "点击全屏",
+    "current": "当前",
+    "chooseYourColor": "选择您的颜色",
+    "perfectFor": "完美适用于",
+    "launchWhiteScreen": "启动白屏"
+  },
+  "useCases": {
+    "title": "人们使用白色屏幕用于：",
+    "description": "我们的白色屏幕工具服务于各种行业和场景中的多种专业和个人目的。",
+    "cases": [
+      {
+        "icon": "📝",
+        "title": "复制绘图的白色屏幕",
+        "description": "我需要在纸下放一些明亮的东西，这样我可以更容易地重新绘制图像。"
+      },
+      {
+        "icon": "💡",
+        "title": "作为光源的白色屏幕",
+        "description": "为产品摄影照亮灯箱背面"
+      },
+      {
+        "icon": "🖥️",
+        "title": "检查显示器的白色屏幕",
+        "description": "检查您的显示器并找到坏点。"
+      },
+      {
+        "icon": "🚫",
+        "title": "空白屏幕的白色屏幕",
+        "description": "不想被打扰？想休息一下？使用白色屏幕来空白您的屏幕。"
+      },
+      {
+        "icon": "📖",
+        "title": "作为阅读光源的白色屏幕",
+        "description": "当房间很暗且灯开关太远时，获得光源并能够阅读书籍。"
+      },
+      {
+        "icon": "🎯",
+        "title": "集中注意力的白色屏幕",
+        "description": "学习时，我使用2个屏幕，一个带计时器，一个用于在互联网上搜索我需要的东西。当我不搜索时，我放白色屏幕，这样我就不会被电脑上的任何东西分散注意力。"
+      }
+    ]
+  },
+  "info": {
+    "title": "白色屏幕 – 全屏背景工具",
+    "subtitle": "干净、无干扰的全屏白色屏幕工具。完美用于显示器清洁、坏点测试、Zoom照明改善或专注辅助。",
+    "professionalTool": "专业工具",
+    "downloadReady": "下载就绪",
+    "downloadTitle": "下载白色屏幕背景",
+    "downloadDescription": "更喜欢静态白色图像？使用我们的高分辨率PNG之一：",
+    "hdTitle": "1920×1080 白色屏幕背景",
+    "hdDescription": "用于清洁、专注和Zoom照明的纯全屏白色图像",
+    "hdButton": "下载高清",
+    "fourKTitle": "4K 白色屏幕背景",
+    "fourKDescription": "用于照明、清洁和坏点测试的超高清全屏白色图像",
+    "fourKButton": "下载4K",
+    "proTipBadge": "专业提示",
+    "proTipTitle": "专业提示",
+    "proTipDescription": "在录制或工作时，根据您想要创建的照明效果在白屏、黑屏或绿屏之间切换。"
+  },
+  "faq": {
+    "title": "常见问题",
+    "description": "查找关于我们白屏工具及其各种应用的常见问题答案。",
+    "questions": [
+      {
+        "question": "白色屏幕工具用于什么？",
+        "answer": "白色屏幕工具在全屏模式下显示白色，通常用于显示器测试、摄影照明、阅读和为各种目的创建清洁背景。"
+      },
+      {
+        "question": "如何使用白色屏幕进行显示器测试？",
+        "answer": "白色屏幕非常适合检测坏点、污点并检查显示器校准。只需在全屏模式下启动白色屏幕并仔细检查您的显示器。"
+      },
+      {
+        "question": "可以用于摄影的白色屏幕吗？",
+        "answer": "是的！白色屏幕非常适合产品摄影、创建清洁背景并为您的照片提供一致的照明。"
+      },
+      {
+        "question": "为什么阅读使用白色屏幕？",
+        "answer": "白光为阅读文本提供良好的对比度，在低光条件下阅读书籍或文档时对眼睛更友好。"
+      },
+      {
+        "question": "白色屏幕对集中注意力有好处吗？",
+        "answer": "是的，白色屏幕可以通过消除干扰来帮助您集中注意力。通常被想要保持专注的学生和专业人士使用。"
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "附加屏幕工具",
+    "description": "探索我们为各种目的设计的专业屏幕工具集合。",
+    "colorScreens": "颜色屏幕",
+    "colorScreensDescription": "纯色背景屏幕，适用于各种场景",
+    "prankScreens": "恶作剧屏幕",
+    "prankScreensDescription": "有趣的恶作剧屏幕效果",
+    "fakeUpdateScreens": "虚假更新屏幕",
+    "fakeUpdateScreensDescription": "模拟系统更新界面，适合恶作剧和测试",
+    "screensaverScreens": "屏幕保护程序",
+    "screensaverScreensDescription": "经典屏保效果，让您的屏幕更有趣"
+  },
+  "howToUse": {
+    "title": "使用方法",
+    "steps": [
+      "从调色板中选择您喜欢的颜色",
+      "点击启动按钮在全屏模式下打开",
+      "使用F11或ESC退出全屏模式",
+      "以您喜欢的分辨率下载图像"
+    ]
+  },
+  "techSpecs": {
+    "title": "技术规格",
+    "specs": [
+      "分辨率: 最高8K (7680x4320)",
+      "色深: 24位RGB",
+      "格式: PNG下载",
+      "兼容性: 所有现代浏览器"
+    ]
+  }
+}

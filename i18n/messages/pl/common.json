@@ -1,0 +1,164 @@
+{
+  "LanguageDetection": {
+    "title": "Sugestia języka",
+    "description": "Zauważyliśmy, że język Twojej przeglądarki różni się od aktualnego języka strony. Możesz zmienić język w dowolnym momencie 👉",
+    "countdown": "Zamknięcie za {countdown} sekund"
+  },
+  "Header": {
+    "links": []
+  },
+  "Footer": {
+    "Copyright": "Copyright © {year} {name} Wszelkie prawa zastrzeżone.",
+    "PrivacyPolicy": "Polityka prywatności",
+    "TermsOfService": "Warunki użytkowania",
+    "Links": {
+      "groups": [
+        {
+          "title": "Produkty",
+          "links": [
+            {
+              "href": "/white-screen",
+              "name": "Biały Ekran"
+            },
+            {
+              "href": "/black-screen",
+              "name": "Czarny Ekran"
+            },
+            {
+              "href": "/blue-screen",
+              "name": "Niebieski Ekran"
+            },
+            {
+              "href": "/green-screen",
+              "name": "Zielony Ekran"
+            },
+            {
+              "href": "/red-screen",
+              "name": "Czerwony Ekran"
+            },
+            {
+              "href": "/yellow-screen",
+              "name": "Żółty Ekran"
+            },
+            {
+              "href": "/orange-screen",
+              "name": "Pomarańczowy Ekran"
+            },
+            {
+              "href": "/",
+              "name": "Różowy Ekran"
+            },
+            {
+              "href": "/purple-screen",
+              "name": "Fioletowy Ekran"
+            },
+            {
+              "href": "/zoom-lighting",
+              "name": "Oświetlenie Zoom"
+            }
+          ]
+        },
+        {
+          "title": "Wsparcie",
+          "links": [
+            {
+              "href": "mailto:hi@pinkscreen.org",
+              "name": "Skontaktuj się z nami"
+            }
+          ]
+        },
+        {
+          "title": "Języki",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/pl",
+              "name": "Polski",
+              "useA": true
+            },
+            {
+              "href": "/pt",
+              "name": "Português",
+              "useA": true
+            },
+            {
+              "href": "/se",
+              "name": "Svenska",
+              "useA": true
+            },
+            {
+              "href": "/tr",
+              "name": "Türkçe",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "Pink Screen",
+    "tagLine": "Profesjonalne narzędzia ekranowe dla każdej potrzeby",
+    "description": "Kompletna kolekcja narzędzi ekranowych online - biały ekran, kolorowe ekrany, wygaszacze ekranu, symulatory systemowe i narzędzia wyświetlania. Idealne do testowania monitorów, oświetlenia fotograficznego, prezentacji, streamingu i projektów kreatywnych.",
+    "pageData": {
+      "tagLine": "Profesjonalne narzędzia ekranowe dla każdej potrzeby",
+      "description": "Kompletna kolekcja narzędzi ekranowych online - biały ekran, kolorowe ekrany, wygaszacze ekranu, symulatory systemowe i narzędzia wyświetlania. Idealne do testowania monitorów, oświetlenia fotograficznego, prezentacji, streamingu i projektów kreatywnych."
+    }
+  },
+  "Blogs": {
+    "title": "Blog Różowego Ekranu",
+    "description": "Odkryj najnowsze funkcje, wskazówki i aktualizacje dotyczące Pink Screen - Twojej najlepszej platformy doświadczeń ekranowych.",
+    "emptyState": {
+      "title": "Brak postów na blogu",
+      "description": "Tworzymy ekscytujące treści, bądź z nami!"
+    },
+    "loadMorePostsFailed": "Nie udało się załadować więcej postów",
+    "loadMorePosts": "Ładowanie więcej postów...",
+    "filterPostsFailed": "Nie udało się załadować postów",
+    "noPostsFoundForThisTag": "Nie znaleziono artykułów dla tej kategorii",
+    "reachedTheEnd": "Dotarłeś do końca wszystkich postów",
+    "BlogDetail": {
+      "featured": "Wyróżniony post",
+      "accessRestricted": "Ograniczony dostęp",
+      "unauthorized": "Ten artykuł jest dostępny tylko dla zalogowanych użytkowników",
+      "premium": "Treści premium",
+      "premiumContent": "Ten artykuł jest dostępny wyłącznie dla subskrybentów",
+      "signIn": "Zaloguj się",
+      "upgrade": "Uaktualnij",
+      "backToBlogs": "Powrót do listy blogów",
+      "notFound": "Artykuł nie znaleziony"
+    }
+  },
+  "TermsOfService": {
+    "title": "Warunki użytkowania",
+    "description": "Warunki użytkowania"
+  },
+  "PrivacyPolicy": {
+    "title": "Polityka prywatności",
+    "description": "Polityka prywatności"
+  }
+} 

@@ -1,0 +1,179 @@
+{
+  "LanguageDetection": {
+    "title": "Sugerencia de idioma",
+    "description": "Notamos que el idioma de su navegador es diferente del idioma actual del sitio web. Puede cambiar el idioma en cualquier momento 👉",
+    "countdown": "Se cierra en {countdown} segundos"
+  },
+  "Header": {
+    "links": []
+  },
+  "Footer": {
+    "Copyright": "Copyright © {year} {name} Todos los derechos reservados.",
+    "PrivacyPolicy": "Política de Privacidad",
+    "TermsOfService": "Términos de Servicio",
+    "Links": {
+      "groups": [
+        {
+          "title": "Productos",
+          "links": [
+            {
+              "href": "/white-screen",
+              "name": "Pantalla Blanca"
+            },
+            {
+              "href": "/black-screen",
+              "name": "Pantalla Negra"
+            },
+            {
+              "href": "/blue-screen",
+              "name": "Pantalla Azul"
+            },
+            {
+              "href": "/green-screen",
+              "name": "Pantalla Verde"
+            },
+            {
+              "href": "/red-screen",
+              "name": "Pantalla Roja"
+            },
+            {
+              "href": "/yellow-screen",
+              "name": "Pantalla Amarilla"
+            },
+            {
+              "href": "/orange-screen",
+              "name": "Pantalla Naranja"
+            },
+            {
+              "href": "/",
+              "name": "Pantalla Rosa"
+            },
+            {
+              "href": "/purple-screen",
+              "name": "Pantalla Morada"
+            },
+            {
+              "href": "/zoom-lighting",
+              "name": "Iluminación Zoom"
+            }
+          ]
+        },
+        {
+          "title": "Soporte",
+          "links": [
+            {
+              "href": "mailto:hi@pinkscreen.org",
+              "name": "Contáctenos"
+            }
+          ]
+        },
+        {
+          "title": "Idiomas",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/fr",
+              "name": "Français",
+              "useA": true
+            },
+            {
+              "href": "/it",
+              "name": "Italiano",
+              "useA": true
+            },
+            {
+              "href": "/ms",
+              "name": "Bahasa Melayu",
+              "useA": true
+            },
+            {
+              "href": "/pl",
+              "name": "Polski",
+              "useA": true
+            },
+            {
+              "href": "/pt",
+              "name": "Português",
+              "useA": true
+            },
+            {
+              "href": "/se",
+              "name": "Svenska",
+              "useA": true
+            },
+            {
+              "href": "/tr",
+              "name": "Türkçe",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "Pink Screen",
+    "tagLine": "Herramientas Profesionales de Pantalla para Todas las Necesidades",
+    "description": "Colección completa de herramientas de pantalla en línea - pantalla blanca, pantallas de colores, protectores de pantalla, simuladores de sistema y utilidades de pantalla. Perfecto para pruebas de monitor, iluminación fotográfica, presentaciones, streaming y proyectos creativos.",
+    "pageData": {
+      "tagLine": "Herramientas Profesionales de Pantalla para Todas las Necesidades",
+      "description": "Colección completa de herramientas de pantalla en línea - pantalla blanca, pantallas de colores, protectores de pantalla, simuladores de sistema y utilidades de pantalla. Perfecto para pruebas de monitor, iluminación fotográfica, presentaciones, streaming y proyectos creativos."
+    }
+  },
+  "Blogs": {
+    "title": "Blog de Página Blanca",
+    "description": "Descubre las últimas funciones, consejos y actualizaciones sobre Página Blanca - tu plataforma definitiva de experiencia de pantalla.",
+    "emptyState": {
+      "title": "No hay publicaciones de blog",
+      "description": "¡Estamos creando contenido emocionante, mantente atento!"
+    },
+    "loadMorePostsFailed": "Error al cargar más publicaciones",
+    "loadMorePosts": "Cargando más publicaciones...",
+    "filterPostsFailed": "Error al cargar publicaciones",
+    "noPostsFoundForThisTag": "No se encontraron artículos para esta categoría",
+    "reachedTheEnd": "Has llegado al final de todas las publicaciones",
+    "BlogDetail": {
+      "featured": "Publicación Destacada",
+      "accessRestricted": "Acceso Restringido",
+      "unauthorized": "Este artículo solo está disponible para usuarios conectados",
+      "premium": "Contenido Premium",
+      "premiumContent": "Este artículo es exclusivo para suscriptores",
+      "signIn": "Iniciar Sesión",
+      "upgrade": "Actualizar",
+      "backToBlogs": "Volver a la Lista de Blog",
+      "notFound": "Artículo No Encontrado"
+    }
+  },
+  "TermsOfService": {
+    "title": "Términos de Servicio",
+    "description": "Términos de Servicio"
+  },
+  "PrivacyPolicy": {
+    "title": "Política de Privacidad",
+    "description": "Política de Privacidad"
+  }
+}

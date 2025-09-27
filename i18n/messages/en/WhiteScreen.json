@@ -1,0 +1,148 @@
+{
+  "hero": {
+    "title": "White Screen",
+    "description": "Use this fullscreen white screen tool to clean your monitor, improve Zoom lighting, focus better, or test for dead pixels. No ads. Pure white.",
+    "badge": "Free Online Tool",
+    "features": {
+      "noRegistration": "No Registration",
+      "worksOffline": "Works Offline",
+      "allDevices": "All Devices"
+    }
+  },
+  "keywords": "white screen, blank white screen, plain white screen, full white screen, white screen youtube, a white screen, monitor white screen, computer white screen, white screen website, pc white screen, blank white screen, full screen white screen, blank white screen, 24 hour white screen, white screen 2, White Screen, blank White Screen, plain White Screen, full White Screen, White Screen tool, White Screen online, White Screen website, White Screen fullscreen, White Screen monitor test, White Screen photography, White Screen focus tool",
+  "colorPicker": {
+    "title": "Choose Your Color",
+    "custom": "Custom",
+    "description": "Perfect for monitor testing, photography lighting, and presentations",
+    "launchButton": "Launch White Screen"
+  },
+  "useCases": {
+    "title": "People use white screen for:",
+    "description": "Our white screen tool serves multiple professional and personal purposes across various industries and scenarios.",
+    "cases": [
+      {
+        "icon": "📝",
+        "title": "White screen to copy drawings",
+        "description": "I needed to have something bright under a paper, so i could redraw a image easier."
+      },
+      {
+        "icon": "💡",
+        "title": "White screen as a light source",
+        "description": "Lighting up the back of a lightbox for product photography"
+      },
+      {
+        "icon": "🖥️",
+        "title": "White screen to check monitor",
+        "description": "Check your monitor and find dead pixels."
+      },
+      {
+        "icon": "🚫",
+        "title": "White screen to blank screen",
+        "description": "Don't want to be distrupted? Want to take a brake? Use a white screen to blank your screen."
+      },
+      {
+        "icon": "📖",
+        "title": "White screen as a light to read",
+        "description": "To get a source of light and be able to read books when it's dark in the room and the light switch is too far away."
+      },
+      {
+        "icon": "🎯",
+        "title": "White screen to focus yourself",
+        "description": "While studying, I use 2 screens, one with a timer and one to search whatever I need on the internet. When I am not searching, I put the white screen so I don't get distracted with anything on the computer"
+      }
+    ]
+  },
+  "info": {
+    "title": "White Screen – Fullscreen Background Tool",
+    "subtitle": "A clean, distraction-free fullscreen white screen tool. Perfect for cleaning your monitor, testing pixels, improving Zoom lighting, or helping you focus.",
+    "professionalTool": "Professional Tool",
+    "downloadReady": "Download Ready",
+    "downloadTitle": "Download White Background",
+    "downloadDescription": "Prefer a static white image? Use one of our high-resolution PNGs:",
+    "hdTitle": "1920×1080 White Screen Background",
+    "hdDescription": "Pure fullscreen white image for cleaning, focus, and Zoom lighting",
+    "hdButton": "Download HD",
+    "fourKTitle": "4K White Screen Background",
+    "fourKDescription": "Pure fullscreen white screen image in ultra HD resolution for lighting, cleaning, and pixel testing",
+    "fourKButton": "Download 4K",
+    "proTipBadge": "Pro Tip",
+    "proTipTitle": "Pro Tip",
+    "proTipDescription": "Use white screen during your Zoom calls or photo sessions for soft lighting that brightens your face evenly!"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to common questions about our white screen tool and its various applications.",
+    "questions": [
+      {
+        "question": "What is a white screen tool used for?",
+        "answer": "A white screen tool displays a white color in fullscreen mode, commonly used for monitor testing, photography lighting, reading, and creating a clean background for various purposes."
+      },
+      {
+        "question": "How do I use white screen for monitor testing?",
+        "answer": "The white screen is perfect for detecting dead pixels, dirt spots, and checking monitor calibration. Simply launch the white screen in fullscreen mode and carefully examine your display."
+      },
+      {
+        "question": "Can I use white screen for photography?",
+        "answer": "Yes! The white screen is excellent for product photography, creating a clean background, and providing consistent lighting for your photos."
+      },
+      {
+        "question": "Why use white screen for reading?",
+        "answer": "White light provides good contrast for reading text, making it easier on your eyes when reading books or documents in low light conditions."
+      },
+      {
+        "question": "Is white screen good for focus?",
+        "answer": "Yes, a white screen can help you focus by eliminating distractions. It's commonly used by students and professionals who want to maintain concentration while working."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Additional Screen Tools",
+    "description": "Explore our collection of specialized screen tools for various purposes.",
+    "colorScreens": "Color Screens",
+    "colorScreensDescription": "Pure color background screens for various scenarios",
+    "prankScreens": "Prank Screens",
+    "prankScreensDescription": "Fun prank screen effects",
+    "fakeUpdateScreens": "Fake Update Screens",
+    "fakeUpdateScreensDescription": "Simulated system update interfaces for pranks and testing",
+    "screensaverScreens": "Screensaver Screens",
+    "screensaverScreensDescription": "Classic screensaver effects to make your screen more fun"
+  },
+  "howToUse": {
+    "title": "How to Use",
+    "steps": [
+      "Choose your preferred color from the palette",
+      "Click the 'Launch' button to open in fullscreen",
+      "Use F11 or ESC to exit fullscreen mode",
+      "Download the image in your preferred resolution"
+    ]
+  },
+  "techSpecs": {
+    "title": "Technical Specifications",
+    "specs": [
+      "Resolution: Up to 8K (7680x4320)",
+      "Color Depth: 24-bit RGB",
+      "Format: PNG download",
+      "Compatibility: All modern browsers"
+    ]
+  },
+  "colors": {
+    "Zoom Lighting": "Zoom Lighting",
+    "White": "White",
+    "Black": "Black",
+    "Red": "Red",
+    "Blue": "Blue",
+    "Green": "Green",
+    "Yellow": "Yellow",
+    "Purple": "Purple",
+    "Pink": "Pink",
+    "Orange": "Orange"
+  },
+  "interface": {
+    "livePreview": "Live Preview",
+    "clickForFullscreen": "Click for fullscreen",
+    "current": "Current",
+    "chooseYourColor": "Choose Your Color",
+    "perfectFor": "Perfect for monitor testing, photography lighting, and presentations",
+    "launchWhiteScreen": "Launch White Screen"
+  }
+}

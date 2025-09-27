@@ -1,0 +1,172 @@
+{
+  "hero": {
+    "badge": "Zoom-belysning",
+    "title": "Zoom-belysning | Onlineverktyg",
+    "description": "Använd denna helskärms vita skärm för att belysa ditt ansikte under Zoom-samtal, YouTube-videor eller fotosessioner. Rent, snabbt och annonsfritt.",
+    "features": {
+      "noRegistration": "Ingen registrering",
+      "worksOffline": "Fungerar offline",
+      "allDevices": "Alla enheter"
+    }
+  },
+  "keywords": "bästa belysning för zoom-samtal, zoom-belysning, belysning för zoom-möten, ljus för zoom-möten, videokonferensbelysning, bästa ljus för zoom-möten, zoom-belysningskit, bästa zoom-belysning, bästa ljus för videokonferenser",
+  "colorPicker": {
+    "title": "Välj din färg",
+    "custom": "Anpassad",
+    "description": "Perfekt för videokonferenser, fotograferingsbakgrunder och skapande av optimala belysningsförhållanden",
+    "launchButton": "Starta Zoom-belysning"
+  },
+  "colors": {
+    "Black": "Svart Skärm",
+    "White": "Vit Skärm",
+    "Red": "Röd Skärm",
+    "Blue": "Blå Skärm",
+    "Green": "Grön Skärm",
+    "Yellow": "Gul Skärm",
+    "Purple": "Lila Skärm",
+    "Pink": "Rosa Skärm",
+    "Orange": "Orange Skärm",
+    "Zoom Lighting": "Zoom-belysning"
+  },
+  "interface": {
+    "livePreview": "Live-förhandsvisning",
+    "clickForFullscreen": "Klicka för helskärm",
+    "current": "Aktuell",
+    "chooseYourColor": "Välj din färg",
+    "perfectFor": "Perfekt för",
+    "launchZoomLighting": "Starta Zoom-belysning"
+  },
+  "useCases": {
+    "title": "Människor använder Zoom-belysning för:",
+    "subtitle": "Upptäck hur du förbättrar din videobelysning",
+    "description": "Vårt zoom-belysningsverktyg tjänar flera professionella och personliga syften inom olika branscher och scenarier.",
+    "cases": [
+      {
+        "title": "Anpassad belysning för videokonferenser",
+        "description": "Använd vårt zoom belysningsverktyg för att skapa den perfekta ljussättningen för dina videosamtal. Med justerbar färg och temperatur kan du enkelt uppnå professionell belysning för videokonferenser.",
+        "icon": "💡"
+      },
+      {
+        "title": "Fotograferingsbakgrund med zoom belysningsskärm",
+        "description": "Förbättra din fotograferingsuppsättning med vår justerbara zoom belysningsskärm. Justera färgen och temperaturen efter humöret på din fotosession och skapa fantastiska bilder.",
+        "icon": "📸"
+      },
+      {
+        "title": "Förbättra eLearning-upplevelsen med optimal belysning",
+        "description": "Med vår zoom belysningsskärm kan du skapa en lämplig lärmiljö för eLearning. Anpassningsbara ljusinställningar säkerställer optimal läskomfort och förbättrad koncentration.",
+        "icon": "🎓"
+      },
+      {
+        "title": "Verktyg för ljustestning för webbutvecklare",
+        "description": "Webbutvecklare kan använda vår helskärms zoom belysningsskärm för att testa hur olika ljustemperaturer och färger påverkar utseendet av deras designer. Det hjälper till att skapa visuellt engagerande och tillgängliga webbplatser.",
+        "icon": "💻"
+      },
+      {
+        "title": "Färgterapi med zoom belysningsskärm",
+        "description": "Terapeuter och välbefinnandecoacher kan använda vår zoom belysningsskärm med justerbar färg och temperatur för färgterapisessioner som främjar avslappning och läkning.",
+        "icon": "🧘"
+      },
+      {
+        "title": "vit skärm som belysning för zoom-samtal",
+        "description": "För videosamtal! Jag har ingen enkel ringbelysning, men har två skärmar. Så jag kan använda en av skärmarna för att belysa mitt ansikte!",
+        "icon": "📹"
+      },
+      {
+        "title": "zoom belysning för att få ljusstyrka",
+        "description": "Jag använder det för att få ljusstyrka när jag är i ett videosamtal",
+        "icon": "✨"
+      },
+      {
+        "title": "zoom belysning för att lysa upp",
+        "description": "För att lysa upp när jag använder videosamtalsfunktionen",
+        "icon": "💡"
+      },
+      {
+        "title": "zoom belysning för att förvandla min skärm till en lampa",
+        "description": "Förvandlar min skärm till en lampa för att kompensera för bakgrundsbelysning under videosamtal",
+        "icon": "🖥️"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Hur man använder Zoom-belysning",
+    "subtitle": "Enkel guide till perfekt videobelysning",
+    "steps": [
+      "Välj din föredragna färg från paletten",
+      "Klicka på 'Starta'-knappen för att öppna i helskärm",
+      "Använd F11 eller ESC för att lämna helskärmsläge",
+      "Ladda ner bilden i din föredragna upplösning"
+    ]
+  },
+  "temperatureControl": {
+    "title": "Temperaturkontroll",
+    "temperature": "Temperatur",
+    "description": "Justera färgtemperaturen för att skapa perfekt belysning för dina videosamtal. Lägre värden skapar varmare ljus, högre värden skapar kallare ljus."
+  },
+  "info": {
+    "title": "Zoom-belysning – Helskärmsbakgrundsverktyg",
+    "subtitle": "Använd denna helskärms vita skärm för att belysa ditt ansikte under Zoom-samtal, YouTube-videor eller fotosessioner. Rent, snabbt och annonsfritt.",
+    "professionalTool": "Professionellt verktyg",
+    "downloadReady": "Nedladdning redo",
+    "downloadTitle": "Ladda ner Zoom-belysningsbakgrund",
+    "downloadDescription": "Föredrar du en statisk zoom-belysningsbild? Använd en av våra högupplösta PNG:er:",
+    "hdTitle": "1920×1080 Zoom-belysningsbakgrund",
+    "hdDescription": "Perfekt för standard HD-skärmar och videosamtal. Optimerad för Zoom-möten och videokonferenser.",
+    "hdButton": "Ladda ner HD",
+    "fourKTitle": "4K Zoom-belysningsbakgrund",
+    "fourKDescription": "Ultra HD helskärms vit bakgrund för att belysa ditt ansikte i videomöten. Perfekt för högupplösta skärmar.",
+    "fourKButton": "Ladda ner 4K",
+    "proTipBadge": "Pro-tips",
+    "proTipTitle": "Maximera din videosamtalsbelysning",
+    "proTipDescription": "Maximera skärmens ljusstyrka och placera din monitor framför dig för bästa belysningseffekt under samtal."
+  },
+  "faq": {
+    "title": "Vanliga frågor",
+    "subtitle": "Svar på vanliga frågor om Zoom-belysning",
+    "description": "Hitta svar på vanliga frågor om hur du använder vårt zoom-belysningsverktyg för olika ändamål.",
+    "questions": [
+      {
+        "question": "Vad används zoom-belysning till?",
+        "answer": "Zoom-belysning används för att skapa optimala belysningsförhållanden för videokonferenser, fotografering, eLearning och olika professionella applikationer där ordentlig belysning är viktigt."
+      },
+      {
+        "question": "Hur använder jag zoom-belysning för videosamtal?",
+        "answer": "Öppna helt enkelt vår zoom-belysningsskärm och justera färgtemperaturen och ljusstyrkan för att skapa perfekt belysning för dina videosamtal. Den varma, justerbara belysningen hjälper till att förbättra ditt utseende på kameran."
+      },
+      {
+        "question": "Kan jag använda zoom-belysning för fotografering?",
+        "answer": "Ja! Vår zoom-belysningsskärm ger justerbara färg- och temperaturinställningar som är perfekta för fotograferingsbakgrunder och skapande av idealiska belysningsförhållanden för dina fotosessioner."
+      },
+      {
+        "question": "Varför använda zoom-belysning för eLearning?",
+        "answer": "Ordentlig belysning är avgörande för eLearning-miljöer. Vår zoom-belysningsskärm skapar optimala läsvillkor och hjälper till att minska ögonansträngning, vilket förbättrar koncentrationen och lärresultaten."
+      },
+      {
+        "question": "Är zoom-belysning bra för webbutveckling?",
+        "answer": "Ja, webbutvecklare kan använda vår zoom-belysningsskärm för att testa hur olika belysningsförhållanden påverkar utseendet av deras designer, vilket säkerställer att deras webbplatser ser bra ut under olika belysningsscenarier."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Tekniska specifikationer",
+    "subtitle": "Tekniska detaljer för Zoom-belysning",
+    "specs": [
+      {
+        "label": "Färg",
+        "value": "#FFFFFF (Ren vit)"
+      },
+      {
+        "label": "Temperatur",
+        "value": "6500K (Dagsljus)"
+      },
+      {
+        "label": "Kompatibilitet",
+        "value": "Alla enheter med skärm"
+      },
+      {
+        "label": "Tillämpning",
+        "value": "Professionell videobelysning"
+      }
+    ]
+  }
+} 

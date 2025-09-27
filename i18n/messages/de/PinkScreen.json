@@ -1,0 +1,134 @@
+{
+  "hero": {
+    "title": "Vollständiger Rosafarbener Bildschirm | Online-Tool",
+    "description": "Ein stimmungsvoller rosafarbener Bildschirm. Der rosafarbene Bildschirm wird typischerweise mit leidenschaftlichen und liebevollen Emotionen in Verbindung gebracht. Die Farbe kann eine beruhigende und entspannende Wirkung haben.",
+    "badge": "Rosafarbener Bildschirm Tool",
+    "features": {
+      "noRegistration": "Keine Registrierung",
+      "worksOffline": "Funktioniert offline",
+      "allDevices": "Alle Geräte"
+    }
+  },
+  "keywords": "rosa Bildschirm, leerer rosa Bildschirm, ein rosa Bildschirm, leere Bildschirme, voll rosa Bildschirm, PC rosa Bildschirm, Computer rosa Bildschirm, total rosa Bildschirm, einfacher rosa Bildschirm, rosa Bildschirm 10 Stunden, rosa Anzeige, leerer Computerbildschirm, voll rosa Bildschirm, total rosa Bildschirm",
+  "colorPicker": {
+    "title": "Wählen Sie Ihre Farbe",
+    "custom": "Benutzerdefiniert",
+    "description": "Perfekt für Monitortests, Fotografie-Beleuchtung und Präsentationen",
+    "launchButton": "Rosa Seite starten"
+  },
+  "useCases": {
+    "title": "Menschen verwenden rosa Bildschirm für:",
+    "description": "Unser rosa Bildschirm-Tool dient verschiedenen professionellen und persönlichen Zwecken in verschiedenen Branchen und Szenarien.",
+    "cases": [
+      {
+        "icon": "🧽",
+        "title": "Rosa Bildschirm für Monitor-Reinigung",
+        "description": "Verwenden Sie den rosa Bildschirm, um beim Reinigen Ihres Monitors oder Bildschirms Staub und Flecken leicht zu erkennen."
+      },
+      {
+        "icon": "🔍",
+        "title": "Rosa Bildschirm zum Finden toter Pixel",
+        "description": "Perfekt zum Identifizieren toter oder hängender Pixel auf Ihrem Display mit dem gleichmäßigen rosa Hintergrund."
+      },
+      {
+        "icon": "✨",
+        "title": "Rosa Bildschirm zum Finden schmutziger Stellen",
+        "description": "Lokalisieren Sie einfach Schmutz, Fingerabdrücke und Flecken auf Ihrer Bildschirmoberfläche mit dem rosa Hintergrund."
+      },
+      {
+        "icon": "📽️",
+        "title": "Rosa Bildschirm für Projektor",
+        "description": "Ideal für Projektor-Kalibrierung und Tests bei verschiedenen Lichtverhältnissen."
+      },
+      {
+        "icon": "👶",
+        "title": "Rosa Bildschirm für Kinder",
+        "description": "Kinderfreundlicher rosa Bildschirm, der sanft zu jungen Augen ist und eine komfortable Sichtumgebung schafft."
+      },
+      {
+        "icon": "🖥️",
+        "title": "Rosa Vollbild-Hintergrund",
+        "description": "Erstellen Sie einen vollständigen rosa Hintergrund für Präsentationen, Content-Erstellung oder ästhetische Zwecke."
+      },
+      {
+        "icon": "🎨",
+        "title": "Rosa Bildschirm für kreative Projekte",
+        "description": "Verwenden Sie unser Rosa-Bildschirm-Tool für kreative Projekte und künstlerische Inspiration. Das sanfte, warme Rosa stimuliert die Kreativität."
+      },
+      {
+        "icon": "👁️",
+        "title": "Rosa Bildschirm für Augenkomfort",
+        "description": "Erleben Sie reduzierte Augenbelastung mit unserem rosa Bildschirm. Das warme rosa Licht ist sanfter zu den Augen bei längerer Bildschirmzeit."
+      }
+    ]
+  },
+  "info": {
+    "title": "Rosa Bildschirm – Vollbild-Hintergrund-Tool",
+    "subtitle": "Erleben Sie die perfekte Balance aus Wärme und Professionalität mit unserem fortschrittlichen Rosa-Bildschirm-Tool",
+    "professionalTool": "Professionelles Tool",
+    "downloadReady": "Download bereit",
+    "downloadTitle": "Rosa Bildschirm Hintergrund herunterladen",
+    "downloadDescription": "Holen Sie sich hochwertige rosa Bildschirme für Ihre professionellen Bedürfnisse",
+    "hdTitle": "1920×1080 HD",
+    "hdDescription": "Standard HD-Auflösung, perfekt für die meisten Displays, Streaming und den täglichen Gebrauch",
+    "hdButton": "HD herunterladen",
+    "fourKTitle": "3840×2160 4K",
+    "fourKDescription": "Ultra HD-Auflösung für professionelle Nutzung, High-End-Displays und Premium-Inhalte",
+    "fourKButton": "4K herunterladen",
+    "proTipBadge": "Profi-Tipp",
+    "proTipTitle": "Kreative professionelle Nutzung",
+    "proTipDescription": "Verwenden Sie rosa Bildschirme in Ihren kreativen Setups, um einen einzigartigen, eleganten visuellen Ton in Fotografie oder Livestream-Hintergründen hinzuzufügen. Der warme Farbton schafft eine einladende Atmosphäre und behält gleichzeitig die professionelle Qualität Ihrer Inhalte bei."
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Wofür wird ein rosa Bildschirm verwendet?",
+        "answer": "Ein rosa Bildschirm wird für entspannende Inhaltsentwicklung, Entlastung der Augen und Monitortests verwendet."
+      },
+      {
+        "question": "Wie verwende ich rosa Bildschirm für Entspannung?",
+        "description": "Der rosa Bildschirm ist beruhigend und perfekt für entspannende Inhaltsentwicklung und Entlastung der Augen."
+      },
+      {
+        "question": "Kann ich rosa Bildschirm für Fotografie verwenden?",
+        "answer": "Ja! Der rosa Bildschirm kann als sanfter Hintergrund für Produktfotografie verwendet werden."
+      },
+      {
+        "question": "Warum rosa Bildschirm zur Linderung von Augenbelastung verwenden?",
+        "answer": "Rosa ist eine beruhigende Farbe, die für die Augen angenehmer ist als helles Weiß oder Blaulicht. Es hilft, die Augenbelastung während langer Arbeitszeiten oder nächtlichem Surfen zu reduzieren."
+      },
+      {
+        "question": "Ist rosa Bildschirm gut für Projektortests?",
+        "answer": "Ja, Rosa ist eine ausgezeichnete Farbe für Projektortests und -kalibrierung. Es hilft bei der Farbgenauigkeitsprüfung und kann Farbprobleme mit Ihrem Projektionssystem aufdecken."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Zusätzliche Bildschirm-Tools",
+    "description": "Entdecken Sie unsere Sammlung spezialisierter Bildschirm-Tools für verschiedene Zwecke.",
+    "colorScreens": "Farbbildschirme",
+    "prankScreens": "Streich-Bildschirme",
+    "fakeUpdateScreens": "Gefälschte Update-Bildschirme",
+    "screensaverScreens": "Bildschirmschoner"
+  },
+  "howToUse": {
+    "title": "Verwendung",
+    "steps": [
+      "Wählen Sie Ihre bevorzugte Farbe aus der Palette",
+      "Klicken Sie auf den 'Starten'-Button, um im Vollbildmodus zu öffnen",
+      "Verwenden Sie F11 oder ESC, um den Vollbildmodus zu beenden",
+      "Laden Sie das Bild in Ihrer bevorzugten Auflösung herunter"
+    ]
+  },
+  "techSpecs": {
+    "title": "Technische Spezifikationen",
+    "specs": [
+      "Auflösung: Bis zu 8K (7680x4320)",
+      "Farbtiefe: 24-bit RGB",
+      "Format: PNG, JPEG, WebP",
+      "Kompatibilität: Alle modernen Browser",
+      "Offline-Funktionalität: Vollständig verfügbar"
+    ]
+  }
+}

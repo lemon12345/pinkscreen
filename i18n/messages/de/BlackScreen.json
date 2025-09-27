@@ -1,0 +1,129 @@
+{
+  "hero": {
+    "title": "Vollständiger Schwarzer Bildschirm | Online-Tool",
+    "description": "Schwarzer Bildschirm. Schwarz, wie Weiß, hat keine Schattierungen und wird nicht als Farbe betrachtet; es vermittelt auch ein Gefühl von Eleganz und Feierlichkeit und wird häufig als Augenruhe verwendet.",
+    "badge": "Schwarzer Bildschirm Tool",
+    "features": {
+      "noRegistration": "Keine Registrierung",
+      "worksOffline": "Funktioniert offline",
+      "allDevices": "Alle Geräte"
+    }
+  },
+  "keywords": "schwarzer Bildschirm, leerer schwarzer Bildschirm, voller schwarzer Bildschirm, schwarzer Bildschirm",
+  "colorPicker": {
+    "title": "Wählen Sie Ihre Farbe",
+    "custom": "Benutzerdefiniert",
+    "description": "Perfekt für Monitortests, Fotografie-Beleuchtung und Präsentationen",
+    "launchButton": "Schwarze Seite starten"
+  },
+  "useCases": {
+    "title": "Menschen verwenden schwarzen Bildschirm für:",
+    "description": "Unser schwarzer Bildschirm-Tool dient verschiedenen professionellen und persönlichen Zwecken.",
+    "cases": [
+      {
+        "icon": "🎯",
+        "title": "Schwarzer Bildschirm für Kinoerfahrung",
+        "description": "Erleben Sie zu Hause ein Kinoerlebnis mit unserem Vollbildschwarz-Tool. Es ist ideal, um ein ablenkungsfreies Seherlebnis zu schaffen."
+      },
+      {
+        "icon": "😴",
+        "title": "Schwarzer Bildschirm für Schlafhygiene",
+        "description": "Verbessern Sie Ihre Schlafhygiene durch Verwendung unseres schwarzen Bildschirms. Es hilft, die Lichtbelastung vor dem Schlafengehen zu reduzieren."
+      },
+
+      {
+        "icon": "🖥️",
+        "title": "um den zweiten Monitor dunkel zu machen, ohne ihn auszuschalten",
+        "description": "Machen Sie den zweiten Monitor schnell dunkel, ohne ihn auszuschalten, wenn Sie ein atmosphärisches Spiel spielen oder einen Film ansehen, der sich als wertvoll herausstellte"
+      },
+      {
+        "icon": "⚡",
+        "title": "Strom sparen",
+        "description": "Versuchen Sie, Strom zu sparen, reduzieren Sie den CO2-Ausstoß."
+      },
+      {
+        "icon": "🔒",
+        "title": "um die Tatsache auszublenden, dass Computer aktiv ist",
+        "description": "Um meine 4 Monitore aufzusetzen, wenn ich schlafen gehe, anstatt sie einschlafen zu lassen."
+      },
+      {
+        "icon": "🧽",
+        "title": "Monitor reinigen",
+        "description": "Leichter zu erkennen, wenn ich meinen Bildschirm abwische"
+      },
+      {
+        "icon": "🎮",
+        "title": "einen dunklen Hintergrund machen",
+        "description": "Hintergrund für ein Spiel. Der Bildschirm ist zu groß, 3440 x 1440. Ich mag es nicht so groß zu spielen, also mache ich 2560x1440. Benötigen Sie schwarze Blenden an beiden Seiten."
+      },
+      {
+        "icon": "📺",
+        "title": "um zu helfen, Einbrennen in Plasmafernsehern zu verhindern",
+        "description": "Ich habe einen alten Plasma-Fernseher. Ich habe keine Computer-Lautsprecher. Wenn ich also laut Musik hören möchte, schalte ich meinen Fernseher ein und schließe ihn über HDMI an. Plasmas sind also sehr anfällig für Einbrennen Anstatt Windows Media Player oder was auch immer auf dem Bildschirm zu lassen, verwende ich einen schwarzen Bildschirm, um ein Einbrennen zu verhindern. Ich habe verschiedene Websites verwendet. Aber sie scheinen nicht sehr lange online zu bleiben."
+      },
+      {
+        "icon": "📚",
+        "title": "um sich beim Lernen zu konzentrieren",
+        "description": "Um meinen Bildschirm nicht auszuschalten und mich beim Lernen zu konzentrieren. Nun, mein Bildschirm ist sehr hell und es hilft nicht bei der Konzentration, ein schwarzer Bildschirm behebt das."
+      },
+      {
+        "icon": "😴",
+        "title": "um die Augen zu entspannen",
+        "description": "Weil ich meine Augen entspannen muss und nur einen schwarzen Bildschirm habe, selbst wenn ich Musik auf meinem PC abspiele oder schnell zwischen ganz Schwarz und etwas anderem wechseln möchte. Das Wertvollste ist die Qualität davon, von der Farbe und den Rest und natürlich, damit es einfach ist, den Vollbildmodus ein- und auszuschalten."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "description": "Finden Sie Antworten auf häufige Fragen zur Verwendung unseres schwarzen Bildschirm-Tools für verschiedene Zwecke.",
+    "questions": [
+      {
+        "question": "Wofür wird ein schwarzer Bildschirm verwendet?",
+        "answer": "Ein schwarzer Bildschirm wird für Monitortests, Fotografie und Präsentationen verwendet."
+      },
+      {
+        "question": "Wie verwende ich schwarzen Bildschirm für Monitortests?",
+        "answer": "Starten Sie den schwarzen Bildschirm im Vollbildmodus und untersuchen Sie Ihren Monitor auf tote Pixel."
+      },
+      {
+        "question": "Kann ich schwarzen Bildschirm für Fotografie verwenden?",
+        "answer": "Ja! Der schwarze Bildschirm kann als dunkler Hintergrund für Produktfotografie verwendet werden."
+      },
+      {
+        "question": "Warum schwarzen Bildschirm für Augenentspannung verwenden?",
+        "answer": "Schwarz ist die sanfteste Farbe für Ihre Augen, besonders bei schwachem Licht. Es hilft, die Augenbelastung während langer Arbeitszeiten zu reduzieren oder wenn Sie Ihre Augen entspannen müssen."
+      },
+      {
+        "question": "Ist schwarzer Bildschirm gut für Fokus und Konzentration?",
+        "answer": "Ja, ein schwarzer Bildschirm eliminiert visuelle Ablenkungen und schafft eine minimalistische Umgebung, die perfekt für fokussierte Aufgaben, Lernen oder die Praxis des digitalen Minimalismus ist."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Zusätzliche Bildschirm-Tools",
+    "description": "Entdecken Sie unsere Sammlung spezialisierter Bildschirm-Tools für verschiedene Zwecke.",
+    "colorScreens": "Farbbildschirme",
+    "prankScreens": "Streich-Bildschirme",
+    "fakeUpdateScreens": "Gefälschte Update-Bildschirme",
+    "screensaverScreens": "Bildschirmschoner"
+  },
+  "howToUse": {
+    "title": "Verwendung",
+    "steps": [
+      "Wählen Sie Ihre bevorzugte Farbe aus der Palette",
+      "Klicken Sie auf den 'Starten'-Button, um im Vollbildmodus zu öffnen",
+      "Verwenden Sie F11 oder ESC, um den Vollbildmodus zu beenden",
+      "Laden Sie das Bild in Ihrer bevorzugten Auflösung herunter"
+    ]
+  },
+  "techSpecs": {
+    "title": "Technische Spezifikationen",
+    "specs": [
+      "Auflösung: Bis zu 8K (7680x4320)",
+      "Farbtiefe: 24-bit RGB",
+      "Format: PNG, JPEG, WebP",
+      "Kompatibilität: Alle modernen Browser",
+      "Offline-Funktionalität: Vollständig verfügbar"
+    ]
+  }
+}

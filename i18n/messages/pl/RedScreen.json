@@ -1,0 +1,176 @@
+{
+  "hero": {
+    "badge": "Narzędzie Czerwonego Ekranu",
+    "title": "Czerwony Ekran | Narzędzie Online",
+    "description": "Narzędzie online do wyświetlania pełnoekranowej czerwonej strony. Użyj jako źródła światła do tworzenia TikToków, połączeń online lub zachowania nocnego widzenia, czytania książek, żartów.",
+    "features": {
+      "noRegistration": "Bez rejestracji",
+      "worksOffline": "Działa offline",
+      "allDevices": "Wszystkie urządzenia"
+    }
+  },
+  "keywords": "czerwony ekran, czerwone tło, czerwony ekran online, kolor czerwony, energia, dynamizm, czerwony ekran pełnoekranowy",
+  "colorPicker": {
+    "title": "Wybierz swój kolor",
+    "custom": "Niestandardowy",
+    "description": "Idealny do stymulowania energii i tworzenia dynamicznej atmosfery",
+    "launchButton": "Uruchom czerwony ekran"
+  },
+  "colors": {
+    "Black": "Czarny",
+    "White": "Biały",
+    "Red": "Czerwony",
+    "Blue": "Niebieski",
+    "Green": "Zielony",
+    "Yellow": "Żółty",
+    "Purple": "Fioletowy",
+    "Pink": "Różowy",
+    "Orange": "Pomarańczowy",
+    "Zoom Lighting": "Oświetlenie Zoom"
+  },
+  "interface": {
+    "livePreview": "Podgląd na żywo",
+    "clickForFullscreen": "Kliknij, aby przejść na pełny ekran",
+    "current": "Aktualny",
+    "chooseYourColor": "Wybierz swój kolor",
+    "perfectFor": "Idealny do",
+    "launchRedScreen": "Uruchom Czerwony Ekran"
+  },
+  "useCases": {
+    "title": "Ludzie używają czerwonego ekranu:",
+    "subtitle": "Odkryj różne sposoby korzystania z naszego czerwonego ekranu",
+    "description": "Nasze narzędzie czerwonego ekranu stymuluje energię i uwagę dla projektów kreatywnych i wpływowych prezentacji.",
+    "cases": [
+      {
+        "title": "Czerwony ekran dla filmu i fotografii",
+        "description": "Wykorzystaj nasz czerwony ekran do eksperymentowania z filtrami kolorów i efektami w filmie i fotografii. Żywe czerwone tło może dodać dramatycznego akcentu do Twoich kompozycji.",
+        "icon": "🎬"
+      },
+      {
+        "title": "Czerwony wyświetlacz dla zdrowia oczu",
+        "description": "Nasze narzędzie czerwonego ekranu może być używane do zmniejszenia wpływu niebieskiego światła, pomagając w komforcie i zdrowiu oczu, szczególnie w warunkach słabego oświetlenia lub przed snem.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Czerwony ekran dla wydarzeń wirtualnych",
+        "description": "Stwórz fascynujące środowisko wydarzenia wirtualnego z naszym pełnoekranowym czerwonym wyświetlaczem. Może on nadać charakterystyczny ton i nastrój Twoim spotkaniom.",
+        "icon": "💻"
+      },
+      {
+        "title": "Czerwony ekran dla projektowania graficznego",
+        "description": "Projektanci graficzni mogą wykorzystać nasze narzędzie czerwonego ekranu do tworzenia śmiałych i oddziałujących projektów. Kolor czerwony może wywoływać silne emocje i przyciągać uwagę widza.",
+        "icon": "🖼️"
+      },
+      {
+        "title": "Czerwony ekran dla tematycznych prezentacji",
+        "description": "Edukatorzy i prezenterzy mogą używać naszego czerwonego ekranu do tworzenia tematycznych prezentacji, podkreślając ważne punkty i przyciągając zainteresowanie publiczności.",
+        "icon": "📊"
+      },
+      {
+        "title": "jasny czerwony ekran do robienia tiktok'ów",
+        "description": "Ponieważ mam włączone niebieskie światła LED i idealnie pasuje, czyniąc moją twarz lub jej część czerwoną, pozostawiając niebieskie światła za mną. Szczerze mówiąc, polubiłem czerwony ekran, fajnie jest robić tiktoki lub zdjęcia i edytować je, aby wyglądały profesjonalnie.",
+        "icon": "📱"
+      },
+      {
+        "title": "czerwony ekran świetlny do rozmów online",
+        "description": "Do korekcji rzucania koloru podczas korzystania z Google Meets.",
+        "icon": "💬"
+      },
+      {
+        "title": "czerwony ekran do zachowania widzenia nocnego",
+        "description": "Nie męczy oczu, szczególnie gdy wychodzi się z ciemnego obszaru",
+        "icon": "🌙"
+      },
+      {
+        "title": "czerwony ekran do czytania książki",
+        "description": "Do czytania książki z mniejszą ilością niebieskiego światła.",
+        "icon": "📖"
+      },
+      {
+        "title": "czerwony ekran do naprawy projektora",
+        "description": "pomaga naprawić keystone projektora",
+        "icon": "📽️"
+      },
+      {
+        "title": "czerwone światło do żartów",
+        "description": "Żeby zrobić psikusa przyjaciołom i powiedzieć, że mam diody LED.",
+        "icon": "😄"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Jak korzystać z czerwonego ekranu",
+    "subtitle": "Prosty przewodnik, jak najlepiej wykorzystać nasze narzędzie",
+    "steps": [
+      "Otwórz narzędzie",
+      "Dostosuj intensywność",
+      "Używaj kreatywnie"
+    ]
+  },
+  "info": {
+    "title": "Czerwony Ekran – Narzędzie Tła Pełnoekranowego",
+    "subtitle": "Czerwony ekran stymuluje energię, przyciąga uwagę i tworzy dynamiczną atmosferę dla projektów kreatywnych",
+    "professionalTool": "Narzędzie Profesjonalne",
+    "downloadReady": "Pobieranie Gotowe",
+    "downloadTitle": "Pobierz Tło Czerwonego Ekranu",
+    "downloadDescription": "Uzyskaj wysokiej jakości czerwone ekrany dla swoich potrzeb zawodowych",
+    "hdTitle": "Tło Czerwonego Ekranu 1920×1080",
+    "hdDescription": "Czysto czerwony obraz pełnoekranowy do stymulowania energii, przyciągania uwagi i tworzenia dynamicznej atmosfery",
+    "hdButton": "Pobierz HD",
+    "fourKTitle": "Tło Czerwonego Ekranu 4K",
+    "fourKDescription": "Ultra HD czerwony ekran dla energicznych projektów kreatywnych i wpływowych prezentacji",
+    "fourKButton": "Pobierz 4K",
+    "proTipBadge": "Wskazówka Pro",
+    "proTipTitle": "Wskazówka Pro",
+    "proTipDescription": "Używaj czerwonego ekranu z umiarem, ponieważ ten intensywny kolor może męczyć oczy podczas długotrwałej ekspozycji."
+  },
+  "faq": {
+    "title": "Często zadawane pytania",
+    "subtitle": "Odpowiedzi na częste pytania o czerwony ekran",
+    "description": "Znajdź odpowiedzi na często zadawane pytania dotyczące korzystania z naszego narzędzia czerwonego ekranu do różnych celów.",
+    "questions": [
+      {
+        "question": "Dlaczego czerwone światło zachowuje nocne widzenie?",
+        "answer": "Czerwone światło nie wpływa na pręciki w oku odpowiedzialne za widzenie w ciemności."
+      },
+      {
+        "question": "Czy czerwony ekran może pomóc ze snem?",
+        "answer": "Tak, czerwone światło mniej zakłóca produkcję melatoniny niż niebieskie światło."
+      },
+      {
+        "question": "Czy mogę używać czerwonego ekranu do fotografii?",
+        "answer": "Absolutnie! Tworzy dramatyczne i artystyczne efekty oświetleniowe."
+      },
+      {
+        "question": "Czy narzędzie działa na urządzeniach mobilnych?",
+        "answer": "Tak, czerwony ekran działa doskonale na wszystkich urządzeniach mobilnych."
+      },
+      {
+        "question": "Czy czerwony ekran jest bezpieczny dla oczu?",
+        "answer": "Tak, czerwony ekran jest ogólnie uważany za bezpieczny dla oczu i może pomóc zmniejszyć zmęczenie oczu."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specyfikacje techniczne",
+    "subtitle": "Szczegóły techniczne naszego narzędzia czerwonego ekranu",
+    "specs": [
+      {
+        "label": "Kolor",
+        "value": "#FF0000 (Czysty czerwony)"
+      },
+      {
+        "label": "Rozdzielczość",
+        "value": "Dostosowuje się do wszystkich ekranów"
+      },
+      {
+        "label": "Kompatybilność",
+        "value": "Wszystkie nowoczesne przeglądarki"
+      },
+      {
+        "label": "Specjalne zastosowanie",
+        "value": "Zachowane nocne widzenie"
+      }
+    ]
+  }
+} 

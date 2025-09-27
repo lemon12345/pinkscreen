@@ -1,0 +1,177 @@
+{
+  "hero": {
+    "badge": "Siyah Ekran Aracı",
+    "title": "Siyah Ekran | Çevrimiçi araç",
+    "description": "Çevrimiçi siyah ekran aracı. İkinci bir ekranı kapatmadan karartmak, bilgisayarın aktif olduğunu gizlemek ve enerji tasarrufu için kullanın.",
+    "features": {
+      "noRegistration": "Kayıt yok",
+      "worksOffline": "Çevrimdışı çalışır",
+      "allDevices": "Tüm cihazlar"
+    }
+  },
+  "keywords": "siyah ekran, siyah ekran online, ekran temizliği, ölü piksel testi, enerji tasarrufu, siyah arkaplan",
+  "colorPicker": {
+    "title": "Renginizi seçin",
+    "custom": "Özel",
+    "description": "Ekran temizliği, piksel testi ve parlaklık azaltma için mükemmel",
+    "launchButton": "Siyah ekranı başlat"
+  },
+  "colors": {
+    "Black": "Siyah Ekran",
+    "White": "Beyaz Ekran",
+    "Red": "Kırmızı Ekran",
+    "Blue": "Mavi Ekran",
+    "Green": "Yeşil Ekran",
+    "Yellow": "Sarı Ekran",
+    "Purple": "Mor Ekran",
+    "Pink": "Pembe Ekran",
+    "Orange": "Turuncu Ekran",
+    "Zoom Lighting": "Zoom Aydınlatması"
+  },
+  "interface": {
+    "livePreview": "Canlı önizleme",
+    "clickForFullscreen": "Tam ekran için tıklayın",
+    "current": "Mevcut",
+    "chooseYourColor": "Renginizi seçin",
+    "perfectFor": "İçin mükemmel",
+    "launchBlackScreen": "Siyah Ekranı Başlat"
+  },
+  "useCases": {
+    "title": "Siyah Ekran şu durumlarda kullanılır:",
+    "subtitle": "Siyah ekranımızın farklı kullanım yollarını keşfedin",
+    "description": "Siyah ekran aracımız enerji tasarrufu ve görsel dikkat dağınıklığını azaltmak için pratik çözümler sunar.",
+    "cases": [
+      {
+        "title": "kapatmadan ikinci monitörü karartmak için",
+        "description": "Atmosferik bir oyun oynarken veya buna değecek bir film izlerken ikinci monitörü kapatmadan hızla karartın",
+        "icon": "🖱️"
+      },
+      {
+        "title": "elektrik tasarrufu için",
+        "description": "Elektrik tasarrufu yapmaya çalışmak, karbon emisyonunu azaltmak.",
+        "icon": "⚡"
+      },
+      {
+        "title": "Bilgisayarın aktif olduğu gerçeğini gizlemek için",
+        "description": "Uyuduğumda 4 monitörümü uyutmak yerine koymak için.",
+        "icon": "🔒"
+      },
+      {
+        "title": "monitörü temizlemek için",
+        "description": "Ekranımı silerken lekeleri görmek daha kolay",
+        "icon": "🧹"
+      },
+      {
+        "title": "karanlık bir arka plan yapmak için",
+        "description": "Bir oyun için arka plan. Ekran çok büyük, 3440x1440. O kadar büyük oynamayı sevmiyorum, bu yüzden 2560x1440 yapıyorum. Her iki tarafta da siyah çerçevelere ihtiyacınız var.",
+        "icon": "🎮"
+      },
+      {
+        "title": "plazma TV'de yanmayı önlemeye yardımcı olmak için",
+        "description": "Eski bir plazma televizyonum var. Bilgisayar hoparlörüm yok, bu yüzden yüksek sesle müzik çalmak istediğimde televizyonumu açıp HDMI ile bağlıyorum. Plazma'lar yanmaya karşı oldukça hassastır, bu nedenle Windows Media Player'dan veya ekrandaki herhangi bir şeyden çıkmak yerine, yanmayı önlemek için siyah ekran kullanıyorum. Çeşitli web siteleri kullandım. Ancak çok uzun süre çevrimiçi kalamıyorlar.",
+        "icon": "📺"
+      },
+      {
+        "title": "ders çalışırken konsantre olmak",
+        "description": "Ders çalışırken ekranı kapatıp konsantre olmamak için. Eh, ekranım çok parlak ve konsantrasyona yardımcı olmuyor, siyah bir ekran bunu düzeltiyor.",
+        "icon": "📚"
+      },
+      {
+        "title": "gözleri rahatlatmak",
+        "description": "Çünkü bilgisayarımda müzik çalarken veya tamamen siyah ile başka bir şey arasında hızlıca geçiş yapmak istediğimde bile gözlerimi rahatlatmaya ve sadece siyah bir ekrana ihtiyacım var. En değerlisi, kalitesi, rengi ve geri kalanı ve tabii ki tam ekran moduna girip çıkmanın kolay olmasıdır.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Odak ve Minimalizm İçin Siyah Ekran",
+        "description": "Siyah ekran aracımızla minimalizmi benimseyin ve dağınıklıkları azaltın. Odak odaklı görevler veya dijital minimalizm uygulayan bireyler için idealdir.",
+        "icon": "🎯"
+      },
+      {
+        "title": "Enerji Tasarrufu İçin Siyah Ekran",
+        "description": "OLED ve AMOLED ekranlar için enerji tasarrufu çözümü olarak siyah ekran aracımızdan faydalanın. Siyah piksellerin gösterilmesi, pil korunmasına katkıda bulunabilir.",
+        "icon": "🔋"
+      },
+      {
+        "title": "Dijital Sanat İçin Siyah Ekran",
+        "description": "Sanatçılar, dijital sanatta çarpıcı bir kontrast yaratmak için tam ekran siyah gösterimimizi bir tuval olarak kullanabilirler. Siyah arka planlar, renklerin derinliğini ve yoğunluğunu artırabilir.",
+        "icon": "🎨"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Siyah ekran nasıl kullanılır",
+    "subtitle": "Aracımızdan en iyi şekilde yararlanmak için basit rehber",
+    "steps": [
+      "Paletten tercih ettiğiniz rengi seçin",
+      "Tam ekranda açmak için 'Başlat' butonuna tıklayın",
+      "Tam ekran modundan çıkmak için F11 veya ESC kullanın",
+      "Tercih ettiğiniz çözünürlükte görüntüyü indirin"
+    ]
+  },
+  "info": {
+    "title": "Siyah Ekran – Tam Ekran Arkaplan Aracı",
+    "subtitle": "Siyah ekran, temizlik için toz ve lekeleri belirginleştirir, pikselleri tespit etmeye yardımcı olur ve karanlık odalarda parlamayı azaltır",
+    "professionalTool": "Profesyonel Araç",
+    "downloadReady": "İndirme Hazır",
+    "downloadTitle": "Siyah Ekran Arkaplanı İndir",
+    "downloadDescription": "Profesyonel ihtiyaçlarınız için yüksek kaliteli siyah ekranlar alın",
+    "hdTitle": "1920×1080 Siyah Ekran Arkaplanı",
+    "hdDescription": "Ekran temizliği, ölü piksel testi ve göz konforu için saf tam ekran siyah görüntü",
+    "hdButton": "HD İndir",
+    "fourKTitle": "4K Siyah Ekran Arkaplanı",
+    "fourKDescription": "Parlama azaltma ve ekran testi için ultra HD siyah ekran görüntüsü",
+    "fourKButton": "4K İndir",
+    "proTipBadge": "Pro İpucu",
+    "proTipTitle": "Pro İpucu",
+    "proTipDescription": "Monitörünüzde parlaklık ve kontrast tepkisini test etmek için siyah ekranı beyaz veya kırmızı ekranlarla birlikte kullanın."
+  },
+  "faq": {
+    "title": "Sık sorulan sorular",
+    "subtitle": "Siyah ekran hakkında yaygın soruların cevapları",
+    "description": "Siyah ekran aracımızı çeşitli amaçlar için kullanma hakkında yaygın soruların cevaplarını bulun.",
+    "questions": [
+      {
+        "question": "Siyah Ekran aracı ne için kullanılır?",
+        "answer": "Siyah Ekran aracı tam ekran modunda siyah renk gösterir, genellikle ekran testi, ruh hali panoları, göz konforu, içerik oluşturma ve görsel yaratıcılığı artırmak için kullanılır."
+      },
+      {
+        "question": "Göz konforu için Siyah Ekranı nasıl kullanırım?",
+        "answer": "Siyah Ekran mavi ışık maruziyetini azaltır, gece saatlerinde göz atma veya uzun çalışma saatleri sırasında gözlerinizi daha az yorar. Göz yorgunluğunu azaltmaya ve görsel konforu iyileştirmeye yardımcı olur."
+      },
+      {
+        "question": "İçerik oluşturma için Siyah Ekranı kullanabilir miyim?",
+        "answer": "Evet! Siyah Ekran çevrimiçi içerik, sanal sınıflar veya canlı yayınlar için sıcak, davetkar arka planlar oluşturmak için mükemmeldir. İçeriğinize enerji ve pozitiflik katar."
+      },
+      {
+        "question": "Ekran testi için neden Siyah Ekran kullanılır?",
+        "answer": "Siyah, ekran doğruluğunu ve renk kalibrasyonunu test etmek için mükemmel bir renktir. Renk sorunlarını tanımlamaya ve optimal görüntüleme için monitör ayarlarını ince ayarlamaya yardımcı olur."
+      },
+      {
+        "question": "Siyah Ekran yaratıcılık için iyi mi?",
+        "answer": "Evet, siyah yaratıcılık ve iyimserlikle ilişkilendirilir. Siyah Ekran yaratıcı düşünceyi ilham verebilir ve tasarım projeleri ve sanatsal çalışmalar için bir ruh hali panosu olarak hizmet edebilir."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Teknik özellikler",
+    "subtitle": "Siyah ekran aracımızın teknik detayları",
+    "specs": [
+      {
+        "label": "Renk",
+        "value": "#000000 (Saf siyah)"
+      },
+      {
+        "label": "Çözünürlük",
+        "value": "Tüm ekranlara uyum sağlar"
+      },
+      {
+        "label": "Uyumluluk",
+        "value": "Tüm modern tarayıcılar"
+      },
+      {
+        "label": "Tüketim",
+        "value": "OLED ekranlarda minimal"
+      }
+    ]
+  }
+} 

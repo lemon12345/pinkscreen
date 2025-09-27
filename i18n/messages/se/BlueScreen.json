@@ -1,0 +1,162 @@
+{
+  "hero": {
+    "badge": "Blå Skärm Verktyg",
+    "title": "Blå Skärm | Onlineverktyg",
+    "description": "Blå skärm online för att hitta smutsiga fläckar eller testa döda pixlar på skärmen. Gratis verktyg för test och rengöring av monitorer.",
+    "features": {
+      "noRegistration": "Ingen registrering",
+      "worksOffline": "Fungerar offline",
+      "allDevices": "Alla enheter"
+    }
+  },
+  "keywords": "blå skärm, blå bakgrund, blå skärm online, blå färg, lugnande effekt, färgtest",
+  "colorPicker": {
+    "title": "Välj din färg",
+    "custom": "Anpassad",
+    "description": "Perfekt för att skapa lugnande atmosfär och färgtester",
+    "launchButton": "Starta blå skärm"
+  },
+  "colors": {
+    "Black": "Svart Skärm",
+    "White": "Vit Skärm",
+    "Red": "Röd Skärm",
+    "Blue": "Blå Skärm",
+    "Green": "Grön Skärm",
+    "Yellow": "Gul Skärm",
+    "Purple": "Lila Skärm",
+    "Pink": "Rosa Skärm",
+    "Orange": "Orange Skärm",
+    "Zoom Lighting": "Zoom-belysning"
+  },
+  "interface": {
+    "livePreview": "Live-förhandsvisning",
+    "clickForFullscreen": "Klicka för helskärm",
+    "current": "Aktuell",
+    "chooseYourColor": "Välj din färg",
+    "perfectFor": "Perfekt för",
+    "launchBlueScreen": "Starta Blå Skärm"
+  },
+  "useCases": {
+    "title": "Människor använder blå skärm för:",
+    "subtitle": "Upptäck de olika sätten att använda vår blå skärm",
+    "description": "Vårt blå skärmverktyg erbjuder lugnande och professionella lösningar för olika användningsområden.",
+    "cases": [
+      {
+        "title": "Avkoppling med blå skärminställning",
+        "description": "Upptäck den lugnande kraften hos vår helskärm med blå visning. Dess lugnande blå toner kan hjälpa till att minska stress och främja avkoppling efter en lång dag.",
+        "icon": "😌"
+      },
+      {
+        "title": "Hjälp för sömnen med blå skärmverktyget",
+        "description": "Vårt blåa skärmverktyg kan användas som ett sömnhjälpmedel. Den mjuka, lugnande blåa belysningen är känd för att främja sömnighet och förbättra din sömnkvalitet.",
+        "icon": "😴"
+      },
+      {
+        "title": "Blått ljusfilter mot digitalt ögontrötthet",
+        "description": "Använd vår helskärm med blå visning som ett blått ljusfilter för att lindra digital ögontrötthet. Perfekt för långa timmar framför skärmen, kan det bidra till att bibehålla din ögonhälsa.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Blå skärm för konstnärlig inspiration",
+        "description": "Konstnärer och formgivare kan använda vårt blåa skärmverktyg för inspiration. De djupa, lugnande nyanserna av blått kan väcka kreativitet och stimulera fantasifullt tänkande.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Blå skärm som visuellt hjälpmedel i presentationer",
+        "description": "Använd vårt blåa skärmverktyg som ett visuellt hjälpmedel i presentationer. Den blå bakgrunden kan hjälpa till att framhäva text och bilder, vilket förbättrar kommunikation och förståelse.",
+        "icon": "📊"
+      },
+      {
+        "title": "Blå skärm för att skapa videor",
+        "description": "Eftersom mina YouTube-videor blir bättre med en blå skärm och för att gröna skärmar är överskattade.",
+        "icon": "🎬"
+      },
+      {
+        "title": "Blå skärm för att kopiera bild",
+        "description": "För att kopiera en bild som min klasskamrat ritade.",
+        "icon": "💻"
+      },
+      {
+        "title": "Blå skärm för att skapa en känsla",
+        "description": "Jag gillar den känsla den ger.",
+        "icon": "💙"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Hur man använder blå skärm",
+    "subtitle": "Enkel guide för att få ut det mesta av vårt verktyg",
+    "steps": [
+      "Välj din föredragna färg från paletten",
+      "Klicka på 'Starta'-knappen för att öppna i helskärm",
+      "Använd F11 eller ESC för att lämna helskärmsläge",
+      "Ladda ner bilden i din föredragna upplösning"
+    ]
+  },
+  "info": {
+    "title": "Blå Skärm – Helskärmsbakgrundsverktyg",
+    "subtitle": "Blå skärmar minskar ögonansträngning och främjar lugn, perfekt för fokusläge och skärmtestning",
+    "professionalTool": "Professionellt verktyg",
+    "downloadReady": "Nedladdning redo",
+    "downloadTitle": "Ladda ner Blå Skärm Bakgrund",
+    "downloadDescription": "Få högkvalitativa blå skärmar för dina professionella behov",
+    "hdTitle": "1920×1080 Blå Skärm Bakgrund",
+    "hdDescription": "Ren helskärm blå bild för fokus, belysning och testning",
+    "hdButton": "Ladda ner HD",
+    "fourKTitle": "4K Blå Skärm Bakgrund",
+    "fourKDescription": "Helskärm blå skärmbild i ultra HD för mjuk belysning och visuell klarhet",
+    "fourKButton": "Ladda ner 4K",
+    "proTipBadge": "Pro-tips",
+    "proTipTitle": "Pro-tips",
+    "proTipDescription": "Växla mellan vita, svarta eller blå skärmar för att justera din omgivningsbelysning beroende på din aktivitet eller stämning."
+  },
+  "faq": {
+    "title": "Vanliga frågor",
+    "subtitle": "Svar på vanliga frågor om blå skärm",
+    "description": "Hitta svar på vanliga frågor om att använda vårt blåa skärmverktyg för olika ändamål.",
+    "questions": [
+      {
+        "question": "Vad används ett Blå Skärmverktyg till?",
+        "answer": "Ett Blå Skärmverktyg visar en blå färg i helskärmsläge, vanligtvis använt för skärmtestning, ruh hali panolar, ögonkomfort, innehållsskapande och förbättring av visuell kreativitet."
+      },
+      {
+        "question": "Hur använder jag Blå Skärm för ögonkomfort?",
+        "answer": "Den Blå Skärmen minskar blått ljus exponering, vilket gör det lättare för dina ögon under nattsurfning eller långa arbetstimmar. Det hjälper till att minska ögonansträngning och förbättra visuell komfort."
+      },
+      {
+        "question": "Kan jag använda Blå Skärm för innehållsskapande?",
+        "answer": "Ja! Den Blå Skärmen är perfekt för att skapa varma, inbjudande bakgrunder för onlineinnehåll, virtuella klasser eller livestreams. Den lägger till energi och positivitet till ditt innehåll."
+      },
+      {
+        "question": "Varför använda Blå Skärm för skärmtestning?",
+        "answer": "Blå är en utmärkt färg för att testa skärmnoggrannhet och färgkalibrering. Det hjälper till att identifiera färgproblem och finjustera monitorinställningar för optimal visning."
+      },
+      {
+        "question": "Är Blå Skärm bra för kreativitet?",
+        "answer": "Ja, blå är associerat med kreativitet och optimism. En Blå Skärm kan inspirera kreativt tänkande och fungera som en ruh hali panel för designprojekt och konstnärligt arbete."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Tekniska specifikationer",
+    "subtitle": "Tekniska detaljer för vårt blå skärmverktyg",
+    "specs": [
+      {
+        "label": "Färg",
+        "value": "#0000FF (Ren blå)"
+      },
+      {
+        "label": "Upplösning",
+        "value": "Anpassar sig till alla skärmar"
+      },
+      {
+        "label": "Kompatibilitet",
+        "value": "Alla moderna webbläsare"
+      },
+      {
+        "label": "Tillämpning",
+        "value": "Skärmtest och diagnostik"
+      }
+    ]
+  }
+} 

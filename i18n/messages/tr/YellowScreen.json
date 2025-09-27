@@ -1,0 +1,167 @@
+{
+  "hero": {
+    "badge": "Sarı Ekran Aracı",
+    "title": "Sarı Ekran | Çevrimiçi araç",
+    "description": "Yaratıcılığı teşvik etmek, göz yorgunluğunu azaltmak ve sıcak atmosfer yaratmak için çevrimiçi sarı ekran. Çalışma ve rahatlama için mükemmel.",
+    "features": {
+      "noRegistration": "Kayıt yok",
+      "worksOffline": "Çevrimdışı çalışır",
+      "allDevices": "Tüm cihazlar"
+    }
+  },
+  "keywords": "sarı ekran, sarı arkaplan, sarı ekran online, sarı renk, yaratıcılık, iyimserlik, konsantrasyon",
+  "colorPicker": {
+    "title": "Renginizi seçin",
+    "custom": "Özel",
+    "description": "Yaratıcılığı uyarmak ve konsantrasyonu artırmak için mükemmel",
+    "launchButton": "Sarı ekranı başlat"
+  },
+  "colors": {
+    "Black": "Siyah Ekran",
+    "White": "Beyaz Ekran",
+    "Red": "Kırmızı Ekran",
+    "Blue": "Mavi Ekran",
+    "Green": "Yeşil Ekran",
+    "Yellow": "Sarı Ekran",
+    "Purple": "Mor Ekran",
+    "Pink": "Pembe Ekran",
+    "Orange": "Turuncu Ekran",
+    "Zoom Lighting": "Zoom Aydınlatması"
+  },
+  "interface": {
+    "livePreview": "Canlı önizleme",
+    "clickForFullscreen": "Tam ekran için tıklayın",
+    "current": "Mevcut",
+    "chooseYourColor": "Renginizi seçin",
+    "perfectFor": "İçin mükemmel",
+    "launchYellowScreen": "Sarı Ekranı Başlat"
+  },
+  "useCases": {
+    "title": "İnsanlar sarı ekranı şunun için kullanır:",
+    "subtitle": "Sarı ekranımızın farklı kullanım yollarını keşfedin",
+    "description": "Sarı ekran aracımız ilham verici çalışma ortamları için yaratıcılığı ve iyimserliği uyarır.",
+    "cases": [
+      {
+        "title": "İçerik için Çok Yönlü Sarı Arka Plan",
+        "description": "İzleyicinizi tam ekran sarı bir gösterimle sıcak ve davetkar bir ortamda sürükleyin. Çevrimiçi içeriğinize, sanal sınıflarınıza veya canlı yayınlarınıza enerji ve pozitiflik katmak için idealdir.",
+        "icon": "☀️"
+      },
+      {
+        "title": "Göz Rahatlığı İçin Sarı Ekran",
+        "description": "Sarı renkli bir ekranla görsel rahatlığı artırın. Mavi ışıktan kaynaklanan göz yorgunluğunu azaltmak, özellikle gece gözatma veya uzun çalışma saatlerinde, için aracımızı kullanın.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Yaratıcı Ruh Tahtası Başlangıcı",
+        "description": "Yaratıcı projelerinizi sarı bir ruh tahtasıyla başlatın. Tam ekran sarı gösterimimiz yaratıcı düşünmeyi ve tasarım kavramlarını ilham almanıza yardımcı olabilir.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Cihaz Ekran Testi",
+        "description": "Gösterim cihazınızın renk doğruluğunu tam ekran sarı çıkışla test edin. Monitörlerin, tabletlerin veya akıllı telefonların renk ayarlarını ince ayarlamak için kullanışlı bir araçtır.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "Etkileşimli Öğretim Yardımı",
+        "description": "Sanal sınıflarda öğretim yardımı olarak tam ekran sarı bir gösterim kullanın. Öğrenme materyallerini sunmak, bilgileri vurgulamak ve öğrenci dikkatini çekmek için etkileyici bir arka plan olarak hizmet edebilir.",
+        "icon": "📚"
+      },
+      {
+        "title": "Bir atmosfer yaratmak için sarı ekran",
+        "description": "Verdiği atmosferi seviyorum",
+        "icon": "💛"
+      },
+      {
+        "title": "Resim kopyalamak için sarı ekran",
+        "description": "Sınıf arkadaşımın çizdiği bir resmi kopyalamak için",
+        "icon": "💻"
+      },
+      {
+        "title": "Video yapmak için sarı ekran",
+        "description": "YouTube videolarım sarı ekranla daha iyi & çünkü yeşil ekranlar abartılı",
+        "icon": "🌙"
+      },
+      {
+        "title": "Çevrimiçi aramalar için sarı ekran",
+        "description": "Toplantı sırasında sarı bir parıltı eklemek için.",
+        "icon": "📖"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Sarı ekran nasıl kullanılır",
+    "subtitle": "Aracımızdan en iyi şekilde yararlanmak için basit rehber",
+    "steps": [
+      "Paletten tercih ettiğiniz rengi seçin",
+      "Tam ekranda açmak için 'Başlat' butonuna tıklayın",
+      "Tam ekran modundan çıkmak için F11 veya ESC kullanın",
+      "Tercih ettiğiniz çözünürlükte görüntüyü indirin"
+    ]
+  },
+  "info": {
+    "title": "Sarı Ekran – Tam Ekran Arkaplan Aracı",
+    "subtitle": "Sarı ekran görünürlük ve odaklanma için yüksek kontrast sağlar, monitör temizliği ve ruh hali geliştirme için mükemmel",
+    "professionalTool": "Profesyonel Araç",
+    "downloadReady": "İndirme Hazır",
+    "downloadTitle": "Sarı Ekran Arkaplanı İndir",
+    "downloadDescription": "Profesyonel ihtiyaçlarınız için yüksek kaliteli sarı ekranlar alın",
+    "hdTitle": "1920×1080 Sarı Ekran Arkaplanı",
+    "hdDescription": "Ortam aydınlatması, ekran temizliği ve görsel uyarım için tam ekran parlak sarı görüntü",
+    "hdButton": "HD İndir",
+    "fourKTitle": "4K Sarı Ekran Arkaplanı",
+    "hdDescription": "Parlaklık, ekran kalibrasyonu ve yaratıcı projeler için ultra HD sarı görüntü",
+    "fourKButton": "4K İndir",
+    "proTipBadge": "Pro İpucu",
+    "proTipTitle": "Pro İpucu",
+    "proTipDescription": "Sıcak tonlu videolar için yaratıcı ışık kaynağı olarak sarı ekranı kullanın veya gün boyunca çalışma alanınızı enerjilendirin."
+  },
+  "faq": {
+    "title": "Sık sorulan sorular",
+    "subtitle": "Sarı ekran hakkında yaygın soruların cevapları",
+    "description": "Sarı ekran aracımızı çeşitli amaçlar için kullanma hakkında yaygın soruların cevaplarını bulun.",
+    "questions": [
+      {
+        "question": "Sarı Ekran aracı ne için kullanılır?",
+        "answer": "Sarı Ekran aracı tam ekran modunda sarı renk gösterir, genellikle ekran testi, ruh hali panoları, göz konforu, içerik oluşturma ve görsel yaratıcılığı artırmak için kullanılır."
+      },
+      {
+        "question": "Göz konforu için Sarı Ekranı nasıl kullanırım?",
+        "answer": "Sarı Ekran mavi ışık maruziyetini azaltır, gece saatlerinde göz atma veya uzun çalışma saatleri sırasında gözlerinizi daha az yorar. Göz yorgunluğunu azaltmaya ve görsel konforu iyileştirmeye yardımcı olur."
+      },
+      {
+        "question": "İçerik oluşturma için Sarı Ekranı kullanabilir miyim?",
+        "answer": "Evet! Sarı Ekran çevrimiçi içerik, sanal sınıflar veya canlı yayınlar için sıcak, davetkar arka planlar oluşturmak için mükemmeldir. İçeriğinize enerji ve pozitiflik katar."
+      },
+      {
+        "question": "Ekran testi için neden Sarı Ekran kullanılır?",
+        "answer": "Sarı, ekran doğruluğunu ve renk kalibrasyonunu test etmek için mükemmel bir renktir. Renk sorunlarını tanımlamaya ve optimal görüntüleme için monitör ayarlarını ince ayarlamaya yardımcı olur."
+      },
+      {
+        "question": "Sarı Ekran yaratıcılık için iyi mi?",
+        "answer": "Evet, sarı yaratıcılık ve iyimserlikle ilişkilendirilir. Sarı Ekran yaratıcı düşünceyi ilham verebilir ve tasarım projeleri ve sanatsal çalışmalar için bir ruh hali panosu olarak hizmet edebilir."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Teknik özellikler",
+    "subtitle": "Sarı ekran aracımızın teknik detayları",
+    "specs": [
+      {
+        "label": "Renk",
+        "value": "#FFFF00 (Saf sarı)"
+      },
+      {
+        "label": "Çözünürlük",
+        "value": "Tüm ekranlara uyum sağlar"
+      },
+      {
+        "label": "Uyumluluk",
+        "value": "Tüm modern tarayıcılar"
+      },
+      {
+        "label": "Faydalar",
+        "value": "Yaratıcılık ve refah"
+      }
+    ]
+  }
+} 

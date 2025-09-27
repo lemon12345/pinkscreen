@@ -1,0 +1,167 @@
+{
+  "hero": {
+    "badge": "Ferramenta de Tela Rosa",
+    "title": "Tela Rosa | Ferramenta Online",
+    "description": "Tela rosa pastel em tela cheia para suavidade visual, relaxamento, gravações suaves e foco em tons delicados. Simples, sem anúncios e sem distrações.",
+    "features": {
+      "noRegistration": "Sem registo",
+      "worksOffline": "Funciona offline",
+      "allDevices": "Todos os dispositivos"
+    }
+  },
+  "keywords": "tela rosa, fundo rosa, tela rosa online, cor rosa, suavidade, relaxamento, criatividade",
+  "colorPicker": {
+    "title": "Escolha sua cor",
+    "custom": "Personalizado",
+    "description": "Perfeito para criar atmosfera suave e tranquilizante",
+    "launchButton": "Iniciar tela rosa"
+  },
+  "colors": {
+    "Black": "Tela Preta",
+    "White": "Tela Branca",
+    "Red": "Tela Vermelha",
+    "Blue": "Tela Azul",
+    "Green": "Tela Verde",
+    "Yellow": "Tela Amarela",
+    "Purple": "Tela Roxa",
+    "Pink": "Tela Rosa",
+    "Orange": "Tela Laranja",
+    "Zoom Lighting": "Iluminação para Zoom"
+  },
+  "interface": {
+    "livePreview": "Pré-visualização ao vivo",
+    "clickForFullscreen": "Clique para tela cheia",
+    "current": "Atual",
+    "chooseYourColor": "Escolha sua cor",
+    "perfectFor": "Perfeito para",
+    "launchPinkScreen": "Iniciar Tela Rosa"
+  },
+  "useCases": {
+    "title": "As pessoas usam a tela rosa para:",
+    "subtitle": "Descubra as diferentes formas de usar nossa tela rosa",
+    "description": "Nossa ferramenta de tela rosa cria uma atmosfera suave e tranquilizante, ideal para relaxamento e ambientes criativos.",
+    "cases": [
+      {
+        "title": "Fundo Rosa para Criação de Conteúdo",
+        "description": "Alcance sem esforço um plano de fundo rosa para a criação de seu conteúdo online. Esta ferramenta oferece uma exibição rosa em tela cheia, perfeita para adicionar uma explosão de cor vibrante aos seus vídeos, transmissões ao vivo e apresentações virtuais.",
+        "icon": "🎬"
+      },
+      {
+        "title": "Fácil Terapia com Luz Rosa",
+        "description": "Transforme sua tela em uma fonte terapêutica de luz rosa. Beneficie-se dos efeitos calmantes da terapia com luz rosa diretamente da tela do seu dispositivo. Ideal para relaxamento, melhoria do humor e redução do estresse.",
+        "icon": "💖"
+      },
+      {
+        "title": "Inspiração para Design Visual",
+        "description": "Inspire sua criatividade em design com uma tela rosa completa. Nossa ferramenta permite que designers se imerjam na cor rosa, estimulando ideias criativas para projetos de design.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Teste de Calibração de Cores",
+        "description": "Avalie a precisão da cor de sua tela com a exibição rosa de nossa ferramenta. Perfeito para verificar a fidelidade da tonalidade rosa em diferentes dispositivos e configurações de tela.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "Exibição que Chama a Atenção",
+        "description": "Chame a atenção com uma exibição rosa em tela cheia durante apresentações online, webinars ou reuniões virtuais. Use nossa ferramenta para enfatizar momentos chave e envolver seu público de uma forma única.",
+        "icon": "✨"
+      },
+      {
+        "title": "tela rosa para criar uma vibe",
+        "description": "Gosto da vibe que a cor rosa proporciona",
+        "icon": "💕"
+      },
+      {
+        "title": "tela rosa para copiar imagem",
+        "description": "Para copiar uma imagem que meu colega desenhou",
+        "icon": "💻"
+      },
+      {
+        "title": "tela rosa para fazer vídeos",
+        "description": "Porque meus vídeos do YouTube são melhores com uma tela rosa",
+        "icon": "📹"
+      },
+      {
+        "title": "tela rosa para chamadas online",
+        "description": "Para adicionar um brilho rosa durante a reunião.",
+        "icon": "📞"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Como usar a tela rosa",
+    "subtitle": "Guia simples para aproveitar ao máximo nossa ferramenta",
+    "steps": [
+      "Escolha sua cor preferida da paleta",
+      "Clique no botão 'Iniciar' para abrir em tela cheia",
+      "Use F11 ou ESC para sair do modo tela cheia",
+      "Baixe a imagem na resolução de sua preferência"
+    ]
+  },
+  "info": {
+    "title": "Tela Rosa – Ferramenta de Fundo de Tela Cheia",
+    "subtitle": "Experimente o equilíbrio perfeito entre calor e profissionalismo com nossa ferramenta avançada de tela rosa",
+    "professionalTool": "Ferramenta Profissional",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Baixar Fundo de Tela Rosa",
+    "downloadDescription": "Obtenha telas rosas de alta qualidade para suas necessidades profissionais",
+    "hdTitle": "1920×1080 HD",
+    "hdDescription": "Resolução HD padrão perfeita para a maioria dos displays, streaming e uso diário",
+    "hdButton": "Baixar HD",
+    "fourKTitle": "3840×2160 4K",
+    "fourKDescription": "Resolução Ultra HD para uso profissional, displays de alta qualidade e conteúdo premium",
+    "fourKButton": "Baixar 4K",
+    "proTipBadge": "Dica Pro",
+    "proTipTitle": "Uso Profissional Criativo",
+    "proTipDescription": "Use telas rosas em suas configurações criativas para adicionar um tom visual único e elegante em fotografias ou fundos de transmissão ao vivo. O tom quente cria uma atmosfera acolhedora mantendo qualidade profissional para seu conteúdo."
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "subtitle": "Respostas para perguntas comuns sobre a tela rosa",
+    "description": "Encontre respostas para perguntas comuns sobre o uso de nossa ferramenta de tela rosa para vários propósitos.",
+    "questions": [
+      {
+        "question": "Para que é usada uma ferramenta de Tela Rosa?",
+        "answer": "Uma ferramenta de Tela Rosa exibe uma cor rosa em modo tela cheia, comumente usada para teste de tela, painéis de humor, conforto ocular, criação de conteúdo e aprimoramento da criatividade visual."
+      },
+      {
+        "question": "Como usar a Tela Rosa para conforto ocular?",
+        "answer": "A Tela Rosa reduz a exposição à luz azul, tornando mais fácil para seus olhos durante a navegação noturna ou longas horas de trabalho. Ajuda a reduzir a tensão ocular e melhorar o conforto visual."
+      },
+      {
+        "question": "Posso usar a Tela Rosa para criação de conteúdo?",
+        "answer": "Sim! A Tela Rosa é perfeita para criar fundos quentes e convidativos para conteúdo online, aulas virtuais ou transmissões ao vivo. Adiciona energia e positividade ao seu conteúdo."
+      },
+      {
+        "question": "Por que usar a Tela Rosa para teste de tela?",
+        "answer": "O rosa é uma excelente cor para testar a precisão do display e calibração de cores. Ajuda a identificar problemas de cor e ajustar configurações do monitor para visualização ideal."
+      },
+      {
+        "question": "A Tela Rosa é boa para criatividade?",
+        "answer": "Sim, o rosa está associado à criatividade e otimismo. Uma Tela Rosa pode inspirar o pensamento criativo e servir como uma placa de humor para projetos de design e trabalho artístico."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificações técnicas",
+    "subtitle": "Detalhes técnicos da nossa ferramenta de tela rosa",
+    "specs": [
+      {
+        "label": "Cor",
+        "value": "#FFC0CB (Rosa delicado)"
+      },
+      {
+        "label": "Resolução",
+        "value": "Adapta-se a todas as telas"
+      },
+      {
+        "label": "Compatibilidade",
+        "value": "Todos os navegadores modernos"
+      },
+      {
+        "label": "Benefícios",
+        "value": "Relaxamento e bem-estar"
+      }
+    ]
+  }
+} 

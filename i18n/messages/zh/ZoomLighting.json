@@ -1,0 +1,151 @@
+{
+  "hero": {
+    "title": "Zoom通话照明 | 在线工具",
+    "description": "使用这个全屏白屏在Zoom通话、YouTube视频或拍照时照亮你的脸部。干净、快速、无广告。",
+    "badge": "免费在线工具",
+    "features": {
+      "noRegistration": "无需注册",
+      "worksOffline": "离线工作",
+      "allDevices": "所有设备"
+    }
+  },
+  "keywords": "Zoom通话的最佳照明、Zoom照明、Zoom会议照明、Zoom会议灯光、视频会议照明、Zoom会议最佳灯光、Zoom照明套件、最佳Zoom照明、视频会议最佳灯光",
+  "colorPicker": {
+    "title": "选择您的颜色",
+    "custom": "自定义",
+    "description": "完美适用于视频会议、摄影背景和创建最佳照明条件",
+    "launchButton": "启动Zoom照明"
+  },
+  "colors": {
+    "Black": "黑屏",
+    "White": "白屏",
+    "Red": "红屏",
+    "Blue": "蓝屏",
+    "Green": "绿屏",
+    "Yellow": "黄屏",
+    "Purple": "紫屏",
+    "Pink": "粉屏",
+    "Orange": "橙屏",
+    "Zoom Lighting": "Zoom照明"
+  },
+  "useCases": {
+    "title": "人们使用Zoom照明用于：",
+    "description": "我们的Zoom照明工具在多个行业和场景中服务于各种专业和个人目的。",
+    "cases": [
+      {
+        "icon": "💡",
+        "title": "视频会议的定制照明",
+        "description": "使用我们的Zoom照明屏幕工具为您的视频通话创建完美的照明设置。通过可调节的颜色和温度，您可以轻松实现专业级别的视频会议照明。"
+      },
+      {
+        "icon": "📸",
+        "title": "使用Zoom照明屏幕的摄影背景",
+        "description": "使用我们可调节的Zoom照明屏幕增强您的摄影设置。调整颜色和温度以适应您摄影的 mood，创建令人惊叹的图像。"
+      },
+      {
+        "icon": "🎓",
+        "title": "使用最佳照明改善eLearning体验",
+        "description": "使用我们的Zoom照明屏幕，为eLearning创建有利的学习环境。可自定义的光设置确保最佳阅读舒适度和提高注意力。"
+      },
+      {
+        "icon": "💻",
+        "title": "Web开发者的照明测试工具",
+        "description": "Web开发者可以使用我们的全屏Zoom照明屏幕来测试不同的光温度和颜色如何影响其设计的外观，帮助创建视觉上吸引人且可访问的网站。"
+      },
+      {
+        "icon": "🧘",
+        "title": "使用Zoom照明屏幕的色彩疗法",
+        "description": "治疗师和健康教练可以利用我们具有可调节颜色和温度的Zoom照明屏幕进行色彩疗法课程，促进放松和治愈。"
+      },
+      {
+        "icon": "📹",
+        "title": "白屏作为Zoom通话的照明",
+        "description": "用于视频通话！我没有简单的环形灯，但有两个屏幕。所以我可以使用其中一个屏幕来照亮我的脸！"
+      },
+      {
+        "icon": "✨",
+        "title": "Zoom照明以获得亮度",
+        "description": "我在视频通话时用它来获得亮度"
+      },
+      {
+        "icon": "💡",
+        "title": "Zoom照明将我的显示器变成灯",
+        "description": "将我的显示器变成灯以抵消视频通话中的背光"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "questions": [
+      {
+        "question": "Zoom照明用于什么？",
+        "answer": "Zoom照明用于为视频会议、摄影、eLearning和各种专业应用创建最佳照明条件，其中适当的照明是必不可少的。"
+      },
+      {
+        "question": "如何在视频通话中使用Zoom照明？",
+        "answer": "只需打开我们的Zoom照明屏幕并调整色温和亮度，为您的视频通话创建完美的照明。温暖、可调节的照明有助于改善您在相机上的外观。"
+      },
+      {
+        "question": "可以将Zoom照明用于摄影吗？",
+        "answer": "是的！我们的Zoom照明屏幕提供可调节的颜色和温度设置，非常适合摄影背景和为您的摄影创建理想的照明条件。"
+      },
+      {
+        "question": "为什么在eLearning中使用Zoom照明？",
+        "answer": "适当的照明对eLearning环境至关重要。我们的Zoom照明屏幕创造最佳阅读条件并帮助减轻眼疲劳，提高注意力和学习成果。"
+      },
+      {
+        "question": "Zoom照明对Web开发有好处吗？",
+        "answer": "是的，Web开发者可以使用我们的Zoom照明屏幕来测试不同照明条件如何影响其设计的外观，确保他们的网站在各种照明场景下看起来都很棒。"
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "其他屏幕工具",
+    "description": "探索我们为各种目的而设计的专业屏幕工具集合。",
+    "colorScreens": "彩色屏幕",
+    "prankScreens": "恶作剧屏幕",
+    "fakeUpdateScreens": "虚假更新屏幕",
+    "screensaverScreens": "屏保屏幕"
+  },
+  "howToUse": {
+    "title": "使用方法",
+    "steps": [
+      "从调色板中选择您喜欢的颜色",
+      "点击启动按钮在全屏模式下打开",
+      "使用F11或ESC退出全屏模式",
+      "以您喜欢的分辨率下载图像"
+    ]
+  },
+  "techSpecs": {
+    "title": "技术规格",
+    "specs": [
+      "分辨率：高达8K (7680x4320)",
+      "颜色深度：24位RGB",
+      "格式：PNG、JPEG、WebP",
+      "兼容性：所有现代浏览器",
+      "离线功能：完全可用"
+    ]
+  },
+  "temperatureControl": {
+    "title": "温度控制",
+    "temperature": "温度",
+    "description": "调整色温为您的视频通话创建完美的照明。较低的值产生暖光，较高的值产生冷光。"
+  },
+  "info": {
+    "professionalTool": "专业工具",
+    "title": "下载Zoom照明背景",
+    "subtitle": "使用这个全屏白屏在Zoom通话、YouTube视频或照片拍摄中照亮您的脸部。干净、快速、无广告。",
+    "downloadReady": "下载就绪",
+    "downloadTitle": "Zoom照明背景",
+    "downloadDescription": "更喜欢静态的zoom照明图像？使用我们的高分辨率PNG：",
+    "hdTitle": "1920x1080 Zoom照明背景",
+    "hdDescription": "适合标准高清显示器和视频通话。为Zoom会议和视频会议优化。",
+    "hdButton": "下载高清",
+    "fourKTitle": "4K Zoom照明背景",
+    "fourKDescription": "用于视频会议中照亮您脸部的超高清全屏白色背景。适合高分辨率显示器。",
+    "fourKButton": "下载4K",
+    "proTipBadge": "专业提示",
+    "proTipTitle": "最大化您的视频通话照明",
+    "proTipDescription": "最大化屏幕亮度并将显示器放在您面前，以在通话期间获得最佳照明效果。"
+  }
+}

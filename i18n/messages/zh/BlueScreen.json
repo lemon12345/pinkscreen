@@ -1,0 +1,155 @@
+{
+  "hero": {
+    "badge": "蓝色屏幕工具",
+    "title": "蓝色屏幕 | 在线工具",
+    "description": "使用这个全屏蓝屏工具提高专注力、获得平静光线、进行Zoom通话或像素测试。100%无广告，适用于所有设备。",
+    "features": {
+      "noRegistration": "无需注册",
+      "worksOffline": "离线工作",
+      "allDevices": "所有设备"
+    }
+  },
+  "keywords": "蓝屏、蓝显示器、蓝屏、浅蓝屏、假蓝屏、空白蓝屏、深蓝屏、蓝屏视图、电脑蓝屏、计算机蓝屏",
+  "colorPicker": {
+    "title": "选择您的颜色",
+    "custom": "自定义",
+    "description": "完美适用于查找污点、测试死像素或创建平静的蓝色环境",
+    "launchButton": "启动蓝屏"
+  },
+  "colors": {
+    "Blue": "蓝屏",
+    "White": "白屏",
+    "Black": "黑屏",
+    "Red": "红屏",
+    "Green": "绿屏",
+    "Yellow": "黄屏",
+    "Purple": "紫屏",
+    "Pink": "粉屏",
+    "Orange": "橙屏",
+    "Zoom Lighting": "Zoom照明"
+  },
+  "interface": {
+    "livePreview": "实时预览",
+    "clickForFullscreen": "点击全屏",
+    "current": "当前",
+    "chooseYourColor": "选择您的颜色",
+    "perfectFor": "完美适用于",
+    "launchBlueScreen": "启动蓝屏"
+  },
+  "useCases": {
+    "title": "人们使用蓝屏用于：",
+    "description": "我们的蓝屏工具在多个行业和场景中服务于各种专业和个人目的。",
+    "cases": [
+      {
+        "icon": "😌",
+        "title": "蓝屏显示的放松",
+        "description": "发现我们全屏蓝色显示的舒缓力量。其平静的蓝色色调可以帮助减轻压力，在漫长的一天后促进放松。"
+      },
+      {
+        "icon": "😴",
+        "title": "蓝屏工具的睡眠辅助",
+        "description": "我们的蓝屏工具可以用作睡眠辅助。柔和的平静蓝光已知可以促进睡意并改善您的睡眠质量。"
+      },
+      {
+        "icon": "👁️",
+        "title": "数字眼疲劳的蓝光过滤器",
+        "description": "使用我们的全屏蓝色显示器作为蓝光过滤器来缓解数字眼疲劳。适合长时间屏幕使用，可以帮助维护您的眼部健康。"
+      },
+      {
+        "icon": "🎨",
+        "title": "艺术灵感的蓝屏",
+        "description": "艺术家和设计师可以使用我们的蓝屏工具获得灵感。深沉宁静的蓝色色调可以激发创造力并促进富有想象力的思维。"
+      },
+      {
+        "icon": "📊",
+        "title": "演示中的视觉辅助蓝屏",
+        "description": "使用我们的蓝屏工具作为演示中的视觉辅助。蓝色背景可以帮助强调文本和图像，增强沟通和理解。"
+      },
+      {
+        "icon": "🎬",
+        "title": "视频创作的蓝屏",
+        "description": "因为我的YouTube视频用蓝屏更好，而且绿屏被高估了"
+      },
+      {
+        "icon": "📷",
+        "title": "图像复制的蓝屏",
+        "description": "复制我同学画的图像"
+      },
+      {
+        "icon": "✨",
+        "title": "创造氛围的蓝屏",
+        "description": "我喜欢它给人的氛围"
+      }
+    ]
+  },
+  "info": {
+    "title": "蓝色屏幕 – 全屏背景工具",
+    "subtitle": "蓝色屏幕有助于强调清洁用的灰尘和污垢，检测像素，并减少暗室中的眩光",
+    "professionalTool": "专业工具",
+    "downloadReady": "下载就绪",
+    "downloadTitle": "下载蓝色屏幕背景",
+    "downloadDescription": "获取满足您专业需求的高质量蓝色屏幕",
+    "hdTitle": "1920×1080 蓝色屏幕背景",
+    "hdDescription": "用于清洁、死像素测试和眼部舒适性的纯全屏蓝色图像",
+    "hdButton": "下载高清",
+    "fourKTitle": "4K 蓝色屏幕背景",
+    "fourKDescription": "用于减少眩光和屏幕测试的超高清蓝色屏幕图像",
+    "fourKButton": "下载4K",
+    "proTipBadge": "专业提示",
+    "proTipTitle": "专业提示",
+    "proTipDescription": "为了测试显示器的亮度和对比度响应，请将蓝色屏幕与白色或红色屏幕结合使用。"
+  },
+  "faq": {
+    "title": "常见问题",
+    "description": "查找关于使用我们的蓝屏工具用于各种目的的常见问题答案。",
+    "questions": [
+      {
+        "question": "蓝屏工具用于什么？",
+        "answer": "蓝屏工具在全屏模式下显示蓝色，常用于查找显示器上的污点、测试死像素、创建平静环境以及作为演示中的视觉辅助。"
+      },
+      {
+        "question": "如何使用蓝屏进行显示器清洁？",
+        "answer": "蓝屏使显示器上的灰尘、污迹和其他污垢更容易看到。只需显示蓝屏，任何颗粒或标记都会在蓝色背景上清晰可见。"
+      },
+      {
+        "question": "可以用蓝屏来放松吗？",
+        "answer": "是的！蓝屏创造了一个可以帮助减轻压力并促进放松的平静环境。舒缓的蓝色色调非常适合冥想或漫长一天后的放松。"
+      },
+      {
+        "question": "为什么使用蓝屏作为睡眠辅助？",
+        "answer": "适当强度的蓝光可以帮助调节睡眠模式。我们的蓝屏提供柔和平静的蓝光，可以促进睡意并改善睡眠质量。"
+      },
+      {
+        "question": "蓝屏对演示有好处吗？",
+        "answer": "是的，蓝屏可以作为演示中的优秀视觉辅助。蓝色背景有助于强调文本和图像，使内容更易读且视觉上更有吸引力。"
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "其他屏幕工具",
+    "description": "探索我们为各种目的而设计的专业屏幕工具集合。",
+    "colorScreens": "彩色屏幕",
+    "prankScreens": "恶作剧屏幕",
+    "fakeUpdateScreens": "虚假更新屏幕",
+    "screensaverScreens": "屏保屏幕"
+  },
+  "howToUse": {
+    "title": "使用方法",
+    "steps": [
+      "从调色板中选择您喜欢的颜色",
+      "点击启动按钮在全屏模式下打开",
+      "使用F11或ESC退出全屏模式",
+      "以您喜欢的分辨率下载图像"
+    ]
+  },
+  "techSpecs": {
+    "title": "技术规格",
+    "specs": [
+      "分辨率：高达8K (7680x4320)",
+      "颜色深度：24位RGB",
+      "格式：PNG、JPEG、WebP",
+      "兼容性：所有现代浏览器",
+      "离线功能：完全可用"
+    ]
+  }
+}

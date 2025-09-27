@@ -1,0 +1,166 @@
+{
+  "hero": {
+    "badge": "Outil Écran Jaune",
+    "title": "Écran Jaune | Outil en Ligne",
+    "description": "Activez un écran jaune plein écran pour améliorer l'éclairage, tester les pixels, ou ajouter une ambiance chaleureuse à votre espace de travail.",
+    "features": {
+      "noRegistration": "Aucune inscription",
+      "worksOffline": "Fonctionne hors ligne",
+      "allDevices": "Tous les appareils"
+    }
+  },
+  "keywords": "écran jaune, fond jaune, écran jaune en ligne, couleur jaune, créativité, optimisme, concentration, écran jaune plein écran",
+  "colorPicker": {
+    "title": "Choisissez votre couleur",
+    "custom": "Personnalisé",
+    "description": "Parfait pour stimuler la créativité et améliorer la concentration",
+    "launchButton": "Lancer l'écran jaune"
+  },
+  "interface": {
+    "livePreview": "Aperçu en Direct",
+    "chooseYourColor": "Choisissez Votre Couleur",
+    "clickForFullscreen": "Cliquer pour Plein Écran",
+    "current": "Actuel",
+    "perfectFor": "Parfait pour les tests de moniteur, l'éclairage photographique et les présentations",
+    "launchYellowScreen": "Lancer l'Écran Jaune"
+  },
+  "colors": {
+    "Black": "Écran Noir",
+    "White": "Écran Blanc",
+    "Red": "Écran Rouge",
+    "Blue": "Écran Bleu",
+    "Green": "Écran Vert",
+    "Yellow": "Écran Jaune",
+    "Purple": "Écran Violet",
+    "Pink": "Écran Rose",
+    "Orange": "Écran Orange",
+    "Zoom Lighting": "Zoom d'éclairage"
+  },
+  "useCases": {
+    "title": "Les gens utilisent l'écran jaune pour:",
+    "subtitle": "Découvrez les différentes façons d'utiliser notre écran jaune",
+    "description": "Notre outil d'écran jaune stimule la créativité et l'optimisme pour des environnements de travail inspirants.",
+    "cases": [
+      {
+        "title": "Arrière-plan Jaune Polyvalent pour le Contenu",
+        "description": "Immergez votre audience dans un environnement chaleureux et invitant avec un affichage plein écran jaune. Idéal pour injecter de l'énergie et de la positivité dans votre contenu en ligne, cours virtuels, ou live streams.",
+        "icon": "video"
+      },
+      {
+        "title": "Écran Jaune pour le Confort Visuel",
+        "description": "Améliorez le confort visuel avec un écran teinté en jaune. Utilisez notre outil pour réduire la fatigue oculaire due à la lumière bleue, surtout pendant la navigation nocturne ou les longues heures de travail.",
+        "icon": "eye"
+      },
+      {
+        "title": "Stimulateur de Créativité pour Mood Board",
+        "description": "Démarrez vos projets créatifs avec un mood board jaune. Notre affichage plein écran jaune peut aider à inspirer la pensée créative et les concepts de design.",
+        "icon": "palette"
+      },
+      {
+        "title": "Test d'Écran de l'Appareil",
+        "description": "Testez la précision des couleurs de votre appareil d'affichage avec une sortie plein écran jaune. C'est un outil pratique pour peaufiner les réglages de couleur des moniteurs, tablettes ou smartphones.",
+        "icon": "monitor"
+      },
+      {
+        "title": "Aide à l'Enseignement Interactif",
+        "description": "Utilisez un affichage plein écran jaune comme aide à l'enseignement dans les salles de classe virtuelles. Il peut servir d'arrière-plan attrayant pour présenter des matériaux d'apprentissage, mettre en évidence des informations et attirer l'attention des étudiants.",
+        "icon": "presentation"
+      },
+      {
+        "title": "Écran jaune pour créer une ambiance",
+        "description": "J'aime l'ambiance qu'il dégage",
+        "icon": "sun"
+      },
+      {
+        "title": "Écran jaune pour copier une image",
+        "description": "Pour copier une image que mon camarade de classe a dessinée",
+        "icon": "copy"
+      },
+      {
+        "title": "Écran jaune pour faire des vidéos",
+        "description": "Parce que mes vidéos YouTube sont meilleures avec un écran jaune et parce que les écrans verts sont surévalués",
+        "icon": "camera"
+      },
+      {
+        "title": "Écran jaune pour les appels en ligne",
+        "description": "Pour ajouter une lueur jaune pendant la réunion.",
+        "icon": "phone"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Comment utiliser l'écran jaune",
+    "subtitle": "Guide simple pour tirer le meilleur parti de notre outil",
+    "steps": [
+      "Cliquez sur le bouton pour afficher l'écran jaune en plein écran",
+      "Réglez l'intensité selon votre confort et l'usage souhaité",
+      "Laissez la couleur jaune stimuler votre créativité et améliorer votre bien-être"
+    ]
+  },
+  "info": {
+    "title": "Écran Jaune – Outil de Fond Plein Écran",
+    "subtitle": "Un écran jaune stimule la créativité, améliore la concentration et crée une ambiance chaleureuse et optimiste",
+    "professionalTool": "Outil Professionnel",
+    "downloadReady": "Téléchargement Prêt",
+    "downloadTitle": "Télécharger Fond d'Écran Jaune",
+    "downloadDescription": "Obtenez des écrans jaunes haute qualité pour vos besoins professionnels",
+    "hdTitle": "Fond d'Écran Jaune 1920×1080",
+    "hdDescription": "Image jaune plein écran pure pour stimuler la créativité, améliorer la concentration et créer une ambiance optimiste",
+    "hdButton": "Télécharger HD",
+    "fourKTitle": "Fond d'Écran Jaune 4K",
+    "fourKDescription": "Image d'écran jaune ultra HD pour les environnements créatifs et les espaces de travail inspirants",
+    "fourKButton": "Télécharger 4K",
+    "proTipBadge": "Conseil Pro",
+    "proTipTitle": "Conseil Pro",
+    "proTipDescription": "L'écran jaune est parfait pour les sessions de brainstorming et les activités créatives car il stimule l'optimisme et la créativité."
+  },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "subtitle": "Réponses aux questions courantes sur l'écran jaune",
+    "description": "Apprenez comment utiliser la couleur jaune pour maximiser la créativité et améliorer votre bien-être au travail.",
+    "questions": [
+      {
+        "question": "Le jaune aide-t-il vraiment la créativité ?",
+        "answer": "Oui, des études montrent que le jaune stimule l'activité mentale et favorise la pensée créative."
+      },
+      {
+        "question": "Puis-je utiliser l'écran jaune pour travailler ?",
+        "answer": "Absolument ! La lumière jaune douce peut réduire la fatigue oculaire lors du travail prolongé."
+      },
+      {
+        "question": "L'écran jaune affecte-t-il le sommeil ?",
+        "answer": "La lumière jaune est moins perturbante que la lumière bleue pour le cycle de sommeil."
+      },
+      {
+        "question": "Comment optimiser l'effet de l'écran jaune ?",
+        "answer": "Utilisez-le dans un environnement faiblement éclairé pour maximiser l'impact visuel."
+      },
+      {
+        "question": "L'écran jaune peut-il améliorer la créativité ?",
+        "answer": "Oui, la couleur jaune est reconnue pour stimuler l'activité mentale et favoriser la créativité et l'innovation."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Spécifications techniques",
+    "subtitle": "Détails techniques de notre outil d'écran jaune",
+    "specs": [
+      {
+        "label": "Couleur",
+        "value": "#FFFF00 (Jaune pur)"
+      },
+      {
+        "label": "Résolution",
+        "value": "S'adapte à tous les écrans"
+      },
+      {
+        "label": "Compatibilité",
+        "value": "Tous les navigateurs modernes"
+      },
+      {
+        "label": "Bienfaits",
+        "value": "Créativité et bien-être"
+      }
+    ]
+  }
+} 

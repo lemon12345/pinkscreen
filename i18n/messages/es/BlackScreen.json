@@ -1,0 +1,170 @@
+{
+  "hero": {
+    "title": "Pantalla Negra Completa | Herramienta Online",
+    "description": "Pantalla negra en modo completo para descansar la vista, detectar luz residual, ahorrar batería o verificar píxeles brillantes. Fondo negro puro y sin anuncios.",
+    "badge": "Herramienta de Pantalla Negra",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Sin Conexión",
+      "allDevices": "Todos los Dispositivos"
+    }
+  },
+  "keywords": "pantalla negra, pantalla negra vacía, pantalla negra completa, pantalla negra",
+  "colorPicker": {
+    "title": "Elige Tu Color",
+    "custom": "Personalizado",
+    "description": "Perfecto para pruebas de monitor, iluminación fotográfica y presentaciones",
+    "launchButton": "Lanzar Página Negra"
+  },
+  "colors": {
+    "Black": "Pantalla Negra",
+    "White": "Pantalla Blanca",
+    "Red": "Pantalla Roja",
+    "Blue": "Pantalla Azul",
+    "Green": "Pantalla Verde",
+    "Yellow": "Pantalla Amarilla",
+    "Purple": "Pantalla Morada",
+    "Pink": "Pantalla Rosa",
+    "Orange": "Pantalla Naranja",
+    "Zoom Lighting": "Iluminación Zoom"
+  },
+  "interface": {
+    "livePreview": "Vista Previa en Vivo",
+    "clickForFullscreen": "Haz Clic para Pantalla Completa",
+    "current": "Actual",
+    "chooseYourColor": "Elige Tu Color",
+    "perfectFor": "Perfecto para",
+    "launchBlackScreen": "Lanzar Pantalla Negra"
+  },
+  "useCases": {
+    "title": "Pantalla negra se usa para:",
+    "description": "Nuestra herramienta de pantalla negra sirve para múltiples propósitos profesionales y personales.",
+    "cases": [
+      {
+        "icon": "🖥️",
+        "title": "para oscurecer el segundo monitor sin apagarlo",
+        "description": "Haga que el segundo monitor se oscurezca rápidamente sin apagarlo cuando juegue un juego atmosférico o vea una película que resultó ser digna de hacerlo."
+      },
+      {
+        "icon": "⚡",
+        "title": "para ahorrar electricidad",
+        "description": "Tratando de ahorrar electricidad, reducir las emisiones de carbono."
+      },
+      {
+        "icon": "🔒",
+        "title": "para ocultar el hecho de que la computadora está activa",
+        "description": "Poner mis 4 monitores cuando me voy a dormir, en lugar de ponerlos a dormir."
+      },
+      {
+        "icon": "🧽",
+        "title": "limpiar el monitor",
+        "description": "Es más fácil ver manchas cuando estoy limpiando mi pantalla"
+      },
+      {
+        "icon": "🎮",
+        "title": "para hacer un fondo oscuro",
+        "description": "Fondo para un juego. La pantalla es demasiado grande, 3440x1440. No me gusta jugar tan grande, así que hago 2560x1440. Necesita biseles negros en ambos lados."
+      },
+      {
+        "icon": "📺",
+        "title": "para ayudar a prevenir quemaduras en televisores de plasma",
+        "description": "Tengo un viejo televisor de plasma. No tengo parlantes de computadora, así que cuando quiero reproducir música a todo volumen, enciendo mi televisor y lo conecto a través de HDMI. Los de plasma son muy susceptibles a quemarse, así que prefiero En lugar de dejar el Reproductor de Windows Media o lo que sea en la pantalla, uso la pantalla en negro para ayudar a evitar que se queme. He usado varios sitios web. Pero no parece que permanezcan en línea por mucho tiempo"
+      },
+      {
+        "icon": "📚",
+        "title": "concentrarse mientras se estudia",
+        "description": "Para no apagar mi pantalla y concentrarme mientras estudio. Bueno, mi pantalla es muy brillante y no ayuda con la concentración, una pantalla negra soluciona eso."
+      },
+      {
+        "icon": "👁️",
+        "title": "para relajar los ojos",
+        "description": "Porque necesito relajar mis ojos y tener solo una pantalla negra incluso cuando reproduzco música en mi pc o quiero cambiar rápidamente entre todo negro y otra cosa. Lo más valioso es la calidad de la misma, del color y el resto y, por supuesto, que sea fácil entrar y salir del modo de pantalla completa."
+      },
+      {
+        "icon": "🎯",
+        "title": "Pantalla Negra para Enfoque y Minimalismo",
+        "description": "Abraza el minimalismo y reduce las distracciones con nuestra herramienta de pantalla negra. Ideal para tareas que requieren concentración o para individuos que practican el minimalismo digital."
+      },
+      {
+        "icon": "🔋",
+        "title": "Pantalla Negra para Ahorro de Energía",
+        "description": "Aprovecha nuestra herramienta de pantalla negra como una solución para ahorrar energía en pantallas OLED y AMOLED. La visualización de píxeles negros puede contribuir a la conservación de la batería."
+      },
+      {
+        "icon": "🎨",
+        "title": "Pantalla Negra para Arte Digital",
+        "description": "Los artistas pueden utilizar nuestra pantalla negra a pantalla completa como un lienzo para crear un contraste sorprendente en el arte digital. Los fondos negros pueden mejorar la profundidad e intensidad de los colores."
+      }
+    ]
+  },
+  "info": {
+    "title": "Pantalla Negra – Herramienta de Fondo de Pantalla Completa",
+    "subtitle": "La pantalla negra resalta el polvo y la suciedad para limpieza, ayuda a detectar píxeles y reduce el deslumbramiento en habitaciones oscuras",
+    "professionalTool": "Herramienta Profesional",
+    "downloadReady": "Descarga Lista",
+    "downloadTitle": "Descargar Fondo de Pantalla Negra",
+    "downloadDescription": "Obtén pantallas negras de alta calidad para tus necesidades profesionales",
+    "hdTitle": "1920×1080 Fondo de Pantalla Negra",
+    "hdDescription": "Imagen negra pura a pantalla completa para limpieza, pruebas de píxeles muertos y comodidad ocular",
+    "hdButton": "Descargar HD",
+    "fourKTitle": "4K Fondo de Pantalla Negra",
+    "fourKDescription": "Imagen de pantalla negra de ultra alta resolución para reducción de deslumbramiento y pruebas de pantalla",
+    "fourKButton": "Descargar 4K",
+    "proTipBadge": "Consejo Pro",
+    "proTipTitle": "Consejo Pro",
+    "proTipDescription": "Para probar la respuesta de brillo y contraste de tu monitor, usa pantalla negra en combinación con pantallas blancas o rojas."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "description": "Encuentra respuestas a preguntas comunes sobre el uso de nuestra herramienta de pantalla negra para diversos propósitos.",
+    "questions": [
+      {
+        "question": "¿Para qué se usa una pantalla negra?",
+        "answer": "Una pantalla negra se usa para pruebas de monitor, fotografía y presentaciones."
+      },
+      {
+        "question": "¿Cómo uso pantalla negra para pruebas de monitor?",
+        "answer": "Lanza la pantalla negra en modo pantalla completa y examina tu monitor para píxeles muertos."
+      },
+      {
+        "question": "¿Puedo usar pantalla negra para fotografía?",
+        "answer": "¡Sí! La pantalla negra puede usarse como fondo oscuro para fotografía de productos."
+      },
+      {
+        "question": "¿Por qué usar pantalla negra para relajar los ojos?",
+        "answer": "El negro es el color más suave para tus ojos, especialmente en condiciones de poca luz. Ayuda a reducir la fatiga visual durante largas sesiones de trabajo o cuando necesitas relajar tus ojos."
+      },
+      {
+        "question": "¿Es buena la pantalla negra para el enfoque y la concentración?",
+        "answer": "Sí, una pantalla negra elimina las distracciones visuales y crea un ambiente minimalista que es perfecto para tareas que requieren concentración, estudiar o practicar el minimalismo digital."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "prankScreens": "Pantallas de Broma",
+    "fakeUpdateScreens": "Pantallas de Actualización Falsa",
+    "screensaverScreens": "Pantallas de Protector de Pantalla"
+  },
+  "howToUse": {
+    "title": "Cómo Usar",
+    "steps": [
+      "Elige tu color preferido de la paleta",
+      "Haz clic en el botón 'Lanzar' para abrir en pantalla completa",
+      "Usa F11 o ESC para salir del modo pantalla completa",
+      "Descarga la imagen en tu resolución preferida"
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificaciones Técnicas",
+    "specs": [
+      "Resolución: Hasta 8K (7680x4320)",
+      "Profundidad de Color: 24-bit RGB",
+      "Formato: PNG, JPEG, WebP",
+      "Compatibilidad: Todos los navegadores modernos",
+      "Funcionalidad Offline: Completamente disponible"
+    ]
+  }
+}

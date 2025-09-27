@@ -1,0 +1,138 @@
+{
+  "hero": {
+    "badge": "Red Screen Tool",
+    "title": "Red Screen | Online Tool",
+    "description": "Use this fullscreen red screen to improve focus, test display pixels, or create ambient light. Works on all devices. Free and ad-free.",
+    "features": {
+      "noRegistration": "No Registration",
+      "worksOffline": "Works Offline",
+      "allDevices": "All Devices"
+    }
+  },
+  "keywords": "Red Screen, red screen, blank red screen, a red screen, blank screens, full red screen, pc red screen, computer red screen, total red screen, plain red screen, red screen 10 hours, red display, blank computer screen, full red screen, total red screen",
+  "colorPicker": {
+    "title": "Choose Your Color",
+    "custom": "Custom",
+    "description": "Ideal for screen testing, creating vibrant mood boards, and adding warmth to virtual presentations",
+    "launchButton": "Launch Red Screen"
+  },
+  "useCases": {
+    "title": "People use red screen for:",
+    "description": "Our red screen tool serves multiple professional and personal purposes across various industries and scenarios.",
+    "cases": [
+      {
+        "icon": "🎬",
+        "title": "Red Screen for Film and Photography",
+        "description": "Utilize our red screen to experiment with color filters and effects in film and photography. The vibrant red background can add a dramatic touch to your compositions."
+      },
+      {
+        "icon": "👁️",
+        "title": "Red Screen for Eye Comfort and Health",
+        "description": "Our red screen tool can be used to decrease the impact of blue light, aiding in eye comfort and health, particularly in low light conditions or before sleep."
+      },
+      {
+        "icon": "🎯",
+        "title": "Red Screen for Virtual Events",
+        "description": "Make your virtual events stand out with our red screen tool. The vibrant red can create an engaging and energetic atmosphere for online gatherings."
+      },
+      {
+        "icon": "🎨",
+        "title": "Red Screen for Graphic Design",
+        "description": "Graphic designers can leverage our red screen tool to create bold and impactful designs. The color red can evoke strong emotions and grab viewer's attention."
+      },
+      {
+        "icon": "📊",
+        "title": "Red Screen for Thematic Presentations",
+        "description": "Educators and presenters can use our red screen to create thematic presentations, highlighting important points and capturing the audience's interest."
+      },
+      {
+        "icon": "📱",
+        "title": "bright red screen to make tiktoks",
+        "description": "Because I have blue LED lights on and it matches perfectly making my face or a part of my face red and leaving the blue lights behind me. I liked the red screen tbh, it's cool to make tiktoks or like photos and edit them to make them look professional."
+      },
+      {
+        "icon": "📞",
+        "title": "red light screen for online calls",
+        "description": "For colorcast correction when using Google Meets."
+      },
+      {
+        "icon": "🌙",
+        "title": "red screen to preserve night vision",
+        "description": "Not hard on the eyes, especially when coming out of a dark area"
+      },
+      {
+        "icon": "📖",
+        "title": "red screen to read book",
+        "description": "To read a book with less blue light."
+      },
+      {
+        "icon": "🎯",
+        "title": "red screen to fix projector",
+        "description": "it helps fix a projectors keystone"
+      }
+    ]
+  },
+  "colors": {
+    "Zoom Lighting": "Zoom Lighting",
+    "White": "White",
+    "Black": "Black",
+    "Red": "Red",
+    "Blue": "Blue",
+    "Green": "Green",
+    "Yellow": "Yellow",
+    "Purple": "Purple",
+    "Pink": "Pink",
+    "Orange": "Orange"
+  },
+  "interface": {
+    "livePreview": "Live Preview",
+    "clickForFullscreen": "Click for fullscreen",
+    "current": "Current",
+    "chooseYourColor": "Choose Your Color",
+    "perfectFor": "Perfect for screen testing, creating vibrant mood boards, and adding warmth to virtual presentations",
+    "launchRedScreen": "Launch Red Screen"
+  },
+  "info": {
+    "title": "Red Screen – Fullscreen Background Tool",
+    "subtitle": "A red screen can stimulate focus and mental sharpness, perfect for pixel testing and dramatic lighting",
+    "professionalTool": "Professional Tool",
+    "downloadReady": "Download Ready",
+    "downloadTitle": "Download Red Screen Background",
+    "downloadDescription": "Get high-quality red screens for your professional needs",
+    "hdTitle": "1920×1080 Red Screen Background",
+    "hdDescription": "Pure fullscreen red image for pixel testing, focus, and mood lighting",
+    "hdButton": "Download HD",
+    "fourKTitle": "4K Red Screen Background",
+    "fourKDescription": "Fullscreen ultra HD red image for bold lighting and visual diagnostics",
+    "fourKButton": "Download 4K",
+    "proTipBadge": "Pro Tip",
+    "proTipTitle": "Pro Tip",
+    "proTipDescription": "Use the red screen in combination with black or white screens to alternate brightness for deep contrast testing."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to common questions about using our red screen tool for various purposes.",
+    "questions": [
+      {
+        "question": "What is a Red Screen tool used for?",
+        "answer": "A Red Screen tool displays a red color in fullscreen mode, commonly used for screen testing, mood boards, eye comfort, content creation, and enhancing visual creativity."
+      },
+      {
+        "question": "How do I use Red Screen for eye comfort?",
+        "answer": "The Red Screen reduces blue light exposure, making it easier on your eyes during night-time browsing or long working hours. It helps reduce eye strain and improve visual comfort."
+      },
+      {
+        "question": "Can I use Red Screen for content creation?",
+        "answer": "Yes! The Red Screen is perfect for creating warm, inviting backgrounds for online content, virtual classes, or live streams. It adds energy and positivity to your content."
+      },
+      {
+        "question": "Why use Red Screen for screen testing?",
+        "answer": "Red is an excellent color for testing display accuracy and color calibration. It helps identify color issues and fine-tune monitor settings for optimal viewing."
+      },
+      {
+        "question": "Is Red Screen good for creativity?",
+        "answer": "Yes, red is associated with creativity and optimism. A Red Screen can inspire creative thinking and serve as a mood board for design projects and artistic work."
+      }
+    ]
+  }
+}

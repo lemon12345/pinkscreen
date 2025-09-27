@@ -1,0 +1,167 @@
+{
+  "hero": {
+    "badge": "Ferramenta de Tela Amarela",
+    "title": "Tela Amarela | Ferramenta Online",
+    "description": "Tela amarela vibrante para brilho suave, iluminação para Zoom, leitura, foco visual ou teste de tons quentes. Use em tela cheia sem distrações.",
+    "features": {
+      "noRegistration": "Sem registo",
+      "worksOffline": "Funciona offline",
+      "allDevices": "Todos os dispositivos"
+    }
+  },
+  "keywords": "tela amarela, fundo amarelo, tela amarela online, cor amarela, criatividade, otimismo, concentração",
+  "colorPicker": {
+    "title": "Escolha sua cor",
+    "custom": "Personalizado",
+    "description": "Perfeito para estimular criatividade e melhorar concentração",
+    "launchButton": "Iniciar tela amarela"
+  },
+  "colors": {
+    "Black": "Tela Preta",
+    "White": "Tela Branca",
+    "Red": "Tela Vermelha",
+    "Blue": "Tela Azul",
+    "Green": "Tela Verde",
+    "Yellow": "Tela Amarela",
+    "Purple": "Tela Roxa",
+    "Pink": "Tela Rosa",
+    "Orange": "Tela Laranja",
+    "Zoom Lighting": "Iluminação para Zoom"
+  },
+  "interface": {
+    "livePreview": "Pré-visualização ao vivo",
+    "clickForFullscreen": "Clique para tela cheia",
+    "current": "Atual",
+    "chooseYourColor": "Escolha sua cor",
+    "perfectFor": "Perfeito para",
+    "launchYellowScreen": "Iniciar Tela Amarela"
+  },
+  "useCases": {
+    "title": "As pessoas usam a tela amarela para:",
+    "subtitle": "Descubra as diferentes formas de usar nossa tela amarela",
+    "description": "Nossa ferramenta de tela amarela estimula criatividade e otimismo para ambientes de trabalho inspiradores.",
+    "cases": [
+      {
+        "title": "Fundo Amarelo Versátil para Conteúdo",
+        "description": "Mergulhe sua audiência em um ambiente caloroso e convidativo com um display amarelo em tela cheia. Ideal para injetar energia e positividade em seu conteúdo online, aulas virtuais ou transmissões ao vivo.",
+        "icon": "☀️"
+      },
+      {
+        "title": "Tela Amarela para Conforto Visual",
+        "description": "Melhore o conforto visual com uma tela com tonalidade amarela. Use nossa ferramenta para reduzir a tensão ocular da luz azul, especialmente durante a navegação noturna ou longas horas de trabalho.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Início para Painel de Humor Criativo",
+        "description": "Dê início aos seus projetos criativos com um painel de humor amarelo. Nosso display amarelo em tela cheia pode ajudar a inspirar o pensamento criativo e conceitos de design.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Teste de Tela de Dispositivo",
+        "description": "Teste a precisão da cor do seu dispositivo de exibição com uma saída amarela em tela cheia. É uma ferramenta útil para ajustar as configurações de cor de monitores, tablets ou smartphones.",
+        "icon": "🖥️"
+      },
+      {
+        "title": "Auxílio Didático Interativo",
+        "description": "Use um display amarelo em tela cheia como um auxílio didático em salas de aula virtuais. Pode servir como um fundo envolvente para apresentar materiais de aprendizado, destacar informações e chamar a atenção dos alunos.",
+        "icon": "📚"
+      },
+      {
+        "title": "tela amarela para criar uma vibe",
+        "description": "Eu gosto da vibe que dá",
+        "icon": "💛"
+      },
+      {
+        "title": "tela amarela para copiar imagem",
+        "description": "Para copiar uma imagem que meu colega desenhou",
+        "icon": "💻"
+      },
+      {
+        "title": "tela amarela para fazer vídeos",
+        "description": "Porque meus vídeos do YouTube são melhores com uma tela amarela e porque telas verdes são superestimadas",
+        "icon": "🌙"
+      },
+      {
+        "title": "tela amarela para chamadas online",
+        "description": "Para adicionar um brilho amarelo durante a reunião.",
+        "icon": "📖"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Como usar a tela amarela",
+    "subtitle": "Guia simples para aproveitar ao máximo nossa ferramenta",
+    "steps": [
+      "Escolha sua cor preferida da paleta",
+      "Clique no botão 'Iniciar' para abrir em tela cheia",
+      "Use F11 ou ESC para sair do modo tela cheia",
+      "Baixe a imagem na resolução de sua preferência"
+    ]
+  },
+  "info": {
+    "title": "Tela Amarela – Ferramenta de Fundo de Tela Cheia",
+    "subtitle": "A tela amarela fornece alto contraste para visibilidade e foco, perfeita para limpeza de monitor e melhoria do humor",
+    "professionalTool": "Ferramenta Profissional",
+    "downloadReady": "Download Pronto",
+    "downloadTitle": "Baixar Fundo de Tela Amarela",
+    "downloadDescription": "Obtenha telas amarelas de alta qualidade para suas necessidades profissionais",
+    "hdTitle": "Fundo de Tela Amarela 1920×1080",
+    "hdDescription": "Imagem amarela brilhante em tela cheia para iluminação ambiente, limpeza de tela e estimulação visual",
+    "hdButton": "Baixar HD",
+    "fourKTitle": "Fundo de Tela Amarela 4K",
+    "fourKDescription": "Imagem amarela ultra HD para brilho, calibração de display e projetos criativos",
+    "fourKButton": "Baixar 4K",
+    "proTipBadge": "Dica Pro",
+    "proTipTitle": "Dica Pro",
+    "proTipDescription": "Use a tela amarela como fonte de luz criativa para vídeos com tons quentes, ou para energizar seu espaço de trabalho durante o dia."
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "subtitle": "Respostas para perguntas comuns sobre a tela amarela",
+    "description": "Encontre respostas para perguntas comuns sobre o uso de nossa ferramenta de tela amarela para vários propósitos.",
+    "questions": [
+      {
+        "question": "O amarelo realmente ajuda a criatividade?",
+        "answer": "Sim, estudos mostram que o amarelo estimula a atividade mental e favorece o pensamento criativo."
+      },
+      {
+        "question": "Posso usar a tela amarela para trabalhar?",
+        "answer": "Claro! A luz amarela suave pode reduzir a fadiga ocular durante trabalho prolongado."
+      },
+      {
+        "question": "A tela amarela afeta o sono?",
+        "answer": "A luz amarela perturba menos o ciclo do sono que a luz azul."
+      },
+      {
+        "question": "Como otimizar o efeito da tela amarela?",
+        "answer": "Use-a em ambiente com pouca luz para maximizar o impacto visual."
+      },
+      {
+        "question": "A tela amarela é boa para criatividade?",
+        "answer": "Sim, amarelo está associado à criatividade e otimismo. Uma tela amarela pode inspirar o pensamento criativo e servir como uma placa de humor para projetos de design e trabalho artístico."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificações técnicas",
+    "subtitle": "Detalhes técnicos da nossa ferramenta de tela amarela",
+    "specs": [
+      {
+        "label": "Cor",
+        "value": "#FFFF00 (Amarelo puro)"
+      },
+      {
+        "label": "Resolução",
+        "value": "Adapta-se a todas as telas"
+      },
+      {
+        "label": "Compatibilidade",
+        "value": "Todos os navegadores modernos"
+      },
+      {
+        "label": "Benefícios",
+        "value": "Criatividade e bem-estar"
+      }
+    ]
+  }
+} 

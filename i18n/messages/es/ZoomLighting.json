@@ -1,0 +1,156 @@
+{
+  "hero": {
+    "title": "Iluminación Para Llamadas de Zoom | Herramienta en Línea",
+    "description": "Pantalla blanca a pantalla completa ideal para mejorar la iluminación en Zoom, Google Meet o grabaciones. Luz uniforme y suave para tu rostro.",
+    "badge": "Herramienta Gratuita en Línea",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Sin Conexión",
+      "allDevices": "Todos los Dispositivos"
+    }
+  },
+  "keywords": "mejor iluminación para llamadas de zoom, iluminación de zoom, iluminación para reuniones de zoom, luz para reuniones de zoom, iluminación de videoconferencia, mejor luz para reuniones de zoom, kit de iluminación de zoom, mejor iluminación de zoom, mejor luz para videoconferencia",
+  "colorPicker": {
+    "title": "Elige Tu Color",
+    "custom": "Personalizado",
+    "description": "Perfecto para videoconferencias, fotografía y crear condiciones de iluminación óptimas",
+    "launchButton": "Lanzar Iluminación de Zoom"
+  },
+  "colors": {
+    "Black": "Pantalla Negra",
+    "White": "Pantalla Blanca",
+    "Red": "Pantalla Roja",
+    "Blue": "Pantalla Azul",
+    "Green": "Pantalla Verde",
+    "Yellow": "Pantalla Amarilla",
+    "Purple": "Pantalla Morada",
+    "Pink": "Pantalla Rosa",
+    "Orange": "Pantalla Naranja",
+    "Zoom Lighting": "Iluminación Zoom"
+  },
+  "useCases": {
+    "title": "La gente usa la iluminación de zoom para:",
+    "description": "Nuestra herramienta de iluminación de zoom sirve múltiples propósitos profesionales y personales en varias industrias y escenarios.",
+    "cases": [
+      {
+        "icon": "💡",
+        "title": "Iluminación Personalizada para Videoconferencias",
+        "description": "Utilice nuestra herramienta de pantalla de iluminación de zoom para crear la configuración de iluminación perfecta para sus videollamadas. Con ajuste de color y temperatura, puede lograr iluminación de nivel profesional para videoconferencias sin esfuerzo."
+      },
+      {
+        "icon": "📸",
+        "title": "Fondo de Fotografía con Pantalla de Iluminación Zoom",
+        "description": "Mejore su configuración de fotografía con nuestra pantalla de iluminación de zoom ajustable. Ajuste el color y la temperatura para adaptarse al estado de ánimo de su sesión de fotos y crear imágenes impresionantes."
+      },
+      {
+        "icon": "🎓",
+        "title": "Mejore la Experiencia de eLearning con Iluminación Óptima",
+        "description": "Con nuestra pantalla de iluminación de zoom, cree un ambiente de aprendizaje propicio para el eLearning. La configuración de luz personalizable asegura un confort de lectura óptimo y una concentración mejorada."
+      },
+      {
+        "icon": "💻",
+        "title": "Herramienta de Prueba de Iluminación para Desarrolladores Web",
+        "description": "Los desarrolladores web pueden utilizar nuestra pantalla de iluminación de zoom de pantalla completa para probar cómo diferentes temperaturas y colores de luz afectan la apariencia de sus diseños, ayudando a crear sitios web visualmente atractivos y accesibles."
+      },
+      {
+        "icon": "🧘",
+        "title": "Terapia de Color con Pantalla de Iluminación Zoom",
+        "description": "Los terapeutas y entrenadores de bienestar pueden utilizar nuestra pantalla de iluminación de zoom con color y temperatura ajustables para las sesiones de terapia de color, promoviendo la relajación y la curación."
+      },
+      {
+        "icon": "📹",
+        "title": "pantalla blanca como iluminación para llamadas de zoom",
+        "description": "¡Para videollamadas! No tengo una luz de anillo fácil, pero sí tengo dos pantallas. ¡Así que puedo usar una de las pantallas para iluminar mi cara!"
+      },
+      {
+        "icon": "✨",
+        "title": "iluminación de zoom para obtener brillo",
+        "description": "Lo uso para obtener brillo mientras estoy en una videollamada"
+      },
+      {
+        "icon": "💡",
+        "title": "iluminación de zoom para iluminar",
+        "description": "Para iluminar cuando utilizo videollamadas"
+      },
+      {
+        "icon": "🖥️",
+        "title": "iluminación de zoom convierte mi monitor en una luz",
+        "description": "Convierte mi monitor en una luz para compensar la luz de fondo durante las videollamadas"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "questions": [
+      {
+        "question": "¿Para qué se usa la iluminación de zoom?",
+        "answer": "La iluminación de zoom se usa para crear condiciones de iluminación óptimas para videoconferencias, fotografía, eLearning y varias aplicaciones profesionales donde la iluminación adecuada es esencial."
+      },
+      {
+        "question": "¿Cómo uso la iluminación de zoom para videollamadas?",
+        "answer": "Simplemente abre nuestra pantalla de iluminación de zoom y ajusta la temperatura de color y el brillo para crear la iluminación perfecta para tus videollamadas. La iluminación cálida y ajustable ayuda a mejorar tu apariencia en cámara."
+      },
+      {
+        "question": "¿Puedo usar la iluminación de zoom para fotografía?",
+        "answer": "¡Sí! Nuestra pantalla de iluminación de zoom proporciona configuraciones ajustables de color y temperatura que son perfectas para fondos fotográficos y crear las condiciones de iluminación ideales para tus sesiones de fotos."
+      },
+      {
+        "question": "¿Por qué usar iluminación de zoom para eLearning?",
+        "answer": "La iluminación adecuada es crucial para entornos de eLearning. Nuestra pantalla de iluminación de zoom crea condiciones óptimas de lectura y ayuda a reducir la fatiga visual, mejorando la concentración y los resultados de aprendizaje."
+      },
+      {
+        "question": "¿La iluminación de zoom es buena para desarrollo web?",
+        "answer": "Sí, los desarrolladores web pueden usar nuestra pantalla de iluminación de zoom para probar cómo diferentes condiciones de iluminación afectan la apariencia de sus diseños, asegurando que sus sitios web se vean geniales bajo varios escenarios de iluminación."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "prankScreens": "Pantallas de Broma",
+    "fakeUpdateScreens": "Pantallas de Actualización Falsa",
+    "screensaverScreens": "Pantallas de Protector de Pantalla"
+  },
+  "howToUse": {
+    "title": "Cómo Usar",
+    "steps": [
+      "Elige tu color preferido de la paleta",
+      "Haz clic en el botón 'Lanzar' para abrir en pantalla completa",
+      "Usa F11 o ESC para salir del modo pantalla completa",
+      "Descarga la imagen en tu resolución preferida"
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificaciones Técnicas",
+    "specs": [
+      "Resolución: Hasta 8K (7680x4320)",
+      "Profundidad de Color: 24-bit RGB",
+      "Formato: PNG, JPEG, WebP",
+      "Compatibilidad: Todos los navegadores modernos",
+      "Funcionalidad Offline: Completamente disponible"
+    ]
+  },
+  "temperatureControl": {
+    "title": "Control de Temperatura",
+    "temperature": "Temperatura",
+    "description": "Ajusta la temperatura de color para crear la iluminación perfecta para tus videollamadas. Valores más bajos crean luz más cálida, valores más altos crean luz más fría."
+  },
+  "info": {
+    "professionalTool": "Herramienta Profesional",
+    "title": "Descargar Fondo de Iluminación Zoom",
+    "subtitle": "Usa esta pantalla blanca a pantalla completa para iluminar tu cara durante llamadas de Zoom, videos de YouTube o sesiones de fotos. Limpio, rápido y sin anuncios.",
+    "downloadReady": "Descarga Lista",
+    "downloadTitle": "Fondo de Iluminación Zoom",
+    "downloadDescription": "¿Prefieres una imagen estática de iluminación zoom? Usa uno de nuestros PNGs de alta resolución:",
+    "hdTitle": "Fondo de Iluminación Zoom 1920x1080",
+    "hdDescription": "Perfecto para pantallas HD estándar y videollamadas. Optimizado para reuniones de Zoom y videoconferencias.",
+    "hdButton": "Descargar HD",
+    "fourKTitle": "Fondo de Iluminación Zoom 4K",
+    "fourKDescription": "Fondo blanco ultra HD a pantalla completa para iluminar tu cara en videoreuniones. Perfecto para pantallas de alta resolución.",
+    "fourKButton": "Descargar 4K",
+    "proTipBadge": "Consejo Profesional",
+    "proTipTitle": "Maximiza tu Iluminación de Videollamada",
+    "proTipDescription": "Maximiza el brillo de la pantalla y posiciona tu monitor frente a ti para obtener el mejor efecto de iluminación durante las llamadas."
+  }
+}

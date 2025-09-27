@@ -1,0 +1,154 @@
+{
+  "hero": {
+    "title": "Vollständige Zoom Beleuchtung | Online-Tool",
+    "description": "Durch die gleichmäßigere Beleuchtung durch die Kamera können Sie tatsächlich vermeiden, dass so viele Schatten um Ihr Kinn, Ihre Nase und Ihre Augen entstehen. Um beim Videotelefonieren professioneller auszusehen.",
+    "badge": "Zoom Beleuchtung Tool",
+    "features": {
+      "noRegistration": "Keine Registrierung",
+      "worksOffline": "Funktioniert offline",
+      "allDevices": "Alle Geräte"
+    }
+  },
+  "keywords": "Beste Beleuchtung für Zoom-Anrufe, Zoom-Beleuchtung, Beleuchtung für Zoom-Meetings, Licht für Zoom-Meetings, Beleuchtung für Videokonferenzen, bestes Licht für Zoom-Meetings, Zoom-Beleuchtungsset, beste Zoom-Beleuchtung, bestes Licht für Videokonferenzen",
+  "colorPicker": {
+    "title": "Wählen Sie Ihre Farbe",
+    "custom": "Benutzerdefiniert",
+    "description": "Perfekt für Zoom-Meetings und Videokonferenzen",
+    "launchButton": "Zoom-Beleuchtung starten"
+  },
+  "useCases": {
+    "title": "Menschen verwenden Zoom-Beleuchtung für:",
+    "description": "Unsere Zoom-Beleuchtung dient verschiedenen Kommunikationszwecken.",
+    "cases": [
+      {
+        "icon": "💼",
+        "title": "Zoom-Beleuchtung für Meetings",
+        "description": "Perfekt für professionelle Zoom-Meetings und Konferenzen."
+      },
+      {
+        "icon": "📹",
+        "title": "Zoom-Beleuchtung für Videokonferenzen",
+        "description": "Ideal für Videokonferenzen und Online-Meetings."
+      },
+      {
+        "icon": "🎥",
+        "title": "Zoom-Beleuchtung für Streaming",
+        "description": "Verbessern Sie Ihre Streams mit professioneller Beleuchtung."
+      },
+      {
+        "icon": "💡",
+        "title": "Zoom-Beleuchtung für bessere Sichtbarkeit",
+        "description": "Verbessern Sie Ihre Sichtbarkeit in Videoanrufen."
+      },
+      {
+        "icon": "🏠",
+        "title": "Ambiente Beleuchtung für das Heimkino",
+        "description": "Mit unserem Zoom-Beleuchtungstool können Sie die Beleuchtung Ihres Heimkinos anpassen und so für das perfekte Filmerlebnis sorgen."
+      },
+      {
+        "icon": "🧘",
+        "title": "Lichttherapie zu Hause",
+        "description": "Unser Zoom-Beleuchtungstool bietet die Möglichkeit, Lichttherapie von zu Hause aus zu erleben. Passen Sie Farbe und Temperatur an, um die gewünschte Stimmung zu erzeugen."
+      },
+      {
+        "icon": "📱",
+        "title": "Individuelle Beleuchtung für Videoanrufe",
+        "description": "Optimieren Sie die Beleuchtung Ihrer Videoanrufe mit unserem Zoom-Beleuchtungstool. Passen Sie Farbe und Temperatur an, um stets gut auszusehen."
+      },
+      {
+        "icon": "📸",
+        "title": "Fotografie-Beleuchtung nach Maß",
+        "description": "Nutzen Sie unser Zoom-Beleuchtungstool für Ihre Fotoprojekte. Einfach Farbe und Temperatur anpassen, um die perfekte Beleuchtung für Ihre Bilder zu erzeugen."
+      },
+      {
+        "icon": "💻",
+        "title": "als Beleuchtung für Zoom-Calls",
+        "description": "Für Videoanrufe! Ich habe kein einfaches Ringlicht, aber zwei Bildschirme. So kann ich mit einem der Bildschirme mein Gesicht beleuchten!"
+      },
+      {
+        "icon": "✨",
+        "title": "um Helligkeit zu bekommen",
+        "description": "Ich benutze es, um Helligkeit zu erhalten, während ich in einem Videoanruf bin"
+      },
+      {
+        "icon": "💡",
+        "title": "um meinen Monitor in ein Licht zu verwandeln",
+        "description": "Verwandelt meinen Monitor in ein Licht, um die Hintergrundbeleuchtung bei Videoanrufen auszugleichen"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Wofür wird Zoom-Beleuchtung verwendet?",
+        "answer": "Zoom-Beleuchtung wird für Zoom-Meetings und Videokonferenzen verwendet."
+      },
+      {
+        "question": "Wie verwende ich Zoom-Beleuchtung für Meetings?",
+        "answer": "Die Zoom-Beleuchtung ist perfekt für professionelle Zoom-Meetings und Konferenzen."
+      },
+      {
+        "question": "Kann ich Zoom-Beleuchtung für Videokonferenzen verwenden?",
+        "answer": "Ja! Die Zoom-Beleuchtung ist ideal für Videokonferenzen und Online-Meetings."
+      },
+      {
+        "question": "Warum Zoom-Beleuchtung für eLearning verwenden?",
+        "answer": "Angemessene Beleuchtung ist entscheidend für eLearning-Umgebungen. Unser Zoom-Beleuchtungsbildschirm schafft optimale Lesebedingungen und hilft, die Augenbelastung zu reduzieren, was die Konzentration und Lernergebnisse verbessert."
+      },
+      {
+        "question": "Ist Zoom-Beleuchtung gut für Webentwicklung?",
+        "answer": "Ja, Webentwickler können unseren Zoom-Beleuchtungsbildschirm verwenden, um zu testen, wie verschiedene Beleuchtungsbedingungen das Erscheinungsbild ihrer Designs beeinflussen, und sicherstellen, dass ihre Websites unter verschiedenen Beleuchtungsszenarien gut aussehen."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Zusätzliche Bildschirm-Tools",
+    "description": "Entdecken Sie unsere Sammlung spezialisierter Bildschirm-Tools für verschiedene Zwecke.",
+    "colorScreens": "Farbbildschirme",
+    "prankScreens": "Streich-Bildschirme",
+    "fakeUpdateScreens": "Gefälschte Update-Bildschirme",
+    "screensaverScreens": "Bildschirmschoner"
+  },
+  "howToUse": {
+    "title": "Verwendung",
+    "steps": [
+      "Wählen Sie Ihre bevorzugte Farbe aus der Palette",
+      "Klicken Sie auf den 'Starten'-Button, um im Vollbildmodus zu öffnen",
+      "Verwenden Sie F11 oder ESC, um den Vollbildmodus zu beenden",
+      "Laden Sie das Bild in Ihrer bevorzugten Auflösung herunter"
+    ]
+  },
+  "techSpecs": {
+    "title": "Technische Spezifikationen",
+    "specs": [
+      "Auflösung: Bis zu 8K (7680x4320)",
+      "Farbtiefe: 24-bit RGB",
+      "Format: PNG, JPEG, WebP",
+      "Kompatibilität: Alle modernen Browser",
+      "Offline-Funktionalität: Vollständig verfügbar"
+    ]
+  },
+  "temperatureControl": {
+    "title": "Temperaturkontrolle",
+    "temperature": "Temperatur",
+    "description": "Passen Sie die Farbtemperatur an, um die perfekte Beleuchtung für Ihre Videoanrufe zu erstellen. Niedrigere Werte erzeugen wärmeres Licht, höhere Werte erzeugen kühleres Licht."
+  },
+  "info": {
+    "professionalTool": "Professionelles Werkzeug",
+    "title": "Zoom-Beleuchtung Hintergrund herunterladen",
+    "subtitle": "Verwenden Sie diesen Vollbild-Weißbildschirm, um Ihr Gesicht bei Zoom-Anrufen, YouTube-Videos oder Fotosessions zu erhellen. Sauber, schnell und werbefrei.",
+    "downloadReady": "Download bereit",
+    "downloadTitle": "Zoom-Beleuchtung Hintergrund",
+    "downloadDescription": "Bevorzugen Sie ein statisches Zoom-Beleuchtungsbild? Verwenden Sie eines unserer hochauflösenden PNGs:",
+    "hdTitle": "1920x1080 Zoom-Beleuchtung Hintergrund",
+    "hdDescription": "Perfekt für Standard-HD-Displays und Videoanrufe. Optimiert für Zoom-Meetings und Videokonferenzen.",
+    "hdButton": "HD herunterladen",
+    "fourKTitle": "4K Zoom-Beleuchtung Hintergrund",
+    "fourKDescription": "Ultra-HD-Vollbild-weißer Hintergrund zur Beleuchtung Ihres Gesichts in Videomeetings. Perfekt für hochauflösende Displays.",
+    "fourKButton": "4K herunterladen",
+    "proTipBadge": "Profi-Tipp",
+    "proTipTitle": "Maximieren Sie Ihre Videoanruf-Beleuchtung",
+    "proTipDescription": "Maximieren Sie die Bildschirmhelligkeit und positionieren Sie Ihren Monitor vor sich für den besten Beleuchtungseffekt während Anrufen."
+  }
+}

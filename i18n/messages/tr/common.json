@@ -1,0 +1,179 @@
+{
+  "LanguageDetection": {
+    "title": "Dil Önerisi",
+    "description": "Tarayıcı dilinizin mevcut site dilinden farklı olduğunu fark ettik. Dilini istediğiniz zaman değiştirebilirsiniz 👉",
+    "countdown": "{countdown} saniye içinde kapanıyor"
+  },
+  "Header": {
+    "links": []
+  },
+  "Footer": {
+    "Copyright": "Telif Hakkı © {year} {name} Tüm hakları saklıdır.",
+    "PrivacyPolicy": "Gizlilik Politikası",
+    "TermsOfService": "Hizmet Şartları",
+    "Links": {
+      "groups": [
+        {
+          "title": "Ürünler",
+          "links": [
+            {
+              "href": "/white-screen",
+              "name": "Beyaz Ekran"
+            },
+            {
+              "href": "/black-screen",
+              "name": "Siyah Ekran"
+            },
+            {
+              "href": "/blue-screen",
+              "name": "Mavi Ekran"
+            },
+            {
+              "href": "/green-screen",
+              "name": "Yeşil Ekran"
+            },
+            {
+              "href": "/red-screen",
+              "name": "Kırmızı Ekran"
+            },
+            {
+              "href": "/yellow-screen",
+              "name": "Sarı Ekran"
+            },
+            {
+              "href": "/orange-screen",
+              "name": "Turuncu Ekran"
+            },
+            {
+              "href": "/",
+              "name": "Pembe Ekran"
+            },
+            {
+              "href": "/purple-screen",
+              "name": "Mor Ekran"
+            },
+            {
+              "href": "/zoom-lighting",
+              "name": "Zoom Aydınlatma"
+            }
+          ]
+        },
+        {
+          "title": "Destek",
+          "links": [
+            {
+              "href": "mailto:hi@pinkscreen.org",
+              "name": "Bize Ulaşın"
+            }
+          ]
+        },
+        {
+          "title": "Diller",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/tr",
+              "name": "Türkçe",
+              "useA": true
+            },
+            {
+              "href": "/fr",
+              "name": "Français",
+              "useA": true
+            },
+            {
+              "href": "/it",
+              "name": "Italiano",
+              "useA": true
+            },
+            {
+              "href": "/ms",
+              "name": "Bahasa Melayu",
+              "useA": true
+            },
+            {
+              "href": "/pl",
+              "name": "Polski",
+              "useA": true
+            },
+            {
+              "href": "/pt",
+              "name": "Português",
+              "useA": true
+            },
+            {
+              "href": "/se",
+              "name": "Svenska",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "Pink Screen",
+    "tagLine": "Her İhtiyaç İçin Profesyonel Ekran Araçları",
+    "description": "Kapsamlı çevrimiçi ekran araçları koleksiyonu - beyaz ekran, renkli ekranlar, ekran koruyucular, sistem simülatörleri ve görüntü yardımcıları. Monitör testi, fotoğraf aydınlatması, sunumlar, yayın ve yaratıcı projeler için mükemmel.",
+    "pageData": {
+      "tagLine": "Her İhtiyaç İçin Profesyonel Ekran Araçları",
+      "description": "Kapsamlı çevrimiçi ekran araçları koleksiyonu - beyaz ekran, renkli ekranlar, ekran koruyucular, sistem simülatörleri ve görüntü yardımcıları. Monitör testi, fotoğraf aydınlatması, sunumlar, yayın ve yaratıcı projeler için mükemmel."
+    }
+  },
+  "Blogs": {
+    "title": "Pembe Ekran Blog",
+    "description": "Pink Screen hakkındaki en son özellikler, ipuçları ve güncellemeleri keşfedin - nihai ekran deneyimi platformunuz.",
+    "emptyState": {
+      "title": "Blog yazısı yok",
+      "description": "Heyecan verici içerik oluşturuyoruz, bizi takip etmeye devam edin!"
+    },
+    "loadMorePostsFailed": "Daha fazla gönderi yüklenemedi",
+    "loadMorePosts": "Daha fazla gönderi yükleniyor...",
+    "filterPostsFailed": "Gönderiler yüklenemedi",
+    "noPostsFoundForThisTag": "Bu kategori için makale bulunamadı",
+    "reachedTheEnd": "Tüm gönderilerin sonuna ulaştınız",
+    "BlogDetail": {
+      "featured": "Öne Çıkan Gönderi",
+      "accessRestricted": "Erişim Kısıtlı",
+      "unauthorized": "Bu makale sadece giriş yapmış kullanıcılar için mevcuttur",
+      "premium": "Premium İçerik",
+      "premiumContent": "Bu makale sadece abonelere özeldir",
+      "signIn": "Giriş Yap",
+      "upgrade": "Yükselt",
+      "backToBlogs": "Blog Listesine Dön",
+      "notFound": "Makale Bulunamadı"
+    }
+  },
+  "TermsOfService": {
+    "title": "Hizmet Şartları",
+    "description": "Hizmet Şartları"
+  },
+  "PrivacyPolicy": {
+    "title": "Gizlilik Politikası",
+    "description": "Gizlilik Politikası"
+  }
+} 

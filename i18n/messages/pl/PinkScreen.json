@@ -1,0 +1,175 @@
+{
+  "hero": {
+    "badge": "Narzędzie Różowego Ekranu",
+    "title": "Różowy Ekran | Narzędzie Online",
+    "description": "Różowy ekran online do tworzenia delikatnej atmosfery, zmniejszania stresu i promowania relaksu. Idealny dla dobrego samopoczucia i kreatywności.",
+    "features": {
+      "noRegistration": "Bez rejestracji",
+      "worksOffline": "Działa offline",
+      "allDevices": "Wszystkie urządzenia"
+    }
+  },
+  "keywords": "różowy ekran, różowe tło, różowy ekran online, kolor różowy, delikatność, relaks, kreatywność",
+  "colorPicker": {
+    "title": "Wybierz swój kolor",
+    "custom": "Niestandardowy",
+    "description": "Idealny do tworzenia delikatnej i uspokajającej atmosfery",
+    "launchButton": "Uruchom różowy ekran"
+  },
+  "colors": {
+    "Black": "Czarny",
+    "White": "Biały",
+    "Red": "Czerwony",
+    "Blue": "Niebieski",
+    "Green": "Zielony",
+    "Yellow": "Żółty",
+    "Purple": "Fioletowy",
+    "Pink": "Różowy",
+    "Orange": "Pomarańczowy",
+    "Zoom Lighting": "Oświetlenie Zoom"
+  },
+  "interface": {
+    "livePreview": "Podgląd na żywo",
+    "clickForFullscreen": "Kliknij, aby przejść na pełny ekran",
+    "current": "Aktualny",
+    "chooseYourColor": "Wybierz swój kolor",
+    "perfectFor": "Idealny do",
+    "launchPinkScreen": "Uruchom Różowy Ekran"
+  },
+  "useCases": {
+    "title": "Ludzie używają różowego ekranu do:",
+    "subtitle": "Odkryj różne sposoby korzystania z naszego różowego ekranu",
+    "description": "Nasze narzędzie różowego ekranu tworzy delikatną i uspokajającą atmosferę dla relaksu i kreatywności.",
+    "cases": [
+      {
+        "title": "Różowe Tło dla Tworzenia Treści",
+        "description": "Bez wysiłku osiągnij różowe tło dla swojej internetowej twórczości. Nasze narzędzie oferuje pełnoekranowy różowy wyświetlacz, który doskonale nadaje się do dodawania żywego koloru do Twoich filmów, transmisji na żywo i prezentacji wirtualnych.",
+        "icon": "🎬"
+      },
+      {
+        "title": "Łatwa Terapia Różowym Światłem",
+        "description": "Przekształć swój ekran w źródło terapeutycznego różowego światła. Skorzystaj z kojącego działania terapii różowym światłem bezpośrednio z ekranu swojego urządzenia. Idealne do relaksu, poprawy nastroju i redukcji stresu.",
+        "icon": "💖"
+      },
+      {
+        "title": "Inspiracja dla Projektantów Wizualnych",
+        "description": "Zainspiruj swoją kreatywność w projektowaniu pełnoekranowym różowym tłem. Nasze narzędzie pozwala projektantom zanurzyć się w kolorze różowym, stymulując kreatywne pomysły na projekty projektowe.",
+        "icon": "🎨"
+      },
+      {
+        "title": "Testowanie Kalibracji Kolorów",
+        "description": "Ocen dokładność kolorów swojego ekranu za pomocą naszego różowego wyświetlacza. Idealne do sprawdzania wierności odcienia różowego na różnych urządzeniach i ustawieniach ekranu.",
+        "icon": "🔍"
+      },
+      {
+        "title": "Wyświetlacz Przyciągający Uwagę",
+        "description": "Przyciągnij uwagę pełnoekranowym różowym wyświetlaczem podczas prezentacji online, webinarów czy wirtualnych spotkań. Użyj naszego narzędzia, aby podkreślić kluczowe momenty i zaangażować swoją publiczność w unikalny sposób.",
+        "icon": "👁️"
+      },
+      {
+        "title": "różowy ekran dla klimatu",
+        "description": "Podoba mi się atmosfera, jaką tworzy różowy kolor",
+        "icon": "💕"
+      },
+      {
+        "title": "różowy ekran do kopiowania obrazu",
+        "description": "Aby skopiować rysunek, który stworzył mój kolega z klasy",
+        "icon": "📋"
+      },
+      {
+        "title": "różowy ekran do tworzenia filmów",
+        "description": "Ponieważ moje filmy na YouTube są lepsze z różowym ekranem",
+        "icon": "🎥"
+      },
+      {
+        "title": "różowy ekran na rozmowy online",
+        "description": "Aby dodać różowy blask podczas spotkania",
+        "icon": "💬"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Jak korzystać z różowego ekranu",
+    "subtitle": "Prosty przewodnik, jak najlepiej wykorzystać nasze narzędzie",
+    "steps": [
+      {
+        "title": "Otwórz narzędzie",
+        "description": "Kliknij przycisk, aby wyświetlić różowy ekran w trybie pełnoekranowym"
+      },
+      {
+        "title": "Stwórz atmosferę",
+        "description": "Przyciemnij inne źródła światła, aby zmaksymalizować efekt"
+      },
+      {
+        "title": "Zrelaksuj się",
+        "description": "Ciesz się kojącą atmosferą stworzoną przez różowy kolor"
+      }
+    ]
+  },
+  "info": {
+    "title": "Różowy Ekran – Narzędzie Tła Pełnoekranowego",
+    "subtitle": "Różowy ekran tworzy łagodną i uspokajającą atmosferę, idealną do relaksu i kreatywnych środowisk",
+    "professionalTool": "Narzędzie Profesjonalne",
+    "downloadReady": "Pobieranie Gotowe",
+    "downloadTitle": "Pobierz Tło Różowego Ekranu",
+    "downloadDescription": "Uzyskaj wysokiej jakości różowe ekrany dla swoich potrzeb zawodowych",
+    "hdTitle": "Tło Różowego Ekranu 1920×1080",
+    "hdDescription": "Czysto różowy obraz pełnoekranowy do tworzenia łagodnej, uspokajającej i kreatywnej atmosfery",
+    "hdButton": "Pobierz HD",
+    "fourKTitle": "Tło Różowego Ekranu 4K",
+    "fourKDescription": "Ultra HD różowy ekran dla relaksujących środowisk i delikatnych projektów kreatywnych",
+    "fourKButton": "Pobierz 4K",
+    "proTipBadge": "Wskazówka Pro",
+    "proTipTitle": "Wskazówka Pro",
+    "proTipDescription": "Różowy jest idealny do tworzenia spokojnej i życzliwej atmosfery, doskonały do przestrzeni relaksu i kreatywności."
+  },
+  "faq": {
+    "title": "Często zadawane pytania",
+    "subtitle": "Odpowiedzi na częste pytania o różowy ekran",
+    "description": "Znajdź odpowiedzi na często zadawane pytania dotyczące korzystania z naszego narzędzia różowego ekranu do różnych celów.",
+    "questions": [
+      {
+        "question": "Czy różowy naprawdę ma kojący wpływ?",
+        "answer": "Tak, badania pokazują, że różowy może zmniejszać agresję i sprzyjać relaksacji."
+      },
+      {
+        "question": "Czy mogę używać różowego ekranu do snu?",
+        "answer": "Miękkie różowe światło może pomóc w stworzeniu atmosfery sprzyjającej snu."
+      },
+      {
+        "question": "Czy różowy ekran nadaje się dla dzieci?",
+        "answer": "Absolutnie! Różowy to kojący kolor, idealny dla przestrzeni dziecięcych."
+      },
+      {
+        "question": "Jak łączyć różowy z innymi kolorami?",
+        "answer": "Różowy dobrze komponuje się z bielą, beżem i innymi pastelowymi odcieniami."
+      },
+      {
+        "question": "Czy różowy ekran jest dobry dla kreatywności?",
+        "answer": "Tak, różowy jest związany z kreatywnością i optymizmem. Różowy ekran może inspirować kreatywne myślenie i służyć jako tablica nastrojów dla projektów projektowych i pracy artystycznej."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Specyfikacje techniczne",
+    "subtitle": "Szczegóły techniczne naszego narzędzia różowego ekranu",
+    "specs": [
+      {
+        "label": "Kolor",
+        "value": "#FFC0CB (Delikatny różowy)"
+      },
+      {
+        "label": "Rozdzielczość",
+        "value": "Dostosowuje się do wszystkich ekranów"
+      },
+      {
+        "label": "Kompatybilność",
+        "value": "Wszystkie nowoczesne przeglądarki"
+      },
+      {
+        "label": "Korzyści",
+        "value": "Relaks i dobre samopoczucie"
+      }
+    ]
+  }
+} 

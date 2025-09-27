@@ -1,0 +1,179 @@
+{
+  "LanguageDetection": {
+    "title": "Sugestão de idioma",
+    "description": "Notamos que o idioma do seu navegador difere do idioma atual do site. Você pode mudar o idioma a qualquer momento 👉",
+    "countdown": "Fechando em {countdown} segundos"
+  },
+  "Header": {
+    "links": []
+  },
+  "Footer": {
+    "Copyright": "Copyright © {year} {name} Todos os direitos reservados.",
+    "PrivacyPolicy": "Política de Privacidade",
+    "TermsOfService": "Termos de Serviço",
+    "Links": {
+      "groups": [
+        {
+          "title": "Produtos",
+          "links": [
+            {
+              "href": "/white-screen",
+              "name": "Tela Branca"
+            },
+            {
+              "href": "/black-screen",
+              "name": "Tela Preta"
+            },
+            {
+              "href": "/blue-screen",
+              "name": "Tela Azul"
+            },
+            {
+              "href": "/green-screen",
+              "name": "Tela Verde"
+            },
+            {
+              "href": "/red-screen",
+              "name": "Tela Vermelha"
+            },
+            {
+              "href": "/yellow-screen",
+              "name": "Tela Amarela"
+            },
+            {
+              "href": "/orange-screen",
+              "name": "Tela Laranja"
+            },
+            {
+              "href": "/",
+              "name": "Tela Rosa"
+            },
+            {
+              "href": "/purple-screen",
+              "name": "Tela Roxa"
+            },
+            {
+              "href": "/zoom-lighting",
+              "name": "Iluminação Zoom"
+            }
+          ]
+        },
+        {
+          "title": "Suporte",
+          "links": [
+            {
+              "href": "mailto:hi@pinkscreen.org",
+              "name": "Entre em Contato"
+            }
+          ]
+        },
+        {
+          "title": "Idiomas",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/fr",
+              "name": "Français",
+              "useA": true
+            },
+            {
+              "href": "/it",
+              "name": "Italiano",
+              "useA": true
+            },
+            {
+              "href": "/ms",
+              "name": "Bahasa Melayu",
+              "useA": true
+            },
+            {
+              "href": "/pl",
+              "name": "Polski",
+              "useA": true
+            },
+            {
+              "href": "/pt",
+              "name": "Português",
+              "useA": true
+            },
+            {
+              "href": "/se",
+              "name": "Svenska",
+              "useA": true
+            },
+            {
+              "href": "/tr",
+              "name": "Türkçe",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "Pink Screen",
+    "tagLine": "Ferramentas de Tela Profissionais para Todas as Necessidades",
+    "description": "Coleção completa de ferramentas de tela online - tela branca, telas coloridas, protetores de tela, simuladores de sistema e utilitários de display. Perfeito para teste de monitor, iluminação fotográfica, apresentações, streaming e projetos criativos.",
+    "pageData": {
+      "tagLine": "Ferramentas de Tela Profissionais para Todas as Necessidades",
+      "description": "Coleção completa de ferramentas de tela online - tela branca, telas coloridas, protetores de tela, simuladores de sistema e utilitários de display. Perfeito para teste de monitor, iluminação fotográfica, apresentações, streaming e projetos criativos."
+    }
+  },
+  "Blogs": {
+    "title": "Blog Tela Rosa",
+    "description": "Descubra os recursos mais recentes, dicas e atualizações sobre Pink Screen - sua plataforma definitiva de experiência de tela.",
+    "emptyState": {
+      "title": "Nenhum post do blog",
+      "description": "Estamos criando conteúdo emocionante, fique ligado!"
+    },
+    "loadMorePostsFailed": "Falha ao carregar mais posts",
+    "loadMorePosts": "Carregando mais posts...",
+    "filterPostsFailed": "Falha ao carregar posts",
+    "noPostsFoundForThisTag": "Nenhum artigo encontrado para esta categoria",
+    "reachedTheEnd": "Você chegou ao fim de todos os posts",
+    "BlogDetail": {
+      "featured": "Post em Destaque",
+      "accessRestricted": "Acesso Restrito",
+      "unauthorized": "Este artigo está disponível apenas para usuários logados",
+      "premium": "Conteúdo Premium",
+      "premiumContent": "Este artigo é exclusivo para assinantes",
+      "signIn": "Entrar",
+      "upgrade": "Atualizar",
+      "backToBlogs": "Voltar à Lista de Blogs",
+      "notFound": "Artigo Não Encontrado"
+    }
+  },
+  "TermsOfService": {
+    "title": "Termos de Serviço",
+    "description": "Termos de Serviço"
+  },
+  "PrivacyPolicy": {
+    "title": "Política de Privacidade",
+    "description": "Política de Privacidade"
+  }
+} 

@@ -1,0 +1,179 @@
+{
+  "LanguageDetection": {
+    "title": "Suggerimento lingua",
+    "description": "Abbiamo notato che la lingua del tuo browser differisce dalla lingua attuale del sito. Puoi cambiare lingua in qualsiasi momento 👉",
+    "countdown": "Chiusura tra {countdown} secondi"
+  },
+  "Header": {
+    "links": []
+  },
+  "Footer": {
+    "Copyright": "Copyright © {year} {name} Tutti i diritti riservati.",
+    "PrivacyPolicy": "Privacy Policy",
+    "TermsOfService": "Termini di servizio",
+    "Links": {
+      "groups": [
+        {
+          "title": "Produits",
+          "links": [
+            {
+              "href": "/white-screen",
+              "name": "Écran Blanc"
+            },
+            {
+              "href": "/black-screen",
+              "name": "Écran Noir"
+            },
+            {
+              "href": "/blue-screen",
+              "name": "Écran Bleu"
+            },
+            {
+              "href": "/green-screen",
+              "name": "Écran Vert"
+            },
+            {
+              "href": "/red-screen",
+              "name": "Écran Rouge"
+            },
+            {
+              "href": "/yellow-screen",
+              "name": "Écran Jaune"
+            },
+            {
+              "href": "/orange-screen",
+              "name": "Écran Orange"
+            },
+            {
+              "href": "/",
+              "name": "Écran Rose"
+            },
+            {
+              "href": "/purple-screen",
+              "name": "Écran Violet"
+            },
+            {
+              "href": "/zoom-lighting",
+              "name": "Éclairage Zoom"
+            }
+          ]
+        },
+        {
+          "title": "Support",
+          "links": [
+            {
+              "href": "mailto:hi@pinkscreen.org",
+              "name": "Nous contacter"
+            }
+          ]
+        },
+        {
+          "title": "Langues",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/fr",
+              "name": "Français",
+              "useA": true
+            },
+            {
+              "href": "/it",
+              "name": "Italiano",
+              "useA": true
+            },
+            {
+              "href": "/ms",
+              "name": "Bahasa Melayu",
+              "useA": true
+            },
+            {
+              "href": "/pl",
+              "name": "Polski",
+              "useA": true
+            },
+            {
+              "href": "/pt",
+              "name": "Português",
+              "useA": true
+            },
+            {
+              "href": "/se",
+              "name": "Svenska",
+              "useA": true
+            },
+            {
+              "href": "/tr",
+              "name": "Türkçe",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "Pink Screen",
+    "tagLine": "Outils d'écran professionnels pour tous les besoins",
+    "description": "Collection complète d'outils d'écran en ligne - écran blanc, écrans colorés, économiseurs d'écran, simulateurs système et utilitaires d'affichage. Parfait pour les tests de moniteur, l'éclairage photographique, les présentations, le streaming et les projets créatifs.",
+    "pageData": {
+      "tagLine": "Outils d'écran professionnels pour tous les besoins",
+      "description": "Collection complète d'outils d'écran en ligne - écran blanc, écrans colorés, économiseurs d'écran, simulateurs système et utilitaires d'affichage. Parfait pour les tests de moniteur, l'éclairage photographique, les présentations, le streaming et les projets créatifs."
+    }
+  },
+  "Blogs": {
+    "title": "Blog Écran Rose",
+    "description": "Découvrez les dernières fonctionnalités, conseils et mises à jour sur Pink Screen - votre plateforme d'expérience d'écran ultime.",
+    "emptyState": {
+      "title": "Aucun article de blog",
+      "description": "Nous créons du contenu passionnant, restez à l'écoute !"
+    },
+    "loadMorePostsFailed": "Échec du chargement d'autres articles",
+    "loadMorePosts": "Chargement d'autres articles...",
+    "filterPostsFailed": "Échec du chargement des articles",
+    "noPostsFoundForThisTag": "Aucun article trouvé pour cette catégorie",
+    "reachedTheEnd": "Vous avez atteint la fin de tous les articles",
+    "BlogDetail": {
+      "featured": "Article en vedette",
+      "accessRestricted": "Accès restreint",
+      "unauthorized": "Cet article n'est disponible qu'aux utilisateurs connectés",
+      "premium": "Contenu premium",
+      "premiumContent": "Cet article est exclusif aux abonnés",
+      "signIn": "Se connecter",
+      "upgrade": "Mettre à niveau",
+      "backToBlogs": "Retour à la liste des blogs",
+      "notFound": "Article non trouvé"
+    }
+  },
+  "TermsOfService": {
+    "title": "Conditions d'utilisation",
+    "description": "Conditions d'utilisation"
+  },
+  "PrivacyPolicy": {
+    "title": "Politique de confidentialité",
+    "description": "Politique de confidentialité"
+  }
+} 

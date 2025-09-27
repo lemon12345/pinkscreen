@@ -1,0 +1,157 @@
+{
+  "hero": {
+    "badge": "Outil Écran Vert",
+    "title": "Écran Vert | Outil en Ligne",
+    "description": "Utilisez un écran vert plein écran pour l'incrustation vidéo, le montage chroma key, ou tester les couleurs de votre moniteur.",
+    "features": {
+      "noRegistration": "Aucune inscription",
+      "worksOffline": "Fonctionne hors ligne",
+      "allDevices": "Tous les appareils"
+    }
+  },
+  "keywords": "écran vert, chroma key, fond vert, écran vert en ligne, green screen, incrustation, effets spéciaux, création vidéo, streaming",
+  "colorPicker": {
+    "title": "Choisissez votre couleur",
+    "custom": "Personnalisé",
+    "description": "Parfait pour les effets chroma key et la création de contenu vidéo",
+    "launchButton": "Lancer l'écran vert"
+  },
+  "interface": {
+    "livePreview": "Aperçu en Direct",
+    "chooseYourColor": "Choisissez Votre Couleur",
+    "clickForFullscreen": "Cliquer pour Plein Écran",
+    "current": "Actuel",
+    "perfectFor": "Parfait pour les tests de moniteur, l'éclairage photographique et les présentations",
+    "launchGreenScreen": "Lancer l'Écran Vert"
+  },
+  "colors": {
+    "Black": "Écran Noir",
+    "White": "Écran Blanc",
+    "Red": "Écran Rouge",
+    "Blue": "Écran Bleu",
+    "Green": "Écran Vert",
+    "Yellow": "Écran Jaune",
+    "Purple": "Écran Violet",
+    "Pink": "Écran Rose",
+    "Orange": "Écran Orange",
+    "Zoom Lighting": "Zoom d'éclairage"
+  },
+  "useCases": {
+    "title": "Les gens utilisent l'écran vert pour:",
+    "subtitle": "Découvrez les différentes façons d'utiliser notre écran vert",
+    "description": "Notre outil d'écran vert est essentiel pour la création de contenu, les effets spéciaux et les productions vidéo professionnelles.",
+    "cases": [
+      {
+        "title": "Écran Vert pour la Création de Contenu Vidéo",
+        "description": "Profitez de notre affichage plein écran vert pour créer des vidéos de qualité professionnelle. L'écran vert est parfait pour les effets vidéo et le montage post-production.",
+        "icon": "video"
+      },
+      {
+        "title": "Expérience Visuelle Apaisante avec Affichage Vert",
+        "description": "Utilisez notre outil d'écran vert pour créer un environnement visuel apaisant. Les nuances apaisantes de vert peuvent aider à réduire la fatigue oculaire et favoriser la relaxation.",
+        "icon": "eye"
+      },
+      {
+        "title": "Écran Vert pour une Expérience de Jeu Immersive",
+        "description": "Améliorez votre expérience de jeu avec notre affichage plein écran vert. Il peut servir de fond dynamique pour un environnement de jeu plus immersif.",
+        "icon": "gamepad"
+      },
+      {
+        "title": "Écran Vert pour les Réunions Virtuelles",
+        "description": "Utilisez notre outil d'écran vert pour ajouter des arrière-plans professionnels lors de vos réunions virtuelles. Il peut améliorer significativement la qualité de vos appels vidéo.",
+        "icon": "video-camera"
+      },
+      {
+        "title": "Écran Vert comme Aide à l'Enseignement",
+        "description": "Les éducateurs peuvent utiliser notre outil d'écran vert pour rendre l'enseignement en ligne plus interactif et engageant. C'est un excellent moyen d'illustrer visuellement des concepts complexes.",
+        "icon": "presentation"
+      },
+      {
+        "title": "Écran vert pour photoshop",
+        "description": "Je m'incruste moi-même dans ma chambre avec Photoshop pour que, quand je le retire et que je suis toujours dans ma chambre, les gens sont surpris pendant quelques secondes. Cela me rend heureux car je suis en quelque sorte le facteur de surprise de ces quelques secondes de leur vie.",
+        "icon": "camera"
+      },
+      {
+        "title": "Écran vert pour se détendre",
+        "description": "Dans une situation de classe, pendant une pause de travail informatique et en écoutant les autres. Le vert, car c'est la couleur la plus relaxante. C'est juste une couleur verte silencieuse et immobile, la couleur des arbres et de l'herbe. Grâce à cela, l'écran émet une lumière verte relaxante pendant les pauses de travail sur ordinateur.",
+        "icon": "leaf"
+      },
+      {
+        "title": "Écran vert pour les appels en ligne",
+        "description": "Pour ajouter une lueur verte pendant une réunion.",
+        "icon": "phone"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Comment utiliser l'écran vert",
+    "subtitle": "Guide simple pour tirer le meilleur parti de notre outil",
+    "steps": [
+      "Cliquez sur le bouton pour afficher l'écran vert en plein écran",
+      "Assurez-vous d'avoir un éclairage uniforme pour un meilleur résultat",
+      "Filmez votre contenu devant l'écran vert et appliquez l'effet chroma key"
+    ]
+  },
+  "info": {
+    "title": "Écran Vert – Outil de Fond Plein Écran",
+    "subtitle": "Un écran vert est parfait pour les effets chroma key, la création de contenu et les fonds virtuels professionnels",
+    "professionalTool": "Outil Professionnel",
+    "downloadReady": "Téléchargement Prêt",
+    "downloadTitle": "Télécharger Fond d'Écran Vert",
+    "downloadDescription": "Obtenez des écrans verts haute qualité pour vos besoins professionnels",
+    "hdTitle": "Fond d'Écran Vert 1920×1080",
+    "hdDescription": "Image verte plein écran pure pour les effets chroma key, la création de contenu et les fonds virtuels",
+    "hdButton": "Télécharger HD",
+    "fourKTitle": "Fond d'Écran Vert 4K",
+    "fourKDescription": "Image d'écran vert ultra HD pour les productions vidéo professionnelles et les effets spéciaux",
+    "fourKButton": "Télécharger 4K",
+    "proTipBadge": "Conseil Pro",
+    "proTipTitle": "Conseil Pro",
+    "proTipDescription": "Pour de meilleurs résultats chroma key, assurez-vous d'avoir un éclairage uniforme et évitez les ombres sur l'écran vert."
+  },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "subtitle": "Réponses aux questions courantes sur l'écran vert",
+    "description": "Apprenez les meilleures pratiques pour utiliser notre écran vert dans vos projets de création vidéo et d'effets spéciaux.",
+    "questions": [
+      {
+        "question": "Qu'est-ce que le chroma key ?",
+        "answer": "Le chroma key est une technique qui permet de remplacer une couleur spécifique (généralement le vert) par une autre image ou vidéo."
+      },
+      {
+        "question": "Pourquoi utiliser du vert ?",
+        "answer": "Le vert est rarement présent dans les tons de peau humains, ce qui facilite la séparation lors de l'incrustation."
+      },
+      {
+        "question": "Quel logiciel utiliser pour le chroma key ?",
+        "answer": "OBS Studio, Adobe Premiere, Final Cut Pro, ou même des applications mobiles comme KineMaster."
+      },
+      {
+        "question": "Comment avoir un bon éclairage ?",
+        "answer": "Utilisez un éclairage uniforme et évitez les ombres sur l'écran vert pour un meilleur résultat."
+      }
+    ]
+  },
+  "techSpecs": {
+    "title": "Spécifications techniques",
+    "subtitle": "Détails techniques de notre outil d'écran vert",
+    "specs": [
+      {
+        "label": "Couleur",
+        "value": "#00FF00 (Vert chroma)"
+      },
+      {
+        "label": "Résolution",
+        "value": "S'adapte à tous les écrans"
+      },
+      {
+        "label": "Compatibilité",
+        "value": "Tous les navigateurs modernes"
+      },
+      {
+        "label": "Usage",
+        "value": "Chroma key professionnel"
+      }
+    ]
+  }
+} 
