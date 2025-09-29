@@ -9,8 +9,11 @@ export default async function middleware(request: NextRequest) {
 
 export const config = {
   matcher: [
+    // 匹配所有语言路径
+    '/(de|en|es|fr|it|ja|ms|pl|pt|se|tr|zh)/:path*',
+    // 匹配根路径
     '/',
-    '/(en|zh|ja)/:path*',
+    // 排除不需要处理的路径
     '/((?!api|_next|_vercel|auth|.*\\.|favicon.ico).*)'
   ]
 };
