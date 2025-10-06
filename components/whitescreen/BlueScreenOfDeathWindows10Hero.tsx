@@ -33,6 +33,29 @@ export default function BlueScreenOfDeathWindows10Hero({
   const updateIntervalRef = useRef<NodeJS.Timeout | null>(null);
 
   useEffect(() => {
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === 'Escape' && (document.fullscreenElement || __fs.current)) {
+        if (document.exitFullscreen) { document.exitFullscreen(); }
+        else if ((document as any).mozCancelFullScreen) { (document as any).mozCancelFullScreen(); }
+        else if ((document as any).webkitExitFullscreen) { (document as any).webkitExitFullscreen(); }
+        else if ((document as any).msExitFullscreen) { (document as any).msExitFullscreen(); }
+        else if (__fs.current && previewRef.current) {
+          const element = previewRef.current;
+          element.style.position = "static";
+          element.style.left = ""; element.style.top = ""; element.style.zIndex = "";
+          element.style.width = ""; element.style.height = "";
+          element.style.fontSize = ""; element.style.lineHeight = ""; element.style.padding = "";
+          __fs.current = false; document.body.style.overflow = "auto";
+        }
+        onFullscreen?.();
+      }
+    };
+
+    document.addEventListener('keydown', handleKeyDown);
+    return () => document.removeEventListener('keydown', handleKeyDown);
+  }, [onFullscreen]);
+
+  useEffect(() => {
     const updateScreenWidth = () => {
       setScreenWidth(window.innerWidth);
     };
@@ -113,6 +136,7 @@ export default function BlueScreenOfDeathWindows10Hero({
         element.style.position = "static";
         element.style.left = ""; element.style.top = ""; element.style.zIndex = "";
         element.style.width = ""; element.style.height = "";
+        element.style.fontSize = ""; element.style.lineHeight = ""; element.style.padding = "";
         __fs.current = false; document.body.style.overflow = "auto";
       }
       onFullscreen?.(); // 通知父组件状态改变
@@ -128,6 +152,9 @@ export default function BlueScreenOfDeathWindows10Hero({
         element.style.left = "0"; element.style.top = "0";
         element.style.width = "100vw"; element.style.height = "100vh";
         element.style.zIndex = "9999";
+        element.style.fontSize = "16px"; // 全屏时使用更大的字体
+        element.style.lineHeight = "1.2";
+        element.style.padding = "20px";
         __fs.current = true; document.body.style.overflow = "hidden";
       }
       onFullscreen?.(); // 通知父组件状态改变

@@ -1,5 +1,5 @@
 "use client";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import FakeVirusFAQ from "./FakeVirusFAQ";
 import FakeVirusHero from "./FakeVirusHero";
 import FakeVirusHowToUse from "./FakeVirusHowToUse";
@@ -9,20 +9,30 @@ import OtherToolsSection from "../home/OtherToolsSection";
 export default function FakeVirusClient() {
   const [isFullscreen, setIsFullscreen] = useState(false);
 
+  // 清理函数
+  useEffect(() => {
+    return () => {
+      // 组件卸载时清理全屏元素
+      const fullscreenElement = document.getElementById("fake-virus-fullscreen");
+      const styleElement = document.querySelector('style[data-fake-virus]');
+      
+      if (fullscreenElement && document.body.contains(fullscreenElement)) {
+        document.body.removeChild(fullscreenElement);
+      }
+      if (styleElement && document.head.contains(styleElement)) {
+        document.head.removeChild(styleElement);
+      }
+    };
+  }, []);
+
   const handleFullscreen = async () => {
     if (!isFullscreen) {
-      // 首先进入浏览器全屏模式
-      try {
-        await document.documentElement.requestFullscreen();
-      } catch (err) {
-        console.log("Fullscreen not supported");
-      }
-
       const fullscreenElement = document.createElement("div");
       fullscreenElement.id = "fake-virus-fullscreen";
 
       // 添加完整的病毒样式
       const style = document.createElement("style");
+      style.setAttribute('data-fake-virus', 'true');
       style.textContent = `
         #fake-virus-fullscreen {
           position: fixed;
@@ -391,20 +401,23 @@ export default function FakeVirusClient() {
       };
 
       // 退出函数
-      async function exitPrank() {
-        if (timerInterval) clearInterval(timerInterval);
-        document.body.removeChild(fullscreenElement);
-        document.head.removeChild(style);
-        setIsFullscreen(false);
-        document.removeEventListener("keydown", handleKeyDown);
-
-        // 退出浏览器全屏模式
+      function exitPrank() {
         try {
-          if (document.fullscreenElement) {
-            await document.exitFullscreen();
+          if (timerInterval) clearInterval(timerInterval);
+          
+          // 安全地移除元素
+          if (fullscreenElement && document.body.contains(fullscreenElement)) {
+            document.body.removeChild(fullscreenElement);
           }
-        } catch (err) {
-          console.log("Exit fullscreen failed");
+          if (style && document.head.contains(style)) {
+            document.head.removeChild(style);
+          }
+          
+          setIsFullscreen(false);
+          document.removeEventListener("keydown", handleKeyDown);
+        } catch (error) {
+          console.error("Error exiting fake virus:", error);
+          setIsFullscreen(false);
         }
       }
 

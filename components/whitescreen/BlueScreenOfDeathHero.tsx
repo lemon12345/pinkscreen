@@ -29,6 +29,29 @@ export default function BlueScreenOfDeathHero({
   const [screenWidth, setScreenWidth] = useState(0);
 
   useEffect(() => {
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === 'Escape' && (document.fullscreenElement || __fs.current)) {
+        if (document.exitFullscreen) { document.exitFullscreen(); }
+        else if ((document as any).mozCancelFullScreen) { (document as any).mozCancelFullScreen(); }
+        else if ((document as any).webkitExitFullscreen) { (document as any).webkitExitFullscreen(); }
+        else if ((document as any).msExitFullscreen) { (document as any).msExitFullscreen(); }
+        else if (__fs.current && previewRef.current) {
+          const element = previewRef.current;
+          element.style.position = "static";
+          element.style.left = ""; element.style.top = ""; element.style.zIndex = "";
+          element.style.width = ""; element.style.height = "";
+          element.style.fontSize = ""; element.style.lineHeight = ""; element.style.padding = "";
+          __fs.current = false; document.body.style.overflow = "auto";
+        }
+        onFullscreen?.();
+      }
+    };
+
+    document.addEventListener('keydown', handleKeyDown);
+    return () => document.removeEventListener('keydown', handleKeyDown);
+  }, [onFullscreen]);
+
+  useEffect(() => {
     const updateScreenWidth = () => {
       setScreenWidth(window.innerWidth);
     };
@@ -103,6 +126,9 @@ export default function BlueScreenOfDeathHero({
         element.style.left = "0"; element.style.top = "0";
         element.style.width = "100vw"; element.style.height = "100vh";
         element.style.zIndex = "9999";
+        element.style.fontSize = "16px"; // 全屏时使用更大的字体
+        element.style.lineHeight = "1.2";
+        element.style.padding = "20px";
         __fs.current = true; document.body.style.overflow = "hidden";
       }
       onFullscreen?.(); // 通知父组件状态改变
@@ -268,17 +294,15 @@ export default function BlueScreenOfDeathHero({
                 onClick={handlePreviewClick}
               >
                 <div className="whitespace-pre-wrap select-none">
-                  <p className="text-white mb-2">
-                    Your PC ran into a problem and needs to restart. We&apos;re just collecting some error info, and then we&apos;ll restart for you.
-                  </p>
                   A problem has been detected and windows has been shut down to prevent damage to your computer.{"\n\n"}
-                  The problem seems to be caused by the following file: SPCMDCON.SYS PAGE_FAULT_IN_NONPAGED_AREA{"\n\n"}
+                  The problem seems to be caused by the following file: SPCMDCON.SYS{"\n"}
+                  PAGE_FAULT_IN_NONPAGED_AREA{"\n\n"}
                   If this is the first time you&apos;ve seen this stop error screen, restart your computer. If this screen appears again, follow these steps:{"\n\n"}
                   Check to make sure any new hardware or software is properly installed. If this is a new installation, ask your hardware or software manufacturer for any windows updates you might need.{"\n\n"}
                   If problems continue, disable or remove any newly installed hardware or software. Disable BIOS memory options such as caching or shadowing. If you need to use Safe Mode to remove or disable components, restart your computer, press F8 to select Advanced startup options, and then select Safe Mode.{"\n\n"}
                   Technical information:{"\n\n"}
-                  *** STOP: 0x00000050 (OXFD3094C2, 0x00000001, 0xFBFE7617, 0x00000000){"\n\n"}
-                  *** SPCMDCON. SYS - Address FBFE7617 base at FBFE5000, Datestamp 3d6dd67c
+                  *** STOP: 0x00000050 (0xFD3094C2, 0x00000001, 0xFBFE7617, 0x00000000){"\n\n"}
+                  *** SPCMDCON.SYS - Address FBFE7617 base at FBFE5000, Datestamp 3d6dd67c
                 </div>
               </div>
             </div>

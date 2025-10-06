@@ -1,5 +1,5 @@
 "use client";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import FakeDosFAQ from "./FakeDosFAQ";
 import FakeDosHero from "./FakeDosHero";
 import FakeDosHowToUse from "./FakeDosHowToUse";
@@ -8,20 +8,30 @@ import FakeDosUseCases from "./FakeDosUseCases";
 export default function FakeDosClient() {
   const [isFullscreen, setIsFullscreen] = useState(false);
 
+  // 清理函数
+  useEffect(() => {
+    return () => {
+      // 组件卸载时清理全屏元素
+      const fullscreenElement = document.getElementById("fake-dos-fullscreen");
+      const styleElement = document.querySelector('style[data-fake-dos]');
+      
+      if (fullscreenElement && document.body.contains(fullscreenElement)) {
+        document.body.removeChild(fullscreenElement);
+      }
+      if (styleElement && document.head.contains(styleElement)) {
+        document.head.removeChild(styleElement);
+      }
+    };
+  }, []);
+
   const handleFullscreen = async () => {
     if (!isFullscreen) {
-      // 首先进入浏览器全屏模式
-      try {
-        await document.documentElement.requestFullscreen();
-      } catch (err) {
-        console.log("Fullscreen not supported");
-      }
-
       const fullscreenElement = document.createElement("div");
       fullscreenElement.id = "fake-dos-fullscreen";
 
       // 添加完整的DOS样式
       const style = document.createElement("style");
+      style.setAttribute('data-fake-dos', 'true');
       style.textContent = `
         #fake-dos-fullscreen {
           position: fixed;
@@ -253,21 +263,24 @@ ___<span>_</span><span>_</span><span>_</span>____<span>_</span><span>_</span>___
       };
 
       // 退出函数
-      async function exitPrank() {
-        if (typingTimer) clearTimeout(typingTimer);
-        document.body.removeChild(fullscreenElement);
-        document.head.removeChild(style);
-        setIsFullscreen(false);
-        document.removeEventListener("keypress", handleKeyPress);
-        document.removeEventListener("keydown", handleKeyDown);
-
-        // 退出浏览器全屏模式
+      function exitPrank() {
         try {
-          if (document.fullscreenElement) {
-            await document.exitFullscreen();
+          if (typingTimer) clearTimeout(typingTimer);
+          
+          // 安全地移除元素
+          if (fullscreenElement && document.body.contains(fullscreenElement)) {
+            document.body.removeChild(fullscreenElement);
           }
-        } catch (err) {
-          console.log("Exit fullscreen failed");
+          if (style && document.head.contains(style)) {
+            document.head.removeChild(style);
+          }
+          
+          setIsFullscreen(false);
+          document.removeEventListener("keypress", handleKeyPress);
+          document.removeEventListener("keydown", handleKeyDown);
+        } catch (error) {
+          console.error("Error exiting fake DOS:", error);
+          setIsFullscreen(false);
         }
       }
 
