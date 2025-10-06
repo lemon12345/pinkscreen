@@ -1,0 +1,20 @@
+{
+  "title": "Farbbildschirm-Sammlung",
+  "description": "Entdecken Sie unsere vollständige Sammlung farbiger Bildschirm-Simulationen - vom klassischen Bluescreen bis hin zu lebendigen Regenbogen-Displays. Perfekt für Streiche, Tests und kreative Projekte.",
+  "badge": "Vollständige Farbbildschirm-Sammlung",
+  "screens": {
+    "pinkScreen": "Rosa Bildschirm",
+    "blueScreen": "Blauer Bildschirm",
+    "redScreen": "Roter Bildschirm",
+    "greenScreen": "Grüner Bildschirm",
+    "yellowScreen": "Gelber Bildschirm",
+    "orangeScreen": "Oranger Bildschirm",
+    "purpleScreen": "Lila Bildschirm",
+    "blackScreen": "Schwarzer Bildschirm",
+    "whiteScreen": "Weißer Bildschirm",
+    "zoomLighting": "Zoom-Beleuchtung"
+  },
+  "footer": {
+    "description": "Alle Bildschirme sind kostenlos und funktionieren auf allen Geräten"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "hero": {
+    "title": "Windows 10 Falsk Uppdatering",
+    "description": "Upplev en realistisk Windows 10 uppdateringssimulering på vår webbplats. Lura dina vänner med vår autentiska Windows 10 falska uppdateringsskärm. Njut av spänningen och nöjet av en simulerad uppdateringsprocess.",
+    "badge": "Windows 10 Systemuppdatering",
+    "features": {
+      "noRegistration": "Ingen registrering",
+      "worksOffline": "Fungerar offline",
+      "allDevices": "Alla enheter"
+    }
+  },
+  "keywords": "Windows 10 falsk uppdatering, Windows 10 uppdateringssimulering, Simulera Windows 10 uppdatering, Falsk Windows 10 uppdateringsskärm, Emulera Windows 10 uppdatering, Windows 10 uppdateringsskämt, Windows 10 uppdateringsprocess, Autentisk Windows 10 uppdatering, Realistisk Windows 10 uppdateringsskärm, Lura vänner med Windows 10 uppdatering, Realistisk Windows 10 uppdateringsframsteg, Äkta Windows 10 uppdateringssimulering, Autentiska Windows 10 uppdateringsmeddelanden, Windows 10 uppdateringsstadium, Underhållande Windows 10 uppdateringsskämt, Rolig falsk Windows 10 uppdatering, Njut av simulerad Windows 10 uppdatering, Skämt med Windows 10 falsk uppdatering, Spännande Windows 10 uppdateringsupplevelse, Windows 10 uppdatering för nöje, Windows 10 uppdateringsskämtverktyg",
+  "preview": {
+    "updateText": "Arbetar med uppdateringar",
+    "completeText": " slutförd",
+    "dontTurnOffText": "Stäng inte av din PC. Detta kommer att ta ett tag.",
+    "restartText": "Din PC kan starta om flera gånger"
+  },
+  "useCases": {
+    "title": "Folk använder Windows 10 Uppdateringsskärm för:",
+    "subtitle": "Upptäck olika sätt att använda vår Windows 10 falska uppdateringsskärm",
+    "simulate": {
+      "title": "Simulera Windows 10 Uppdatering för Mjukvarutestning",
+      "description": "Använd vårt Windows 10 falska uppdateringsverktyg för att skapa autentiska uppdateringsskärmar för mjukvarutestning och demonstrationsändamål."
+    },
+    "engage": {
+      "title": "Engagera din Publik med en Realistisk Windows 10 Uppdateringsskärm",
+      "description": "Fånga uppmärksamheten från teknikentusiaster genom att visa en äkta Windows 10 uppdateringssimulering under presentationer eller teknikbloggar."
+    },
+    "education": {
+      "title": "Höj Teknikutbildning med Windows 10 Uppdateringsskämtverktyg",
+      "description": "Inkorporera vår realistiska Windows 10 uppdateringsskärm i teknikutbildningsscenarier för att lära om systemuppdateringar och användargränssnittsdesign."
+    },
+    "content": {
+      "title": "Skapa Underhållande Innehåll med Windows 10 Falsk Uppdatering",
+      "description": "Producera engagerande videoinnehåll eller livestreams med ett underhållande Windows 10 uppdateringsskämt, lägga till humor till teknikdiskussioner."
+    },
+    "prank": {
+      "title": "Skämt med Vänner med en Äkta Windows 10 Uppdateringssimulering",
+      "description": "Överraska dina vänner genom att använda vårt verktyg för att skämt med en Windows 10 falsk uppdatering, förvandla vanliga ögonblick till minnesvärda teknikskämt."
+    },
+    "ux": {
+      "title": "Förbättra UX Designlärande med Simulerade Uppdateringar",
+      "description": "Använd den spännande Windows 10 uppdateringsupplevelsen för att utbilda UX/UI designers om påverkan av systemuppdateringar på användarupplevelse."
+    },
+    "testing": {
+      "title": "Testa Skärmljusstyrka och Displaybeteende",
+      "description": "Eftersom den falska uppdateringsskärmen använder helskärmsvisuella med text och gradienter, kan den också användas för att kontrollera displayprestanda, ljusstyrkeuniformitet eller monitorfärgnoggrannhet."
+    },
+    "fun": {
+      "title": "Bara för Skoj!",
+      "description": "Oavsett om du är uttråkad eller nyfiken, är den falska Windows uppdateringsskärmen ett snabbt och underhållande sätt att simulera utseendet av Windows uppdateringar—utan att faktiskt installera något."
+    }
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "subtitle": "Vanliga frågor om vår Windows 10 falska uppdateringsskärm",
+    "safe": {
+      "question": "Är den falska Windows 10 uppdateringsskärmen säker?",
+      "answer": "Ja! Den är helt säker — denna sida visar bara en realistisk Windows 10 uppdateringsanimation i din webbläsare. Den laddar inte ner eller installerar något på din dator."
+    },
+    "pranks": {
+      "question": "Kan jag använda detta för att skämta med någon?",
+      "answer": "Absolut 😄 Många användare öppnar den falska uppdateringsskärmen i helskärm för att lura sina vänner eller kollegor. Den ser exakt ut som den riktiga Windows uppdateringsskärmen!"
+    },
+    "exit": {
+      "question": "Hur går jag ut från den falska uppdateringsskärmen?",
+      "answer": "Tryck bara på Esc eller F11 på ditt tangentbord för att gå ut från helskärmsläge när som helst."
+    },
+    "devices": {
+      "question": "Fungerar det på telefoner eller surfplattor?",
+      "answer": "Ja, men för den mest realistiska effekten rekommenderar vi att använda det på en stationär dator eller laptop."
+    },
+    "real": {
+      "question": "Uppdaterar denna falska uppdateringsskärm faktiskt Windows?",
+      "answer": "Nej — det är bara en simulator. Den är designad för nöje, skämt eller demonstrationer, men den kommer inte att ändra eller installera något på ditt system."
+    },
+    "content": {
+      "question": "Kan jag använda detta för videor eller streaming?",
+      "answer": "Ja! Du kan spela in din skärm eller använda det under livestreams. Många skapare använder det för teknikskämt eller roliga reaktionsvideor."
+    },
+    "windows11": {
+      "question": "Fungerar detta med Windows 11?",
+      "answer": "Denna sida simulerar Windows 10 uppdateringsskärmen. Om du letar efter Windows 11 versionen, besök fake-windows-11-update"
+    }
+  },
+  "howToUse": {
+    "title": "Hur man Använder Windows 10 Falsk Uppdateringsskärm",
+    "subtitle": "Följ dessa enkla steg för att komma igång med vår Windows 10 falska uppdateringsskärm",
+    "steps": {
+      "open": "Öppna sidan",
+      "openDescription": "Gå till  fake-windows-10-update-screen på din dator eller laptop.",
+      "fullscreen": "Välj helskärm",
+      "fullscreenDescription": "Klicka på \"Helskärm\"-knappen eller tryck F11 för att få den falska Windows 10 uppdateringsskärmen att täcka hela din skärm.",
+      "wait": "Vänta och titta",
+      "waitDescription": "Skärmen kommer att börja visa en realistisk Windows 10 uppdateringsanimation — precis som en riktig systemuppdatering.",
+      "use": "Använd för skämt eller video",
+      "useDescription": "Låt den köra för att skämta med vänner, spela in en rolig video eller använda den som demo för presentationer.",
+      "exit": "Avsluta när som helst",
+      "exitDescription": "För att avsluta, tryck Esc eller F11 igen för att återgå till normal vy."
+    },
+    "tips": {
+      "title": "Snabba Tips",
+      "exit": "Tryck F11 eller ESC för att avsluta helskärmsläge",
+      "realistic": "Animationen ser mycket realistisk och autentisk ut",
+      "safe": "Helt säkert - inga verkliga systemändringar görs",
+      "devices": "Fungerar på alla moderna webbläsare och enheter"
+    }
+  }
+}

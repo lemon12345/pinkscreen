@@ -5,6 +5,7 @@ import WhiteScreenHowToUse from "./WhiteScreenHowToUse";
 import YellowScreenHero from "./YellowScreenHero";
 import YellowScreenInfo from "./YellowScreenInfo";
 import YellowScreenUseCases from "./YellowScreenUseCases";
+import OtherToolsSection from "../home/OtherToolsSection";
 
 export default function YellowScreenClient() {
   const [selectedColor, setSelectedColor] = useState("#FFFF00");
@@ -147,6 +148,9 @@ export default function YellowScreenClient() {
         onFullscreen={handleFullscreen}
         onDownload={handleDownload}
       />
+
+      {/* Other Tools Section */}
+      <OtherToolsSection />
 
       <YellowScreenInfo
         selectedColor={selectedColor}

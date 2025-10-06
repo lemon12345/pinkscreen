@@ -1,0 +1,128 @@
+{
+  "hero": {
+    "badge": "BIOS Simülatör Aracı",
+    "title": "Phoenix BIOS Setup Utility Simülatörü",
+    "description": "Navigasyon menüsü ve ana, gelişmiş, güvenlik, önyükleme ayarları ile çevrimiçi etkileşimli CMOS bios kurulum simülatörü",
+    "features": {
+      "noRegistration": "Kayıt yok",
+      "worksOffline": "Çevrimdışı çalışır",
+      "allDevices": "Tüm cihazlar"
+    }
+  },
+  "keywords": "BIOS simülatörü, Phoenix BIOS, BIOS kurulumu, CMOS kurulumu, çevrimiçi BIOS, BIOS eğitimi, sistem ayarları, bilgisayar eğitimi, IT eğitimi, BIOS arayüzü, sistem yapılandırması",
+  "colorPicker": {
+    "title": "BIOS Simülatörü",
+    "custom": "Özel",
+    "description": "IT eğitimi, teknik gösteriler ve sistem öğrenimi için mükemmel",
+    "launchButton": "BIOS Simülatörünü Başlat",
+    "clickHint": "Tam ekran BIOS simülatörünü başlatmak için yukarıdaki düğmeye tıklayın",
+    "previewAlt": "Phoenix BIOS Setup Utility Önizleme",
+    "biosTitle": "Phoenix TrustedBios(tm) CMOS Setup Utility"
+  },
+  "useCases": {
+    "title": "İnsanlar BIOS simülatörünü şunun için kullanır:",
+    "description": "BIOS simülatörümüz çeşitli profesyonel ve öğrenme senaryoları için otantik BIOS deneyimi sağlar.",
+    "cases": [
+      {
+        "icon": "🔧",
+        "title": "Sistem Bakım Öğrenimi",
+        "description": "BIOS ayarlarını güvenle öğrenin ve uygulayın, bilgisayar düşük seviye yapılandırma seçeneklerini ve sistem parametrelerini anlayın."
+      },
+      {
+        "icon": "📚",
+        "title": "IT Eğitimi & Öğretimi",
+        "description": "Bilgisayar bilimi öğretimi ve IT eğitimi için kullanılır, öğrencilerin BIOS arayüz işlemlerini güvenle öğrenmelerini sağlar."
+      },
+      {
+        "icon": "🎭",
+        "title": "Teknik Gösteriler",
+        "description": "Teknik gösteri videoları oluşturun, sistem arıza simülasyonları gerçekleştirin veya donanım yapılandırma süreçlerini gösterin."
+      },
+      {
+        "icon": "🎮",
+        "title": "Nostaljik Deneyim",
+        "description": "Klasik Phoenix BIOS arayüzünü deneyimleyin, bilgisayar gelişiminin tarihsel anlarını hatırlayın."
+      },
+      {
+        "icon": "🛠️",
+        "title": "Sorun Giderme Pratiği",
+        "description": "BIOS sorun giderme prosedürlerini ve ayar kurtarma yöntemlerini uygulayarak teknik becerileri geliştirin."
+      },
+      {
+        "icon": "💻",
+        "title": "Donanım Yapılandırma Öğrenimi",
+        "description": "Bilgisayar önyükleme sürecini, donanım algılama ve sistem yapılandırmasının temel ilkelerini anlayın."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "description": "BIOS simülatörü hakkında yaygın sorular ve cevaplar",
+    "questions": [
+      {
+        "question": "BIOS simülatörü nedir?",
+        "answer": "BIOS simülatörü, geleneksel Phoenix BIOS kurulum arayüzünü tamamen simüle eden, otantik BIOS işlem deneyimi sağlayan çevrimiçi bir araçtır."
+      },
+      {
+        "question": "BIOS simülatörünü kullanmak güvenli mi?",
+        "answer": "Tamamen güvenli! Bu sadece gerçek bilgisayarınızı veya sistem ayarlarınızı hiçbir şekilde etkilemeyecek bir web simülatörüdür."
+      },
+      {
+        "question": "Tam ekran modunda nasıl çalışılır?",
+        "answer": "Navigasyon için klavye ok tuşlarını kullanın: sol/sağ oklar menüleri değiştirir, yukarı/aşağı oklar öğeleri seçer, Enter onaylar, F9 veya Esc çıkar."
+      },
+      {
+        "question": "Bu simülatör öğretim için uygun mu?",
+        "answer": "Kesinlikle! Bu simülatör özellikle IT eğitimi için tasarlanmıştır, öğrencilerin BIOS işlemlerini ve sistem yapılandırmasını güvenle öğrenmelerini sağlar."
+      },
+      {
+        "question": "Teknik gösteriler için kullanılabilir mi?",
+        "answer": "Kesinlikle! Bu simülatörü eğitim videoları oluşturmak, teknik gösteriler yapmak veya sistem arıza simülasyonları gerçekleştirmek için kullanabilirsiniz."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Ek Ekran Araçları",
+    "description": "Çeşitli amaçlar için özel ekran araçları koleksiyonumuzu keşfedin.",
+    "colorScreens": "Renkli Ekranlar",
+    "prankScreens": "Şaka Ekranları",
+    "fakeUpdateScreens": "Sahte Güncelleme Ekranları",
+    "screensaverScreens": "Ekran Koruyucu Ekranları"
+  },
+  "howToUse": {
+    "title": "🧭 BIOS simülatörü nasıl kullanılır",
+    "description": "BIOS simülatörünü etkili bir şekilde gezinmek ve kullanmak için bu basit adımları izleyin.",
+    "steps": [
+      {
+        "title": "Simülatörü başlat",
+        "description": "Tam ekran moduna girmek ve BIOS arayüzünü keşfetmeye başlamak için \"BIOS Simülatörünü Başlat\" düğmesine tıklayın."
+      },
+      {
+        "title": "Menülerde gezin",
+        "description": "Farklı BIOS menüleri (Ana, Gelişmiş, Güvenlik, Önyükleme, Çıkış) arasında geçiş yapmak için sol ve sağ ok tuşlarını kullanın."
+      },
+      {
+        "title": "Öğeleri seç",
+        "description": "Menü öğelerinde gezinmek ve farklı BIOS ayarlarını seçmek için yukarı ve aşağı ok tuşlarını kullanın."
+      },
+      {
+        "title": "Tam ekrandan çık",
+        "description": "Tam ekran modundan çıkmak ve ana sayfaya dönmek için ESC tuşuna veya F9'a basın."
+      }
+    ],
+    "tip": {
+      "title": "Profesyonel ipucu",
+      "description": "BIOS simülatörü otantik bir deneyim sunar - tüm klavye navigasyonu gerçek bir BIOS arayüzü gibi tam olarak çalışır!"
+    }
+  },
+  "techSpecs": {
+    "title": "Teknik Özellikler",
+    "specs": [
+      "Arayüz: Phoenix TrustedBios CMOS Setup",
+      "Menüler: Ana, Gelişmiş, Güvenlik, Önyükleme, Çıkış",
+      "İşlem: Tam klavye navigasyon desteği",
+      "Uyumluluk: Tüm modern tarayıcılar",
+      "Özellikler: Otantik BIOS arayüz simülasyonu"
+    ]
+  }
+}

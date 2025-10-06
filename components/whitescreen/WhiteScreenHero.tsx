@@ -154,7 +154,7 @@ export default function WhiteScreenHero({
 
             <div className="grid grid-cols-5 gap-3">
               {colors.map((colorOption) => (
-                colorOption.href && colorOption.href !== "/" ? (
+                colorOption.href ? (
                   <I18nLink
                     key={colorOption.value}
                     href={colorOption.href}

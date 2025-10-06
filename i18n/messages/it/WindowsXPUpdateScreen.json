@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "title": "Falso Aggiornamento Windows XP",
+    "description": "Sperimenta una simulazione nostalgica di aggiornamento Windows XP sul nostro sito web. Inganna i tuoi amici con il nostro schermo di falso aggiornamento Windows XP dall'aspetto autentico. Goditi lo schermo blu classico e il progresso familiare del sistema operativo leggendario.",
+    "badge": "Aggiornamento Sistema Windows XP",
+    "features": {
+      "noRegistration": "Nessuna registrazione",
+      "worksOffline": "Funziona offline",
+      "allDevices": "Tutti i dispositivi"
+    }
+  },
+  "keywords": "falso aggiornamento Windows XP, simulazione aggiornamento Windows XP, Simula aggiornamento Windows XP, Schermo falso aggiornamento Windows XP, Emula aggiornamento Windows XP, Scherzo aggiornamento Windows XP, Processo aggiornamento Windows XP, Aggiornamento Windows XP autentico, Schermo aggiornamento Windows XP realistico, Inganna amici con aggiornamento Windows XP, Progressione aggiornamento Windows XP realistica, Simulazione aggiornamento Windows XP genuina, Messaggi aggiornamento Windows XP autentici, Fase aggiornamento Windows XP, Scherzo aggiornamento Windows XP divertente, Falso aggiornamento Windows XP divertente, Goditi simulazione aggiornamento Windows XP, Scherzo con falso aggiornamento Windows XP, Esperienza aggiornamento Windows XP eccitante, Aggiornamento Windows XP per divertimento, Strumento scherzo aggiornamento Windows XP",
+  "preview": {
+    "updateText": "Installazione aggiornamenti Windows...",
+    "completeText": " completato",
+    "dontTurnOffText": "Non spegnere o scollegare il computer.",
+    "restartText": "Il computer si riavvierà automaticamente"
+  },
+  "useCases": {
+    "title": "Le persone usano lo Schermo Aggiornamento Windows XP per:",
+    "subtitle": "Scopri vari modi per usare il nostro schermo falso aggiornamento Windows XP",
+    "case1": {
+      "title": "Simula Aggiornamento Windows XP per Test Retro",
+      "description": "Utilizza il nostro strumento falso aggiornamento Windows XP per creare schermi di aggiornamento retro autentici per test software e scopi dimostrativi."
+    },
+    "case2": {
+      "title": "Coinvolgi il tuo Pubblico con Aggiornamento Windows XP Nostalgico",
+      "description": "Cattura l'attenzione degli appassionati di tecnologia mostrando una simulazione di aggiornamento Windows XP genuina durante presentazioni o contenuti tech retro."
+    },
+    "case3": {
+      "title": "Eleva l'Educazione Tech con Strumento Scherzo Aggiornamento Windows XP",
+      "description": "Incorpora il nostro schermo di aggiornamento Windows XP realistico negli scenari di educazione tech per insegnare sistemi legacy ed evoluzione interfaccia utente."
+    },
+    "case4": {
+      "title": "Crea Contenuto Divertente con Falso Aggiornamento Windows XP",
+      "description": "Produca contenuto video coinvolgente o live stream usando uno scherzo di aggiornamento Windows XP divertente, aggiungendo nostalgia alle discussioni tech."
+    },
+    "case5": {
+      "title": "Fai Scherzi agli Amici con Simulazione Aggiornamento Windows XP Genuina",
+      "description": "Sorprendi i tuoi amici usando il nostro strumento per fare scherzi con un falso aggiornamento Windows XP, trasformando momenti ordinari in scherzi retro memorabili."
+    },
+    "case6": {
+      "title": "Studia Design UI Legacy con Aggiornamenti Simulati",
+      "description": "Usa l'esperienza classica di aggiornamento Windows XP per educare i designer UX/UI sull'evoluzione delle interfacce di aggiornamento sistema."
+    }
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "subtitle": "Domande comuni sul nostro Schermo Falso Aggiornamento Windows XP",
+    "whatIs": {
+      "question": "Cos'è lo Schermo Falso Aggiornamento Windows XP?",
+      "answer": "È un simulatore divertente e nostalgico che ricrea l'aspetto di un vero schermo di aggiornamento Windows XP. Puoi aprirlo nel tuo browser per fare scherzi agli amici, creare video, o rivivere l'atmosfera tech dei primi anni 2000."
+    },
+    "safe": {
+      "question": "È sicuro da usare?",
+      "answer": "Sì — 100% sicuro. Questa pagina mostra solo una falsa animazione di aggiornamento Windows XP nel tuo browser web. Non scarica o installa nulla sul tuo computer."
+    },
+    "pranks": {
+      "question": "Come posso usarlo per uno scherzo?",
+      "answer": "Apri semplicemente la pagina, clicca Schermo Intero, e lasciala funzionare. Il testo di caricamento realistico farà credere a chiunque che il tuo PC sta \"aggiornando Windows XP.\" Perfetto per uno scherzo innocuo!"
+    },
+    "realistic": {
+      "question": "Quanto è realistica la simulazione?",
+      "answer": "Il nostro schermo di aggiornamento Windows XP è progettato per sembrare molto autentico, con lo sfondo blu classico e il branding Windows XP appropriato."
+    },
+    "exit": {
+      "question": "Come esco dallo schermo falso aggiornamento?",
+      "answer": "Premi Esc o F11 per uscire istantaneamente dalla modalità schermo intero. Non succederà nulla al tuo sistema reale."
+    },
+    "content": {
+      "question": "Posso usarlo per video YouTube o livestream?",
+      "answer": "Sì! Molti creatori usano lo schermo falso aggiornamento Windows XP per sketch comici, montaggi in stile retro, o video di nostalgia tech."
+    },
+    "real": {
+      "question": "Questo aggiorna davvero Windows XP?",
+      "answer": "No — questo è solo un simulatore visivo. Non influisce sul tuo sistema o file in alcun modo."
+    },
+    "devices": {
+      "question": "Funziona sui computer moderni?",
+      "answer": "Sì. Lo schermo falso aggiornamento Windows XP funziona su qualsiasi browser moderno — incluso Windows 10, 11, macOS, e persino dispositivi mobili."
+    }
+  }
+}

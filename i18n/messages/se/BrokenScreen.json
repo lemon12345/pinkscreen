@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "title": "Falsk Trasig Skärm",
+    "description": "Lås upp oändlig kul och kreativitet med vårt verktyg för falsk trasig skärm i helskärm. Perfekt för skämt, innehållsskapande och utbildningsändamål.",
+    "badge": "Skärmeffekt",
+    "features": {
+      "noRegistration": "Ingen Registrering",
+      "worksOffline": "Fungerar Offline",
+      "allDevices": "Alla Enheter"
+    }
+  },
+  "keywords": "trasig skärm, sprucken skärm, skärm skämt, falsk trasig skärm, sprucken telefonskärm, trasig skärm, skärmeffekt, skämt verktyg, trasig skärm simulator, sprucken skärm generator, falsk sprucken skärm, trasig skärm skämt, skärm skada simulering, sprucken skärmeffekt, trasig telefonskärm, skärm spricka simulator, skärm skämt verktyg, trasig skärm generator, sprucken skärmeffekt, falsk skärm skada",
+  "useCases": {
+    "title": "Folk använder Trasig Skärm för:",
+    "description": "Upptäck olika sätt att använda vår trasiga skärmeffekt",
+    "cases": [
+      {
+        "title": "Skrämma Dina Vänner med ett Realistiskt Trasig Skärm-skämt",
+        "description": "Genomför det ultimata skämtet genom att få vänner att tro att deras enhets skärm har spruckit."
+      },
+      {
+        "title": "Skapa Engagerande Innehåll med en Sprucken Skärm-effekt",
+        "description": "Förbättra dina videor eller presentationer genom att lägga till en dramatisk sprucken skärm-overlay."
+      },
+      {
+        "title": "Testa Din Egen Reaktion på en Trasig Display",
+        "description": "Se hur du skulle reagera på oväntade digitala missöden genom att simulera en trasig skärm."
+      },
+      {
+        "title": "Använd en Trasig Skärm-bild för Kreativa Projekt",
+        "description": "Inkorporera högkvalitativa trasiga skärm-visualer i din digitala konst eller kreativa design."
+      },
+      {
+        "title": "Utbilda om Hållbarheten hos Skärmskydd",
+        "description": "Demonstrera vikten av skärmskydd genom att visa potentiella skador."
+      },
+      {
+        "title": "Krydda Dina Teknikrecensioner med en Falsk Trasig Skärm",
+        "description": "Lägg till en twist i enhetsrecensioner genom att simulera skärmskador och diskutera hållbarhet."
+      },
+      {
+        "title": "Inkorporera en Sprucken Skärm Online i Din Halloween-dekoration",
+        "description": "Förvandla enheter till spöklika dekorationer med en animering av en trasig display i helskärm."
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "🧭 Så här använder du Falsk Trasig Skärm",
+    "steps": [
+      "Öppna sidan - Besök den falska trasiga skärmsidan på din dator, surfplatta eller telefon",
+      "Gå till helskärm - Klicka på \"Helskärm\" eller tryck F11 för att få den falska spruckna skärmen att täcka hela din skärm",
+      "Välj din effekt (om stödd) - Välj mellan olika stilar — trasigt glas, LCD-fel eller spindelvävsspricka för det mest realistiska utseendet",
+      "Använd för kul eller testning - Perfekt för skämt, videoeffekter eller skärmkalibrering"
+    ]
+  },
+  "faq": {
+    "title": "❓ FAQ – Falsk Trasig Skärm",
+    "subtitle": "Vanliga frågor om vår Trasiga Skärmeffekt",
+    "questions": [
+      {
+        "question": "1. Vad är verktyget Falsk Trasig Skärm?",
+        "answer": "Det är en webbaserad simulator som visar en sprucken eller skadad skärmeffekt på din skärm. Det skadar inte din enhet — det är bara en visuell illusion."
+      },
+      {
+        "question": "2. Är det säkert att använda?",
+        "answer": "Ja! Det laddar inte ner eller installerar något. Det visar bara en bildöverlagring i din webbläsare."
+      },
+      {
+        "question": "3. Kan jag använda det för att skämta med någon?",
+        "answer": "Absolut! 😄 Öppna bara i helskärm och ge din enhet till en vän — se deras reaktion!"
+      },
+      {
+        "question": "4. Hur går jag ur trasiga skärmeffekten?",
+        "answer": "Tryck Esc eller F11 för att omedelbart återgå till din normala skärm."
+      },
+      {
+        "question": "5. Fungerar det på telefoner eller surfplattor?",
+        "answer": "Ja, det fungerar på alla enheter — desktop, laptop eller mobilwebbläsare."
+      }
+    ]
+  }
+}

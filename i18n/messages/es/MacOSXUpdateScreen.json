@@ -1,0 +1,151 @@
+{
+  "hero": {
+    "title": "Actualización Falsa de Mac OS X",
+    "description": "Experimenta una convincente simulación de actualización de Mac OS X en nuestro sitio web. Engaña a tus amigos con nuestra pantalla de actualización falsa de Mac OS X que parece auténtica. Disfruta de la emoción y diversión de un proceso de actualización simulado.",
+    "badge": "Actualización del Sistema macOS",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Sin Conexión",
+      "allDevices": "Todos los Dispositivos"
+    }
+  },
+  "keywords": "Actualización falsa de Mac OS X, Simular actualización de Mac OS X, Actualización de Mac OS X de aspecto auténtico, Broma de actualización de Mac OS X, Pantalla de actualización de Mac OS X realista, Simulación genuina de actualización de Mac OS X, Broma divertida de actualización de Mac OS X, Broma con actualización falsa de Mac OS X, Experiencia emocionante de actualización de Mac OS X, Herramienta de broma de actualización de Mac OS X",
+  "preview": {
+    "title": "Vista Previa en Vivo",
+    "fullscreen": "Pantalla Completa",
+    "download": "Descargar"
+  },
+  "colorPicker": {
+    "title": "Elige Tu Color",
+    "custom": "Personalizado",
+    "description": "Perfecto para bromas y entretenimiento",
+    "launchButton": "Lanzar Actualización de Mac OS X"
+  },
+  "useCases": {
+    "title": "La gente usa actualización de Mac OS X para:",
+    "description": "Nuestra falsa actualización de Mac OS X sirve para múltiples propósitos de entretenimiento y bromas.",
+    "cases": [
+      {
+        "icon": "🎭",
+        "title": "Actualización de Mac OS X para bromas",
+        "description": "Perfecta para bromas y entretenimiento con amigos."
+      },
+      {
+        "icon": "🎮",
+        "title": "Actualización de Mac OS X para simulación",
+        "description": "Simulación convincente de actualización de Mac OS X."
+      },
+      {
+        "icon": "😄",
+        "title": "Actualización de Mac OS X para entretenimiento",
+        "description": "Disfruta de la emoción y la diversión."
+      },
+      {
+        "icon": "🎯",
+        "title": "Actualización de Mac OS X para engañar amigos",
+        "description": "Engaña a tus amigos con actualizaciones de aspecto auténtico."
+      },
+      {
+        "icon": "📝",
+        "title": "Actualización de Mac OS X para creación de contenido",
+        "description": "Los creadores de contenido pueden usar esta herramienta para crear contenido interesante relacionado con tecnología o experimentos sociales para sus blogs, vlogs o plataformas de redes sociales."
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "Cómo usar la Pantalla de Actualización Falsa de macOS",
+    "subtitle": "Sigue estos simples pasos para comenzar con nuestra pantalla de actualización falsa de macOS",
+    "steps": {
+      "open": "Abrir la página",
+      "openDescription": "Visita  fake-macos-update-screen en tu Mac o cualquier navegador de computadora.",
+      "fullscreen": "Ir a pantalla completa",
+      "fullscreenDescription": "Haz clic en el botón 'Pantalla Completa' o presiona Control + Command + F para que parezca una actualización real de macOS.",
+      "watch": "Ver la animación de actualización",
+      "watchDescription": "La página mostrará una barra de progreso de actualización de macOS realista, similar a lo que aparece durante las actualizaciones reales del sistema.",
+      "use": "Usar para bromas o escenas de video",
+      "useDescription": "¡Sorprende a tus amigos o graba para tu contenido de YouTube, TikTok o livestream — se ve muy convincente en pantalla completa!",
+      "exit": "Salir en cualquier momento",
+      "exitDescription": "Presiona Esc o Control + Command + F nuevamente para volver a la vista normal. No se cambiarán datos o configuraciones."
+    },
+    "tips": {
+      "title": "Consejos Rápidos",
+      "exit": "Presiona Esc o Control + Command + F para salir del modo pantalla completa",
+      "realistic": "La animación se ve muy realista y auténtica",
+      "safe": "Completamente seguro — no se hacen cambios reales del sistema",
+      "devices": "Funciona en todos los navegadores y dispositivos modernos"
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Preguntas comunes sobre nuestra Pantalla de Actualización Falsa de macOS",
+    "whatIs": {
+      "question": "¿Qué es la Pantalla de Actualización Falsa de macOS?",
+      "answer": "Es un simulador en línea que imita perfectamente la pantalla de actualización de macOS. Es genial para bromas, videos o probar cómo se ve tu pantalla con elementos oscuros y claros."
+    },
+    "safe": {
+      "question": "¿Es seguro de usar?",
+      "answer": "Sí. Esta herramienta es completamente segura — no instala ni modifica nada en tu dispositivo. Solo muestra una animación de actualización falsa en tu navegador web."
+    },
+    "pranks": {
+      "question": "¿Puedo usarla para hacer bromas?",
+      "answer": "¡Definitivamente 😄! Ve a pantalla completa, aléjate y deja que tus amigos piensen que tu Mac se quedó atascado actualizando otra vez."
+    },
+    "exit": {
+      "question": "¿Cómo salgo de la pantalla de actualización falsa?",
+      "answer": "Solo presiona Esc o Control + Command + F. El simulador se cerrará inmediatamente."
+    },
+    "devices": {
+      "question": "¿Funciona en Windows o teléfonos?",
+      "answer": "Sí, funciona en cualquier navegador moderno — pero para el efecto más realista, úsala en una Mac o una pantalla de escritorio grande."
+    },
+    "real": {
+      "question": "¿Realmente actualiza macOS?",
+      "answer": "No — esto es solo un simulador visual. No descargará, instalará o cambiará nada en tu computadora."
+    },
+    "content": {
+      "question": "¿Puedo usarla en mi video o stream?",
+      "answer": "¡Sí! Muchos creadores usan la pantalla de actualización falsa de macOS para proyectos de video, humor tecnológico y compilaciones de bromas."
+    }
+  },
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "prankScreens": "Pantallas de Broma",
+    "fakeUpdateScreens": "Pantallas de Actualización Falsa",
+    "screensaverScreens": "Pantallas de Protector de Pantalla"
+  },
+  "howToUse": {
+    "title": "Cómo usar la Pantalla de Actualización Falsa de macOS",
+    "subtitle": "Sigue estos simples pasos para comenzar con nuestra pantalla de actualización falsa de macOS",
+    "steps": {
+      "open": "Abrir la página",
+      "openDescription": "Ve a  fake-macos-update-screen en tu Mac o cualquier navegador de computadora.",
+      "fullscreen": "Entrar en modo pantalla completa",
+      "fullscreenDescription": "Haz clic en el botón \"Pantalla Completa\" o presiona Control + Command + F para que se vea exactamente como una actualización real de macOS.",
+      "watch": "Ver la animación de actualización",
+      "watchDescription": "La página mostrará una barra de progreso de actualización de macOS realista, similar a lo que aparece durante una actualización real del sistema.",
+      "use": "Usarlo para bromas o escenas de video",
+      "useDescription": "¡Sorprende a tus amigos o grávalo para tu contenido de YouTube, TikTok o livestream — se ve convincente en pantalla completa!",
+      "exit": "Salir en cualquier momento",
+      "exitDescription": "Presiona Esc o Control + Command + F nuevamente para volver a la vista normal. No se cambiarán datos o configuraciones."
+    },
+    "tips": {
+      "title": "Consejos Rápidos",
+      "exit": "Presiona Esc o Control + Command + F para salir del modo pantalla completa",
+      "realistic": "La animación se ve muy realista y auténtica",
+      "safe": "Completamente seguro - no se hacen cambios reales del sistema",
+      "devices": "Funciona en todos los navegadores y dispositivos modernos"
+    }
+  },
+  "techSpecs": {
+    "title": "Especificaciones Técnicas",
+    "specs": [
+      "Resolución: Hasta 8K (7680x4320)",
+      "Profundidad de Color: 24-bit RGB",
+      "Formato: PNG, JPEG, WebP",
+      "Compatibilidad: Todos los navegadores modernos",
+      "Funcionalidad Offline: Completamente disponible"
+    ]
+  }
+}

@@ -21,10 +21,6 @@ export default function PinkScreenFAQ() {
       question: t("faq.questions.3.question"),
       answer: t("faq.questions.3.answer"),
     },
-    {
-      question: t("faq.questions.4.question"),
-      answer: t("faq.questions.4.answer"),
-    },
   ];
 
   return (

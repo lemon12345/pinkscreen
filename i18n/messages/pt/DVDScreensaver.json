@@ -1,0 +1,81 @@
+{
+  "hero": {
+    "title": "Protetor de Tela DVD",
+    "description": "Experimente o clássico protetor de tela DVD online. Personalize o tamanho do logo DVD e velocidade de movimento para uma atmosfera nostálgica em tela cheia. Perfeito para relaxamento, apresentações e entretenimento.",
+    "keywords": "protetor de tela dvd, protetor de tela dvd online, protetor de tela logo dvd, protetor de tela tela cheia, simulador protetor de tela dvd, protetor de tela personalizável, protetor de tela retro",
+    "badge": "Protetor de Tela DVD Clássico",
+    "features": {
+      "noRegistration": "Sem Registro",
+      "worksOffline": "Funciona Offline",
+      "allDevices": "Todos os Dispositivos"
+    }
+  },
+  "keywords": "protetor de tela dvd, protetor de tela dvd online, protetor de tela logo dvd, protetor de tela tela cheia, simulador protetor de tela dvd, protetor de tela personalizável, protetor de tela retro, protetor de tela clássico, logo saltitante, protetor de tela nostálgico",
+  "preview": {
+    "title": "Pré-visualização ao Vivo",
+    "download": "Baixar",
+    "comingSoon": "Em Breve",
+    "bouncingLogo": "Logo Saltitante"
+  },
+  "colorPicker": {
+    "title": "Escolher Tela",
+    "speed": "Velocidade",
+    "size": "Tamanho",
+    "selectScreen": "Selecione um efeito de tela para exibir",
+    "fullScreen": "Tela Cheia"
+  },
+  "useCases": {
+    "title": "As pessoas usam Protetor de Tela DVD para:",
+    "case1": {
+      "title": "Relaxar com o Protetor de Tela DVD Clássico",
+      "description": "Descontraia após um longo dia assistindo o logo DVD nostálgico se mover pela sua tela cheia. Este simulador de protetor de tela DVD traz de volta o charme dos protetores de tela clássicos, criando uma atmosfera calmante na sua tela."
+    },
+    "case2": {
+      "title": "Melhorar o Fundo da Sua Apresentação",
+      "description": "Adicione um toque dinâmico às suas apresentações usando o protetor de tela DVD em modo tela cheia. Ajuste o tamanho do logo e velocidade de movimento para se adequar ao seu estilo, tornando o fundo da sua apresentação envolvente e profissional."
+    },
+    "case3": {
+      "title": "Perfeito para Salas de Espera",
+      "description": "Mantenha visitantes entretidos com o protetor de tela logo DVD na sua sala de espera. Esta ferramenta online permite personalizar o tamanho do logo e velocidade de movimento, proporcionando uma experiência visualmente atraente para seus convidados."
+    },
+    "case4": {
+      "title": "Criar uma Atmosfera de Festa Divertida",
+      "description": "Use o simulador de protetor de tela DVD durante festas para criar uma atmosfera divertida e nostálgica. Configure-o em modo tela cheia e deixe o logo DVD em movimento adicionar um toque único ao seu evento, ajustável a qualquer tamanho e velocidade."
+    },
+    "case5": {
+      "title": "Impulsionador de Foco para Sessões de Estudo",
+      "description": "Aumente sua concentração usando o protetor de tela DVD enquanto estuda. O movimento suave do logo DVD em tela cheia pode ajudar a manter o foco, com tamanho e velocidade ajustáveis para sua preferência."
+    },
+    "case6": {
+      "title": "Mostrar Estilo Retro em Lojas",
+      "description": "Atraia clientes para sua loja com o protetor de tela DVD retro em modo tela cheia. O logo DVD em movimento, personalizável em tamanho e velocidade, pode adicionar um toque vintage às suas telas de exibição."
+    }
+  },
+  "howToUse": {
+    "title": "Como Usar o Protetor de Tela DVD Online",
+    "steps": [
+      "Abrir a página - Vá para /dvd-screensaver no seu computador ou navegador de TV.",
+      "Tela cheia - Clique em \"Tela Cheia\" ou pressione F11 para fazer o logo DVD saltitar livremente pela sua tela.",
+      "Observar o movimento do logo DVD clássico - Aproveite a animação nostálgica — o logo DVD colorido salta suavemente e muda de direção quando toca as bordas da tela, assim como o protetor de tela original dos reprodutores de DVD.",
+      "Usar como protetor de tela real ou fundo - Deixe funcionando enquanto você está ausente, ou use como animação de loop retro para streaming, decoração ou efeitos visuais.",
+      "Sair a qualquer momento - Pressione Esc ou F11 novamente para sair do modo tela cheia."
+    ]
+  },
+  "faq": {
+    "title": "Protetor de Tela DVD Online",
+    "question1": "O que é o Protetor de Tela DVD Online?",
+    "answer1": "É um simulador gratuito baseado em navegador do clássico protetor de tela de logo DVD saltitante. Nenhuma instalação necessária.",
+    "question2": "Ele realmente protege minha tela?",
+    "answer2": "Não exatamente — é uma simulação visual. Ele não ativa o protetor de tela nativo do seu sistema, mas você pode usá-lo da mesma forma.",
+    "question3": "É seguro usar?",
+    "answer3": "Sim! É 100% seguro — sem downloads, sem anúncios e sem alterações no sistema.",
+    "question4": "Posso usá-lo para diversão ou nostalgia?",
+    "answer4": "Claro! 😄 Muitas pessoas o usam para reviver a era clássica do DVD ou testar quanto tempo leva para o logo atingir o canto!",
+    "question5": "Posso mantê-lo funcionando em um segundo monitor ou TV?",
+    "answer5": "Sim. Abra a página em qualquer tela e vá para tela cheia. Perfeito para festas, displays de escritório ou loops de fundo.",
+    "question6": "Funciona em telefones e tablets?",
+    "answer6": "Sim, mas para o melhor efeito, use um desktop ou smart TV em modo tela cheia.",
+    "question7": "Posso mudar a cor ou velocidade do logo?",
+    "answer7": "Algumas versões incluem opções de personalização como cor do logo ou velocidade de animação — tente os botões abaixo da animação se disponíveis."
+  }
+}

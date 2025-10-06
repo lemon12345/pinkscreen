@@ -3,6 +3,7 @@ import { Locale } from "@/i18n/routing";
 import { constructMetadata } from "@/lib/metadata";
 import { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
+import Head from "next/head";
 
 type Params = Promise<{ locale: string }>;
 
@@ -27,5 +28,54 @@ export async function generateMetadata({
 }
 
 export default function GreenScreenPage() {
-  return <GreenScreenClient />;
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What does the Green Screen page do?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It shows a flat green background, useful for video compositing, color calibration, or visual tests."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is this suitable for chroma key effects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. You can use the green screen as a simple background for video editing and streaming."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does it have ads or watermarks?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, the screen is clean and distraction-free — ideal for production use."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I make it full screen?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Click the full-screen button or press F11 for a clean green display."
+        }
+      }
+    ]
+  };
+
+  return (
+    <>
+      <Head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      </Head>
+      <GreenScreenClient />
+    </>
+  );
 }

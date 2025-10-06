@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the White Screen tool used for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It displays a pure white background, commonly used for lighting, brightness tests, or cleaning stuck pixels."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can it be used as a light source?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Many users use the white screen to brighten dark rooms or as a makeshift soft light for photography or Zoom meetings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will it harm my eyes or monitor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, but avoid staring at bright white light for long periods. It's safe for monitors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I adjust brightness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Use your device's brightness control to reduce or increase light intensity."
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "hero": {
+    "title": "Mac OS X Fake Update",
+    "description": "Erleben Sie eine überzeugende Mac OS X Update-Simulation auf unserer Website. Täuschen Sie Ihre Freunde mit unserem echt aussehenden Mac OS X Fake-Update-Bildschirm. Genießen Sie die Aufregung und den Spaß eines simulierten Update-Prozesses.",
+    "badge": "macOS System-Update",
+    "features": {
+      "noRegistration": "Keine Registrierung",
+      "worksOffline": "Funktioniert offline",
+      "allDevices": "Alle Geräte"
+    }
+  },
+  "keywords": "Mac OS X Fake-Update, Mac OS X Update simulieren, Authentisches Mac OS X Update, Mac OS X Update-Streich, Realistischer Mac OS X Update-Bildschirm, Echtes Mac OS X Update-Simulation, Unterhaltsamer Mac OS X Update-Streich, Streich mit Mac OS X Fake-Update, Aufregendes Mac OS X Update-Erlebnis, Mac OS X Update-Streich-Tool",
+  "preview": {
+    "title": "Live-Vorschau",
+    "fullscreen": "Vollbild",
+    "download": "Herunterladen"
+  },
+  "colorPicker": {
+    "title": "Wählen Sie Ihre Farbe",
+    "custom": "Benutzerdefiniert",
+    "description": "Perfekt für Streiche und Unterhaltung",
+    "launchButton": "Mac OS X Update starten"
+  },
+  "useCases": {
+    "title": "Menschen verwenden Mac OS X Update für:",
+    "description": "Unser Mac OS X Fake Update dient verschiedenen Unterhaltungs- und Streichzwecken.",
+    "cases": [
+      {
+        "icon": "🎭",
+        "title": "Mac OS X Update für Streiche",
+        "description": "Perfekt für Streiche und Unterhaltung mit Freunden."
+      },
+      {
+        "icon": "🎮",
+        "title": "Mac OS X Update für Simulation",
+        "description": "Überzeugende Mac OS X Update-Simulation."
+      },
+      {
+        "icon": "😄",
+        "title": "Mac OS X Update für Unterhaltung",
+        "description": "Genießen Sie die Spannung und den Spaß."
+      },
+      {
+        "icon": "🎯",
+        "title": "Mac OS X Update für Freunde täuschen",
+        "description": "Täuschen Sie Ihre Freunde mit authentisch aussehenden Updates."
+      },
+      {
+        "icon": "📝",
+        "title": "Mac OS X Update für Content Creation",
+        "description": "Content Creator können dieses Tool für interessante Tech-bezogene Inhalte oder soziale Experimente für ihre Blogs, Vlogs oder Social Media Plattformen verwenden."
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "So verwenden Sie den Fake macOS Update-Bildschirm",
+    "subtitle": "Befolgen Sie diese einfachen Schritte, um mit unserem macOS Fake Update-Bildschirm zu beginnen",
+    "steps": {
+      "open": "Seite öffnen",
+      "openDescription": "Besuchen Sie /fake-macos-update-screen auf Ihrem Mac oder einem beliebigen Computer-Browser.",
+      "fullscreen": "Vollbildmodus aktivieren",
+      "fullscreenDescription": "Klicken Sie auf 'Vollbild' oder drücken Sie Control + Command + F, um es wie ein echtes macOS Update aussehen zu lassen.",
+      "watch": "Update-Animation ansehen",
+      "watchDescription": "Die Seite zeigt eine realistische macOS Update-Fortschrittsleiste, ähnlich wie bei echten System-Upgrades.",
+      "use": "Für Streiche oder Videoszenen verwenden",
+      "useDescription": "Überraschen Sie Ihre Freunde oder nehmen Sie für Ihre YouTube-, TikTok- oder Livestream-Inhalte auf — es sieht im Vollbild sehr überzeugend aus!",
+      "exit": "Jederzeit beenden",
+      "exitDescription": "Drücken Sie Esc oder Control + Command + F erneut, um zur normalen Ansicht zurückzukehren. Keine Daten oder Einstellungen werden geändert."
+    },
+    "tips": {
+      "title": "Schnelle Tipps",
+      "exit": "Esc oder Control + Command + F drücken, um den Vollbildmodus zu beenden",
+      "realistic": "Die Animation sieht sehr realistisch und authentisch aus",
+      "safe": "Völlig sicher — keine tatsächlichen Systemänderungen werden vorgenommen",
+      "devices": "Funktioniert auf allen modernen Browsern und Geräten"
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Häufige Fragen zu unserem Fake macOS Update-Bildschirm",
+    "whatIs": {
+      "question": "Was ist der Fake macOS Update-Bildschirm?",
+      "answer": "Es ist ein Online-Simulator, der den macOS Update-Bildschirm perfekt nachahmt. Er ist großartig für Streiche, Videos oder zum Testen, wie Ihr Display mit dunklen und hellen Elementen aussieht."
+    },
+    "safe": {
+      "question": "Ist es sicher zu verwenden?",
+      "answer": "Ja. Dieses Tool ist vollständig sicher — es installiert oder ändert nichts auf Ihrem Gerät. Es zeigt nur eine gefälschte Update-Animation in Ihrem Webbrowser an."
+    },
+    "pranks": {
+      "question": "Kann ich es verwenden, um jemanden zu täuschen?",
+      "answer": "Definitiv 😄 Gehen Sie in den Vollbildmodus, gehen Sie weg und lassen Sie Ihre Freunde denken, dass Ihr Mac wieder beim Aktualisieren hängt!"
+    },
+    "exit": {
+      "question": "Wie beende ich den gefälschten Update-Bildschirm?",
+      "answer": "Drücken Sie einfach Esc oder Control + Command + F. Der Simulator wird sofort geschlossen."
+    },
+    "devices": {
+      "question": "Funktioniert das auf Windows oder Telefonen?",
+      "answer": "Ja, es funktioniert in jedem modernen Browser — aber für den realistischsten Effekt verwenden Sie es auf einem Mac oder einem großen Desktop-Display."
+    },
+    "real": {
+      "question": "Aktualisiert es wirklich macOS?",
+      "answer": "Nein — dies ist nur ein visueller Simulator. Es wird nichts auf Ihrem Computer herunterladen, installieren oder ändern."
+    },
+    "content": {
+      "question": "Kann ich es in meinem Video oder Stream verwenden?",
+      "answer": "Ja! Viele Ersteller verwenden den gefälschten macOS Update-Bildschirm für Videoprojekte, Tech-Humor und Streich-Kompilationen."
+    }
+  },
+  "additionalTools": {
+    "title": "Zusätzliche Bildschirm-Tools",
+    "description": "Entdecken Sie unsere Sammlung spezialisierter Bildschirm-Tools für verschiedene Zwecke.",
+    "colorScreens": "Farbbildschirme",
+    "prankScreens": "Streich-Bildschirme",
+    "fakeUpdateScreens": "Gefälschte Update-Bildschirme",
+    "screensaverScreens": "Bildschirmschoner"
+  },
+  "howToUse": {
+    "title": "So verwenden Sie den Fake macOS Update-Bildschirm",
+    "subtitle": "Befolgen Sie diese einfachen Schritte, um mit unserem macOS Fake Update-Bildschirm zu beginnen",
+    "steps": {
+      "open": "Seite öffnen",
+      "openDescription": "Gehen Sie zu  fake-macos-update-screen auf Ihrem Mac oder einem beliebigen Computer-Browser.",
+      "fullscreen": "Vollbildmodus eingeben",
+      "fullscreenDescription": "Klicken Sie auf die \"Vollbild\"-Schaltfläche oder drücken Sie Control + Command + F, um es genau wie ein echtes macOS-Update aussehen zu lassen.",
+      "watch": "Update-Animation beobachten",
+      "watchDescription": "Die Seite zeigt eine realistische macOS-Update-Fortschrittsleiste an, ähnlich wie sie während eines echten System-Upgrades erscheint.",
+      "use": "Für Streiche oder Video-Szenen verwenden",
+      "useDescription": "Überraschen Sie Ihre Freunde oder nehmen Sie es für Ihre YouTube-, TikTok- oder Livestream-Inhalte auf — es sieht im Vollbild überzeugend aus!",
+      "exit": "Jederzeit beenden",
+      "exitDescription": "Drücken Sie Esc oder Control + Command + F erneut, um zur normalen Ansicht zurückzukehren. Keine Daten oder Einstellungen werden geändert."
+    },
+    "tips": {
+      "title": "Schnelle Tipps",
+      "exit": "Drücken Sie Esc oder Control + Command + F, um den Vollbildmodus zu beenden",
+      "realistic": "Die Animation sieht sehr realistisch und authentisch aus",
+      "safe": "Völlig sicher - keine tatsächlichen Systemänderungen werden vorgenommen",
+      "devices": "Funktioniert auf allen modernen Browsern und Geräten"
+    }
+  },
+  "techSpecs": {
+    "title": "Technische Spezifikationen",
+    "specs": [
+      "Auflösung: Bis zu 8K (7680x4320)",
+      "Farbtiefe: 24-bit RGB",
+      "Format: PNG, JPEG, WebP",
+      "Kompatibilität: Alle modernen Browser",
+      "Offline-Funktionalität: Vollständig verfügbar"
+    ]
+  }
+}

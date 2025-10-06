@@ -1,0 +1,101 @@
+{
+  "hero": {
+    "badge": "Simulador de Android Definitivo",
+    "title": "Actualización Falsa de Android",
+    "description": "Experimenta una herramienta realista de pantalla de actualización falsa de Android en pantalla completa. Perfecto para bromas, propósitos educativos o demostraciones técnicas.",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Sin Conexión",
+      "allDevices": "Todos los Dispositivos"
+    }
+  },
+  "keywords": "Actualización falsa de Android, Simular actualización de Android, Pantalla de actualización de Android de apariencia auténtica, Broma de actualización de Android, Pantalla de actualización de Android realista, Simulación genuina de actualización de Android, Broma entretenida de actualización de Android, Broma con actualización falsa de Android, Experiencia emocionante de actualización de Android, Herramienta de broma de actualización de Android",
+  "preview": {
+    "updateText": "Instalando actualización del sistema"
+  },
+  "colorPicker": {
+    "title": "Elige Tu Color",
+    "custom": "Personalizado",
+    "description": "Perfecto para bromas y propósitos educativos",
+    "launchButton": "Lanzar Actualización de Android"
+  },
+  "useCases": {
+    "title": "La gente usa actualización de Android para:",
+    "subtitle": "Descubre varias formas de usar nuestra pantalla de actualización falsa de Android",
+    "simulate": {
+      "title": "Simular Actualización de Android para Pruebas de Software",
+      "description": "Utiliza nuestra herramienta de actualización falsa de Android para crear pantallas de actualización de aspecto auténtico para pruebas de software y propósitos de demostración."
+    },
+    "engage": {
+      "title": "Involucra a Tu Audiencia con una Pantalla de Actualización Realista de Android",
+      "description": "Captura la atención de entusiastas de la tecnología mostrando una simulación genuina de actualización de Android durante presentaciones o blogs de tecnología."
+    },
+    "education": {
+      "title": "Eleva la Educación Tecnológica con Herramienta de Broma de Actualización de Android",
+      "description": "Incorpora nuestra pantalla de actualización realista de Android en escenarios de educación tecnológica para enseñar sobre actualizaciones del sistema y diseño de interfaz de usuario."
+    },
+    "content": {
+      "title": "Crea Contenido Entretenido con Actualización Falsa de Android",
+      "description": "Produce contenido de video atractivo o transmisiones en vivo usando una broma entretenida de actualización de Android, añadiendo humor a las discusiones tecnológicas."
+    },
+    "prank": {
+      "title": "Bromea a Amigos con una Simulación Genuina de Actualización de Android",
+      "description": "Sorprende a tus amigos usando nuestra herramienta para bromear con una actualización falsa de Android, convirtiendo momentos ordinarios en bromas tecnológicas memorables."
+    },
+    "ux": {
+      "title": "Mejora el Aprendizaje de Diseño de Experiencia de Usuario con Actualizaciones Simuladas",
+      "description": "Usa la experiencia emocionante de actualización de Android para educar a diseñadores UX/UI sobre el impacto de las actualizaciones del sistema en la experiencia del usuario."
+    },
+    "recovery": {
+      "title": "Demuestra Escenarios de Recuperación del Sistema con Herramienta de Broma de Actualización de Android",
+      "description": "Aprovecha la herramienta de actualización de Android de aspecto auténtico para simular procesos de recuperación del sistema para entrenamiento de TI y talleres."
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Preguntas comunes sobre nuestra pantalla de actualización falsa de Android",
+    "real": {
+      "question": "¿Es esto una actualización real de Android?",
+      "answer": "No, esta es una pantalla simulada diseñada para entretenimiento y propósitos de prueba. No puede actualizar realmente tu dispositivo."
+    },
+    "pranks": {
+      "question": "¿Puedo usar esto para bromas?",
+      "answer": "¡Sí! Esta herramienta es perfecta para bromas tecnológicas inofensivas. Solo recuerda usarla de manera responsable y con buen humor."
+    },
+    "realistic": {
+      "question": "¿Qué tan realista es la simulación?",
+      "answer": "Nuestra pantalla de actualización de Android está diseñada para verse muy auténtica, con progreso de carga animado y marca de Android apropiada."
+    },
+    "safe": {
+      "question": "¿Es seguro de usar?",
+      "answer": "¡Absolutamente! Esta es una simulación basada en web que se ejecuta completamente en tu navegador y no puede acceder a tu sistema o dispositivo."
+    }
+  },
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "prankScreens": "Pantallas de Broma",
+    "fakeUpdateScreens": "Pantallas de Actualización Falsa",
+    "screensaverScreens": "Pantallas de Protector de Pantalla"
+  },
+  "howToUse": {
+    "title": "Cómo Usar",
+    "steps": [
+      "Elige tu color preferido de la paleta",
+      "Haz clic en el botón 'Lanzar' para abrir en pantalla completa",
+      "Usa F11 o ESC para salir del modo pantalla completa",
+      "Descarga la imagen en tu resolución preferida"
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificaciones Técnicas",
+    "specs": [
+      "Resolución: Hasta 8K (7680x4320)",
+      "Profundidad de Color: 24-bit RGB",
+      "Formato: PNG, JPEG, WebP",
+      "Compatibilidad: Todos los navegadores modernos",
+      "Funcionalidad Offline: Completamente disponible"
+    ]
+  }
+}

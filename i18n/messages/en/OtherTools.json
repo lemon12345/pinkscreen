@@ -1,0 +1,89 @@
+{
+  "badge": "Professional Screen Tools Collection",
+  "title": "More Screen Tools",
+  "description": "Explore our complete collection of screen tools - system simulators, screensavers, effect simulations, and more to meet all your needs",
+  "categories": {
+    "systemSimulation": "System Simulation",
+    "screensaver": "Screensaver Animation", 
+    "effects": "Effect Simulation",
+    "content": "Content",
+    "legal": "Legal"
+  },
+  "tools": {
+    "bios": {
+      "name": "BIOS Screen",
+      "description": "Simulate computer BIOS boot interface"
+    },
+    "fakeWindows11Update": {
+      "name": "Windows 11 Update Screen",
+      "description": "Simulate Windows 11 system update interface"
+    },
+    "fakeWindows10Update": {
+      "name": "Windows 10 Update Screen", 
+      "description": "Simulate Windows 10 system update interface"
+    },
+    "fakeWindowsXpUpdate": {
+      "name": "Windows XP Update Screen",
+      "description": "Simulate Windows XP system update interface"
+    },
+    "fakeMacOsXUpdate": {
+      "name": "Mac OS X Update Screen",
+      "description": "Simulate Mac OS X system update interface"
+    },
+    "fakeUbuntuUpdate": {
+      "name": "Ubuntu 22.04 Update Screen",
+      "description": "Simulate Ubuntu 22.04 system update interface"
+    },
+    "fakeAndroidUpdate": {
+      "name": "Android Update Screen",
+      "description": "Simulate Android system update interface"
+    },
+    "fakeDos": {
+      "name": "DOS Simulator",
+      "description": "Simulate classic DOS command line interface"
+    },
+    "fakeVirus": {
+      "name": "Virus Warning Screen",
+      "description": "Simulate computer virus warning interface"
+    },
+    "fbiWarning": {
+      "name": "FBI Warning Screen",
+      "description": "Simulate FBI copyright warning interface"
+    },
+    "dvdScreensaver": {
+      "name": "DVD Screensaver",
+      "description": "Classic DVD player screensaver animation"
+    },
+    "brokenScreen": {
+      "name": "Broken Screen",
+      "description": "Simulate screen crack effect"
+    },
+    "blueScreenOfDeath": {
+      "name": "Windows Blue Screen of Death",
+      "description": "Simulate Windows blue screen of death interface"
+    },
+    "hackerTyper": {
+      "name": "Hacker Typer",
+      "description": "Create realistic hacker typing effects and terminal simulations"
+    },
+    "noSignalScreensaver": {
+      "name": "No Signal Color Bars Screensaver",
+      "description": "Simulate TV no signal color bars screensaver"
+    },
+    "blogs": {
+      "name": "Blog Posts",
+      "description": "View latest screen tool articles and tips"
+    },
+    "privacyPolicy": {
+      "name": "Privacy Policy",
+      "description": "Learn about our privacy protection policy"
+    },
+    "termsOfService": {
+      "name": "Terms of Service",
+      "description": "View our service terms and conditions"
+    }
+  },
+  "footer": {
+    "description": "All tools are free and require no registration to use"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "title": "Tela TV Sem Sinal",
+    "description": "Experimente barras de cor SMPTE autênticas e padrões de teste sem sinal. Perfeito para calibração de monitor, testes de produção de vídeo e criar aquela atmosfera clássica de televisão de transmissão.",
+    "badge": "Padrão de Teste de Transmissão",
+    "features": {
+      "noRegistration": "Sem Registro",
+      "worksOffline": "Funciona Offline",
+      "allDevices": "Todos os Dispositivos"
+    }
+  },
+  "keywords": "barras de cor SMPTE, tela sem sinal, padrão de teste, calibração de cor, teste de vídeo, padrão de teste de transmissão, tela de teste de televisão, calibração de monitor, protetor de tela barras de cor, padrão de teste SMPTE, engenharia de vídeo, engenharia de transmissão, referência de cor, calibração de display, teste de sinal de vídeo, engenharia de televisão, padrão de cor, padrão de transmissão, sinal de teste, produção de vídeo",
+  "preview": {
+    "testPattern": "Padrão de Teste",
+    "colorBars": "Barras de Cor SMPTE"
+  },
+  "useCases": {
+    "title": "As pessoas usam Barras de Cor SMPTE para:",
+    "subtitle": "Descubra várias maneiras de usar nosso padrão de teste de barras de cor SMPTE",
+    "case1": {
+      "title": "Calibração de Monitor e Display",
+      "description": "Use barras de cor SMPTE para calibrar monitores, TVs e displays para reprodução de cor precisa em ambientes profissionais."
+    },
+    "case2": {
+      "title": "Produção de Vídeo e Transmissão",
+      "description": "Ferramenta essencial para engenheiros de vídeo e transmissores para testar qualidade de sinal e garantir padrões de cor apropriados."
+    },
+    "case3": {
+      "title": "Teste de Equipamento e Solução de Problemas",
+      "description": "Identifique problemas de display, verifique integridade do sinal de vídeo e solucione problemas com equipamento de transmissão usando padrões de teste padrão."
+    },
+    "case4": {
+      "title": "Educação de Transmissão e Mídia",
+      "description": "Ensine estudantes sobre padrões de transmissão, teoria de cor e técnicas de produção de vídeo profissional."
+    },
+    "case5": {
+      "title": "Estética Retro e Atmosfera",
+      "description": "Crie atmosfera de transmissão vintage autêntica para eventos temáticos, sets de filme ou criação de conteúdo nostálgico."
+    },
+    "case6": {
+      "title": "Display de Protetor de Tela Profissional",
+      "description": "Use como protetor de tela em ambientes de produção de vídeo profissional e instalações de transmissão."
+    }
+  },
+  "howToUse": {
+    "title": "Como Usar as Barras de Cor SMPTE",
+    "steps": [
+      "Abrir a página - Navegue para no-signal-smpte-color-bars-screensaver no seu navegador",
+      "Tela cheia - Clique em \"Tela Cheia\" ou pressione F11 para exibir o padrão de teste em toda a sua tela",
+      "Escolher seu padrão - Alterne entre barras de cor SMPTE e padrões de teste sem sinal usando os controles",
+      "Usar para calibração - Verifique a precisão da cor, brilho e configurações de contraste no seu monitor ou tela",
+      "Sair a qualquer momento - Pressione Esc ou F11 para sair do modo tela cheia e voltar à visualização normal"
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "subtitle": "Perguntas comuns sobre barras de cor SMPTE e padrões de teste",
+    "whatIsSMPTE": {
+      "question": "O que são barras de cor SMPTE?",
+      "answer": "Barras de cor SMPTE são um padrão de teste padronizado usado na produção de televisão e vídeo para calibrar equipamento e garantir reprodução de cor precisa."
+    },
+    "howToUse": {
+      "question": "Como uso isso para calibração de monitor?",
+      "answer": "Use as barras de cor para verificar se seu display mostra cores precisas. Cada barra deve exibir cores distintas e puras sem vazamento ou distorção."
+    },
+    "fullscreen": {
+      "question": "Como saio do modo tela cheia?",
+      "answer": "Pressione a tecla Escape ou clique no botão tela cheia novamente para sair do modo tela cheia. Você também pode usar F11 para alternar tela cheia na maioria dos navegadores."
+    },
+    "download": {
+      "question": "Posso baixar o padrão de barras de cor?",
+      "answer": "Sim, você pode baixar o padrão de barras de cor em várias resoluções. Use o botão de download na seção de controles para salvar o padrão como arquivo de imagem PNG."
+    },
+    "compatibility": {
+      "question": "Quais navegadores são suportados?",
+      "answer": "O protetor de tela de barras de cor funciona em todos os navegadores modernos incluindo Chrome, Firefox, Safari e Edge. Modo tela cheia é suportado na maioria dos dispositivos e navegadores."
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Schermo Virus Falso - File crittografati",
+    "description": "Schermo di virus falso che richiede denaro per la decrittazione dei file. Fai scherzi ai tuoi amici aprendo questo sulla loro macchina!",
+    "badge": "Strumento Scherzo Virus"
+  },
+  "keywords": "falso virus, scherzo ransomware, falso hacker, scherzo computer, simulatore virus, falso malware, scherzo file crittografati, scherzo virus innocuo, falsa cybersecurity, schermo scherzo",
+  "colorPicker": {
+    "title": "Scherzo Virus Falso",
+    "description": "Schermo di virus realistico per scherzi innocui ed educazione cybersecurity",
+    "launchButton": "Avvia Scherzo Virus",
+    "clickHint": "Clicca il pulsante sopra per avviare scherzo virus schermo intero"
+  },
+  "useCases": {
+    "title": "Le persone usano lo scherzo virus per:",
+    "description": "Il nostro simulatore di virus falso fornisce un'esperienza ransomware realistica per educazione e scherzi innocui.",
+    "cases": [
+      {
+        "icon": "🛡️",
+        "title": "Educazione Cybersecurity",
+        "description": "Insegna sulle minacce ransomware e consapevolezza cybersecurity in un ambiente sicuro e controllato."
+      },
+      {
+        "icon": "😂",
+        "title": "Scherzi Ufficio Innocui",
+        "description": "Fai scherzi in sicurezza ai colleghi con schermo di virus realistico che si rivela come scherzo innocuo."
+      },
+      {
+        "icon": "🎭",
+        "title": "Contenuti Social Media",
+        "description": "Crea video di reazione coinvolgenti e contenuti di consapevolezza cybersecurity per piattaforme social."
+      },
+      {
+        "icon": "📚",
+        "title": "Formazione IT",
+        "description": "Usa nei corsi di formazione IT per dimostrare attacchi ransomware e procedure di risposta agli incidenti."
+      },
+      {
+        "icon": "🎬",
+        "title": "Cinema & Teatro",
+        "description": "Perfetto per film, show TV o produzioni teatrali che richiedono scene di hacker/virus realistiche."
+      },
+      {
+        "icon": "🎪",
+        "title": "Pesce d'Aprile",
+        "description": "Scherzo ultimo del Pesce d'Aprile con interfaccia ransomware convincente e opzioni di pagamento umoristiche."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "description": "Domande comuni sul simulatore scherzo virus falso",
+    "questions": [
+      {
+        "question": "Questo scherzo virus è effettivamente pericoloso?",
+        "answer": "Assolutamente no! Questa è una simulazione 100% innocua. Nessun file viene crittografato, nessun dato viene rubato, e nessun malware reale è coinvolto."
+      },
+      {
+        "question": "Questo danneggerà il mio computer o i file?",
+        "answer": "Nessun danno! È puramente una simulazione visiva che gira nel tuo browser. Tutti i tuoi file rimangono completamente sicuri e intatti."
+      },
+      {
+        "question": "Quanto realistico sembra?",
+        "answer": "Molto realistico! Imita le interfacce ransomware reali ma include metodi di pagamento umoristici come 'Monopoly Money' e 'reni' per assicurarsi che sia chiaramente uno scherzo."
+      },
+      {
+        "question": "Come esco dallo scherzo?",
+        "answer": "Premi F11 o il tasto ESC per uscire dalla modalità schermo intero. Lo scherzo si rivela anche come innocuo con istruzioni chiare."
+      },
+      {
+        "question": "Posso usarlo per formazione cybersecurity?",
+        "answer": "Sì! È perfetto per scopi educativi per dimostrare come appare il ransomware e insegnare consapevolezza cybersecurity."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Strumenti Schermo Aggiuntivi",
+    "description": "Esplora la nostra collezione di strumenti schermo specializzati per vari scopi.",
+    "colorScreens": "Schermi Colore",
+    "prankScreens": "Schermi Scherzo",
+    "fakeUpdateScreens": "Schermi Aggiornamento Falso",
+    "screensaverScreens": "Schermi Salvaschermo"
+  },
+  "howToUse": {
+    "title": "Come Usare",
+    "steps": [
+      "Clicca il pulsante di avvio per entrare nello scherzo virus schermo intero",
+      "Lo schermo ransomware falso si mostrerà con timer di countdown",
+      "Guarda la reazione della vittima al messaggio di crittografia realistico",
+      "Lo scherzo si rivela con opzioni di pagamento umoristiche",
+      "Premi F11 o ESC per uscire dalla modalità schermo intero in qualsiasi momento"
+    ]
+  },
+  "techSpecs": {
+    "title": "Specifiche Tecniche",
+    "specs": [
+      "Interfaccia: Simulazione ransomware/virus realistica",
+      "Funzionalità: Timer countdown, messaggio di crittografia falso",
+      "Sicurezza: 100% innocuo - nessun virus o malware reale",
+      "Compatibilità: Tutti i browser e dispositivi moderni",
+      "Educazione: Perfetto per formazione consapevolezza cybersecurity"
+    ]
+  }
+}

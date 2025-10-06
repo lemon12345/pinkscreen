@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "title": "Windows XP 假更新",
+    "description": "在我们的网站上体验怀旧的Windows XP更新模拟。用我们逼真的Windows XP假更新屏幕愚弄您的朋友。享受经典的蓝色屏幕和这个传奇操作系统熟悉的进度显示。",
+    "badge": "Windows XP 系统更新",
+    "features": {
+      "noRegistration": "无需注册",
+      "worksOffline": "离线运行",
+      "allDevices": "所有设备"
+    }
+  },
+  "keywords": "Windows XP假更新, Windows XP更新模拟, 模拟Windows XP更新, 假Windows XP更新屏幕, 模拟Windows XP更新, Windows XP更新恶作剧, Windows XP更新过程, 逼真的Windows XP更新, 真实的Windows XP更新屏幕, 用Windows XP更新愚弄朋友, 真实的Windows XP更新进度, 真正的Windows XP更新模拟, 真实的Windows XP更新消息, Windows XP更新阶段, 有趣的Windows XP更新恶作剧, 有趣的假Windows XP更新, 享受模拟的Windows XP更新, 用Windows XP假更新恶作剧, 刺激的Windows XP更新体验, 娱乐用的Windows XP更新, Windows XP更新恶作剧工具",
+  "preview": {
+    "updateText": "正在安装 Windows 更新...",
+    "completeText": "完成",
+    "dontTurnOffText": "请勿关闭计算机或拔掉电源插头。",
+    "restartText": "计算机将自动重启"
+  },
+  "useCases": {
+    "title": "人们使用Windows XP更新屏幕的目的：",
+    "subtitle": "发现我们Windows XP假更新屏幕的各种使用方法",
+    "case1": {
+      "title": "模拟Windows XP更新进行复古测试",
+      "description": "利用我们的Windows XP假更新工具创建逼真的复古更新屏幕，用于软件测试和演示目的。"
+    },
+    "case2": {
+      "title": "用怀旧的Windows XP更新吸引观众",
+      "description": "通过在演示或复古技术内容中展示真实的Windows XP更新模拟来吸引技术爱好者的注意。"
+    },
+    "case3": {
+      "title": "用Windows XP更新恶作剧工具提升技术教育",
+      "description": "将我们逼真的Windows XP更新屏幕融入技术教育场景，教授传统系统和用户界面演进。"
+    },
+    "case4": {
+      "title": "用Windows XP假更新创建娱乐内容",
+      "description": "使用有趣的Windows XP更新恶作剧制作引人入胜的视频内容或直播，为技术讨论增添怀旧色彩。"
+    },
+    "case5": {
+      "title": "用真实的Windows XP更新模拟恶作剧朋友",
+      "description": "通过使用我们的工具进行Windows XP假更新恶作剧来给朋友们惊喜，将普通时刻变成难忘的复古恶作剧。"
+    },
+    "case6": {
+      "title": "通过模拟更新研究传统UI设计",
+      "description": "使用经典的Windows XP更新体验来教育UX/UI设计师系统更新界面的演进。"
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "subtitle": "关于我们Windows XP假更新屏幕的常见问题",
+    "whatIs": {
+      "question": "什么是Windows XP假更新屏幕？",
+      "answer": "这是一个有趣、怀旧的模拟器，重现了真实Windows XP更新屏幕的外观。您可以在浏览器中打开它来恶作剧朋友、制作视频，或重温2000年代初的技术氛围。"
+    },
+    "safe": {
+      "question": "使用安全吗？",
+      "answer": "是的——100%安全。此页面仅在您的网络浏览器中显示假Windows XP更新动画。它不会在您的计算机上下载或安装任何内容。"
+    },
+    "pranks": {
+      "question": "如何用它来恶作剧？",
+      "answer": "只需打开页面，点击全屏，然后让它运行。逼真的加载文字会让任何人相信您的PC正在\"更新Windows XP\"。非常适合无害的玩笑！"
+    },
+    "realistic": {
+      "question": "模拟有多逼真？",
+      "answer": "我们的Windows XP更新屏幕设计得非常逼真，具有经典的蓝色背景和正确的Windows XP品牌。"
+    },
+    "exit": {
+      "question": "如何退出假更新屏幕？",
+      "answer": "按Esc或F11键立即离开全屏模式。您的真实系统不会发生任何事情。"
+    },
+    "content": {
+      "question": "我可以将它用于YouTube视频或直播吗？",
+      "answer": "可以！许多创作者使用假Windows XP更新屏幕制作喜剧小品、复古风格编辑或技术怀旧视频。"
+    },
+    "real": {
+      "question": "这真的会更新Windows XP吗？",
+      "answer": "不会——这只是一个视觉模拟器。它不会以任何方式影响您的系统或文件。"
+    },
+    "devices": {
+      "question": "它在现代计算机上能用吗？",
+      "answer": "可以。假Windows XP更新屏幕适用于任何现代浏览器——包括Windows 10、11、macOS，甚至移动设备。"
+    }
+  }
+}

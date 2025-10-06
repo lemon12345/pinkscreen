@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "title": "Mac OS X 虚假更新",
+    "description": "在我们的网站上体验令人信服的 Mac OS X 更新模拟。用我们逼真的 Mac OS X 虚假更新屏幕来欺骗你的朋友。享受模拟更新过程的兴奋和娱乐。",
+    "badge": "macOS 系统更新",
+    "features": {
+      "noRegistration": "无需注册",
+      "worksOffline": "离线可用",
+      "allDevices": "所有设备"
+    }
+  },
+  "keywords": "Mac OS X 虚假更新，模拟 Mac OS X 更新，逼真的 Mac OS X 更新，Mac OS X 更新恶作剧，逼真的 Mac OS X 更新屏幕，真实的 Mac OS X 更新模拟，有趣的 Mac OS X 更新恶作剧，Mac OS X 虚假更新恶作剧，令人兴奋的 Mac OS X 更新体验，Mac OS X 更新恶作剧工具",
+  "preview": {
+    "title": "实时预览",
+    "fullscreen": "全屏",
+    "download": "下载"
+  },
+  "useCases": {
+    "title": "人们使用 Mac OS 更新屏幕来：",
+    "cases": [
+      {
+        "title": "恶作剧朋友",
+        "description": "使用我们的 Mac OS X 虚假更新工具对你的朋友进行无害的恶作剧，让他们相信他们的计算机正在进行重大更新。观看他们的反应并开怀大笑！"
+      },
+      {
+        "title": "测试耐心",
+        "description": "了解你的同事或亲人对意外更新的反应。这是一种有趣的方式来检查他们的耐心，而不会造成任何真正的不便。"
+      },
+      {
+        "title": "技术教学辅助",
+        "description": "将虚假更新工具用作技术课程或研讨会的教学辅助。它可以用来解释系统更新以及如何管理它们。"
+      },
+      {
+        "title": "UI/UX 测试",
+        "description": "对于 UI/UX 设计师，我们的工具可以为系统更新期间的用户体验提供有趣的案例研究。分析此过程中的用户交互和参与度。"
+      },
+      {
+        "title": "内容创作",
+        "description": "内容创作者可以使用此工具为其博客、视频日志或社交媒体平台创建有趣的技术相关内容或社会实验。"
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "如何使用假macOS更新屏幕",
+    "subtitle": "按照这些简单步骤开始使用我们的macOS假更新屏幕",
+    "steps": {
+      "open": "打开页面",
+      "openDescription": "在您的Mac或任何计算机浏览器上访问 fake-macos-update-screen。",
+      "fullscreen": "进入全屏模式",
+      "fullscreenDescription": "点击全屏按钮或按Control + Command + F键，让它看起来像真正的macOS更新。",
+      "watch": "观看更新动画",
+      "watchDescription": "页面将显示逼真的macOS更新进度条，类似于实际系统升级时出现的内容。",
+      "use": "用于恶作剧或视频场景",
+      "useDescription": "给朋友惊喜或为您的YouTube、TikTok或直播内容录制——在全屏模式下看起来很令人信服！",
+      "exit": "随时退出",
+      "exitDescription": "按Esc或Control + Command + F键返回正常视图。不会更改任何数据或设置。"
+    },
+    "tips": {
+      "title": "快速提示",
+      "exit": "按Esc或Control + Command + F键退出全屏模式",
+      "realistic": "动画看起来非常逼真和真实",
+      "safe": "完全安全 - 不会对系统进行任何实际更改",
+      "devices": "适用于所有现代浏览器和设备"
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "subtitle": "关于我们假macOS更新屏幕的常见问题",
+    "whatIs": {
+      "question": "什么是假macOS更新屏幕？",
+      "answer": "这是一个在线模拟器，完美模仿macOS更新屏幕。非常适合恶作剧、视频或测试您的显示器在深色和浅色元素下的显示效果。"
+    },
+    "safe": {
+      "question": "使用安全吗？",
+      "answer": "是的。这个工具完全安全——它不会在您的设备上安装或修改任何内容。它只在您的网络浏览器中显示假更新动画。"
+    },
+    "pranks": {
+      "question": "我可以用它来恶作剧吗？",
+      "answer": "当然可以😄！全屏显示，走开，让您的朋友以为您的Mac又卡在更新中了！"
+    },
+    "exit": {
+      "question": "如何退出假更新屏幕？",
+      "answer": "只需按Esc或Control + Command + F键。模拟器将立即关闭。"
+    },
+    "devices": {
+      "question": "这在Windows或手机上能用吗？",
+      "answer": "是的，它在任何现代浏览器中都能工作——但为了获得最逼真的效果，请在Mac或大型桌面显示器上使用。"
+    },
+    "real": {
+      "question": "它真的会更新macOS吗？",
+      "answer": "不会——这只是一个视觉模拟器。它不会在您的计算机上下载、安装或更改任何内容。"
+    },
+    "content": {
+      "question": "我可以在我的视频或直播中使用它吗？",
+      "answer": "可以！许多创作者使用假macOS更新屏幕进行视频项目、技术幽默和恶作剧合集。"
+    }
+  }
+}

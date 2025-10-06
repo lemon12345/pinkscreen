@@ -1,0 +1,75 @@
+{
+  "title": "Más Herramientas de Pantalla",
+  "description": "Explora nuestra colección completa de herramientas de pantalla - simuladores de sistema, protectores de pantalla, simulaciones de efectos y más para todas tus necesidades",
+  "badge": "Colección de Herramientas de Pantalla Profesionales",
+  "categories": {
+    "systemSimulation": "Simulación de Sistema",
+    "screensaver": "Animación de Protector de Pantalla",
+    "effects": "Simulación de Efectos"
+  },
+  "tools": {
+    "bios": {
+      "name": "Pantalla BIOS",
+      "description": "Simula la interfaz de inicio del BIOS de la computadora"
+    },
+    "fakeWindows11Update": {
+      "name": "Pantalla de Actualización Windows 11",
+      "description": "Simula la interfaz de actualización del sistema Windows 11"
+    },
+    "fakeWindows10Update": {
+      "name": "Pantalla de Actualización Windows 10",
+      "description": "Simula la interfaz de actualización del sistema Windows 10"
+    },
+    "fakeWindowsXpUpdate": {
+      "name": "Pantalla de Actualización Windows XP",
+      "description": "Simula la interfaz de actualización del sistema Windows XP"
+    },
+    "fakeMacOsXUpdate": {
+      "name": "Pantalla de Actualización Mac OS X",
+      "description": "Simula la interfaz de actualización del sistema Mac OS X"
+    },
+    "fakeUbuntuUpdate": {
+      "name": "Pantalla de Actualización Ubuntu 22.04",
+      "description": "Simula la interfaz de actualización del sistema Ubuntu 22.04"
+    },
+    "fakeAndroidUpdate": {
+      "name": "Pantalla de Actualización Android",
+      "description": "Simula la interfaz de actualización del sistema Android"
+    },
+    "fakeDos": {
+      "name": "Simulador DOS",
+      "description": "Simula la interfaz de línea de comandos DOS clásica"
+    },
+    "fakeVirus": {
+      "name": "Pantalla de Advertencia de Virus",
+      "description": "Simula la interfaz de advertencia de virus informático"
+    },
+    "fbiWarning": {
+      "name": "Pantalla de Advertencia FBI",
+      "description": "Simula la interfaz de advertencia de derechos de autor FBI"
+    },
+    "dvdScreensaver": {
+      "name": "Protector de Pantalla DVD",
+      "description": "Animación clásica de protector de pantalla de reproductor DVD"
+    },
+    "brokenScreen": {
+      "name": "Pantalla Rota",
+      "description": "Simula el efecto de pantalla agrietada"
+    },
+    "blueScreenOfDeath": {
+      "name": "Pantalla Azul de la Muerte Windows",
+      "description": "Simula la interfaz de pantalla azul de la muerte de Windows"
+    },
+    "hackerTyper": {
+      "name": "Simulador Hacker",
+      "description": "Crear efectos de escritura hacker realistas y simulaciones de terminal"
+    },
+    "noSignalScreensaver": {
+      "name": "Protector de Pantalla Sin Señal Color Bars",
+      "description": "Simula el protector de pantalla de barras de color sin señal de TV"
+    }
+  },
+  "footer": {
+    "description": "Todas las herramientas son gratuitas y no requieren registro"
+  }
+}

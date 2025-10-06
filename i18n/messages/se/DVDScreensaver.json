@@ -1,0 +1,81 @@
+{
+  "hero": {
+    "title": "Skärmsläckare DVD",
+    "description": "Upplev den klassiska DVD-skärmsläckaren online. Anpassa DVD-logotypens storlek och rörelsehastighet för en nostalgisk helskärmsambiance. Perfekt för avkoppling, presentationer och underhållning.",
+    "keywords": "dvd skärmsläckare, online dvd skärmsläckare, dvd logotyp skärmsläckare, helskärm skärmsläckare, dvd skärmsläckare simulator, anpassningsbar skärmsläckare, retro skärmsläckare",
+    "badge": "Klassisk DVD Skärmsläckare",
+    "features": {
+      "noRegistration": "Ingen Registrering",
+      "worksOffline": "Fungerar Offline",
+      "allDevices": "Alla Enheter"
+    }
+  },
+  "keywords": "dvd skärmsläckare, online dvd skärmsläckare, dvd logotyp skärmsläckare, helskärm skärmsläckare, dvd skärmsläckare simulator, anpassningsbar skärmsläckare, retro skärmsläckare, klassisk skärmsläckare, studsande logotyp, nostalgisk skärmsläckare",
+  "preview": {
+    "title": "Live Förhandsvisning",
+    "download": "Ladda Ner",
+    "comingSoon": "Kommer Snart",
+    "bouncingLogo": "Studsande Logotyp"
+  },
+  "colorPicker": {
+    "title": "Välj Skärm",
+    "speed": "Hastighet",
+    "size": "Storlek",
+    "selectScreen": "Välj en skärmeffekt att visa",
+    "fullScreen": "Helskärm"
+  },
+  "useCases": {
+    "title": "Folk använder DVD Skärmsläckare för:",
+    "case1": {
+      "title": "Koppla Av med Klassisk DVD Skärmsläckare",
+      "description": "Slappna av efter en lång dag genom att titta på den nostalgiska DVD-logotypen röra sig runt din helskärm. Denna DVD-skärmsläckare simulator för tillbaka charmen av klassiska skärmsläckare, skapar en lugnande ambiance på din skärm."
+    },
+    "case2": {
+      "title": "Förbättra Din Presentations Bakgrund",
+      "description": "Lägg till en dynamisk touch till dina presentationer genom att använda DVD-skärmsläckaren i helskärmsläge. Justera logotypstorleken och rörelsehastigheten för att passa din stil, gör din presentationsbakgrund engagerande och professionell."
+    },
+    "case3": {
+      "title": "Perfekt för Väntrum",
+      "description": "Håll besökare underhållna med DVD-logotyp skärmsläckaren i ditt väntrum. Detta onlineverktyg låter dig anpassa logotypstorleken och rörelsehastigheten, ger en visuellt tilltalande upplevelse för dina gäster."
+    },
+    "case4": {
+      "title": "Skapa en Rolig Festatmosfär",
+      "description": "Använd DVD-skärmsläckare simulatorn under fester för att skapa en rolig och nostalgisk atmosfär. Ställ in den i helskärmsläge och låt den rörliga DVD-logotypen lägga till en unik touch till ditt evenemang, justerbar till vilken storlek och hastighet som helst."
+    },
+    "case5": {
+      "title": "Fokus Booster för Studietider",
+      "description": "Öka din koncentration genom att använda DVD-skärmsläckaren medan du studerar. Den mjuka rörelsen av DVD-logotypen på helskärm kan hjälpa att upprätthålla fokus, med justerbar storlek och hastighet efter din preferens."
+    },
+    "case6": {
+      "title": "Visa Retro Stil i Butiker",
+      "description": "Locka kunder till din butik med den retro DVD-skärmsläckaren i helskärmsläge. Den rörliga DVD-logotypen, anpassningsbar i storlek och hastighet, kan lägga till en vintage touch till dina displayskärmar."
+    }
+  },
+  "howToUse": {
+    "title": "Hur man Använder Online DVD Skärmsläckare",
+    "steps": [
+      "Öppna sidan - Gå till /dvd-screensaver på din dator eller TV-webbläsare.",
+      "Helskärm - Klicka på \"Helskärm\" eller tryck på F11 för att få DVD-logotypen att studsa fritt över din skärm.",
+      "Titta på den klassiska DVD-logotypens rörelse - Njut av den nostalgiska animationen — den färgglada DVD-logotypen studsar mjukt och ändrar riktning när den träffar skärmkanterna, precis som den ursprungliga skärmsläckaren från DVD-spelare.",
+      "Använd som riktig skärmsläckare eller bakgrund - Låt den köra medan du är borta, eller använd som retro loop-animation för streaming, dekoration eller visuella effekter.",
+      "Avsluta när som helst - Tryck på Esc eller F11 igen för att lämna helskärmsläge."
+    ]
+  },
+  "faq": {
+    "title": "Online DVD Skärmsläckare",
+    "question1": "Vad är Online DVD Skärmsläckare?",
+    "answer1": "Det är en gratis webbaserad simulator av den klassiska studsande DVD-logotypens skärmsläckare. Ingen installation krävs.",
+    "question2": "Skyddar den verkligen min skärm?",
+    "answer2": "Inte exakt — det är en visuell simulering. Den aktiverar inte din systems inbyggda skärmsläckare, men du kan använda den på samma sätt.",
+    "question3": "Är den säker att använda?",
+    "answer3": "Ja! Den är 100% säker — inga nedladdningar, inga annonser och inga systemändringar.",
+    "question4": "Kan jag använda den för kul eller nostalgi?",
+    "answer4": "Självklart! 😄 Många människor använder den för att återuppleva den klassiska DVD-eran eller testa hur lång tid det tar för logotypen att träffa hörnet!",
+    "question5": "Kan jag hålla den igång på en andra monitor eller TV?",
+    "answer5": "Ja. Öppna sidan på vilken skärm som helst och gå till helskärm. Perfekt för fester, kontorsdisplayer eller bakgrundsloopar.",
+    "question6": "Fungerar den på telefoner och surfplattor?",
+    "answer6": "Ja, men för bästa effekt, använd en dator eller smart TV i helskärmsläge.",
+    "question7": "Kan jag ändra logotypens färg eller hastighet?",
+    "answer7": "Vissa versioner inkluderar anpassningsalternativ som logotypfärg eller animationshastighet — prova knapparna under animationen om de är tillgängliga."
+  }
+}

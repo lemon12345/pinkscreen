@@ -1,0 +1,110 @@
+{
+  "hero": {
+    "title": "Falso Aggiornamento Windows 10",
+    "description": "Sperimenta una simulazione realistica di aggiornamento Windows 10 sul nostro sito web. Inganna i tuoi amici con il nostro schermo di falso aggiornamento Windows 10 dall'aspetto autentico. Goditi la suspense e il divertimento di un processo di aggiornamento simulato.",
+    "badge": "Aggiornamento Sistema Windows 10",
+    "features": {
+      "noRegistration": "Nessuna registrazione",
+      "worksOffline": "Funziona offline",
+      "allDevices": "Tutti i dispositivi"
+    }
+  },
+  "keywords": "falso aggiornamento Windows 10, simulazione aggiornamento Windows 10, Simula aggiornamento Windows 10, Schermo falso aggiornamento Windows 10, Emula aggiornamento Windows 10, Scherzo aggiornamento Windows 10, Processo aggiornamento Windows 10, Aggiornamento Windows 10 autentico, Schermo aggiornamento Windows 10 realistico, Inganna amici con aggiornamento Windows 10, Progressione aggiornamento Windows 10 realistica, Simulazione aggiornamento Windows 10 genuina, Messaggi aggiornamento Windows 10 autentici, Fase aggiornamento Windows 10, Scherzo aggiornamento Windows 10 divertente, Falso aggiornamento Windows 10 divertente, Goditi simulazione aggiornamento Windows 10, Scherzo con falso aggiornamento Windows 10, Esperienza aggiornamento Windows 10 eccitante, Aggiornamento Windows 10 per divertimento, Strumento scherzo aggiornamento Windows 10",
+  "preview": {
+    "updateText": "Lavorando sugli aggiornamenti",
+    "completeText": " completato",
+    "dontTurnOffText": "Non spegnere il PC. Ci vorrà un po' di tempo.",
+    "restartText": "Il tuo PC potrebbe riavviarsi più volte"
+  },
+  "useCases": {
+    "title": "Le persone usano lo Schermo Aggiornamento Windows 10 per:",
+    "subtitle": "Scopri vari modi per usare il nostro schermo falso aggiornamento Windows 10",
+    "simulate": {
+      "title": "Simula Aggiornamento Windows 10 per Test Software",
+      "description": "Utilizza il nostro strumento falso aggiornamento Windows 10 per creare schermi di aggiornamento autentici per test software e scopi dimostrativi."
+    },
+    "engage": {
+      "title": "Coinvolgi il tuo Pubblico con uno Schermo Aggiornamento Windows 10 Realistico",
+      "description": "Cattura l'attenzione degli appassionati di tecnologia mostrando una simulazione di aggiornamento Windows 10 genuina durante presentazioni o blog tech."
+    },
+    "education": {
+      "title": "Eleva l'Educazione Tech con Strumento Scherzo Aggiornamento Windows 10",
+      "description": "Incorpora il nostro schermo di aggiornamento Windows 10 realistico negli scenari di educazione tech per insegnare aggiornamenti sistema e design interfaccia utente."
+    },
+    "content": {
+      "title": "Crea Contenuto Divertente con Falso Aggiornamento Windows 10",
+      "description": "Produca contenuto video coinvolgente o live stream usando uno scherzo di aggiornamento Windows 10 divertente, aggiungendo umorismo alle discussioni tech."
+    },
+    "prank": {
+      "title": "Fai Scherzi agli Amici con una Simulazione Aggiornamento Windows 10 Genuina",
+      "description": "Sorprendi i tuoi amici usando il nostro strumento per fare scherzi con un falso aggiornamento Windows 10, trasformando momenti ordinari in scherzi tech memorabili."
+    },
+    "ux": {
+      "title": "Migliora l'Apprendimento Design UX con Aggiornamenti Simulati",
+      "description": "Usa l'esperienza eccitante di aggiornamento Windows 10 per educare i designer UX/UI sull'impatto degli aggiornamenti sistema sull'esperienza utente."
+    },
+    "testing": {
+      "title": "Testare Luminosità Schermo e Comportamento Display",
+      "description": "Poiché lo schermo falso aggiornamento usa visuali a schermo intero con testo e gradienti, può anche essere usato per controllare le prestazioni del display, uniformità della luminosità o accuratezza dei colori del monitor."
+    },
+    "fun": {
+      "title": "Solo per Divertimento!",
+      "description": "Che tu sia annoiato o curioso, lo schermo falso aggiornamento Windows è un modo rapido e divertente per simulare l'aspetto dell'aggiornamento Windows—senza installare effettivamente nulla."
+    }
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "subtitle": "Domande comuni sul nostro Schermo Falso Aggiornamento Windows 10",
+    "safe": {
+      "question": "Lo schermo falso aggiornamento Windows 10 è sicuro?",
+      "answer": "Sì! È completamente sicuro — questa pagina mostra solo un'animazione realistica di aggiornamento Windows 10 nel tuo browser. Non scarica o installa nulla sul tuo computer."
+    },
+    "pranks": {
+      "question": "Posso usarlo per fare scherzi a qualcuno?",
+      "answer": "Assolutamente 😄 Molti utenti aprono lo schermo falso aggiornamento a schermo intero per ingannare i loro amici o colleghi. Sembra esattamente come il vero schermo di aggiornamento Windows!"
+    },
+    "exit": {
+      "question": "Come esco dallo schermo falso aggiornamento?",
+      "answer": "Basta premere Esc o F11 sulla tastiera per uscire dalla modalità schermo intero in qualsiasi momento."
+    },
+    "devices": {
+      "question": "Funziona su telefoni o tablet?",
+      "answer": "Sì, ma per l'effetto più realistico raccomandiamo di usarlo su un desktop o laptop."
+    },
+    "real": {
+      "question": "Questo schermo falso aggiornamento aggiorna effettivamente Windows?",
+      "answer": "No — è solo un simulatore. È progettato per divertimento, scherzi o dimostrazioni, ma non cambierà o installerà nulla sul tuo sistema."
+    },
+    "content": {
+      "question": "Posso usarlo per video o streaming?",
+      "answer": "Sì! Puoi registrare il tuo schermo o usarlo durante live stream. Molti creatori lo usano per scherzi tech o video di reazione divertenti."
+    },
+    "windows11": {
+      "question": "Funziona con Windows 11?",
+      "answer": "Questa pagina simula lo schermo di aggiornamento Windows 10. Se stai cercando la versione Windows 11, visita fake-windows-11-update"
+    }
+  },
+  "howToUse": {
+    "title": "Come Utilizzare la Schermata di Aggiornamento Falso di Windows 10",
+    "subtitle": "Segui questi semplici passaggi per iniziare con la nostra schermata di aggiornamento falso di Windows 10",
+    "steps": {
+      "open": "Apri la pagina",
+      "openDescription": "Vai su  fake-windows-10-update-screen sul tuo computer o laptop.",
+      "fullscreen": "Scegli schermo intero",
+      "fullscreenDescription": "Clicca sul pulsante \"Schermo Intero\" o premi F11 per far coprire tutto il display dalla schermata di aggiornamento falso di Windows 10.",
+      "wait": "Aspetta e guarda",
+      "waitDescription": "La schermata inizierà a mostrare un'animazione realistica di aggiornamento di Windows 10 — proprio come un vero aggiornamento del sistema.",
+      "use": "Usala per uno scherzo o un video",
+      "useDescription": "Lasciala funzionare per fare scherzi agli amici, registrare un video divertente o usarla come demo per presentazioni.",
+      "exit": "Esci in qualsiasi momento",
+      "exitDescription": "Per uscire, premi Esc o F11 di nuovo per tornare alla vista normale."
+    },
+    "tips": {
+      "title": "Suggerimenti Rapidi",
+      "exit": "Premi F11 o ESC per uscire dalla modalità schermo intero",
+      "realistic": "L'animazione sembra molto realistica e autentica",
+      "safe": "Completamente sicura - non vengono apportate modifiche reali al sistema",
+      "devices": "Funziona su tutti i browser e dispositivi moderni"
+    }
+  }
+}

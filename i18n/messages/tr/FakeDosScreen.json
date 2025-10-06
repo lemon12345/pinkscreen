@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Sahte Disk Formatlama - Online DOS Şakası",
+    "description": "Disk sürücüsünü formatlıyor gibi görünen ama gerçekte hiçbir zarar vermeyen online DOS şakasıyla arkadaşlarınızı kandırın.",
+    "badge": "DOS Şaka Aracı"
+  },
+  "keywords": "sahte DOS, disk formatlama şakası, online DOS şakası, sahte disk formatı, bilgisayar şakası, DOS simülatörü, komut istemi şakası, sahte format C, zararsız şaka, DOS ekranı",
+  "colorPicker": {
+    "title": "Sahte DOS Şakası",
+    "description": "Gerçekçi DOS formatlama simülasyonu ile arkadaşlara şaka yapmak için mükemmel",
+    "launchButton": "DOS Şakasını Başlat",
+    "clickHint": "Tam ekran DOS şakasını başlatmak için yukarıdaki düğmeye tıklayın"
+  },
+  "useCases": {
+    "title": "İnsanlar DOS şakasını şunun için kullanır:",
+    "description": "Sahte DOS simülatörümüz zararsız şakalar ve eğlence için gerçekçi DOS formatlama deneyimi sağlar.",
+    "cases": [
+      {
+        "icon": "😂",
+        "title": "Zararsız Şakalar",
+        "description": "Gerçekçi DOS formatlama simülasyonu ile arkadaşlara ve meslektaşlara gerçek bir zarar vermeden güvenle şaka yapın."
+      },
+      {
+        "icon": "🎭",
+        "title": "Eğlence Videoları",
+        "description": "Otantik görünümlü DOS arayüzü ile eğlenceli reaksiyon videoları ve eğlence içeriği oluşturun."
+      },
+      {
+        "icon": "🎪",
+        "title": "1 Nisan Şakaları",
+        "description": "1 Nisan şakaları ve arkadaşlarla sürpriz eğlence anları için mükemmel."
+      },
+      {
+        "icon": "📱",
+        "title": "Sosyal Medya İçeriği",
+        "description": "İzleyicileriniz için ilgi çekici sosyal medya içeriği ve eğlenceli teknoloji ile ilgili gönderiler oluşturun."
+      },
+      {
+        "icon": "🎬",
+        "title": "Film & Tiyatro",
+        "description": "DOS arayüzü gerektiren filmler, tiyatro prodüksiyonları veya eğitim gösterilerinde kullanın."
+      },
+      {
+        "icon": "🎮",
+        "title": "Retro Oyunlar",
+        "description": "Nostaljik DOS arayüzünü deneyimleyin ve klasik bilgisayar çağını hatırlayın."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "description": "Sahte DOS şaka simülatörü hakkında yaygın sorular",
+    "questions": [
+      {
+        "question": "Bu DOS şakası kullanmak güvenli mi?",
+        "answer": "Kesinlikle güvenli! Bu sadece DOS formatlamasını taklit eden bir web simülasyonudur. Bilgisayarınızdaki hiçbir dosyayı gerçekten formatlamaz veya zarar vermez."
+      },
+      {
+        "question": "Bu gerçekten dosyalarımı silecek mi?",
+        "answer": "Hayır! Bu tamamen görsel bir simülasyondur. Hiçbir dosya silinmez, hiçbir formatlama gerçekleşmez. Tamamen zararsız ve güvenlidir."
+      },
+      {
+        "question": "Şakadan nasıl çıkabilirim?",
+        "answer": "Tam ekran modundan çıkmak için ESC tuşuna veya F11'e basın. Şaka tamamlandıktan sonra kendini otomatik olarak da açığa çıkaracaktır."
+      },
+      {
+        "question": "Bunu mobil cihazlarda kullanabilir miyim?",
+        "answer": "Evet! DOS şakası tam ekran desteği ile akıllı telefonlar ve tabletler dahil tüm cihazlarda çalışır."
+      },
+      {
+        "question": "Bu ofis şakaları için uygun mu?",
+        "answer": "Zararsız olmasına rağmen, lütfen sorumlu bir şekilde kullanın ve meslektaşlarınızla şaka yapmadan önce işyeri ortamınızı göz önünde bulundurun."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Ek Ekran Araçları",
+    "description": "Çeşitli amaçlar için özel ekran araçları koleksiyonumuzu keşfedin.",
+    "colorScreens": "Renkli Ekranlar",
+    "prankScreens": "Şaka Ekranları",
+    "fakeUpdateScreens": "Sahte Güncelleme Ekranları",
+    "screensaverScreens": "Ekran Koruyucu Ekranları"
+  },
+  "howToUse": {
+    "title": "Nasıl Kullanılır",
+    "steps": [
+      "Tam ekran DOS şakasına girmek için başlat düğmesine tıklayın",
+      "Sahte formatlama sürecinin otomatik olarak nasıl başladığını izleyin",
+      "Sistem gerçekçi DOS komutları ve ilerlemeyi gösterecek",
+      "Tamamlandıktan sonra şaka zararsız bir mesajla kendini açığa çıkaracak",
+      "Tam ekran modundan çıkmak için istediğiniz zaman ESC veya F11'e basın"
+    ]
+  },
+  "techSpecs": {
+    "title": "Teknik Özellikler",
+    "specs": [
+      "Arayüz: Otantik DOS komut istemi simülasyonu",
+      "Özellikler: Gerçekçi disk formatlama animasyonu",
+      "Güvenlik: %100 zararsız - gerçek formatlama gerçekleşmez",
+      "Uyumluluk: Tüm modern tarayıcılar ve cihazlar",
+      "Süre: Açığa çıkarma ile otomatik şaka dizisi"
+    ]
+  }
+}

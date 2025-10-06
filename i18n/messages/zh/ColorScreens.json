@@ -1,0 +1,20 @@
+{
+  "title": "彩色屏幕集合",
+  "description": "探索我们完整的彩色屏幕模拟集合 - 从经典的蓝屏到充满活力的彩虹显示。非常适合恶作剧、测试和创意项目。",
+  "badge": "完整彩色屏幕集合",
+  "screens": {
+    "pinkScreen": "粉色屏幕",
+    "blueScreen": "蓝色屏幕",
+    "redScreen": "红色屏幕",
+    "greenScreen": "绿色屏幕",
+    "yellowScreen": "黄色屏幕",
+    "orangeScreen": "橙色屏幕",
+    "purpleScreen": "紫色屏幕",
+    "blackScreen": "黑色屏幕",
+    "whiteScreen": "白色屏幕",
+    "zoomLighting": "缩放灯光"
+  },
+  "footer": {
+    "description": "所有屏幕都是免费的，可在任何设备上使用"
+  }
+}

@@ -5,6 +5,7 @@ import PurpleScreenInfo from "./PurpleScreenInfo";
 import PurpleScreenUseCases from "./PurpleScreenUseCases";
 import PurpleScreenFAQ from "./PurpleScreenFAQ";
 import WhiteScreenHowToUse from "./WhiteScreenHowToUse";
+import OtherToolsSection from "../home/OtherToolsSection";
 
 export default function PurpleScreenClient() {
   const [selectedColor, setSelectedColor] = useState("#800080");
@@ -148,6 +149,9 @@ export default function PurpleScreenClient() {
         onFullscreen={handleFullscreen}
         onDownload={handleDownload}
       />
+
+      {/* Other Tools Section */}
+      <OtherToolsSection />
 
       <PurpleScreenInfo
         selectedColor={selectedColor}

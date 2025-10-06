@@ -1,0 +1,121 @@
+{
+  "hero": {
+    "title": "Hacker Typer Online – Fake Coding Screen for Fun",
+    "description": "Create your own fake hacker screen online! Type like a real coder and prank your friends with realistic terminal effects. Try the ultimate hacker typer simulator free on PinkScreen",
+    "badge": "Interactive Hacker Simulator"
+  },
+  "keywords": "hacker simulator, interactive hacker, ethical hacking, cybersecurity training, programming simulator, bitcoin mining simulator, password cracker, nuclear plant control, geek prank hacker",
+  "howToUse": {
+    "title": "🧭 How to Use the Hacker Typer Simulator",
+    "description": "Learn how to create realistic hacker effects and prank your friends with our interactive simulator",
+    "steps": [
+      "Open the page - Go to hacker-typer on your desktop browser",
+      "Go full screen - Click \"Launch Hacker Simulator\" or press F11 to enter full-screen mode",
+      "Start typing - Type anything on your keyboard to see realistic code appear on screen",
+      "Use keyboard shortcuts - Press ALT for \"ACCESS GRANTED\", ENTER for \"ACCESS DENIED\", or CTRL for security alerts",
+      "Try number keys - Press 1-5 to open different hacker programs and windows"
+    ]
+  },
+  "colorPicker": {
+    "title": "Interactive Hacker Simulator",
+    "description": "Full-featured hacker desktop environment with interactive programs and realistic typing effects",
+    "launchButton": "Launch Hacker Simulator",
+    "clickHint": "Click the button above to launch fullscreen hacker simulator"
+  },
+  "useCases": {
+    "title": "People use hacker simulator for:",
+    "description": "Our interactive hacker simulator provides comprehensive cybersecurity experience with multiple programs and realistic desktop environment.",
+    "cases": [
+      {
+        "icon": "💻",
+        "title": "Cybersecurity Education",
+        "description": "Learn about ethical hacking, cybersecurity concepts, and computer security in a safe, interactive environment with realistic hacker tools."
+      },
+      {
+        "icon": "🎬",
+        "title": "Film & Theater Production",
+        "description": "Create authentic hacker scenes for movies, TV shows, theater productions, and video content with interactive desktop environment."
+      },
+      {
+        "icon": "🎮",
+        "title": "Interactive Gaming",
+        "description": "Experience the thrill of being a hacker with 10+ interactive programs including bitcoin mining, password cracking, and system penetration."
+      },
+      {
+        "icon": "📚",
+        "title": "Programming Education",
+        "description": "Demonstrate programming concepts, terminal usage, system administration, and computer architecture to students interactively."
+      },
+      {
+        "icon": "🎭",
+        "title": "Social Media Content",
+        "description": "Create engaging tech-related content with interactive hacker tools for social media, tutorials, and educational cybersecurity videos."
+      },
+      {
+        "icon": "🏢",
+        "title": "Corporate Training",
+        "description": "Use in cybersecurity awareness training, IT workshops, and employee education about digital security threats and ethical hacking."
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ – Hacker Typer Online",
+    "description": "Common questions about the Hacker Typer Online simulator",
+    "questions": [
+      {
+        "question": "What is Hacker Typer Online?",
+        "answer": "Hacker Typer Online is a fun simulator that lets you type random keys and see instant lines of fake programming code appear — just like in movies."
+      },
+      {
+        "question": "Is this a real hacking tool?",
+        "answer": "No, it's completely fake and made for entertainment only. It doesn't hack, access, or change any files on your device."
+      },
+      {
+        "question": "Can I use Hacker Typer Online offline?",
+        "answer": "You need an internet connection to open the page, but once it's loaded, you can keep typing even if your connection drops."
+      },
+      {
+        "question": "Can I use it in videos or streams?",
+        "answer": "Yes! Many creators use the fake hacker screen in YouTube videos, Twitch streams, or social media pranks. No permission is needed."
+      },
+      {
+        "question": "Does it work on mobile devices?",
+        "answer": "Absolutely. The site works on desktops, tablets, and smartphones. Just tap the screen and start \"coding.\""
+      },
+      {
+        "question": "Is it free to use?",
+        "answer": "Yes, Hacker Typer Online is 100% free — no downloads or sign-ups required."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Additional Screen Tools",
+    "description": "Explore our collection of specialized screen tools for various purposes.",
+    "colorScreens": "Color Screens",
+    "prankScreens": "Prank Screens",
+    "fakeUpdateScreens": "Fake Update Screens",
+    "screensaverScreens": "Screensaver Screens"
+  },
+  "howToUse": {
+    "title": "🧭 How to Use the Hacker Typer Simulator",
+    "description": "Learn how to create realistic hacker effects and prank your friends with our interactive simulator",
+    "steps": [
+      "Open the page - Go to hacker-typer on your desktop browser",
+      "Go full screen - Click \"Launch Hacker Simulator\" or press F11 to enter full-screen mode",
+      "Start typing - Type anything on your keyboard to see realistic code appear on screen",
+      "Use keyboard shortcuts - Press ALT for \"ACCESS GRANTED\", ENTER for \"ACCESS DENIED\", or CTRL for security alerts",
+      "Try number keys - Press 1-5 to open different hacker programs and windows"
+    ]
+  },
+  "techSpecs": {
+    "title": "Technical Specifications",
+    "specs": [
+      "Desktop: Full interactive hacker desktop environment with taskbar",
+      "Programs: 6 interactive applications + 5 passive windows",
+      "Features: Real-time bitcoin mining, password cracking animations",
+      "Interaction: Draggable windows, keyboard shortcuts, window management",
+      "Compatibility: All modern browsers with full keyboard and mouse support",
+      "Education: Perfect for advanced cybersecurity and ethical hacking demonstrations"
+    ]
+  }
+}

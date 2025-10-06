@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "title": "Écran TV Pas de Signal",
+    "description": "Découvrez les barres de couleur SMPTE authentiques et les motifs de test sans signal. Parfait pour l'étalonnage de moniteur, les tests de production vidéo et créer cette atmosphère classique de télévision de diffusion.",
+    "badge": "Motif de Test de Diffusion",
+    "features": {
+      "noRegistration": "Pas d'Inscription",
+      "worksOffline": "Fonctionne Hors Ligne",
+      "allDevices": "Tous les Appareils"
+    }
+  },
+  "keywords": "barres de couleur SMPTE, écran pas de signal, motif de test, étalonnage couleur, test vidéo, motif de test diffusion, écran de test télévision, étalonnage moniteur, écran de veille barres couleur, motif de test SMPTE, ingénierie vidéo, ingénierie diffusion, référence couleur, étalonnage affichage, test signal vidéo, ingénierie télévision, standard couleur, standard diffusion, signal de test, production vidéo",
+  "preview": {
+    "testPattern": "Motif de Test",
+    "colorBars": "Barres de Couleur SMPTE"
+  },
+  "useCases": {
+    "title": "Les gens utilisent les Barres de Couleur SMPTE pour :",
+    "subtitle": "Découvrez diverses façons d'utiliser notre motif de test barres de couleur SMPTE",
+    "case1": {
+      "title": "Étalonnage Moniteur et Affichage",
+      "description": "Utilisez les barres de couleur SMPTE pour étalonner les moniteurs, téléviseurs et affichages pour une reproduction de couleur précise dans les environnements professionnels."
+    },
+    "case2": {
+      "title": "Production Vidéo et Diffusion",
+      "description": "Outil essentiel pour les ingénieurs vidéo et diffuseurs pour tester la qualité du signal et assurer des standards de couleur appropriés."
+    },
+    "case3": {
+      "title": "Test d'Équipement et Dépannage",
+      "description": "Identifiez les problèmes d'affichage, vérifiez l'intégrité du signal vidéo et dépannagez l'équipement de diffusion avec des motifs de test standard."
+    },
+    "case4": {
+      "title": "Éducation Diffusion et Médias",
+      "description": "Enseignez aux étudiants les standards de diffusion, la théorie des couleurs et les techniques de production vidéo professionnelle."
+    },
+    "case5": {
+      "title": "Esthétique Rétro et Atmosphère",
+      "description": "Créez une atmosphère de diffusion vintage authentique pour des événements thématiques, des plateaux de tournage ou la création de contenu nostalgique."
+    },
+    "case6": {
+      "title": "Affichage Écran de Veille Professionnel",
+      "description": "Utilisez comme écran de veille dans les environnements de production vidéo professionnelle et les installations de diffusion."
+    }
+  },
+  "howToUse": {
+    "title": "Comment Utiliser les Barres de Couleur SMPTE",
+    "steps": [
+      "Ouvrir la page - Naviguez vers no-signal-smpte-color-bars-screensaver dans votre navigateur",
+      "Plein écran - Cliquez sur \"Plein écran\" ou appuyez sur F11 pour afficher le motif de test sur tout votre écran",
+      "Choisir votre motif - Basculez entre les barres de couleur SMPTE et les motifs de test sans signal en utilisant les contrôles",
+      "Utiliser pour l'étalonnage - Vérifiez la précision des couleurs, la luminosité et les paramètres de contraste sur votre moniteur ou écran",
+      "Quitter à tout moment - Appuyez sur Échap ou F11 pour quitter le mode plein écran et revenir à l'affichage normal"
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "subtitle": "Questions courantes sur les barres de couleur SMPTE et motifs de test",
+    "whatIsSMPTE": {
+      "question": "Que sont les barres de couleur SMPTE ?",
+      "answer": "Les barres de couleur SMPTE sont un motif de test standardisé utilisé dans la production télévisuelle et vidéo pour étalonner l'équipement et assurer une reproduction de couleur précise."
+    },
+    "howToUse": {
+      "question": "Comment utiliser ceci pour l'étalonnage de moniteur ?",
+      "answer": "Utilisez les barres de couleur pour vérifier si votre affichage montre des couleurs précises. Chaque barre devrait afficher des couleurs distinctes et pures sans saignement ou distorsion."
+    },
+    "fullscreen": {
+      "question": "Comment sortir du mode plein écran ?",
+      "answer": "Appuyez sur la touche Échap ou cliquez à nouveau sur le bouton plein écran pour quitter le mode plein écran. Vous pouvez aussi utiliser F11 pour basculer le plein écran dans la plupart des navigateurs."
+    },
+    "download": {
+      "question": "Puis-je télécharger le motif de barres de couleur ?",
+      "answer": "Oui, vous pouvez télécharger le motif de barres de couleur en diverses résolutions. Utilisez le bouton de téléchargement dans la section contrôles pour sauvegarder le motif comme fichier image PNG."
+    },
+    "compatibility": {
+      "question": "Quels navigateurs sont supportés ?",
+      "answer": "L'écran de veille de barres de couleur fonctionne sur tous les navigateurs modernes incluant Chrome, Firefox, Safari et Edge. Le mode plein écran est supporté sur la plupart des appareils et navigateurs."
+    }
+  }
+}

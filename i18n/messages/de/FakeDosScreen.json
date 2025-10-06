@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Falsche Disk-Formatierung - Online DOS-Streich",
+    "description": "Täuschen Sie Ihre Freunde mit dem Online-DOS-Streich, der aussieht, als würde er das Laufwerk formatieren, aber in Wirklichkeit keinen Schaden anrichtet.",
+    "badge": "DOS-Streich-Tool"
+  },
+  "keywords": "falscher DOS, disk formatierung streich, online DOS streich, falsche disk formatierung, computer streich, DOS simulator, kommandozeile streich, falscher format C, harmloser streich, DOS bildschirm",
+  "colorPicker": {
+    "title": "Falscher DOS-Streich",
+    "description": "Perfekt zum Streiche spielen mit Freunden mit realistischer DOS-Formatierungssimulation",
+    "launchButton": "DOS-Streich starten",
+    "clickHint": "Klicken Sie auf die Schaltfläche oben, um den Vollbild-DOS-Streich zu starten"
+  },
+  "useCases": {
+    "title": "Menschen verwenden DOS-Streiche für:",
+    "description": "Unser falscher DOS-Simulator bietet realistische DOS-Formatierungserfahrung für harmlose Streiche und Unterhaltung.",
+    "cases": [
+      {
+        "icon": "😂",
+        "title": "Harmlose Streiche",
+        "description": "Spielen Sie sicher Streiche mit Freunden und Kollegen mit realistischer DOS-Formatierungssimulation ohne echten Schaden."
+      },
+      {
+        "icon": "🎭",
+        "title": "Unterhaltungsvideos",
+        "description": "Erstellen Sie lustige Reaktionsvideos und Unterhaltungsinhalte mit authentisch aussehender DOS-Oberfläche."
+      },
+      {
+        "icon": "🎪",
+        "title": "Aprilscherz",
+        "description": "Perfekt für Aprilscherze und überraschende Unterhaltungsmomente mit Freunden."
+      },
+      {
+        "icon": "📱",
+        "title": "Social Media Inhalt",
+        "description": "Generieren Sie fesselnde Social Media Inhalte und lustige tech-bezogene Posts für Ihr Publikum."
+      },
+      {
+        "icon": "🎬",
+        "title": "Film & Theater",
+        "description": "Verwenden Sie in Filmen, Theaterproduktionen oder Bildungsdemonstrationen, die DOS-Oberfläche erfordern."
+      },
+      {
+        "icon": "🎮",
+        "title": "Retro-Gaming",
+        "description": "Erleben Sie nostalgische DOS-Oberfläche und erinnern Sie sich an die klassische Computerära."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "description": "Häufige Fragen zum falschen DOS-Streich-Simulator",
+    "questions": [
+      {
+        "question": "Ist dieser DOS-Streich sicher zu verwenden?",
+        "answer": "Absolut sicher! Dies ist nur eine Web-Simulation, die DOS-Formatierung nachahmt. Sie formatiert oder beschädigt keine Dateien auf Ihrem Computer."
+      },
+      {
+        "question": "Wird dies tatsächlich meine Dateien löschen?",
+        "answer": "Nein! Dies ist rein visuelle Simulation. Keine Dateien werden gelöscht, keine Formatierung findet statt. Es ist völlig harmlos und sicher."
+      },
+      {
+        "question": "Wie verlasse ich den Streich?",
+        "answer": "Drücken Sie ESC-Taste oder F11, um den Vollbildmodus zu verlassen. Der Streich wird sich auch automatisch nach Abschluss offenbaren."
+      },
+      {
+        "question": "Kann ich dies auf mobilen Geräten verwenden?",
+        "answer": "Ja! Der DOS-Streich funktioniert auf allen Geräten einschließlich Smartphones und Tablets mit Vollbildunterstützung."
+      },
+      {
+        "question": "Ist dies für Büro-Streiche geeignet?",
+        "answer": "Obwohl harmlos, verwenden Sie es verantwortungsvoll und berücksichtigen Sie Ihre Arbeitsumgebung, bevor Sie Kollegen einen Streich spielen."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Zusätzliche Bildschirm-Tools",
+    "description": "Entdecken Sie unsere Sammlung spezialisierter Bildschirm-Tools für verschiedene Zwecke.",
+    "colorScreens": "Farbbildschirme",
+    "prankScreens": "Streich-Bildschirme",
+    "fakeUpdateScreens": "Falsche Update-Bildschirme",
+    "screensaverScreens": "Bildschirmschoner-Bildschirme"
+  },
+  "howToUse": {
+    "title": "Verwendung",
+    "steps": [
+      "Klicken Sie auf die Start-Schaltfläche, um den Vollbild-DOS-Streich zu betreten",
+      "Beobachten Sie, wie der falsche Formatierungsprozess automatisch beginnt",
+      "Das System zeigt realistische DOS-Befehle und Fortschritt an",
+      "Nach Abschluss offenbart sich der Streich mit einer harmlosen Nachricht",
+      "Drücken Sie ESC oder F11, um den Vollbildmodus jederzeit zu verlassen"
+    ]
+  },
+  "techSpecs": {
+    "title": "Technische Spezifikationen",
+    "specs": [
+      "Oberfläche: Authentische DOS-Eingabeaufforderungssimulation",
+      "Funktionen: Realistische Disk-Formatierungsanimation",
+      "Sicherheit: 100% harmlos - keine echte Formatierung findet statt",
+      "Kompatibilität: Alle modernen Browser und Geräte",
+      "Dauer: Automatische Streichsequenz mit Offenbarung"
+    ]
+  }
+}

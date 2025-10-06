@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "Simulador BSOD Windows",
+    "title": "Simulador Falso de Tela Azul da Morte (BSOD) – Brincadeira de Crash Windows Online",
+    "description": "Experimente a pegadinha definitiva com nossa ferramenta de tela cheia de tela azul da morte falsa do Windows. Perfeita para fins educacionais, entretenimento e criação de conteúdo.",
+    "features": {
+      "noRegistration": "Sem Registro",
+      "worksOffline": "Funciona Offline",
+      "allDevices": "Todos os Dispositivos"
+    }
+  },
+  "keywords": "tela azul da morte, simulador BSOD, tela azul falsa, simulador de crash Windows, brincadeira tela azul, brincadeira BSOD, tela de erro Windows, crash falso Windows, brincadeira tela azul, BSOD falso Windows, simulador de crash computador, erro de sistema falso, tela azul da morte Windows, tela falsa BSOD, brincadeira crash Windows, crash falso computador, simulador tela azul da morte, simulador erro Windows, tela falsa BSOD, brincadeira crash computador",
+  "preview": {
+    "title": "Pré-visualização ao Vivo",
+    "download": "Baixar",
+    "comingSoon": "Em Breve",
+    "bouncingLogo": "Logo Saltitante"
+  },
+  "colorPicker": {
+    "title": "Escolha Sua Tela",
+    "speed": "Velocidade",
+    "size": "Tamanho",
+    "selectScreen": "Selecione um efeito de tela para exibir",
+    "fullScreen": "Tela Cheia",
+    "custom": "Personalizado",
+    "description": "Perfeito para brincadeiras, demos técnicas e nostalgia",
+    "launchButton": "Iniciar Tela Azul da Morte"
+  },
+  "useCases": {
+    "title": "As pessoas usam a Tela da Morte para:",
+    "case1": {
+      "title": "Pregue uma Pegadinha com a Tela Azul da Morte Falsa",
+      "description": "Eleve suas pegadinhas enganando amigos para pensar que o PC deles travou. Perfeito para uma risada inofensiva."
+    },
+    "case2": {
+      "title": "Crie Festas Memoráveis com Tema Tecnológico",
+      "description": "Adicione um toque peculiar às festas com tema tecnológico exibindo a icônica tela azul da morte do Windows nas telas."
+    },
+    "case3": {
+      "title": "Eduque sobre a Tela Azul da Morte do Windows",
+      "description": "Use a simulação como uma ferramenta educacional para ensinar sobre a solução de problemas e a prevenção da verdadeira BSOD."
+    },
+    "case4": {
+      "title": "Aprimore Suas Habilidades de Suporte Técnico",
+      "description": "Pratique suas habilidades de reação e diagnóstico usando a BSOD falsa como uma ferramenta de treinamento."
+    },
+    "case5": {
+      "title": "Apimente Seu Canal de Tecnologia no YouTube",
+      "description": "Crie conteúdo envolvente incorporando a pegadinha da tela azul da morte em seus vídeos de tecnologia."
+    },
+    "case6": {
+      "title": "Teste a paciência",
+      "description": "Desafie sua paciência ou a de um amigo confrontando o temido cenário de tela azul de forma controlada."
+    },
+    "case7": {
+      "title": "Produções de Filmes e Cenas Tecnológicas",
+      "description": "Incorpore uma animação realista de BSOD do Windows na sua produção de filmes ou vídeos para um drama tecnológico autêntico."
+    }
+  },
+  "faq": {
+    "title": "FAQ – Tela Azul da Morte Falsa (BSOD)",
+    "q1": "O que é o Simulador Tela Azul da Morte?",
+    "a1": "É uma tela de crash Windows falsa baseada na web. Parece um BSOD real mas não afeta seu sistema.",
+    "q2": "É seguro?",
+    "a2": "Sim — é 100% seguro e roda apenas no seu navegador web. Não causa erros ou crashes reais.",
+    "q3": "Posso usá-lo para pregar uma peça em alguém?",
+    "a3": "Absolutamente! 😄 Abra em tela cheia, afaste-se e veja a reação deles quando pensarem que o Windows travou!",
+    "q4": "Como saio da tela azul?",
+    "a4": "Pressione Esc ou F11 para retornar instantaneamente à sua tela normal.",
+    "q5": "Funciona no macOS ou Linux?",
+    "a5": "Sim — mesmo sendo uma tela azul estilo Windows, funciona em qualquer dispositivo com um navegador moderno.",
+    "q6": "Posso usá-lo em uma sala de aula ou demo técnica?",
+    "a6": "Sim. Muitos professores de TI o usam para demonstrar com segurança como um crash se parece sem precisar quebrar um sistema real.",
+    "q7": "Ele realmente trava meu computador?",
+    "a7": "Não — é apenas uma simulação visual, não uma falha real do sistema.",
+    "q8": "Onde posso encontrar outras telas de atualização ou crash falsas?",
+    "a8": "Tente estas: Tela de Atualização Falsa Windows 10, Tela de Atualização Falsa macOS, Tela de Atualização Falsa Ubuntu"
+  },
+  "additionalTools": {
+    "title": "Ferramentas de Tela Adicionais",
+    "description": "Explore nossa coleção de ferramentas de tela especializadas para vários propósitos.",
+    "colorScreens": "Telas de Cor",
+    "prankScreens": "Telas de Brincadeira",
+    "fakeUpdateScreens": "Telas de Atualização Falsa",
+    "screensaverScreens": "Telas de Protetor de Tela"
+  },
+  "howToUse": {
+    "title": "Como Usar o Simulador Tela Azul da Morte",
+    "steps": [
+      "Abrir a página - Vá para blue-screen-of-death-windows no seu navegador de desktop.",
+      "Tela cheia - Clique em \"Tela Cheia\" ou pressione F11 para fazer o falso BSOD preencher sua tela.",
+      "Escolha sua versão (se suportada) - Selecione entre estilos de tela azul Windows XP, Windows 7, Windows 10 ou Windows 11.",
+      "Observe a simulação de crash - A tela exibirá um \"erro do sistema\" realista — completo com fundo azul e códigos de erro.",
+      "Use para diversão ou ensino - Ideal para brincadeiras, demos de classe ou efeitos visuais retro.",
+      "Sair a qualquer momento - Pressione Esc ou F11 para sair do modo tela cheia instantaneamente."
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificações Técnicas",
+    "specs": [
+      "Resolução: Até 8K (7680x4320)",
+      "Profundidade de Cor: 24-bit RGB",
+      "Formato: PNG, JPEG, WebP",
+      "Compatibilidade: Todos os navegadores modernos",
+      "Funcionalidade Offline: Completamente disponível"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "title": "Actualización Falsa de Windows XP",
+    "description": "Experimenta una simulación realista de actualización de Windows XP en nuestro sitio web. Engaña a tus amigos con nuestra pantalla de actualización falsa de Windows XP de aspecto auténtico. Disfruta de la suspense y diversión de un proceso de actualización simulado.",
+    "badge": "Actualización del Sistema Windows XP",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Sin Conexión",
+      "allDevices": "Todos los Dispositivos"
+    }
+  },
+  "keywords": "Falsa actualización de Windows XP, Simulación de actualización de Windows XP, Simular actualización de Windows XP, Pantalla de actualización falsa de Windows XP, Emular actualización de Windows XP, Broma de actualización de Windows XP, Proceso de actualización de Windows XP, Actualización de Windows XP de aspecto auténtico, Pantalla de actualización realista de Windows XP, Engañar a amigos con la actualización de Windows XP, Progreso de actualización realista de Windows XP, Simulación auténtica de actualización de Windows XP, Mensajes auténticos de actualización de Windows XP, Etapa de actualización de Windows XP, Broma divertida de actualización de Windows XP, Actualización falsa divertida de Windows XP, Disfrutar de la actualización simulada de Windows XP, Broma con falsa actualización de Windows XP, Experiencia emocionante de actualización de Windows XP, Actualización de Windows XP para diversión, Herramienta de broma de actualización de Windows XP",
+  "preview": {
+    "updateText": "Instalando actualizaciones de Windows...",
+    "completeText": " completado",
+    "dontTurnOffText": "No apague ni desconecte su computadora.",
+    "restartText": "Su computadora se reiniciará automáticamente"
+  },
+  "colorPicker": {
+    "title": "Elige Tu Color",
+    "custom": "Personalizado",
+    "description": "Perfecto para bromas y entretenimiento",
+    "launchButton": "Lanzar Actualización de Windows XP"
+  },
+  "useCases": {
+    "title": "La gente usa actualización de Windows XP para:",
+    "subtitle": "Descubre varias formas de usar nuestra pantalla de actualización falsa de Windows XP",
+    "case1": {
+      "title": "Simular Actualización de Windows XP para Pruebas Retro",
+      "description": "Utiliza nuestra herramienta de actualización falsa de Windows XP para crear pantallas de actualización retro de aspecto auténtico para pruebas de software y propósitos de demostración."
+    },
+    "case2": {
+      "title": "Involucrar a tu Audiencia con Actualización Nostálgica de Windows XP",
+      "description": "Captura la atención de entusiastas de la tecnología mostrando una simulación auténtica de actualización de Windows XP durante presentaciones o contenido tecnológico retro."
+    },
+    "case3": {
+      "title": "Elevar la Educación Tecnológica con Herramienta de Broma de Actualización de Windows XP",
+      "description": "Incorpora nuestra pantalla realista de actualización de Windows XP en escenarios de educación tecnológica para enseñar sobre sistemas heredados y evolución de interfaces de usuario."
+    },
+    "case4": {
+      "title": "Crear Contenido Entretenido con Actualización Falsa de Windows XP",
+      "description": "Produce contenido de video atractivo o transmisiones en vivo usando una broma entretenida de actualización de Windows XP, añadiendo nostalgia a las discusiones tecnológicas."
+    },
+    "case5": {
+      "title": "Hacer Bromas a Amigos con Simulación Auténtica de Actualización de Windows XP",
+      "description": "Sorprende a tus amigos usando nuestra herramienta para hacer bromas con una actualización falsa de Windows XP, convirtiendo momentos ordinarios en bromas retro memorables."
+    },
+    "case6": {
+      "title": "Estudiar Diseño de UI Heredado con Actualizaciones Simuladas",
+      "description": "Usa la experiencia clásica de actualización de Windows XP para educar a diseñadores UX/UI sobre la evolución de las interfaces de actualización del sistema."
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Preguntas frecuentes sobre nuestra pantalla de actualización falsa de Windows XP",
+    "whatIs": {
+      "question": "¿Qué es la pantalla de actualización falsa de Windows XP?",
+      "answer": "Es un simulador basado en web que imita el proceso clásico de actualización de Windows XP. Parece una pantalla de actualización real de Windows XP, pero es solo para entretenimiento o fines educativos."
+    },
+    "safe": {
+      "question": "¿Es seguro de usar?",
+      "answer": "¡Absolutamente! Esta es una simulación basada en web que se ejecuta completamente en tu navegador y no puede acceder a tu sistema o dispositivo."
+    },
+    "pranks": {
+      "question": "¿Puedo usar esto para bromas?",
+      "answer": "¡Sí! Esta herramienta es perfecta para bromas tecnológicas inofensivas. Solo recuerda usarla de manera responsable y con buen humor."
+    },
+    "exit": {
+      "question": "¿Cómo salgo de la pantalla de actualización falsa?",
+      "answer": "Simplemente presiona Esc o F11 para salir del modo pantalla completa. También puedes cerrar la pestaña o navegar a otra página."
+    },
+    "content": {
+      "question": "¿Es real el contenido de la actualización?",
+      "answer": "El contenido de la actualización y la barra de progreso están simulados y están diseñados para recrear la interfaz de actualización de Windows XP de la manera más realista posible. Sin embargo, no son actualizaciones reales del sistema."
+    },
+    "real": {
+      "question": "¿Realmente actualiza mi computadora?",
+      "answer": "No. Esta herramienta está completamente simulada. No descarga, instala o ejecuta actualizaciones reales. Tu sistema informático permanece sin cambios."
+    },
+    "devices": {
+      "question": "¿Funciona en todos los dispositivos?",
+      "answer": "Sí, nuestra pantalla de actualización falsa de Windows XP es compatible con todos los navegadores y dispositivos modernos, incluyendo computadoras de escritorio, laptops, tablets y smartphones. Solo abre la página web."
+    }
+  },
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "prankScreens": "Pantallas de Broma",
+    "fakeUpdateScreens": "Pantallas de Actualización Falsa",
+    "screensaverScreens": "Pantallas de Protector de Pantalla"
+  },
+  "howToUse": {
+    "title": "Cómo Usar",
+    "steps": [
+      "Elige tu color preferido de la paleta",
+      "Haz clic en el botón 'Lanzar' para abrir en pantalla completa",
+      "Usa F11 o ESC para salir del modo pantalla completa",
+      "Descarga la imagen en tu resolución preferida"
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificaciones Técnicas",
+    "specs": [
+      "Resolución: Hasta 8K (7680x4320)",
+      "Profundidad de Color: 24-bit RGB",
+      "Formato: PNG, JPEG, WebP",
+      "Compatibilidad: Todos los navegadores modernos",
+      "Funcionalidad Offline: Completamente disponible"
+    ]
+  }
+}

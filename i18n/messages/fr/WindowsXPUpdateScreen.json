@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "title": "Fausse Mise à Jour Windows XP",
+    "description": "Découvrez une simulation nostalgique de mise à jour Windows XP sur notre site web. Trompez vos amis avec notre écran de fausse mise à jour Windows XP authentique. Profitez de l'écran bleu classique et du progrès familier du système d'exploitation légendaire.",
+    "badge": "Mise à Jour Système Windows XP",
+    "features": {
+      "noRegistration": "Aucune inscription",
+      "worksOffline": "Fonctionne hors ligne",
+      "allDevices": "Tous appareils"
+    }
+  },
+  "keywords": "fausse mise à jour Windows XP, simulation mise à jour Windows XP, Simuler mise à jour Windows XP, Écran fausse mise à jour Windows XP, Émuler mise à jour Windows XP, Farce mise à jour Windows XP, Processus mise à jour Windows XP, Mise à jour Windows XP authentique, Écran mise à jour Windows XP réaliste, Tromper amis avec mise à jour Windows XP, Progression mise à jour Windows XP réaliste, Simulation mise à jour Windows XP authentique, Messages mise à jour Windows XP authentiques, Étape mise à jour Windows XP, Farce mise à jour Windows XP divertissante, Fausse mise à jour Windows XP amusante, Profiter simulation mise à jour Windows XP, Farce avec fausse mise à jour Windows XP, Expérience mise à jour Windows XP excitante, Mise à jour Windows XP pour amusement, Outil farce mise à jour Windows XP",
+  "preview": {
+    "updateText": "Installation des mises à jour Windows...",
+    "completeText": " terminé",
+    "dontTurnOffText": "N'éteignez pas et ne débranchez pas votre ordinateur.",
+    "restartText": "Votre ordinateur redémarrera automatiquement"
+  },
+  "useCases": {
+    "title": "Les gens utilisent l'Écran de Mise à Jour Windows XP pour :",
+    "subtitle": "Découvrez diverses façons d'utiliser notre écran de fausse mise à jour Windows XP",
+    "case1": {
+      "title": "Simuler la Mise à Jour Windows XP pour les Tests Rétro",
+      "description": "Utilisez notre outil de fausse mise à jour Windows XP pour créer des écrans de mise à jour rétro authentiques pour les tests logiciels et les démonstrations."
+    },
+    "case2": {
+      "title": "Captiver votre Audience avec la Mise à Jour Windows XP Nostalgique",
+      "description": "Captez l'attention des passionnés de technologie en présentant une simulation de mise à jour Windows XP authentique lors de présentations ou de contenu tech rétro."
+    },
+    "case3": {
+      "title": "Améliorer l'Éducation Tech avec l'Outil de Farce Mise à Jour Windows XP",
+      "description": "Intégrez notre écran de mise à jour Windows XP réaliste dans les scénarios d'éducation tech pour enseigner les systèmes hérités et l'évolution de l'interface utilisateur."
+    },
+    "case4": {
+      "title": "Créer du Contenu Divertissant avec la Fausse Mise à Jour Windows XP",
+      "description": "Produisez du contenu vidéo engageant ou des streams en direct en utilisant une farce de mise à jour Windows XP divertissante, ajoutant de la nostalgie aux discussions tech."
+    },
+    "case5": {
+      "title": "Faire des Farces aux Amis avec une Simulation de Mise à Jour Windows XP Authentique",
+      "description": "Surprenez vos amis en utilisant notre outil pour faire des farces avec une fausse mise à jour Windows XP, transformant les moments ordinaires en farces rétro mémorables."
+    },
+    "case6": {
+      "title": "Étudier le Design UI Hérité avec les Mises à Jour Simulées",
+      "description": "Utilisez l'expérience classique de mise à jour Windows XP pour éduquer les designers UX/UI sur l'évolution des interfaces de mise à jour système."
+    }
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "subtitle": "Questions courantes sur notre Écran de Fausse Mise à Jour Windows XP",
+    "whatIs": {
+      "question": "Qu'est-ce que l'Écran de Fausse Mise à Jour Windows XP ?",
+      "answer": "C'est un simulateur amusant et nostalgique qui recrée l'apparence d'un vrai écran de mise à jour Windows XP. Vous pouvez l'ouvrir dans votre navigateur pour faire des farces aux amis, créer des vidéos, ou revivre l'ambiance tech du début des années 2000."
+    },
+    "safe": {
+      "question": "Est-il sûr à utiliser ?",
+      "answer": "Oui — 100% sûr. Cette page affiche seulement une fausse animation de mise à jour Windows XP dans votre navigateur web. Elle ne télécharge ni n'installe rien sur votre ordinateur."
+    },
+    "pranks": {
+      "question": "Comment puis-je l'utiliser pour une farce ?",
+      "answer": "Ouvrez simplement la page, cliquez sur Plein Écran, et laissez-la fonctionner. Le texte de chargement réaliste fera croire à n'importe qui que votre PC \"met à jour Windows XP.\" Parfait pour une blague inoffensive !"
+    },
+    "realistic": {
+      "question": "À quel point la simulation est-elle réaliste ?",
+      "answer": "Notre écran de mise à jour Windows XP est conçu pour paraître très authentique, avec le fond bleu classique et le branding Windows XP approprié."
+    },
+    "exit": {
+      "question": "Comment sortir de l'écran de fausse mise à jour ?",
+      "answer": "Appuyez sur Esc ou F11 pour quitter instantanément le mode plein écran. Rien n'arrivera à votre vrai système."
+    },
+    "content": {
+      "question": "Puis-je l'utiliser pour des vidéos YouTube ou des streams ?",
+      "answer": "Oui ! Beaucoup de créateurs utilisent l'écran de fausse mise à jour Windows XP pour des sketches comiques, des montages rétro, ou des vidéos de nostalgie tech."
+    },
+    "real": {
+      "question": "Cela met-il vraiment à jour Windows XP ?",
+      "answer": "Non — c'est seulement un simulateur visuel. Il n'affecte pas votre système ou fichiers d'aucune manière."
+    },
+    "devices": {
+      "question": "Fonctionne-t-il sur les ordinateurs modernes ?",
+      "answer": "Oui. L'écran de fausse mise à jour Windows XP fonctionne sur n'importe quel navigateur moderne — y compris Windows 10, 11, macOS, et même les appareils mobiles."
+    }
+  }
+}

@@ -10,6 +10,43 @@
     }
   },
   "keywords": "roter Bildschirm, leuchtend roter Bildschirm, voller roter Bildschirm, roter Bildschirm",
+  "colors": {
+    "Red": "Roter",
+    "White": "Weißer",
+    "Black": "Schwarzer",
+    "Blue": "Blauer",
+    "Green": "Grüner",
+    "Yellow": "Gelber",
+    "Purple": "Lila",
+    "Pink": "Rosa",
+    "Orange": "Oranger",
+    "Zoom Lighting": "Zoom-Beleuchtung"
+  },
+  "interface": {
+    "livePreview": "Live-Vorschau",
+    "clickForFullscreen": "Klicken für Vollbild",
+    "current": "Aktuell",
+    "chooseYourColor": "Wählen Sie Ihre Farbe",
+    "perfectFor": "Perfekt für Monitortests, Fotografie-Beleuchtung und Präsentationen",
+    "launchRedScreen": "Roten Bildschirm starten"
+  },
+  "info": {
+    "professionalTool": "Professionelles Werkzeug",
+    "title": "Roter Bildschirm Hintergrund herunterladen",
+    "subtitle": "Verwenden Sie diesen Vollbild-Rotbildschirm für Monitortests, Fotografie-Beleuchtung oder zum Erstellen eines roten Hintergrunds. Sauber, schnell und werbefrei.",
+    "downloadReady": "Download bereit",
+    "downloadTitle": "Roter Bildschirm Hintergrund",
+    "downloadDescription": "Bevorzugen Sie ein statisches Rotbildschirm-Bild? Verwenden Sie eines unserer hochauflösenden PNGs:",
+    "hdTitle": "1920x1080 Roter Bildschirm Hintergrund",
+    "hdDescription": "Perfekt für Standard-HD-Displays und Monitortests. Optimiert für Fotografie-Beleuchtung und Präsentationen.",
+    "hdButton": "HD herunterladen",
+    "fourKTitle": "4K Roter Bildschirm Hintergrund",
+    "fourKDescription": "Ultra-HD-Vollbild-roter Hintergrund für professionelle Monitortests und Fotografie. Perfekt für hochauflösende Displays.",
+    "fourKButton": "4K herunterladen",
+    "proTipBadge": "Profi-Tipp",
+    "proTipTitle": "Maximieren Sie Ihren Rotbildschirm",
+    "proTipDescription": "Maximieren Sie die Bildschirmhelligkeit und verwenden Sie F11 für den Vollbildmodus, um den besten Effekt für Monitortests und Fotografie zu erzielen."
+  },
   "colorPicker": {
     "title": "Wählen Sie Ihre Farbe",
     "custom": "Benutzerdefiniert",

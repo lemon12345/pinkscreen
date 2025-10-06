@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "title": "TV-skärm Ingen Signal",
+    "description": "Upplev autentiska SMPTE-färgstänger och inga signalstestmönster. Perfekt för monitor kalibrering, videoproduktionstester och skapa den klassiska broadcast-television atmosfären.",
+    "badge": "Broadcast Testmönster",
+    "features": {
+      "noRegistration": "Ingen Registrering",
+      "worksOffline": "Fungerar Offline",
+      "allDevices": "Alla Enheter"
+    }
+  },
+  "keywords": "SMPTE färgstänger, ingen signal skärm, testmönster, färgkalibrering, videotest, broadcast testmönster, television testskärm, monitorkalibrering, färgstänger skärmsläckare, SMPTE testmönster, videoingenjörskap, broadcast ingenjörskap, färgreferens, displaykalibrering, videosignaltest, television ingenjörskap, färgstandard, broadcast standard, testsignal, videoproduktion",
+  "preview": {
+    "testPattern": "Testmönster",
+    "colorBars": "SMPTE Färgstänger"
+  },
+  "useCases": {
+    "title": "Folk använder SMPTE Färgstänger för:",
+    "subtitle": "Upptäck olika sätt att använda vårt SMPTE färgstänger testmönster",
+    "case1": {
+      "title": "Monitor och Display Kalibrering",
+      "description": "Använd SMPTE-färgstänger för att kalibrera monitorer, TV:er och displayer för korrekt färgreproduktion i professionella miljöer."
+    },
+    "case2": {
+      "title": "Videoproduktion och Broadcasting",
+      "description": "Viktigt verktyg för videoingenjörer och broadcasters för att testa signalkvalitet och säkerställa korrekta färgstandarder."
+    },
+    "case3": {
+      "title": "Utrustningstestning och Felsökning",
+      "description": "Identifiera displayproblem, kontrollera videosignalintegritet och felsök broadcast-utrustning med standardtestmönster."
+    },
+    "case4": {
+      "title": "Broadcast och Mediautbildning",
+      "description": "Lär studenter om broadcast-standarder, färgteori och professionella videoproduktionstekniker."
+    },
+    "case5": {
+      "title": "Retro Estetik och Atmosfär",
+      "description": "Skapa autentisk vintage broadcast-atmosfär för temaevenemang, filmset eller nostalgisk innehållsskapande."
+    },
+    "case6": {
+      "title": "Professionell Skärmsläckare Display",
+      "description": "Använd som skärmsläckare i professionella videoproduktionsmiljöer och broadcast-anläggningar."
+    }
+  },
+  "howToUse": {
+    "title": "Hur man Använder SMPTE Färgstapel",
+    "steps": [
+      "Öppna sidan - Navigera till no-signal-smpte-color-bars-screensaver i din webbläsare",
+      "Helskärm - Klicka på \"Helskärm\" eller tryck på F11 för att visa testmönstret över hela din skärm",
+      "Välj ditt mönster - Växla mellan SMPTE färgstapel och testmönster utan signal med hjälp av kontrollerna",
+      "Använd för kalibrering - Kontrollera färgnoggrannhet, ljusstyrka och kontrastinställningar på din monitor eller skärm",
+      "Avsluta när som helst - Tryck på Esc eller F11 för att lämna helskärmsläge och återgå till normal visning"
+    ]
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "subtitle": "Vanliga frågor om SMPTE-färgstänger och testmönster",
+    "whatIsSMPTE": {
+      "question": "Vad är SMPTE-färgstänger?",
+      "answer": "SMPTE-färgstänger är ett standardiserat testmönster som används i television och videoproduktion för att kalibrera utrustning och säkerställa korrekt färgreproduktion."
+    },
+    "howToUse": {
+      "question": "Hur använder jag detta för monitorkalibrering?",
+      "answer": "Använd färgstängerna för att kontrollera om din display visar korrekta färger. Varje stapel bör visa distinkta, rena färger utan blödning eller förvrängning."
+    },
+    "fullscreen": {
+      "question": "Hur avslutar jag helskärmsläge?",
+      "answer": "Tryck på Escape-tangenten eller klicka på helskärmsknappen igen för att avsluta helskärmsläge. Du kan också använda F11 för att växla helskärm i de flesta webbläsare."
+    },
+    "download": {
+      "question": "Kan jag ladda ner färgstängermönstret?",
+      "answer": "Ja, du kan ladda ner färgstängermönstret i olika upplösningar. Använd nedladdningsknappen i kontrollsektionen för att spara mönstret som en PNG-bildfil."
+    },
+    "compatibility": {
+      "question": "Vilka webbläsare stöds?",
+      "answer": "Färgstänger skärmsläckare fungerar på alla moderna webbläsare inklusive Chrome, Firefox, Safari och Edge. Helskärmsläge stöds på de flesta enheter och webbläsare."
+    }
+  }
+}

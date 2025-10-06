@@ -5,6 +5,7 @@ import WhiteScreenHero from "./WhiteScreenHero";
 import WhiteScreenHowToUse from "./WhiteScreenHowToUse";
 import WhiteScreenInfo from "./WhiteScreenInfo";
 import WhiteScreenUseCases from "./WhiteScreenUseCases";
+import OtherToolsSection from "../home/OtherToolsSection";
 
 export default function WhiteScreenClient() {
   const [selectedColor, setSelectedColor] = useState("#FFFFFF");
@@ -144,6 +145,9 @@ export default function WhiteScreenClient() {
         onFullscreen={handleFullscreen}
         onDownload={handleDownload}
       />
+
+      {/* Other Tools Section */}
+      <OtherToolsSection />
 
       <WhiteScreenInfo
         selectedColor={selectedColor}

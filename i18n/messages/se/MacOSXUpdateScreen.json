@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "title": "Mac OS X Falsk Uppdatering",
+    "description": "Upplev en övertygande Mac OS X uppdateringssimulering på vår webbplats. Lura dina vänner med vår autentiska Mac OS X falska uppdateringsskärm. Njut av spänningen och nöjet av en simulerad uppdateringsprocess.",
+    "badge": "macOS Systemuppdatering",
+    "features": {
+      "noRegistration": "Ingen registrering",
+      "worksOffline": "Fungerar offline",
+      "allDevices": "Alla enheter"
+    }
+  },
+  "keywords": "Mac OS X falsk uppdatering, Simulera Mac OS X uppdatering, Autentisk Mac OS X uppdatering, Mac OS X uppdateringsskämt, Realistisk Mac OS X uppdateringsskärm, Äkta Mac OS X uppdateringssimulering, Underhållande Mac OS X uppdateringsskämt, Skämt med Mac OS X falsk uppdatering, Spännande Mac OS X uppdateringsupplevelse, Mac OS X uppdateringsskämtverktyg",
+  "preview": {
+    "title": "Live Förhandsvisning",
+    "fullscreen": "Helskärm",
+    "download": "Ladda Ner"
+  },
+  "useCases": {
+    "title": "Folk använder Mac OS Uppdateringsskärm för:",
+    "cases": [
+      {
+        "title": "Skämt med dina vänner",
+        "description": "Använd vårt Mac OS X falska uppdateringsverktyg för att spela ett ofarligt skämt på dina vänner, få dem att tro att deras dator genomgår en betydande uppdatering. Titta på deras reaktioner och ha kul!"
+      },
+      {
+        "title": "Testa tålamod",
+        "description": "Ta reda på hur dina kollegor eller nära och kära reagerar på oväntade uppdateringar. Det är ett roligt sätt att kontrollera deras tålamod utan att orsaka något verkligt obehag."
+      },
+      {
+        "title": "Teknisk undervisningshjälp",
+        "description": "Använd det falska uppdateringsverktyget som undervisningshjälp för tekniska kurser eller workshops. Det kan användas för att förklara systemuppdateringar och hur man hanterar dem."
+      },
+      {
+        "title": "UI/UX testning",
+        "description": "För UI/UX designers kan vårt verktyg ge en intressant fallstudie om användarupplevelsen under systemuppdateringar. Analysera användarinteraktion och engagemang under denna process."
+      },
+      {
+        "title": "Innehållsskapande",
+        "description": "Innehållsskapare kan använda detta verktyg för att skapa intressant teknisk innehåll eller sociala experiment för sina bloggar, vloggar eller sociala medieplattformar."
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "How to Use the Fake macOS Update Screen",
+    "subtitle": "Follow these simple steps to get started with our macOS fake update screen",
+    "steps": {
+      "open": "Open the page",
+      "openDescription": "Visit  fake-macos-update-screen on your Mac or any computer browser.",
+      "fullscreen": "Go full screen",
+      "fullscreenDescription": "Click the 'Full Screen' button or press Control + Command + F to make it look like a real macOS update.",
+      "watch": "Watch the update animation",
+      "watchDescription": "The page will display a realistic macOS update progress bar, similar to what appears during actual system upgrades.",
+      "use": "Use for pranks or video scenes",
+      "useDescription": "Surprise your friends or record for your YouTube, TikTok, or livestream content — it looks very convincing in full screen!",
+      "exit": "Exit anytime",
+      "exitDescription": "Press Esc or Control + Command + F again to return to normal view. No data or settings will be changed."
+    },
+    "tips": {
+      "title": "Quick Tips",
+      "exit": "Press Esc or Control + Command + F to exit full screen mode",
+      "realistic": "The animation looks very realistic and authentic",
+      "safe": "Completely safe — no actual system changes are made",
+      "devices": "Works on all modern browsers and devices"
+    }
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "subtitle": "Vanliga frågor om vår Falska macOS Uppdateringsskärm",
+    "whatIs": {
+      "question": "Vad är den Falska macOS Uppdateringsskärmen?",
+      "answer": "Det är en onlinesimulator som perfekt imiterar macOS uppdateringsskärmen. Den är bra för skämt, videor eller att testa hur din skärm ser ut med mörka och ljusa element."
+    },
+    "safe": {
+      "question": "Är den säker att använda?",
+      "answer": "Ja. Detta verktyg är helt säkert — det installerar eller ändrar ingenting på din enhet. Det visar bara en falsk uppdateringsanimation i din webbläsare."
+    },
+    "pranks": {
+      "question": "Kan jag använda den för att skämta?",
+      "answer": "Definitivt 😄 Gå till helskärm, gå iväg och låt dina vänner tro att din Mac fastnade igen med att uppdatera!"
+    },
+    "exit": {
+      "question": "Hur avslutar jag den falska uppdateringsskärmen?",
+      "answer": "Tryck bara på Esc eller Control + Command + F. Simulatorn stängs omedelbart."
+    },
+    "devices": {
+      "question": "Fungerar den på Windows eller telefoner?",
+      "answer": "Ja, den fungerar i vilken modern webbläsare som helst — men för den mest realistiska effekten, använd den på en Mac eller en stor skrivbordsskärm."
+    },
+    "real": {
+      "question": "Uppdaterar den verkligen macOS?",
+      "answer": "Nej — detta är bara en visuell simulator. Den kommer inte att ladda ner, installera eller ändra något på din dator."
+    },
+    "content": {
+      "question": "Kan jag använda den i min video eller stream?",
+      "answer": "Ja! Många skapare använder den falska macOS uppdateringsskärmen för videoprojekt, techhumor och skämtkompileringar."
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "badge": "Ostateczny Symulator Android",
+    "title": "Fałszywa Aktualizacja Android",
+    "description": "Doświadcz realistycznego narzędzia fałszywego ekranu aktualizacji Android w trybie pełnoekranowym. Idealne do żartów, celów edukacyjnych lub demonstracji technicznych.",
+    "keywords": "fałszywa aktualizacja Android, Symuluj aktualizację Android, Autentyczna aktualizacja Android, Żart aktualizacji Android, Realistyczny ekran aktualizacji Android, Prawdziwa symulacja aktualizacji Android, Zabawowy żart aktualizacji Android, Żart z fałszywą aktualizacją Android, Ekscytujące doświadczenie aktualizacji Android, Narzędzie żartu aktualizacji Android",
+    "features": {
+      "noRegistration": "Bez rejestracji",
+      "worksOffline": "Działa offline",
+      "allDevices": "Wszystkie urządzenia"
+    }
+  },
+  "keywords": "ol",
+  "preview": {
+    "updateText": "Instalowanie aktualizacji systemu"
+  },
+  "useCases": {
+    "title": "Ludzie używają Ekranu Fałszywej Aktualizacji Android do:",
+    "subtitle": "Odkryj różne sposoby używania naszego ekranu fałszywej aktualizacji Android",
+    "simulate": {
+      "title": "Symuluj Aktualizację Android do Testów Oprogramowania",
+      "description": "Wykorzystaj nasze narzędzie fałszywej aktualizacji Android do tworzenia autentycznych ekranów aktualizacji do testów oprogramowania i celów demonstracyjnych."
+    },
+    "engage": {
+      "title": "Zaangażuj Swoją Publiczność Realistycznym Ekranem Aktualizacji Android",
+      "description": "Przyciągnij uwagę entuzjastów technologii pokazując prawdziwą symulację aktualizacji Android podczas prezentacji lub blogów technicznych."
+    },
+    "education": {
+      "title": "Podnieś Edukację Techniczną z Narzędziem Żartu Aktualizacji Android",
+      "description": "Włącz nasz realistyczny ekran aktualizacji Android do scenariuszy edukacji technicznej, aby uczyć o aktualizacjach systemu i projektowaniu interfejsu użytkownika."
+    },
+    "content": {
+      "title": "Twórz Zabawne Treści z Fałszywą Aktualizacją Android",
+      "description": "Twórz angażujące treści wideo lub transmisje na żywo używając zabawnego żartu aktualizacji Android, dodając humor do dyskusji technicznych."
+    },
+    "prank": {
+      "title": "Żartuj z Przyjaciółmi Prawdziwą Symulacją Aktualizacji Android",
+      "description": "Zaskocz swoich przyjaciół używając naszego narzędzia do żartowania z fałszywą aktualizacją Android, zamieniając zwykłe chwile w niezapomniane żarty techniczne."
+    },
+    "ux": {
+      "title": "Ulepsz Naukę Projektowania UX z Symulowanymi Aktualizacjami",
+      "description": "Użyj ekscytującego doświadczenia aktualizacji Android do edukowania projektantów UX/UI o wpływie aktualizacji systemu na doświadczenie użytkownika."
+    },
+    "recovery": {
+      "title": "Demonstruj Scenariusze Odzyskiwania Systemu z Narzędziem Żartu Aktualizacji Android",
+      "description": "Wykorzystaj autentyczne narzędzie aktualizacji Android do symulowania procesów odzyskiwania systemu dla szkoleń IT i warsztatów."
+    }
+  },
+  "faq": {
+    "title": "Często Zadawane Pytania",
+    "subtitle": "Typowe pytania o nasz ekran fałszywej aktualizacji Android",
+    "real": {
+      "question": "Czy to prawdziwa aktualizacja Android?",
+      "answer": "Nie, to symulowany ekran zaprojektowany do celów rozrywkowych i testowych. Nie może faktycznie zaktualizować Twojego urządzenia."
+    },
+    "pranks": {
+      "question": "Czy mogę tego używać do żartów?",
+      "answer": "Tak! To narzędzie jest idealne do nieszkodliwych żartów technicznych. Pamiętaj tylko, aby używać go odpowiedzialnie i z dobrym humorem."
+    },
+    "realistic": {
+      "question": "Jak realistyczna jest symulacja?",
+      "answer": "Nasz ekran aktualizacji Android jest zaprojektowany, aby wyglądać bardzo autentycznie, z animowanym paskiem postępu i odpowiednim brandingiem Android."
+    },
+    "safe": {
+      "question": "Czy jest bezpieczny w użyciu?",
+      "answer": "Absolutnie! To symulacja oparta na przeglądarce, która działa całkowicie w Twojej przeglądarce i nie może uzyskać dostępu do Twojego systemu lub urządzenia."
+    }
+  }
+}

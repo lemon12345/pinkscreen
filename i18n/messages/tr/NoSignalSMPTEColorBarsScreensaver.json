@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "title": "Sinyal Yok TV Ekranı",
+    "description": "Otantik SMPTE renk çubuklarını ve sinyal yok test desenlerini deneyimleyin. Monitör kalibrasyonu, video üretim testleri ve o klasik yayın televizyon atmosferini yaratmak için mükemmel.",
+    "badge": "Yayın Test Deseni",
+    "features": {
+      "noRegistration": "Kayıt Yok",
+      "worksOffline": "Çevrimdışı Çalışır",
+      "allDevices": "Tüm Cihazlar"
+    }
+  },
+  "keywords": "SMPTE renk çubukları, sinyal yok ekranı, test deseni, renk kalibrasyonu, video testi, yayın test deseni, televizyon test ekranı, monitör kalibrasyonu, renk çubukları ekran koruyucu, SMPTE test deseni, video mühendisliği, yayın mühendisliği, renk referansı, ekran kalibrasyonu, video sinyal testi, televizyon mühendisliği, renk standardı, yayın standardı, test sinyali, video üretimi",
+  "preview": {
+    "testPattern": "Test Deseni",
+    "colorBars": "SMPTE Renk Çubukları"
+  },
+  "useCases": {
+    "title": "İnsanlar SMPTE Renk Çubuklarını şunun için kullanır:",
+    "subtitle": "SMPTE renk çubukları test desenimizi kullanmanın çeşitli yollarını keşfedin",
+    "case1": {
+      "title": "Monitör ve Ekran Kalibrasyonu",
+      "description": "Profesyonel ortamlarda doğru renk üretimi için monitörleri, TV'leri ve ekranları kalibre etmek üzere SMPTE renk çubuklarını kullanın."
+    },
+    "case2": {
+      "title": "Video Üretimi ve Yayıncılık",
+      "description": "Video mühendisleri ve yayıncılar için sinyal kalitesini test etmek ve uygun renk standartlarını sağlamak için temel araç."
+    },
+    "case3": {
+      "title": "Ekipman Testi ve Sorun Giderme",
+      "description": "Standart test desenleri ile ekran sorunlarını tanımlayın, video sinyal bütünlüğünü kontrol edin ve yayın ekipmanlarında sorun giderin."
+    },
+    "case4": {
+      "title": "Yayıncılık ve Medya Eğitimi",
+      "description": "Öğrencilere yayın standartları, renk teorisi ve profesyonel video üretim teknikleri hakkında öğretin."
+    },
+    "case5": {
+      "title": "Retro Estetik ve Atmosfer",
+      "description": "Temalı etkinlikler, film setleri veya nostaljik içerik yaratımı için otantik vintage yayın atmosferi yaratın."
+    },
+    "case6": {
+      "title": "Profesyonel Ekran Koruyucu Görüntüleme",
+      "description": "Profesyonel video üretim ortamlarında ve yayın tesislerinde ekran koruyucu olarak kullanın."
+    }
+  },
+  "howToUse": {
+    "title": "SMPTE Renk Çubukları Nasıl Kullanılır",
+    "steps": [
+      "Sayfayı aç - Tarayıcınızda no-signal-smpte-color-bars-screensaver'a gidin",
+      "Tam ekran - \"Tam Ekran\"a tıklayın veya test desenini tüm ekranınızda göstermek için F11'e basın",
+      "Deseninizi seçin - Kontrolleri kullanarak SMPTE renk çubukları ve sinyal olmayan test desenleri arasında geçiş yapın",
+      "Kalibrasyon için kullanın - Monitörünüzdeki veya ekranınızdaki renk doğruluğu, parlaklık ve kontrast ayarlarını kontrol edin",
+      "İstediğiniz zaman çıkın - Tam ekran modundan çıkmak ve normal görünüme dönmek için Esc veya F11'e basın"
+    ]
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "subtitle": "SMPTE renk çubukları ve test desenleri hakkında yaygın sorular",
+    "whatIsSMPTE": {
+      "question": "SMPTE renk çubukları nedir?",
+      "answer": "SMPTE renk çubukları, ekipmanları kalibre etmek ve doğru renk üretimini sağlamak için televizyon ve video üretiminde kullanılan standartlaştırılmış bir test desenidir."
+    },
+    "howToUse": {
+      "question": "Bunu monitör kalibrasyonu için nasıl kullanırım?",
+      "answer": "Ekranınızın doğru renkleri gösterip göstermediğini kontrol etmek için renk çubuklarını kullanın. Her çubuk, kanama veya bozulma olmadan farklı, saf renkler göstermelidir."
+    },
+    "fullscreen": {
+      "question": "Tam ekran modundan nasıl çıkarım?",
+      "answer": "Tam ekran modundan çıkmak için Escape tuşuna basın veya tam ekran düğmesine tekrar tıklayın. Çoğu tarayıcıda tam ekranı değiştirmek için F11'i de kullanabilirsiniz."
+    },
+    "download": {
+      "question": "Renk çubukları desenini indirebilir miyim?",
+      "answer": "Evet, renk çubukları desenini çeşitli çözünürlüklerde indirebilirsiniz. Deseni PNG resim dosyası olarak kaydetmek için kontroller bölümündeki indirme düğmesini kullanın."
+    },
+    "compatibility": {
+      "question": "Hangi tarayıcılar destekleniyor?",
+      "answer": "Renk çubukları ekran koruyucu Chrome, Firefox, Safari ve Edge dahil tüm modern tarayıcılarda çalışır. Tam ekran modu çoğu cihaz ve tarayıcıda desteklenir."
+    }
+  }
+}

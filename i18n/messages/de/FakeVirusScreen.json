@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Falscher Virus-Bildschirm - Dateien verschlüsselt",
+    "description": "Falscher Virus-Bildschirm, der Geld für Dateienentschlüsselung verlangt. Machen Sie Ihren Freunden einen Streich, indem Sie dies auf ihrem Computer öffnen!",
+    "badge": "Virus-Streich-Tool"
+  },
+  "keywords": "falscher virus, ransomware streich, falscher hacker, computer streich, virus simulator, falsche malware, verschlüsselte dateien streich, harmloser virus streich, falsche cybersicherheit, streich bildschirm",
+  "colorPicker": {
+    "title": "Falscher Virus-Streich",
+    "description": "Realistischer Virus-Bildschirm für harmlose Streiche und Cybersicherheitsbildung",
+    "launchButton": "Virus-Streich starten",
+    "clickHint": "Klicken Sie auf die Schaltfläche oben, um den Vollbild-Virus-Streich zu starten"
+  },
+  "useCases": {
+    "title": "Menschen verwenden Virus-Streiche für:",
+    "description": "Unser falscher Virus-Simulator bietet realistische Ransomware-Erfahrung für Bildung und harmlose Streiche.",
+    "cases": [
+      {
+        "icon": "🛡️",
+        "title": "Cybersicherheitsbildung",
+        "description": "Lehren über Ransomware-Bedrohungen und Cybersicherheitsbewusstsein in einer sicheren, kontrollierten Umgebung."
+      },
+      {
+        "icon": "😂",
+        "title": "Harmlose Büro-Streiche",
+        "description": "Sichere Streiche mit Kollegen mit realistischem Virus-Bildschirm, der sich als harmloser Scherz entpuppt."
+      },
+      {
+        "icon": "🎭",
+        "title": "Social Media Inhalt",
+        "description": "Erstellen von fesselnden Reaktionsvideos und Cybersicherheitsbewusstseins-Inhalten für soziale Plattformen."
+      },
+      {
+        "icon": "📚",
+        "title": "IT-Schulung",
+        "description": "Verwendung in IT-Schulungskursen zur Demonstration von Ransomware-Angriffen und Incident-Response-Verfahren."
+      },
+      {
+        "icon": "🎬",
+        "title": "Film & Theater",
+        "description": "Perfekt für Filme, TV-Shows oder Theaterproduktionen, die realistische Hacker/Virus-Szenen erfordern."
+      },
+      {
+        "icon": "🎪",
+        "title": "Aprilscherz",
+        "description": "Ultimativer Aprilscherz mit überzeugender Ransomware-Oberfläche und humorvollen Zahlungsoptionen."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "description": "Häufige Fragen zum falschen Virus-Streich-Simulator",
+    "questions": [
+      {
+        "question": "Ist dieser Virus-Streich wirklich gefährlich?",
+        "answer": "Absolut nicht! Dies ist eine 100% harmlose Simulation. Keine Dateien werden verschlüsselt, keine Daten gestohlen und keine echte Malware ist beteiligt."
+      },
+      {
+        "question": "Wird dies meinen Computer oder Dateien beschädigen?",
+        "answer": "Überhaupt kein Schaden! Es ist eine rein visuelle Simulation, die in Ihrem Browser läuft. Alle Ihre Dateien bleiben vollständig sicher und unberührt."
+      },
+      {
+        "question": "Wie realistisch sieht es aus?",
+        "answer": "Sehr realistisch! Es ahmt echte Ransomware-Oberflächen nach, enthält aber humorvolle Zahlungsmethoden wie 'Monopoly-Geld' und 'Nieren', um sicherzustellen, dass es eindeutig ein Scherz ist."
+      },
+      {
+        "question": "Wie verlasse ich den Streich?",
+        "answer": "Drücken Sie F11 oder ESC-Taste, um den Vollbildmodus zu verlassen. Der Streich entpuppt sich auch als harmlos mit klaren Anweisungen."
+      },
+      {
+        "question": "Kann ich dies für Cybersicherheitsschulungen verwenden?",
+        "answer": "Ja! Es ist perfekt für Bildungszwecke, um zu demonstrieren, wie Ransomware aussieht und Cybersicherheitsbewusstsein zu lehren."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Zusätzliche Bildschirm-Tools",
+    "description": "Entdecken Sie unsere Sammlung spezialisierter Bildschirm-Tools für verschiedene Zwecke.",
+    "colorScreens": "Farbbildschirme",
+    "prankScreens": "Streich-Bildschirme",
+    "fakeUpdateScreens": "Falsche Update-Bildschirme",
+    "screensaverScreens": "Bildschirmschoner-Bildschirme"
+  },
+  "howToUse": {
+    "title": "Verwendung",
+    "steps": [
+      "Klicken Sie auf die Start-Schaltfläche, um den Vollbild-Virus-Streich zu betreten",
+      "Der falsche Ransomware-Bildschirm wird mit Countdown-Timer angezeigt",
+      "Beobachten Sie die Reaktion des Opfers auf die realistische Verschlüsselungsnachricht",
+      "Der Streich entpuppt sich mit humorvollen Zahlungsoptionen",
+      "Drücken Sie F11 oder ESC, um den Vollbildmodus jederzeit zu verlassen"
+    ]
+  },
+  "techSpecs": {
+    "title": "Technische Spezifikationen",
+    "specs": [
+      "Oberfläche: Realistische Ransomware/Virus-Simulation",
+      "Funktionen: Countdown-Timer, falsche Verschlüsselungsnachricht",
+      "Sicherheit: 100% harmlos - kein echter Virus oder Malware",
+      "Kompatibilität: Alle modernen Browser und Geräte",
+      "Bildung: Perfekt für Cybersicherheitsbewusstseins-Schulung"
+    ]
+  }
+}

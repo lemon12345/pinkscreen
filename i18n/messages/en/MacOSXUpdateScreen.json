@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "title": "Mac OS X Fake Update",
+    "description": "Experience a convincing Mac OS X update simulation on our website. Trick your friends with our genuine-looking Mac OS X fake update screen. Revel in the excitement and amusement of a simulated update process.",
+    "badge": "macOS System Update",
+    "features": {
+      "noRegistration": "No Registration",
+      "worksOffline": "Works Offline",
+      "allDevices": "All Devices"
+    }
+  },
+  "keywords": "Mac OS X fake update, Simulate Mac OS X update, Authentic-looking Mac OS X update, Mac OS X update prank, Realistic Mac OS X update screen, Genuine Mac OS X update simulation, Entertaining Mac OS X update prank, Prank with Mac OS X fake update, Exciting Mac OS X update experience, Mac OS X update prank tool",
+  "preview": {
+    "title": "Live Preview",
+    "fullscreen": "Fullscreen",
+    "download": "Download"
+  },
+  "useCases": {
+    "title": "People use Mac OS Update Screen for:",
+    "cases": [
+      {
+        "title": "Prank your friends",
+        "description": "Use our Mac OS X fake update tool to play a harmless prank on your friends, making them believe their computer is going through a significant update. Watch their reactions and have a laugh!"
+      },
+      {
+        "title": "Test patience",
+        "description": "Find out how your colleagues or loved ones react to unexpected updates. It's a funny way to check their patience without causing any real inconvenience."
+      },
+      {
+        "title": "Tech teaching aid",
+        "description": "Use the fake update tool as a teaching aid for tech courses or workshops. It can be used to explain system updates and how to manage them."
+      },
+      {
+        "title": "UI/UX testing",
+        "description": "For UI/UX designers, our tool can provide an interesting case study on the user experience during system updates. Analyze user interaction and engagement during this process."
+      },
+      {
+        "title": "Content creation",
+        "description": "Content creators can use this tool for creating interesting tech-related content or social experiments for their blogs, vlogs, or social media platforms."
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "How to Use the Fake macOS Update Screen",
+    "subtitle": "Follow these simple steps to get started with our macOS fake update screen",
+    "steps": {
+      "open": "Open the page",
+      "openDescription": "Visit  fake-macos-update-screen on your Mac or any computer browser.",
+      "fullscreen": "Go full screen",
+      "fullscreenDescription": "Click the 'Full Screen' button or press Control + Command + F to make it look like a real macOS update.",
+      "watch": "Watch the update animation",
+      "watchDescription": "The page will display a realistic macOS update progress bar, similar to what appears during actual system upgrades.",
+      "use": "Use for pranks or video scenes",
+      "useDescription": "Surprise your friends or record for your YouTube, TikTok, or livestream content — it looks very convincing in full screen!",
+      "exit": "Exit anytime",
+      "exitDescription": "Press Esc or Control + Command + F again to return to normal view. No data or settings will be changed."
+    },
+    "tips": {
+      "title": "Quick Tips",
+      "exit": "Press Esc or Control + Command + F to exit full screen mode",
+      "realistic": "The animation looks very realistic and authentic",
+      "safe": "Completely safe — no actual system changes are made",
+      "devices": "Works on all modern browsers and devices"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about our Fake macOS Update Screen",
+    "whatIs": {
+      "question": "What is the Fake macOS Update Screen?",
+      "answer": "It's an online simulator that perfectly imitates the macOS update screen. It's great for pranks, videos, or testing how your display looks with dark and light elements."
+    },
+    "safe": {
+      "question": "Is it safe to use?",
+      "answer": "Yes. This tool is completely safe — it doesn't install or modify anything on your device. It only displays a fake update animation in your web browser."
+    },
+    "pranks": {
+      "question": "Can I use it to prank someone?",
+      "answer": "Definitely 😄 Go full screen, walk away, and let your friends think your Mac is stuck updating again!"
+    },
+    "exit": {
+      "question": "How do I exit the fake update screen?",
+      "answer": "Just press Esc or Control + Command + F. The simulator will close immediately."
+    },
+    "devices": {
+      "question": "Does this work on Windows or phones?",
+      "answer": "Yes, it works in any modern browser — but for the most realistic effect, use it on a Mac or a large desktop display."
+    },
+    "real": {
+      "question": "Does it really update macOS?",
+      "answer": "No — this is a visual simulator only. It won't download, install, or change anything on your computer."
+    },
+    "content": {
+      "question": "Can I use it in my video or stream?",
+      "answer": "Yes! Many creators use the fake macOS update screen for video projects, tech humor, and prank compilations."
+    }
+  }
+}

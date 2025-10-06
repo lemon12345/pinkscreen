@@ -1,0 +1,116 @@
+{
+  "hero": {
+    "title": "Schermo Avviso FBI Falso",
+    "description": "Falso schermo di avviso FBI online per fare scherzi ai tuoi amici. Questo dispositivo è stato bloccato, aspetta che arrivi la squadra SWAT!",
+    "badge": "Strumento Scherzo Avviso FBI"
+  },
+  "keywords": "falso avviso FBI, scherzo applicazione legge, schermo avviso polizia, scherzo computer bloccato, scherzo squadra SWAT, falso avviso governo, scherzo cybercrimine, simulatore avviso federale, falso avviso arresto, schermo blocco FBI",
+  "colorPicker": {
+    "title": "Falso Avviso FBI",
+    "description": "Schermo di avviso FBI realistico per scherzi innocui ed educazione applicazione legge",
+    "launchButton": "Avvia Avviso FBI",
+    "clickHint": "Clicca il pulsante sopra per avviare scherzo avviso FBI schermo intero"
+  },
+  "useCases": {
+    "title": "Le persone usano lo scherzo avviso FBI per:",
+    "description": "Il nostro simulatore di avviso FBI falso fornisce un'esperienza di applicazione legge realistica per educazione e scherzi innocui.",
+    "cases": [
+      {
+        "icon": "👮",
+        "title": "Formazione Applicazione Legge",
+        "description": "Formare il personale di applicazione legge sulle procedure di investigazione cybercrimine e protocolli di sequestro computer."
+      },
+      {
+        "icon": "😂",
+        "title": "Pesce d'Aprile Ufficio",
+        "description": "Crea lo scherzo di ufficio ultimo con avviso FBI realistico che si rivela come scherzo innocuo."
+      },
+      {
+        "icon": "🎬",
+        "title": "Produzione Cinema & TV",
+        "description": "Perfetto per film, show TV che richiedono schermi di avviso governo/FBI realistici e scene cybercrimine."
+      },
+      {
+        "icon": "📚",
+        "title": "Educazione Cybersecurity",
+        "description": "Dimostrare applicazione legge cybercrimine governo nella sensibilizzazione cybersecurity e formazione forensics digitale."
+      },
+      {
+        "icon": "🎭",
+        "title": "Contenuti Social Media",
+        "description": "Crea video di reazione coinvolgenti e contenuti educativi sull'applicazione legge cybercrimine per piattaforme social."
+      },
+      {
+        "icon": "🎪",
+        "title": "Scherzo Ultimo",
+        "description": "Lo scherzo di blocco computer più convincente con avvisi FBI realistici e riferimenti squadra SWAT."
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ – Schermo Avviso FBI Falso",
+    "description": "Domande comuni sul simulatore di schermo avviso FBI falso",
+    "questions": [
+      {
+        "question": "Cos'è lo Schermo Avviso FBI Falso?",
+        "answer": "È una simulazione online del classico schermo di Avviso Anti-Pirateria FBI visto su vecchi DVD e nastri — ricreato per divertimento e uso creativo."
+      },
+      {
+        "question": "È reale?",
+        "answer": "No 😄 È 100% falso e fatto per intrattenimento o scopi educativi."
+      },
+      {
+        "question": "È sicuro da usare?",
+        "answer": "Assolutamente. Funziona completamente nel tuo browser web e non accede o modifica il tuo computer in alcun modo."
+      },
+      {
+        "question": "Posso usarlo nel mio video o stream?",
+        "answer": "Sì! Molti creatori di contenuti lo usano come introduzione retrò, scena di transizione o meme visivo."
+      },
+      {
+        "question": "Come lo faccio sembrare realistico?",
+        "answer": "Vai a schermo intero, abbassa le luci e riproducilo prima che il tuo video inizi — sembrerà proprio come la cosa vera."
+      },
+      {
+        "question": "Posso fare uno scherzo a qualcuno con questo?",
+        "answer": "Sì — è fantastico per scherzi innocui. Ricorda loro solo che non è un vero avviso governativo 😅"
+      },
+      {
+        "question": "Posso cambiare il testo o la lingua?",
+        "answer": "Attualmente, è un avviso FBI classico inglese fisso. Le versioni future potrebbero supportare testo personalizzato."
+      },
+      {
+        "question": "Funziona su tutti i dispositivi?",
+        "answer": "Sì, funziona su Windows, macOS, Android, iPhone e qualsiasi browser web moderno."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Strumenti Schermo Aggiuntivi",
+    "description": "Esplora la nostra collezione di strumenti schermo specializzati per vari scopi.",
+    "colorScreens": "Schermi Colore",
+    "prankScreens": "Schermi Scherzo",
+    "fakeUpdateScreens": "Schermi Aggiornamento Falso",
+    "screensaverScreens": "Schermi Salvaschermo"
+  },
+  "howToUse": {
+    "title": "🧭 Come Usare lo Schermo di Avviso FBI Falso",
+    "steps": [
+      "Aprire la pagina - Vai su fbi-warning nel tuo browser del computer o mobile.",
+      "Schermo intero - Clicca \"Schermo Intero\" o premi F11 per far riempire tutto lo schermo dall'avviso FBI falso — come un avvio DVD vecchio.",
+      "Scegli il tuo scherzo o visualizzazione - Usalo come introduzione divertente di film, fingi che il tuo PC abbia ricevuto un \"avviso federale\" 😆, o impostalo come sfondo cinema retrò.",
+      "Usa per progetti creativi - Ottimo per editor video, filmmaker, streamer e creatori di meme che vogliono quell'aspetto classico di Avviso Anti-Pirateria FBI.",
+      "Esci in qualsiasi momento - Premi Esc o F11 di nuovo per uscire dalla modalità schermo intero in sicurezza."
+    ]
+  },
+  "techSpecs": {
+    "title": "Specifiche Tecniche",
+    "specs": [
+      "Interfaccia: Simulazione avviso FBI/governo realistica",
+      "Funzionalità: Timer countdown, badge e avvisi dall'aspetto ufficiale",
+      "Sicurezza: 100% innocuo - nessun coinvolgimento governo reale",
+      "Compatibilità: Tutti i browser e dispositivi moderni",
+      "Educazione: Perfetto per formazione cybersecurity e applicazione legge"
+    ]
+  }
+}

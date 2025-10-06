@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "title": "Broken Screen",
+    "description": "Create realistic broken screen effects for pranks, videos, and entertainment. Perfect for fooling friends with authentic-looking cracked screen simulations.",
+    "badge": "Screen Effect",
+    "features": {
+      "noRegistration": "No Registration",
+      "worksOffline": "Works Offline",
+      "allDevices": "All Devices"
+    }
+  },
+  "keywords": "broken screen, cracked screen, screen prank, fake broken screen, cracked phone screen, broken display, screen effect, prank tool, broken screen simulator, cracked screen generator, fake cracked display, broken screen joke, screen damage simulation, cracked screen effect, broken phone screen, display crack simulator, screen prank tool, broken screen generator, cracked display effect, fake screen damage",
+  "useCases": {
+    "title": "💻 People Use the Fake Broken Screen For",
+    "description": "Discover various ways to use our broken screen effect",
+    "cases": [
+      {
+        "title": "😆 Pranks and jokes",
+        "description": "Trick your friends into thinking your screen just cracked! It's a classic harmless prank that never gets old."
+      },
+      {
+        "title": "🎬 Video & content creation",
+        "description": "Add a broken glass effect to your YouTube or TikTok videos — no editing required."
+      },
+      {
+        "title": "🧠 Display testing",
+        "description": "Some users use the cracked screen pattern to test monitor pixels, brightness, or anti-glare quality."
+      },
+      {
+        "title": "🎥 Livestream or stage visuals",
+        "description": "Great as a background effect for livestreams, stage screens, or tech-themed shows."
+      },
+      {
+        "title": "💡 Tech humor & fun demos",
+        "description": "IT instructors and presenters use it as a fun break slide or to demonstrate what not to do with your devices."
+      },
+      {
+        "title": "📱 Mobile device testing",
+        "description": "Test how your mobile apps handle broken screen scenarios and edge cases."
+      },
+      {
+        "title": "🎃 Halloween pranks",
+        "description": "Perfect for Halloween parties and spooky events to create dramatic effects."
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "🧭 How to Use the Fake Broken Screen",
+    "steps": [
+      "Open the page - Visit the fake broken screen page on your computer, tablet, or phone",
+      "Go full screen - Click \"Full Screen\" or press F11 to make the fake cracked screen cover your whole display",
+      "Choose your effect (if supported) - Pick from different styles — broken glass, LCD glitch, or spiderweb crack for the most realistic look",
+      "Use it for fun or testing - Perfect for pranks, video effects, or display calibration"
+    ]
+  },
+  "faq": {
+    "title": "❓ FAQ – Fake Broken Screen",
+    "subtitle": "Common questions about our Broken Screen Effect",
+    "questions": [
+      {
+        "question": "1. What is the Fake Broken Screen tool?",
+        "answer": "It's a web-based simulator that displays a cracked or damaged screen effect on your display. It doesn't harm your device — it's just a visual illusion."
+      },
+      {
+        "question": "2. Is it safe to use?",
+        "answer": "Yes! It doesn't download or install anything. It simply shows an image overlay in your browser."
+      },
+      {
+        "question": "3. Can I prank someone with it?",
+        "answer": "Absolutely 😄 Just open it in full screen and hand your device to a friend — watch their reaction!"
+      },
+      {
+        "question": "4. How do I exit the broken screen effect?",
+        "answer": "Press Esc or F11 to instantly return to your normal display."
+      },
+      {
+        "question": "5. Does this work on phones or tablets?",
+        "answer": "Yes, it works on any device — desktop, laptop, or mobile browser."
+      }
+    ]
+  }
+}

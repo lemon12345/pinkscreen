@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Formatação de Disco Falsa - Brincadeira DOS Online",
+    "description": "Engane seus amigos com a brincadeira DOS online que parece estar formatando a unidade de disco, mas na realidade não causa nenhum dano.",
+    "badge": "Ferramenta Brincadeira DOS"
+  },
+  "keywords": "DOS falso, brincadeira formatação disco, brincadeira DOS online, formatação disco falsa, brincadeira computador, simulador DOS, brincadeira prompt comando, format C falso, brincadeira inofensiva, tela DOS",
+  "colorPicker": {
+    "title": "Brincadeira DOS Falsa",
+    "description": "Perfeito para brincar com amigos usando simulação de formatação DOS realística",
+    "launchButton": "Iniciar Brincadeira DOS",
+    "clickHint": "Clique no botão acima para iniciar brincadeira DOS em tela cheia"
+  },
+  "useCases": {
+    "title": "As pessoas usam brincadeira DOS para:",
+    "description": "Nosso simulador DOS falso fornece experiência de formatação DOS realística para brincadeiras inofensivas e entretenimento.",
+    "cases": [
+      {
+        "icon": "😂",
+        "title": "Brincadeiras Inofensivas",
+        "description": "Brincar com segurança com amigos e colegas usando simulação de formatação DOS realística sem qualquer dano real."
+      },
+      {
+        "icon": "🎭",
+        "title": "Vídeos de Entretenimento",
+        "description": "Criar vídeos de reação engraçados e conteúdo de entretenimento com interface DOS autêntica."
+      },
+      {
+        "icon": "🎪",
+        "title": "Dia da Mentira",
+        "description": "Perfeito para brincadeiras do Dia da Mentira e momentos de entretenimento surpresa com amigos."
+      },
+      {
+        "icon": "📱",
+        "title": "Conteúdo Mídia Social",
+        "description": "Gerar conteúdo de mídia social envolvente e posts técnicos engraçados para sua audiência."
+      },
+      {
+        "icon": "🎬",
+        "title": "Cinema & Teatro",
+        "description": "Usar em filmes, produções teatrais ou demonstrações educacionais que requerem interface DOS."
+      },
+      {
+        "icon": "🎮",
+        "title": "Jogos Retro",
+        "description": "Experimentar interface DOS nostálgica e lembrar da era clássica de computação."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "description": "Perguntas comuns sobre o simulador de brincadeira DOS falso",
+    "questions": [
+      {
+        "question": "Esta brincadeira DOS é segura para usar?",
+        "answer": "Absolutamente segura! Esta é apenas uma simulação web que imita formatação DOS. Não formata realmente nem danifica nenhum arquivo em seu computador."
+      },
+      {
+        "question": "Isso realmente deletará meus arquivos?",
+        "answer": "Não! Esta é puramente uma simulação visual. Nenhum arquivo é deletado, nenhuma formatação ocorre. É completamente inofensivo e seguro."
+      },
+      {
+        "question": "Como sair da brincadeira?",
+        "answer": "Pressione a tecla ESC ou F11 para sair do modo tela cheia. A brincadeira também se revelará automaticamente após a conclusão."
+      },
+      {
+        "question": "Posso usar isso em dispositivos móveis?",
+        "answer": "Sim! A brincadeira DOS funciona em todos os dispositivos incluindo smartphones e tablets com suporte a tela cheia."
+      },
+      {
+        "question": "Isso é adequado para brincadeiras de escritório?",
+        "answer": "Embora inofensivo, por favor use responsavelmente e considere seu ambiente de trabalho antes de brincar com colegas."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Ferramentas de Tela Adicionais",
+    "description": "Explore nossa coleção de ferramentas de tela especializadas para vários propósitos.",
+    "colorScreens": "Telas Coloridas",
+    "prankScreens": "Telas de Brincadeira",
+    "fakeUpdateScreens": "Telas de Atualização Falsa",
+    "screensaverScreens": "Telas de Protetor de Tela"
+  },
+  "howToUse": {
+    "title": "Como Usar",
+    "steps": [
+      "Clique no botão de inicialização para entrar na brincadeira DOS em tela cheia",
+      "Observe como o processo de formatação falso começa automaticamente",
+      "O sistema exibirá comandos DOS realísticos e progresso",
+      "Após a conclusão, a brincadeira se revela com uma mensagem inofensiva",
+      "Pressione ESC ou F11 para sair do modo tela cheia a qualquer momento"
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificações Técnicas",
+    "specs": [
+      "Interface: Simulação de prompt de comando DOS autêntica",
+      "Recursos: Animação de formatação de disco realística",
+      "Segurança: 100% inofensivo - nenhuma formatação real ocorre",
+      "Compatibilidade: Todos os navegadores e dispositivos modernos",
+      "Duração: Sequência de brincadeira automática com revelação"
+    ]
+  }
+}

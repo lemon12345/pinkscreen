@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "Windows BSOD Simulator",
+    "title": "Falscher Blue Screen of Death (BSOD) Simulator – Windows Crash Streich Online",
+    "description": "Erleben Sie den ultimativen Streich mit unserem Vollbild-Tool für einen gefälschten Windows-Bluescreen des Todes. Perfekt für Bildung, Unterhaltung und Content-Erstellung.",
+    "features": {
+      "noRegistration": "Keine Registrierung",
+      "worksOffline": "Funktioniert Offline",
+      "allDevices": "Alle Geräte"
+    }
+  },
+  "keywords": "blue screen of death, BSOD simulator, falscher blue screen, Windows crash simulator, blue screen streich, BSOD streich, Windows fehler bildschirm, falscher Windows crash, blue screen witz, Windows BSOD fake, computer crash simulator, falscher system fehler, Windows blue screen death, BSOD fake bildschirm, Windows crash witz, falscher computer crash, blue screen death simulator, Windows fehler simulator, fake BSOD bildschirm, computer crash streich",
+  "preview": {
+    "title": "Live-Vorschau",
+    "download": "Herunterladen",
+    "comingSoon": "Demnächst verfügbar",
+    "bouncingLogo": "Hüpfendes Logo"
+  },
+  "colorPicker": {
+    "title": "Wählen Sie Ihren Bildschirm",
+    "speed": "Geschwindigkeit",
+    "size": "Größe",
+    "selectScreen": "Wählen Sie einen Bildschirmeffekt zur Anzeige",
+    "fullScreen": "Vollbild",
+    "custom": "Benutzerdefiniert",
+    "description": "Perfekt für Streiche, Tech-Demos und Nostalgie",
+    "launchButton": "Blue Screen of Death starten"
+  },
+  "useCases": {
+    "title": "Leute nutzen den Bluescreen des Todes für:",
+    "case1": {
+      "title": "Streichen Sie Ihre Freunde mit einem gefälschten Bluescreen des Todes",
+      "description": "Steigern Sie Ihre Streichfähigkeiten, indem Sie Freunde glauben lassen, dass ihr PC abgestürzt ist. Perfekt für einen harmlosen Lacher."
+    },
+    "case2": {
+      "title": "Erstellen Sie unvergessliche Tech-Themen-Partys",
+      "description": "Fügen Sie Tech-Themen-Partys eine skurrile Wendung hinzu, indem Sie den ikonischen Windows-Bluescreen des Todes auf Bildschirmen zeigen."
+    },
+    "case3": {
+      "title": "Über den Windows-Bluescreen des Todes aufklären",
+      "description": "Verwenden Sie die Simulation als pädagogisches Werkzeug, um über Fehlerbehebung und Vermeidung des echten BSOD zu unterrichten."
+    },
+    "case4": {
+      "title": "Verbessern Sie Ihre Tech-Support-Fähigkeiten",
+      "description": "Üben Sie Ihre Reaktions- und Diagnosefähigkeiten, indem Sie den gefälschten BSOD als Schulungswerkzeug verwenden."
+    },
+    "case5": {
+      "title": "Peppen Sie Ihren Tech-YouTube-Kanal auf",
+      "description": "Erstellen Sie fesselnde Inhalte, indem Sie den Bluescreen des Todes-Streich in Ihre Tech-Videos einbauen."
+    },
+    "case6": {
+      "title": "Geduld testen",
+      "description": "Fordern Sie Ihre Geduld oder die eines Freundes heraus, indem Sie das gefürchtete Bluescreen-Szenario in einer kontrollierten Umgebung konfrontieren."
+    },
+    "case7": {
+      "title": "Filmproduktionen und Tech-Szenen",
+      "description": "Integrieren Sie eine realistische Windows-BSOD-Animation in Ihre Film- oder Videoproduktion für authentisches Tech-Drama."
+    }
+  },
+  "faq": {
+    "title": "FAQ – Falscher Blue Screen of Death (BSOD)",
+    "q1": "Was ist der Blue Screen of Death Simulator?",
+    "a1": "Es ist ein webbasierter falscher Windows-Crash-Bildschirm. Er sieht aus wie ein echter BSOD, aber beeinflusst Ihr System nicht.",
+    "q2": "Ist es sicher?",
+    "a2": "Ja — es ist 100% sicher und läuft nur in Ihrem Webbrowser. Es verursacht keine echten Fehler oder Crashes.",
+    "q3": "Kann ich es verwenden, um jemanden zu veräppeln?",
+    "a3": "Absolut! 😄 Öffnen Sie es im Vollbild, gehen Sie weg und beobachten Sie ihre Reaktion, wenn sie denken, Windows ist abgestürzt!",
+    "q4": "Wie verlasse ich den blauen Bildschirm?",
+    "a4": "Drücken Sie Esc oder F11, um sofort zu Ihrem normalen Bildschirm zurückzukehren.",
+    "q5": "Funktioniert es auf macOS oder Linux?",
+    "a5": "Ja — obwohl es ein Windows-Stil blauer Bildschirm ist, funktioniert es auf jedem Gerät mit einem modernen Browser.",
+    "q6": "Kann ich es in einem Klassenzimmer oder Tech-Demo verwenden?",
+    "a6": "Ja. Viele IT-Lehrer verwenden es, um sicher zu demonstrieren, wie ein Crash aussieht, ohne ein echtes System zu beschädigen.",
+    "q7": "Stürzt es wirklich meinen Computer ab?",
+    "a7": "Nein — es ist nur eine visuelle Simulation, kein echter Systemfehler.",
+    "q8": "Wo kann ich andere falsche Update- oder Crash-Bildschirme finden?",
+    "a8": "Probieren Sie diese: Falscher Windows 10 Update-Bildschirm, Falscher macOS Update-Bildschirm, Falscher Ubuntu Update-Bildschirm"
+  },
+  "additionalTools": {
+    "title": "Zusätzliche Bildschirm-Tools",
+    "description": "Entdecken Sie unsere Sammlung spezialisierter Bildschirm-Tools für verschiedene Zwecke.",
+    "colorScreens": "Farbbildschirme",
+    "prankScreens": "Streich-Bildschirme",
+    "fakeUpdateScreens": "Gefälschte Update-Bildschirme",
+    "screensaverScreens": "Bildschirmschoner"
+  },
+  "howToUse": {
+    "title": "So verwenden Sie den Blue Screen of Death Simulator",
+    "steps": [
+      "Seite öffnen - Gehen Sie zu blue-screen-of-death-windows in Ihrem Desktop-Browser.",
+      "Vollbild - Klicken Sie auf \"Vollbild\" oder drücken Sie F11, damit der falsche BSOD Ihren Bildschirm ausfüllt.",
+      "Wählen Sie Ihre Version (falls unterstützt) - Wählen Sie zwischen Windows XP, Windows 7, Windows 10 oder Windows 11 Blue Screen Stilen.",
+      "Beobachten Sie die Crash-Simulation - Der Bildschirm zeigt einen realistischen \"Systemfehler\" — komplett mit blauem Hintergrund und Fehlercodes.",
+      "Verwenden Sie es zum Spaß oder Lehren - Ideal für Streiche, Klassen-Demos oder Retro-Visualeffekte.",
+      "Jederzeit beenden - Drücken Sie Esc oder F11, um den Vollbildmodus sofort zu verlassen."
+    ]
+  },
+  "techSpecs": {
+    "title": "Technische Spezifikationen",
+    "specs": [
+      "Auflösung: Bis zu 8K (7680x4320)",
+      "Farbtiefe: 24-bit RGB",
+      "Format: PNG, JPEG, WebP",
+      "Kompatibilität: Alle modernen Browser",
+      "Offline-Funktionalität: Vollständig verfügbar"
+    ]
+  }
+}

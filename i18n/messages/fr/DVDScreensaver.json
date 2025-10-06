@@ -1,0 +1,81 @@
+{
+  "hero": {
+    "title": "Écran de Veille DVD",
+    "description": "Découvrez le classique écran de veille DVD en ligne. Personnalisez la taille du logo DVD et la vitesse de mouvement pour une ambiance nostalgique plein écran. Parfait pour la détente, les présentations et le divertissement.",
+    "keywords": "écran de veille dvd, écran de veille dvd en ligne, écran de veille logo dvd, écran de veille plein écran, simulateur écran de veille dvd, écran de veille personnalisable, écran de veille rétro",
+    "badge": "Écran de Veille DVD Classique",
+    "features": {
+      "noRegistration": "Pas d'Inscription",
+      "worksOffline": "Fonctionne Hors Ligne",
+      "allDevices": "Tous les Appareils"
+    }
+  },
+  "keywords": "écran de veille dvd, écran de veille dvd en ligne, écran de veille logo dvd, écran de veille plein écran, simulateur écran de veille dvd, écran de veille personnalisable, écran de veille rétro, écran de veille classique, logo rebondissant, écran de veille nostalgique",
+  "preview": {
+    "title": "Aperçu en Direct",
+    "download": "Télécharger",
+    "comingSoon": "Bientôt Disponible",
+    "bouncingLogo": "Logo Rebondissant"
+  },
+  "colorPicker": {
+    "title": "Choisir l'Écran",
+    "speed": "Vitesse",
+    "size": "Taille",
+    "selectScreen": "Sélectionnez un effet d'écran à afficher",
+    "fullScreen": "Plein Écran"
+  },
+  "useCases": {
+    "title": "Les gens utilisent l'Écran de Veille DVD pour :",
+    "case1": {
+      "title": "Se Détendre avec l'Écran de Veille DVD Classique",
+      "description": "Décompressez après une longue journée en regardant le logo DVD nostalgique se déplacer sur votre écran plein écran. Ce simulateur d'écran de veille DVD ramène le charme des écrans de veille classiques, créant une ambiance apaisante sur votre écran."
+    },
+    "case2": {
+      "title": "Améliorer l'Arrière-plan de Votre Présentation",
+      "description": "Ajoutez une touche dynamique à vos présentations en utilisant l'écran de veille DVD en mode plein écran. Ajustez la taille du logo et la vitesse de mouvement selon votre style, rendant l'arrière-plan de votre présentation engageant et professionnel."
+    },
+    "case3": {
+      "title": "Parfait pour les Salles d'Attente",
+      "description": "Divertissez les visiteurs avec l'écran de veille logo DVD dans votre salle d'attente. Cet outil en ligne vous permet de personnaliser la taille du logo et la vitesse de mouvement, offrant une expérience visuellement attrayante à vos invités."
+    },
+    "case4": {
+      "title": "Créer une Ambiance de Fête Amusante",
+      "description": "Utilisez le simulateur d'écran de veille DVD pendant les fêtes pour créer une ambiance amusante et nostalgique. Réglez-le en mode plein écran et laissez le logo DVD en mouvement ajouter une touche unique à votre événement, ajustable à toute taille et vitesse."
+    },
+    "case5": {
+      "title": "Booster de Concentration pour les Sessions d'Étude",
+      "description": "Boostez votre concentration en utilisant l'écran de veille DVD pendant l'étude. Le mouvement doux du logo DVD en plein écran peut aider à maintenir la concentration, avec une taille et vitesse ajustables selon votre préférence."
+    },
+    "case6": {
+      "title": "Montrer le Style Rétro dans les Magasins",
+      "description": "Attirez les clients dans votre magasin avec l'écran de veille DVD rétro en mode plein écran. Le logo DVD en mouvement, personnalisable en taille et vitesse, peut ajouter une touche vintage à vos écrans d'affichage."
+    }
+  },
+  "howToUse": {
+    "title": "Comment Utiliser l'Écran de Veille DVD en Ligne",
+    "steps": [
+      "Ouvrir la page - Allez sur /dvd-screensaver sur votre ordinateur ou navigateur TV.",
+      "Plein écran - Cliquez sur \"Plein Écran\" ou appuyez sur F11 pour faire rebondir librement le logo DVD sur votre écran.",
+      "Regarder le mouvement du logo DVD classique - Profitez de l'animation nostalgique — le logo DVD coloré rebondit en douceur et change de direction quand il touche les bords de l'écran, comme l'écran de veille original des lecteurs DVD.",
+      "L'utiliser comme écran de veille réel ou arrière-plan - Laissez-le fonctionner pendant votre absence, ou utilisez-le comme animation de boucle rétro pour diffusion, décoration ou effets visuels.",
+      "Sortir à tout moment - Appuyez sur Échap ou F11 à nouveau pour quitter le mode plein écran."
+    ]
+  },
+  "faq": {
+    "title": "Écran de Veille DVD en Ligne",
+    "question1": "Qu'est-ce que l'Écran de Veille DVD en Ligne ?",
+    "answer1": "C'est un simulateur gratuit basé sur navigateur du classique écran de veille de logo DVD rebondissant. Aucune installation requise.",
+    "question2": "Protège-t-il vraiment mon écran ?",
+    "answer2": "Pas exactement — c'est une simulation visuelle. Il n'active pas l'écran de veille natif de votre système, mais vous pouvez l'utiliser de la même manière.",
+    "question3": "Est-ce sûr à utiliser ?",
+    "answer3": "Oui ! C'est 100% sûr — pas de téléchargements, pas de publicités et pas de changements système.",
+    "question4": "Puis-je l'utiliser pour le plaisir ou la nostalgie ?",
+    "answer4": "Bien sûr ! 😄 Beaucoup de gens l'utilisent pour revivre l'ère classique du DVD ou tester combien de temps il faut au logo pour toucher le coin !",
+    "question5": "Puis-je le laisser fonctionner sur un deuxième moniteur ou TV ?",
+    "answer5": "Oui. Ouvrez la page sur n'importe quel écran et passez en plein écran. Parfait pour les fêtes, les affichages de bureau ou les boucles d'arrière-plan.",
+    "question6": "Fonctionne-t-il sur les téléphones et tablettes ?",
+    "answer6": "Oui, mais pour le meilleur effet, utilisez un ordinateur de bureau ou une TV intelligente en mode plein écran.",
+    "question7": "Puis-je changer la couleur ou la vitesse du logo ?",
+    "answer7": "Certaines versions incluent des options de personnalisation comme la couleur du logo ou la vitesse d'animation — essayez les boutons sous l'animation s'ils sont disponibles."
+  }
+}

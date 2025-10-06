@@ -1,0 +1,81 @@
+{
+  "hero": {
+    "title": "Salvaschermo DVD",
+    "description": "Sperimenta il classico salvaschermo DVD online. Personalizza la dimensione del logo DVD e la velocità di movimento per un'ambientazione nostalgica a schermo intero. Perfetto per relax, presentazioni e intrattenimento.",
+    "keywords": "salvaschermo dvd, salvaschermo dvd online, salvaschermo logo dvd, salvaschermo schermo intero, simulatore salvaschermo dvd, salvaschermo personalizzabile, salvaschermo retrò",
+    "badge": "Salvaschermo DVD Classico",
+    "features": {
+      "noRegistration": "Nessuna Registrazione",
+      "worksOffline": "Funziona Offline",
+      "allDevices": "Tutti i Dispositivi"
+    }
+  },
+  "keywords": "salvaschermo dvd, salvaschermo dvd online, salvaschermo logo dvd, salvaschermo schermo intero, simulatore salvaschermo dvd, salvaschermo personalizzabile, salvaschermo retrò, salvaschermo classico, logo rimbalzante, salvaschermo nostalgico",
+  "preview": {
+    "title": "Anteprima dal Vivo",
+    "download": "Scarica",
+    "comingSoon": "Prossimamente",
+    "bouncingLogo": "Logo Rimbalzante"
+  },
+  "colorPicker": {
+    "title": "Scegli Schermo",
+    "speed": "Velocità",
+    "size": "Dimensione",
+    "selectScreen": "Seleziona un effetto schermo da visualizzare",
+    "fullScreen": "Schermo Intero"
+  },
+  "useCases": {
+    "title": "Le persone usano il Salvaschermo DVD per:",
+    "case1": {
+      "title": "Rilassarsi con il Salvaschermo DVD Classico",
+      "description": "Rilassati dopo una lunga giornata guardando il logo DVD nostalgico muoversi intorno al tuo schermo intero. Questo simulatore di salvaschermo DVD riporta il fascino dei salvaschermo classici, creando un'ambientazione rilassante sul tuo schermo."
+    },
+    "case2": {
+      "title": "Migliorare lo Sfondo della Tua Presentazione",
+      "description": "Aggiungi un tocco dinamico alle tue presentazioni usando il salvaschermo DVD in modalità schermo intero. Regola la dimensione del logo e la velocità di movimento per adattarla al tuo stile, rendendo lo sfondo della tua presentazione coinvolgente e professionale."
+    },
+    "case3": {
+      "title": "Perfetto per le Sale d'Attesa",
+      "description": "Intrattieni i visitatori con il salvaschermo logo DVD nella tua sala d'attesa. Questo strumento online ti permette di personalizzare la dimensione del logo e la velocità di movimento, fornendo un'esperienza visivamente accattivante per i tuoi ospiti."
+    },
+    "case4": {
+      "title": "Creare un'Atmosfera di Festa Divertente",
+      "description": "Usa il simulatore di salvaschermo DVD durante le feste per creare un'atmosfera divertente e nostalgica. Impostalo in modalità schermo intero e lascia che il logo DVD in movimento aggiunga un tocco unico al tuo evento, regolabile a qualsiasi dimensione e velocità."
+    },
+    "case5": {
+      "title": "Booster di Concentrazione per Sessioni di Studio",
+      "description": "Aumenta la tua concentrazione usando il salvaschermo DVD mentre studi. Il movimento delicato del logo DVD a schermo intero può aiutare a mantenere la concentrazione, con dimensione e velocità regolabili secondo le tue preferenze."
+    },
+    "case6": {
+      "title": "Mostrare Stile Retrò nei Negozi",
+      "description": "Attira i clienti nel tuo negozio con il salvaschermo DVD retrò in modalità schermo intero. Il logo DVD in movimento, personalizzabile in dimensione e velocità, può aggiungere un tocco vintage ai tuoi schermi di visualizzazione."
+    }
+  },
+  "howToUse": {
+    "title": "Come Usare il Salvaschermo DVD Online",
+    "steps": [
+      "Apri la pagina - Vai su /dvd-screensaver sul tuo computer o browser TV.",
+      "Schermo intero - Clicca su \"Schermo Intero\" o premi F11 per far rimbalzare liberamente il logo DVD sul tuo schermo.",
+      "Osserva il movimento del logo DVD classico - Goditi l'animazione nostalgica — il logo DVD colorato rimbalza dolcemente e cambia direzione quando tocca i bordi dello schermo, proprio come il salvaschermo originale dei lettori DVD.",
+      "Usalo come salvaschermo reale o sfondo - Lascialo funzionare mentre sei via, o usalo come animazione di loop retrò per streaming, decorazione o effetti visivi.",
+      "Esci in qualsiasi momento - Premi Esc o F11 di nuovo per uscire dalla modalità schermo intero."
+    ]
+  },
+  "faq": {
+    "title": "Salvaschermo DVD Online",
+    "question1": "Cos'è il Salvaschermo DVD Online?",
+    "answer1": "È un simulatore gratuito basato su browser del classico salvaschermo di logo DVD rimbalzante. Nessuna installazione richiesta.",
+    "question2": "Protegge davvero il mio schermo?",
+    "answer2": "Non esattamente — è una simulazione visiva. Non attiva il salvaschermo nativo del tuo sistema, ma puoi usarlo allo stesso modo.",
+    "question3": "È sicuro da usare?",
+    "answer3": "Sì! È 100% sicuro — nessun download, nessuna pubblicità e nessun cambiamento di sistema.",
+    "question4": "Posso usarlo per divertimento o nostalgia?",
+    "answer4": "Certo! 😄 Molte persone lo usano per rivivere l'era classica del DVD o testare quanto tempo ci vuole perché il logo colpisca l'angolo!",
+    "question5": "Posso tenerlo in funzione su un secondo monitor o TV?",
+    "answer5": "Sì. Apri la pagina su qualsiasi schermo e vai a schermo intero. Perfetto per feste, display d'ufficio o loop di sfondo.",
+    "question6": "Funziona su telefoni e tablet?",
+    "answer6": "Sì, ma per il miglior effetto, usa un desktop o smart TV in modalità schermo intero.",
+    "question7": "Posso cambiare il colore o la velocità del logo?",
+    "answer7": "Alcune versioni includono opzioni di personalizzazione come colore del logo o velocità di animazione — prova i pulsanti sotto l'animazione se disponibili."
+  }
+}

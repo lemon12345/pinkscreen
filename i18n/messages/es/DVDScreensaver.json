@@ -1,0 +1,101 @@
+{
+  "hero": {
+    "title": "Protector de Pantalla de DVD",
+    "description": "Experimenta el clásico protector de pantalla de DVD en línea. Personaliza el tamaño del logo de DVD y la velocidad de movimiento para una ambientación nostálgica a pantalla completa. Perfecto para relajación, presentaciones y entretenimiento.",
+    "badge": "Protector de Pantalla Clásico de DVD",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Sin Conexión",
+      "allDevices": "Todos los Dispositivos"
+    }
+  },
+  "keywords": "protector de pantalla de DVD, protector de pantalla de DVD en línea, logo de DVD en protector de pantalla, protector de pantalla a pantalla completa, simulador de protector de pantalla de DVD, protector de pantalla personalizable, protector de pantalla retro",
+  "preview": {
+    "title": "Vista Previa en Vivo",
+    "download": "Descargar",
+    "comingSoon": "Próximamente",
+    "bouncingLogo": "Logo Rebotando"
+  },
+  "colorPicker": {
+    "title": "Elige Tu Pantalla",
+    "speed": "Velocidad",
+    "size": "Tamaño",
+    "selectScreen": "Selecciona un efecto de pantalla para mostrar",
+    "fullScreen": "Pantalla Completa",
+    "custom": "Personalizado",
+    "description": "Perfecto para relajación, presentaciones y entretenimiento",
+    "launchButton": "Lanzar Protector de Pantalla de DVD"
+  },
+  "useCases": {
+    "title": "La gente usa protector de pantalla de DVD para:",
+    "case1": {
+      "title": "Relájate con el Clásico Protector de Pantalla de DVD",
+      "description": "Relájate después de un largo día viendo el nostálgico logo de DVD del protector de pantalla moverse por tu pantalla completa. Este simulador de protector de pantalla de DVD trae de vuelta el encanto de los protectores de pantalla clásicos, creando una ambientación calmante en tu pantalla."
+    },
+    "case2": {
+      "title": "Mejora el Fondo de tu Presentación",
+      "description": "Agrega un toque dinámico a tus presentaciones usando el protector de pantalla de DVD en modo pantalla completa. Ajusta el tamaño del logo y la velocidad de movimiento para adaptarse a tu estilo, haciendo que el fondo de tu presentación sea atractivo y profesional."
+    },
+    "case3": {
+      "title": "Perfecto para Salas de Espera",
+      "description": "Mantén entretenidos a los visitantes con el protector de pantalla de logo de DVD en tu sala de espera. Esta herramienta en línea te permite personalizar el tamaño del logo y la velocidad de movimiento, proporcionando una experiencia visualmente atractiva para tus invitados."
+    },
+    "case4": {
+      "title": "Crea una Atmósfera Divertida para Fiestas",
+      "description": "Usa el simulador de protector de pantalla de DVD durante fiestas para crear una atmósfera divertida y nostálgica. Configúralo en modo pantalla completa y deja que el logo de DVD en movimiento agregue un toque único a tu evento, ajustable a cualquier tamaño y velocidad."
+    },
+    "case5": {
+      "title": "Refuerzo de Concentración para Sesiones de Estudio",
+      "description": "Aumenta tu concentración usando el protector de pantalla de DVD mientras estudias. El movimiento suave del logo de DVD en pantalla completa puede ayudar a mantener el enfoque, con tamaño y velocidad ajustables para adaptarse a tu preferencia."
+    },
+    "case6": {
+      "title": "Muestra Estilo Retro en Tiendas",
+      "description": "Atrae clientes a tu tienda con el protector de pantalla retro de DVD en modo pantalla completa. El logo de DVD en movimiento, personalizable en tamaño y velocidad, puede agregar un toque vintage a tus pantallas de exhibición."
+    }
+  },
+  "faq": {
+    "title": "Protector de Pantalla de DVD en Línea",
+    "question1": "¿Qué es el Protector de Pantalla de DVD en Línea?",
+    "answer1": "Es un simulador gratuito basado en navegador del clásico protector de pantalla de logo de DVD rebotante. No requiere instalación.",
+    "question2": "¿Realmente protege mi pantalla?",
+    "answer2": "No exactamente — es una simulación visual. No activa el protector de pantalla nativo de tu sistema, pero puedes usarlo de la misma manera.",
+    "question3": "¿Es seguro de usar?",
+    "answer3": "¡Sí! Es 100% seguro — sin descargas, sin anuncios y sin cambios en el sistema.",
+    "question4": "¿Puedo usarlo para diversión o nostalgia?",
+    "answer4": "¡Por supuesto! 😄 Mucha gente lo usa para revivir la era clásica del DVD o probar cuánto tiempo tarda el logo en golpear la esquina.",
+    "question5": "¿Puedo mantenerlo funcionando en un segundo monitor o TV?",
+    "answer5": "Sí. Abre la página en cualquier pantalla y ve a pantalla completa. Perfecto para fiestas, exhibiciones de oficina o bucles de fondo.",
+    "question6": "¿Funciona en teléfonos y tabletas?",
+    "answer6": "Sí, pero para el mejor efecto, usa una computadora de escritorio o TV inteligente en modo pantalla completa.",
+    "question7": "¿Puedo cambiar el color o velocidad del logo?",
+    "answer7": "Algunas versiones incluyen opciones de personalización como color del logo o velocidad de animación — prueba los botones debajo de la animación si están disponibles."
+  },
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "prankScreens": "Pantallas de Broma",
+    "fakeUpdateScreens": "Pantallas de Actualización Falsa",
+    "screensaverScreens": "Pantallas de Protector de Pantalla"
+  },
+  "howToUse": {
+    "title": "Cómo Usar el Protector de Pantalla de DVD en Línea",
+    "steps": [
+      "Abrir la página - Ve a /dvd-screensaver en tu computadora o navegador de TV.",
+      "Pantalla completa - Haz clic en \"Pantalla Completa\" o presiona F11 para que el logo de DVD rebote libremente por tu pantalla.",
+      "Observar el movimiento del logo clásico de DVD - Disfruta la animación nostálgica — el logo colorido de DVD rebota suavemente y cambia de dirección cuando toca los bordes de la pantalla, igual que el protector de pantalla original de los reproductores de DVD.",
+      "Usarlo como protector de pantalla real o fondo - Déjalo funcionando mientras estás ausente, o úsalo como animación de bucle retro para transmisión, decoración o efectos visuales.",
+      "Salir en cualquier momento - Presiona Esc o F11 nuevamente para salir del modo pantalla completa."
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificaciones Técnicas",
+    "specs": [
+      "Resolución: Hasta 8K (7680x4320)",
+      "Profundidad de Color: 24-bit RGB",
+      "Formato: PNG, JPEG, WebP",
+      "Compatibilidad: Todos los navegadores modernos",
+      "Funcionalidad Offline: Completamente disponible"
+    ]
+  }
+}

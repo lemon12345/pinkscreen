@@ -1,0 +1,81 @@
+{
+  "hero": {
+    "title": "DVD Screensaver",
+    "description": "Experience the classic DVD screensaver online. Customize the DVD logo size and movement speed for a full-screen, nostalgic ambiance. Perfect for relaxation, presentations, and entertainment.",
+    "keywords": "dvd screensaver, online dvd screensaver, dvd logo screensaver, full-screen screensaver, dvd screensaver simulator, customizable screensaver, retro screensaver",
+    "badge": "Classic DVD Screensaver",
+    "features": {
+      "noRegistration": "No Registration",
+      "worksOffline": "Works Offline",
+      "allDevices": "All Devices"
+    }
+  },
+  "keywords": "dvd screensaver, online dvd screensaver, dvd logo screensaver, full-screen screensaver, dvd screensaver simulator, customizable screensaver, retro screensaver, classic screensaver, bouncing logo, nostalgic screensaver",
+  "preview": {
+    "title": "Live Preview",
+    "download": "Download",
+    "comingSoon": "Coming Soon",
+    "bouncingLogo": "Bouncing Logo"
+  },
+  "colorPicker": {
+    "title": "Choose Screen",
+    "speed": "Speed",
+    "size": "Size",
+    "selectScreen": "Select a screen effect to display",
+    "fullScreen": "Full Screen"
+  },
+  "useCases": {
+    "title": "People use DVD Screensaver for:",
+    "case1": {
+      "title": "Relax with the Classic DVD Screensaver",
+      "description": "Unwind after a long day by watching the nostalgic DVD logo screensaver move around your full-screen. This DVD screensaver simulator brings back the charm of classic screensavers, creating a calming ambiance on your screen."
+    },
+    "case2": {
+      "title": "Enhance Your Presentation Background",
+      "description": "Add a dynamic touch to your presentations by using the DVD screensaver in full-screen mode. Adjust the logo size and movement speed to fit your style, making your presentation background engaging and professional."
+    },
+    "case3": {
+      "title": "Perfect for Waiting Rooms",
+      "description": "Keep visitors entertained with the DVD logo screensaver in your waiting room. This online tool allows you to customize the logo size and movement speed, providing a visually appealing experience for your guests."
+    },
+    "case4": {
+      "title": "Create a Fun Party Atmosphere",
+      "description": "Use the DVD screensaver simulator during parties to create a fun and nostalgic atmosphere. Set it to full-screen mode and let the moving DVD logo add a unique touch to your event, adjustable to any size and speed."
+    },
+    "case5": {
+      "title": "Focus Booster for Study Sessions",
+      "description": "Boost your concentration by using the DVD screensaver while studying. The gentle movement of the DVD logo on full-screen can help maintain focus, with adjustable size and speed to suit your preference."
+    },
+    "case6": {
+      "title": "Showcase Retro Style in Stores",
+      "description": "Attract customers to your store with the retro DVD screensaver in full-screen mode. The moving DVD logo, customizable in size and speed, can add a vintage flair to your display screens."
+    }
+  },
+  "howToUse": {
+    "title": "How to Use the Online DVD Screensaver",
+    "steps": [
+      "Open the page - Go to /dvd-screensaver on your computer or TV browser.",
+      "Go full screen - Click \"Full Screen\" or press F11 to make the DVD logo bounce freely across your screen.",
+      "Watch the classic DVD logo move - Enjoy the nostalgic animation — the colorful DVD logo smoothly bounces and changes direction when it hits the screen edges, just like the original screensaver from DVD players.",
+      "Use it as a real screensaver or background - Leave it running while you're away, or use it as a retro looping animation for streaming, decoration, or visual effects.",
+      "Exit anytime - Press Esc or F11 again to leave full-screen mode."
+    ]
+  },
+  "faq": {
+    "title": "Online DVD Screensaver",
+    "question1": "What is the Online DVD Screensaver?",
+    "answer1": "It's a free browser-based simulator of the classic bouncing DVD logo screensaver. No installation required.",
+    "question2": "Does it really save my screen?",
+    "answer2": "Not exactly — it's a visual simulation. It doesn't activate your system's native screensaver, but you can use it the same way.",
+    "question3": "Is it safe to use?",
+    "answer3": "Yes! It's 100% safe — no downloads, no ads, and no system changes.",
+    "question4": "Can I use it for fun or nostalgia?",
+    "answer4": "Of course 😄 Many people use it to relive the classic DVD era or test how long it takes for the logo to hit the corner!",
+    "question5": "Can I keep it running on a second monitor or TV?",
+    "answer5": "Yes. Open the page on any screen and go full screen. Perfect for parties, office displays, or background loops.",
+    "question6": "Does it work on phones and tablets?",
+    "answer6": "Yes, but for the best effect, use a desktop or smart TV in full-screen mode.",
+    "question7": "Can I change the logo color or speed?",
+    "answer7": "Some versions include customization options like logo color or animation speed — try the buttons below the animation if available."
+  }
+}

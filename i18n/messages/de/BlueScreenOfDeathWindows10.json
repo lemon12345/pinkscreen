@@ -1,0 +1,85 @@
+{
+  "hero": {
+    "badge": "Windows 10 BSOD Simulator",
+    "title": "Falscher Windows 10 Blue Screen of Death (BSOD) – Online Simulator & Streich Tool",
+    "description": "Simulieren Sie den Windows 10 Blue Screen of Death (BSOD) online. Perfekt für Streiche, Tech-Demos oder Nostalgie. Läuft sicher in Ihrem Browser — keine Downloads oder Systemrisiko.",
+    "features": {
+      "noRegistration": "Keine Registrierung",
+      "worksOffline": "Funktioniert Offline",
+      "allDevices": "Alle Geräte"
+    },
+    "chooseScreen": "Bildschirm Wählen",
+    "chooseScreenDescription": "Wählen Sie aus unserer Sammlung realistischer Bildschirmsimulationen",
+    "fullScreen": "Vollbild",
+    "custom": "Benutzerdefiniert",
+    "description": "Perfekt für Streiche, Tech-Demos und Nostalgie",
+    "launchButton": "Blue Screen of Death Starten"
+  },
+  "useCases": {
+    "title": "Menschen verwenden Blue Screen of Death für:",
+    "case1": {
+      "title": "Freunde mit Falschem Windows Crash Veräppeln",
+      "description": "Überraschen Sie Ihre Freunde mit einer realistischen Blue Screen of Death Simulation. Unser BSOD Simulator zeigt authentische Windows Fehlermeldungen und Crash-Bildschirme, perfekt für harmlose Streiche und Tech-Demonstrationen."
+    },
+    "case2": {
+      "title": "Tech-Demos und Präsentationen",
+      "description": "Verwenden Sie unseren BSOD Simulator für technische Demonstrationen, Schulungssitzungen oder Präsentationen über Windows Fehler. Zeigen Sie realistische Crash-Szenarien ohne echtes Systemrisiko."
+    },
+    "case3": {
+      "title": "Nostalgische Windows Erfahrung",
+      "description": "Erleben Sie die klassische Windows Erfahrung mit unserem authentischen Blue Screen of Death Simulator neu. Perfekt für diejenigen, die sich an die ikonischen Windows Crash-Bildschirme früherer Betriebssysteme erinnern."
+    },
+    "case4": {
+      "title": "Bildung Informatik",
+      "description": "Lehren Sie Studenten über Windows Systemfehler und Crash-Szenarien mit unserem sicheren BSOD Simulator. Demonstrieren Sie Fehlerbehandlungskonzepte ohne echte Systemausfälle zu verursachen."
+    },
+    "case5": {
+      "title": "Content-Erstellung und Videos",
+      "description": "Erstellen Sie ansprechende Inhalte mit unserem Blue Screen of Death Simulator. Perfekt für Tech-Kanäle, Comedy-Videos oder Bildungsinhalte über Computersysteme und Fehler."
+    },
+    "case6": {
+      "title": "Tests und Entwicklung",
+      "description": "Verwenden Sie unseren BSOD Simulator für Softwaretests, UI-Entwicklung oder Fehlerbehandlungsdemonstrationen. Sichere Art zu testen, wie Anwendungen auf Systemfehler-Szenarien reagieren."
+    },
+    "case7": {
+      "title": "Bildschirmtests und Kalibrierung",
+      "description": "Verwenden Sie unseren BSOD Simulator für Anzeigetests, Farbkalibrierung und Bildschirmdiagnostik. Perfekt zum Testen von Monitoreinstellungen und Identifizieren von Anzeigeproblemen."
+    }
+  },
+  "howToUse": {
+    "title": "🧭 Wie man den Falschen Windows 10 Blue Screen of Death Verwendet",
+    "steps": [
+      "Seite öffnen - Besuchen Sie blue-screen-of-death-windows-10 in Ihrem Browser.",
+      "Vollbild - Klicken Sie auf \"Vollbild\" oder drücken Sie F11, damit es wie ein echter Windows 10 Systemabsturz aussieht.",
+      "Falschen BSOD beobachten - Die Seite zeigt das traurige Gesicht :(, QR-Code und Stop-Code-Nachricht — genau wie ein echter Windows 10 Blue Screen.",
+      "Für Spaß oder Unterricht verwenden - Großartig für Streiche, Demo-Lektionen oder retro Windows-Style-Visualeffekte.",
+      "Jederzeit beenden - Drücken Sie Esc oder F11 erneut, um den Vollbildmodus sicher zu verlassen."
+    ]
+  },
+  "faq": {
+    "title": "FAQ – Falscher Windows 10 Blue Screen of Death",
+    "q1": "Was ist der Falsche Windows 10 Blue Screen of Death?",
+    "a1": "Es ist eine Online-Simulation des echten Windows 10 BSOD — komplett mit dem traurigen Gesicht und QR-Code — rein für Spaß oder Bildungszwecke gemacht.",
+    "q2": "Ist es sicher?",
+    "a2": "Ja. Es ist vollständig browserbasiert und beeinflusst Ihren Computer überhaupt nicht.",
+    "q3": "Kann ich es verwenden, um jemanden zu erschrecken?",
+    "a3": "Absolut! 😄 Öffnen Sie es im Vollbild und schauen Sie zu, wie Ihr Freund in Panik gerät, wenn der \"Systemabsturz\" erscheint!",
+    "q4": "Wie verlasse ich den Bildschirm?",
+    "a4": "Drücken Sie Esc oder F11, um sofort zum normalen Modus zurückzukehren.",
+    "q5": "Funktioniert es auf macOS oder Linux?",
+    "a5": "Ja — obwohl es einen Windows 10-Stil-Absturz zeigt, funktioniert es in jedem modernen Webbrowser.",
+    "q6": "Kann ich es in meinen Videos oder Demos verwenden?",
+    "a6": "Ja! Es wird oft von Tech-YouTubern, Streamern und IT-Trainern für realistische Absturz-Szenen verwendet.",
+    "q7": "Verursacht es Schäden oder Datenverlust?",
+    "a7": "Nein. Es ist nur eine visuelle Simulation. Ihr Gerät und Dateien sind 100% sicher."
+  },
+  "keywords": "falscher blue screen of death, BSOD simulator, Windows 10 crash, falscher Windows crash, blue screen streich, Windows fehler simulator, falscher system crash, Windows 10 BSOD, crash bildschirm simulator, falscher Windows fehler",
+  "additionalTools": {
+    "title": "Zusätzliche Bildschirm-Tools",
+    "description": "Entdecken Sie unsere Sammlung spezialisierter Bildschirm-Tools für verschiedene Zwecke.",
+    "colorScreens": "Farbbildschirme",
+    "prankScreens": "Streich-Bildschirme",
+    "systemScreens": "System-Bildschirme",
+    "screensavers": "Bildschirmschoner"
+  }
+}

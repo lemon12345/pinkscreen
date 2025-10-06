@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Tela de Vírus Falso - Arquivos criptografados",
+    "description": "Tela de vírus falso exigindo dinheiro para descriptografia de arquivos. Brinque com seus amigos abrindo isso na máquina deles!",
+    "badge": "Ferramenta Brincadeira Vírus"
+  },
+  "keywords": "vírus falso, brincadeira ransomware, hacker falso, brincadeira computador, simulador vírus, malware falso, brincadeira arquivos criptografados, brincadeira vírus inofensiva, cibersegurança falsa, tela brincadeira",
+  "colorPicker": {
+    "title": "Brincadeira Vírus Falsa",
+    "description": "Tela de vírus realística para brincadeiras inofensivas e educação em cibersegurança",
+    "launchButton": "Iniciar Brincadeira Vírus",
+    "clickHint": "Clique no botão acima para iniciar brincadeira vírus em tela cheia"
+  },
+  "useCases": {
+    "title": "As pessoas usam brincadeira vírus para:",
+    "description": "Nosso simulador de vírus falso fornece experiência ransomware realística para educação e brincadeiras inofensivas.",
+    "cases": [
+      {
+        "icon": "🛡️",
+        "title": "Educação Cibersegurança",
+        "description": "Ensinar sobre ameaças ransomware e conscientização de cibersegurança em ambiente seguro e controlado."
+      },
+      {
+        "icon": "😂",
+        "title": "Brincadeiras Escritório Inofensivas",
+        "description": "Brincar com segurança com colegas usando tela de vírus realística que se revela como brincadeira inofensiva."
+      },
+      {
+        "icon": "🎭",
+        "title": "Conteúdo Mídia Social",
+        "description": "Criar vídeos de reação envolventes e conteúdo de conscientização de cibersegurança para plataformas sociais."
+      },
+      {
+        "icon": "📚",
+        "title": "Treinamento IT",
+        "description": "Usar em cursos de treinamento IT para demonstrar ataques ransomware e procedimentos de resposta a incidentes."
+      },
+      {
+        "icon": "🎬",
+        "title": "Cinema & Teatro",
+        "description": "Perfeito para filmes, programas de TV ou produções teatrais que requerem cenas de hacker/vírus realísticas."
+      },
+      {
+        "icon": "🎪",
+        "title": "Dia da Mentira",
+        "description": "Brincadeira máxima do Dia da Mentira com interface ransomware convincente e opções de pagamento humorísticas."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "description": "Perguntas comuns sobre o simulador de brincadeira vírus falso",
+    "questions": [
+      {
+        "question": "Esta brincadeira vírus é realmente perigosa?",
+        "answer": "Absolutamente não! Esta é uma simulação 100% inofensiva. Nenhum arquivo é criptografado, nenhum dado é roubado, e nenhum malware real está envolvido."
+      },
+      {
+        "question": "Isso danificará meu computador ou arquivos?",
+        "answer": "Nenhum dano! É puramente uma simulação visual rodando em seu navegador. Todos os seus arquivos permanecem completamente seguros e intocados."
+      },
+      {
+        "question": "Quão realística parece?",
+        "answer": "Muito realística! Imita interfaces ransomware reais mas inclui métodos de pagamento humorísticos como 'Dinheiro do Monopólio' e 'rins' para garantir que é claramente uma brincadeira."
+      },
+      {
+        "question": "Como sair da brincadeira?",
+        "answer": "Pressione F11 ou tecla ESC para sair do modo tela cheia. A brincadeira também se revela como inofensiva com instruções claras."
+      },
+      {
+        "question": "Posso usar isso para treinamento de cibersegurança?",
+        "answer": "Sim! É perfeito para propósitos educacionais para demonstrar como ransomware parece e ensinar conscientização de cibersegurança."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Ferramentas de Tela Adicionais",
+    "description": "Explore nossa coleção de ferramentas de tela especializadas para vários propósitos.",
+    "colorScreens": "Telas Coloridas",
+    "prankScreens": "Telas de Brincadeira",
+    "fakeUpdateScreens": "Telas de Atualização Falsa",
+    "screensaverScreens": "Telas de Protetor de Tela"
+  },
+  "howToUse": {
+    "title": "Como Usar",
+    "steps": [
+      "Clique no botão de inicialização para entrar na brincadeira vírus em tela cheia",
+      "A tela de ransomware falso será exibida com cronômetro de contagem regressiva",
+      "Observe a reação da vítima à mensagem de criptografia realística",
+      "A brincadeira se revela com opções de pagamento humorísticas",
+      "Pressione F11 ou ESC para sair do modo tela cheia a qualquer momento"
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificações Técnicas",
+    "specs": [
+      "Interface: Simulação ransomware/vírus realística",
+      "Recursos: Cronômetro de contagem regressiva, mensagem de criptografia falsa",
+      "Segurança: 100% inofensivo - nenhum vírus ou malware real",
+      "Compatibilidade: Todos os navegadores e dispositivos modernos",
+      "Educação: Perfeito para treinamento de conscientização de cibersegurança"
+    ]
+  }
+}

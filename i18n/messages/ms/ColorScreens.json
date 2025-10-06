@@ -1,0 +1,20 @@
+{
+  "title": "Koleksi Skrin Warna",
+  "description": "Terokai koleksi lengkap simulasi skrin berwarna kami - dari skrin biru klasik hingga paparan pelangi yang hidup. Sempurna untuk gurauan, ujian dan projek kreatif.",
+  "badge": "Koleksi Lengkap Skrin Warna",
+  "screens": {
+    "pinkScreen": "Skrin Merah Jambu",
+    "blueScreen": "Skrin Biru",
+    "redScreen": "Skrin Merah",
+    "greenScreen": "Skrin Hijau",
+    "yellowScreen": "Skrin Kuning",
+    "orangeScreen": "Skrin Oren",
+    "purpleScreen": "Skrin Ungu",
+    "blackScreen": "Skrin Hitam",
+    "whiteScreen": "Skrin Putih",
+    "zoomLighting": "Pencahayaan Zoom"
+  },
+  "footer": {
+    "description": "Semua skrin adalah percuma dan berfungsi pada semua peranti"
+  }
+}

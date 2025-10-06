@@ -1,0 +1,276 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the Black Screen tool?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Black Screen tool turns your screen completely black. It's perfect for testing monitors, using as a dark background, or focusing without distractions."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it as a light-off screen or night mode?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Many people use the black screen to reduce glare or light while watching movies, resting, or sleeping."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does the black screen damage the display?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, it's completely safe. It simply displays a black color and doesn't affect your monitor or pixels."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it in full screen?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Click the Full Screen button or press F11 for a borderless black display."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is it available offline?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Once loaded, you can keep the black screen active even without an internet connection."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the White Screen tool used for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It displays a pure white background, commonly used for lighting, brightness tests, or cleaning stuck pixels."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can it be used as a light source?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Many users use the white screen to brighten dark rooms or as a makeshift soft light for photography or Zoom meetings."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Will it harm my eyes or monitor?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, but avoid staring at bright white light for long periods. It's safe for monitors."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I adjust brightness?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Use your device's brightness control to reduce or increase light intensity."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the Blue Screen tool?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It shows a solid blue background on your monitor — ideal for blue color testing, visual balance, or chroma-style effects."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is it the same as the Blue Screen of Death?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. This is a harmless blue background generator, not an error screen."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it for photography or video?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, the solid blue color works well as a background for compositing or creative effects."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does it support full screen?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Absolutely. Use the full-screen button for an immersive display."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the Red Screen tool for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It fills your display with red — often used for testing stuck or dead pixels on monitors and screens."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is red light good for eyes?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Red light is softer at night and may help reduce strain compared to blue light."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use this for lighting or ambience?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The red screen can create a warm, cozy light effect in dark rooms."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does it work on mobile?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The Red Screen tool works perfectly on phones and tablets."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What does the Green Screen page do?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It shows a flat green background, useful for video compositing, color calibration, or visual tests."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is this suitable for chroma key effects?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. You can use the green screen as a simple background for video editing and streaming."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does it have ads or watermarks?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, the screen is clean and distraction-free — ideal for production use."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I make it full screen?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Click the full-screen button or press F11 for a clean green display."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the purpose of the Purple (or Pink) Screen?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It displays a soft purple or pink color, used for calming visuals, background light, or aesthetic effects."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it for lighting or mood setting?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, many users use the purple or pink screen to create ambient lighting for rooms or photography."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does it work on phones and tablets?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. It's mobile-friendly and adjusts automatically to your screen size."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is it safe for long use?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, but like all bright screens, take occasional breaks to rest your eyes."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the Orange or Yellow Screen used for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It shows a warm color background for testing, design previews, or mood lighting."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can it reduce blue light at night?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, orange and yellow tones are gentler on the eyes and can reduce sleep disruption."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use it as a light source?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, the warm hue can be used as a reading light or ambient glow."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does it work on all devices?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. It runs smoothly on desktop, tablet, and mobile browsers."
+        }
+      }
+    ]
+  }
+]

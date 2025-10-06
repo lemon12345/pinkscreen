@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Fake Disk Formatting - Online Dos Prank",
+    "description": "Trick your friends with the online fake Dos prank which looks like it's formatting the disk drive but in reality it's not making any harm.",
+    "badge": "DOS Prank Tool"
+  },
+  "keywords": "fake DOS, disk formatting prank, online DOS prank, fake disk format, computer prank, DOS simulator, command prompt prank, fake format C, harmless prank, DOS screen",
+  "colorPicker": {
+    "title": "Fake DOS Prank",
+    "description": "Perfect for pranking friends with realistic DOS formatting simulation",
+    "launchButton": "Launch DOS Prank",
+    "clickHint": "Click the button above to launch fullscreen DOS prank"
+  },
+  "useCases": {
+    "title": "People use DOS prank for:",
+    "description": "Our fake DOS simulator provides realistic DOS formatting experience for harmless pranks and entertainment.",
+    "cases": [
+      {
+        "icon": "😂",
+        "title": "Harmless Pranks",
+        "description": "Safely prank friends and colleagues with realistic DOS formatting simulation without any actual damage."
+      },
+      {
+        "icon": "🎭",
+        "title": "Entertainment Videos",
+        "description": "Create funny reaction videos and entertainment content with authentic-looking DOS interface."
+      },
+      {
+        "icon": "🎪",
+        "title": "April Fools",
+        "description": "Perfect for April Fools' Day pranks and surprise entertainment moments with friends."
+      },
+      {
+        "icon": "📱",
+        "title": "Social Media Content",
+        "description": "Generate engaging social media content and funny tech-related posts for your audience."
+      },
+      {
+        "icon": "🎬",
+        "title": "Film & Theater",
+        "description": "Use in movies, theater productions, or educational demonstrations requiring DOS interface."
+      },
+      {
+        "icon": "🎮",
+        "title": "Retro Gaming",
+        "description": "Experience nostalgic DOS interface and remember the classic computing era."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Common questions about the fake DOS prank simulator",
+    "questions": [
+      {
+        "question": "Is this DOS prank safe to use?",
+        "answer": "Absolutely safe! This is just a web simulation that mimics DOS formatting. It doesn't actually format or damage any files on your computer."
+      },
+      {
+        "question": "Will this actually delete my files?",
+        "answer": "No! This is purely visual simulation. No files are deleted, no formatting occurs. It's completely harmless and safe."
+      },
+      {
+        "question": "How do I exit the prank?",
+        "answer": "Press ESC key or F11 to exit fullscreen mode. The prank will also automatically reveal itself after completion."
+      },
+      {
+        "question": "Can I use this on mobile devices?",
+        "answer": "Yes! The DOS prank works on all devices including smartphones and tablets with fullscreen support."
+      },
+      {
+        "question": "Is this suitable for office pranks?",
+        "answer": "While harmless, please use responsibly and consider your workplace environment before pranking colleagues."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Additional Screen Tools",
+    "description": "Explore our collection of specialized screen tools for various purposes.",
+    "colorScreens": "Color Screens",
+    "prankScreens": "Prank Screens",
+    "fakeUpdateScreens": "Fake Update Screens",
+    "screensaverScreens": "Screensaver Screens"
+  },
+  "howToUse": {
+    "title": "How to Use",
+    "steps": [
+      "Click the launch button to enter fullscreen DOS prank",
+      "Watch as the fake formatting process begins automatically",
+      "The system will display realistic DOS commands and progress",
+      "After completion, the prank reveals itself with a harmless message",
+      "Press ESC or F11 to exit fullscreen mode anytime"
+    ]
+  },
+  "techSpecs": {
+    "title": "Technical Specifications",
+    "specs": [
+      "Interface: Authentic DOS command prompt simulation",
+      "Features: Realistic disk formatting animation",
+      "Safety: 100% harmless - no actual formatting occurs",
+      "Compatibility: All modern browsers and devices",
+      "Duration: Automatic prank sequence with reveal"
+    ]
+  }
+}

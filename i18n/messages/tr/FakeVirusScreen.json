@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Sahte Virüs Ekranı - Dosyalar şifrelendi",
+    "description": "Dosya şifre çözme için para talep eden sahte virüs ekranı. Bunu arkadaşlarınızın makinesinde açarak onlara şaka yapın!",
+    "badge": "Virüs Şaka Aracı"
+  },
+  "keywords": "sahte virüs, ransomware şakası, sahte hacker, bilgisayar şakası, virüs simülatörü, sahte malware, şifrelenmiş dosya şakası, zararsız virüs şakası, sahte siber güvenlik, şaka ekranı",
+  "colorPicker": {
+    "title": "Sahte Virüs Şakası",
+    "description": "Zararsız şakalar ve siber güvenlik eğitimi için gerçekçi virüs ekranı",
+    "launchButton": "Virüs Şakasını Başlat",
+    "clickHint": "Tam ekran virüs şakasını başlatmak için yukarıdaki düğmeye tıklayın"
+  },
+  "useCases": {
+    "title": "İnsanlar virüs şakasını şunun için kullanır:",
+    "description": "Sahte virüs simülatörümüz eğitim ve zararsız şakalar için gerçekçi ransomware deneyimi sağlar.",
+    "cases": [
+      {
+        "icon": "🛡️",
+        "title": "Siber Güvenlik Eğitimi",
+        "description": "Güvenli, kontrollü bir ortamda ransomware tehditleri ve siber güvenlik farkındalığı hakkında öğretin."
+      },
+      {
+        "icon": "😂",
+        "title": "Zararsız Ofis Şakaları",
+        "description": "Kendini zararsız şaka olarak açığa çıkaran gerçekçi virüs ekranı ile meslektaşlara güvenle şaka yapın."
+      },
+      {
+        "icon": "🎭",
+        "title": "Sosyal Medya İçeriği",
+        "description": "Sosyal platformlar için ilgi çekici reaksiyon videoları ve siber güvenlik farkındalık içeriği oluşturun."
+      },
+      {
+        "icon": "📚",
+        "title": "IT Eğitimi",
+        "description": "Ransomware saldırılarını göstermek ve olay müdahale prosedürlerini öğretmek için IT eğitim kurslarında kullanın."
+      },
+      {
+        "icon": "🎬",
+        "title": "Film & Tiyatro",
+        "description": "Gerçekçi hacker/virüs sahneleri gerektiren filmler, TV şovları veya tiyatro prodüksiyonları için mükemmel."
+      },
+      {
+        "icon": "🎪",
+        "title": "1 Nisan Şakaları",
+        "description": "İkna edici ransomware arayüzü ve mizahi ödeme seçenekleri ile en iyi 1 Nisan şakası."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "description": "Sahte virüs şaka simülatörü hakkında yaygın sorular",
+    "questions": [
+      {
+        "question": "Bu virüs şakası gerçekten tehlikeli mi?",
+        "answer": "Kesinlikle değil! Bu %100 zararsız bir simülasyondur. Hiçbir dosya şifrelenmez, hiçbir veri çalınmaz ve gerçek malware dahil değildir."
+      },
+      {
+        "question": "Bu bilgisayarımı veya dosyalarımı zarar verecek mi?",
+        "answer": "Hiçbir zarar! Bu tarayıcınızda çalışan tamamen görsel bir simülasyondur. Tüm dosyalarınız tamamen güvenli ve dokunulmamış kalır."
+      },
+      {
+        "question": "Ne kadar gerçekçi görünüyor?",
+        "answer": "Çok gerçekçi! Gerçek ransomware arayüzlerini taklit eder ancak 'Monopoly Parası' ve 'böbrekler' gibi mizahi ödeme yöntemleri içerir, bunun açıkça bir şaka olduğundan emin olmak için."
+      },
+      {
+        "question": "Şakadan nasıl çıkabilirim?",
+        "answer": "Tam ekran modundan çıkmak için F11 veya ESC tuşuna basın. Şaka ayrıca net talimatlarla kendini zararsız olarak açığa çıkarır."
+      },
+      {
+        "question": "Bunu siber güvenlik eğitimi için kullanabilir miyim?",
+        "answer": "Evet! Ransomware'in nasıl göründüğünü göstermek ve siber güvenlik farkındalığını öğretmek için eğitim amaçları için mükemmeldir."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Ek Ekran Araçları",
+    "description": "Çeşitli amaçlar için özel ekran araçları koleksiyonumuzu keşfedin.",
+    "colorScreens": "Renkli Ekranlar",
+    "prankScreens": "Şaka Ekranları",
+    "fakeUpdateScreens": "Sahte Güncelleme Ekranları",
+    "screensaverScreens": "Ekran Koruyucu Ekranları"
+  },
+  "howToUse": {
+    "title": "Nasıl Kullanılır",
+    "steps": [
+      "Tam ekran virüs şakasına girmek için başlat düğmesine tıklayın",
+      "Sahte ransomware ekranı geri sayım zamanlayıcısı ile görüntülenecek",
+      "Kurbanın gerçekçi şifreleme mesajına tepkisini izleyin",
+      "Şaka mizahi ödeme seçenekleri ile kendini açığa çıkarır",
+      "Tam ekran modundan çıkmak için istediğiniz zaman F11 veya ESC'ye basın"
+    ]
+  },
+  "techSpecs": {
+    "title": "Teknik Özellikler",
+    "specs": [
+      "Arayüz: Gerçekçi ransomware/virüs simülasyonu",
+      "Özellikler: Geri sayım zamanlayıcısı, sahte şifreleme mesajı",
+      "Güvenlik: %100 zararsız - gerçek virüs veya malware yok",
+      "Uyumluluk: Tüm modern tarayıcılar ve cihazlar",
+      "Eğitim: Siber güvenlik farkındalık eğitimi için mükemmel"
+    ]
+  }
+}

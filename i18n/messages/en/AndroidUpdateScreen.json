@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "badge": "Ultimate Android Simulator",
+    "title": "Android Fake Update",
+    "description": "Experience a realistic fake Android update screen tool in full screen. Perfect for pranks, educational purposes, or tech demonstrations.",
+    "keywords": "Android fake update, Simulate Android update, Authentic-looking Android update, Android update prank, Realistic Android update screen, Genuine Android update simulation, Entertaining Android update prank, Prank with Android fake update, Exciting Android update experience, Android update prank tool",
+    "features": {
+      "noRegistration": "No Registration",
+      "worksOffline": "Works Offline",
+      "allDevices": "All Devices"
+    }
+  },
+  "keywords": "ol",
+  "preview": {
+    "updateText": "Installing system update"
+  },
+  "useCases": {
+    "title": "People use Android Fake Update Screen for:",
+    "subtitle": "Discover various ways to use our Android fake update screen",
+    "simulate": {
+      "title": "Simulate Android Update for Software Testing",
+      "description": "Utilize our Android fake update tool to create authentic-looking update screens for software testing and demonstration purposes."
+    },
+    "engage": {
+      "title": "Engage Your Audience with a Realistic Android Update Screen",
+      "description": "Capture the attention of tech enthusiasts by showcasing a genuine Android update simulation during presentations or tech blogs."
+    },
+    "education": {
+      "title": "Elevate Tech Education with Android Update Prank Tool",
+      "description": "Incorporate our realistic Android update screen into tech education scenarios to teach about system updates and user interface design."
+    },
+    "content": {
+      "title": "Create Entertaining Content with Android Fake Update",
+      "description": "Produce engaging video content or live streams using an entertaining Android update prank, adding humor to tech discussions."
+    },
+    "prank": {
+      "title": "Prank Friends with a Genuine Android Update Simulation",
+      "description": "Surprise your friends by using our tool to prank with an Android fake update, turning ordinary moments into memorable tech pranks."
+    },
+    "ux": {
+      "title": "Enhance User Experience Design Learning with Simulated Updates",
+      "description": "Use the exciting Android update experience to educate UX/UI designers on the impact of system updates on user experience."
+    },
+    "recovery": {
+      "title": "Demonstrate System Recovery Scenarios with Android Update Prank Tool",
+      "description": "Leverage the authentic-looking Android update tool to simulate system recovery processes for IT training and workshops."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about our Android fake update screen",
+    "real": {
+      "question": "Is this a real Android update?",
+      "answer": "No, this is a simulated screen designed for entertainment and testing purposes. It cannot actually update your device."
+    },
+    "pranks": {
+      "question": "Can I use this for pranks?",
+      "answer": "Yes! This tool is perfect for harmless tech pranks. Just remember to use it responsibly and with good humor."
+    },
+    "realistic": {
+      "question": "How realistic is the simulation?",
+      "answer": "Our Android update screen is designed to look very authentic, featuring animated loading progress and proper Android branding."
+    },
+    "safe": {
+      "question": "Is it safe to use?",
+      "answer": "Absolutely! This is a web-based simulation that runs entirely in your browser and cannot access your system or device."
+    }
+  }
+}

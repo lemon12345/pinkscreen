@@ -2,18 +2,18 @@
   "hero": {
     "badge": "Pink Screen Tool",
     "title": "Pink Screen | Online Tool",
-    "description": "Use this fullscreen pink screen for gentle ambient light, display testing, or creative backgrounds. Free, no ads, works across all devices.",
+    "description": "Professional fullscreen pink screen tool for gentle ambient lighting, display testing, creative backgrounds, and relaxation therapy. Free, no ads, works offline on all devices.",
     "features": {
       "noRegistration": "No Registration",
       "worksOffline": "Works Offline",
       "allDevices": "All Devices"
     }
   },
-  "keywords": "pink screen, pink screen, blank pink screen, a pink screen, blank screens, full pink screen, pc pink screen, computer pink screen, total pink screen, plain pink screen, pink screen 10 hours, pink display, blank computer screen, full pink screen, total pink screen",
+  "keywords": "pink screen, pink screen tool, fullscreen pink screen, pink light therapy, pink background generator, pink screen test, gentle ambient light, creative pink backgrounds, pink display testing, pink screen online, free pink screen, pink screen no ads, pink screen therapy, pink ambient lighting, pink screen relaxation",
   "colorPicker": {
     "title": "Choose Your Color",
     "custom": "Custom",
-    "description": "Ideal for screen testing, creating vibrant mood boards, and adding warmth to virtual presentations",
+    "description": "Perfect for screen testing, creative mood boards, virtual presentations, and gentle ambient lighting therapy",
     "launchButton": "Launch Pink Screen"
   },
   "useCases": {
@@ -80,27 +80,24 @@
     "proTipDescription": "Use pink screens in your creative setups to add a unique, elegant visual tone in photography or livestream backgrounds. The warm hue creates a welcoming atmosphere while maintaining professional quality for your content."
   },
   "faq": {
-    "title": "Frequently Asked Questions",
+    "title": "🟣 Purple / Pink Screen – FAQ",
+    "description": "Find answers to common questions about using our pink screen tool for various purposes.",
     "questions": [
       {
-        "question": "What is a Pink Screen tool used for?",
-        "answer": "A Pink Screen tool displays a pink color in fullscreen mode, commonly used for screen testing, mood boards, eye comfort, content creation, and enhancing visual creativity."
+        "question": "What is the purpose of the Purple (or Pink) Screen?",
+        "answer": "It displays a soft purple or pink color, used for calming visuals, background light, or aesthetic effects."
       },
       {
-        "question": "How do I use Pink Screen for eye comfort?",
-        "answer": "The Pink Screen reduces blue light exposure, making it easier on your eyes during night-time browsing or long working hours. It helps reduce eye strain and improve visual comfort."
+        "question": "Can I use it for lighting or mood setting?",
+        "answer": "Yes, many users use the purple or pink screen to create ambient lighting for rooms or photography."
       },
       {
-        "question": "Can I use Pink Screen for content creation?",
-        "answer": "Yes! The Pink Screen is perfect for creating warm, inviting backgrounds for online content, virtual classes, or live streams. It adds energy and positivity to your content."
+        "question": "Does it work on phones and tablets?",
+        "answer": "Yes. It's mobile-friendly and adjusts automatically to your screen size."
       },
       {
-        "question": "Why use Pink Screen for screen testing?",
-        "answer": "Pink is an excellent color for testing display accuracy and color calibration. It helps identify color issues and fine-tune monitor settings for optimal viewing."
-      },
-      {
-        "question": "Is Pink Screen good for creativity?",
-        "answer": "Yes, pink is associated with creativity and optimism. A Pink Screen can inspire creative thinking and serve as a mood board for design projects and artistic work."
+        "question": "Is it safe for long use?",
+        "answer": "Yes, but like all bright screens, take occasional breaks to rest your eyes."
       }
     ]
   },
@@ -121,7 +118,7 @@
     "clickForFullscreen": "Click for fullscreen",
     "current": "Current",
     "chooseYourColor": "Choose Your Color",
-    "perfectFor": "Perfect for screen testing, creating vibrant mood boards, and adding warmth to virtual presentations",
+    "perfectFor": "Perfect for screen testing, creative mood boards, virtual presentations, and gentle ambient lighting therapy",
     "launchPinkScreen": "Launch Pink Screen"
   }
 }

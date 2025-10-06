@@ -6,6 +6,7 @@ import PinkScreenUseCases from "./PinkScreenUseCases";
 import PinkScreenInfo from "./PinkScreenInfo";
 import PinkScreenFAQ from "../whitescreen/PinkScreenFAQ";
 import WhiteScreenHowToUse from "../whitescreen/WhiteScreenHowToUse";
+import OtherToolsSection from "./OtherToolsSection";
 
 export default function PinkScreenClient() {
   const [selectedColor, setSelectedColor] = useState("#FFC0CB");
@@ -151,16 +152,18 @@ export default function PinkScreenClient() {
         onDownload={handleDownload}
       />
 
+      {/* Other Tools Section */}
+      <OtherToolsSection />
+
       {/* All subsequent sections use h2, h3, etc. for proper hierarchy */}
       <PinkScreenInfo 
         onDownload={handleDownload}
         onDownload4K={handleDownload4K}
         selectedColor={selectedColor}
       />
-
-      <PinkScreenUseCases />
-      <WhiteScreenHowToUse />
       <PinkScreenFAQ />
+      <WhiteScreenHowToUse />
+      <PinkScreenUseCases />
     </>
   );
 } 

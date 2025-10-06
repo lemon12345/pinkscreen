@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "badge": "Ultimata Android Simulator",
+    "title": "Android Falsk Uppdatering",
+    "description": "Upplev ett realistiskt falskt Android uppdateringsskärmverktyg i helskärm. Perfekt för skämt, utbildningsändamål eller tekniska demonstrationer.",
+    "keywords": "Android falsk uppdatering, Simulera Android uppdatering, Autentisk Android uppdatering, Android uppdateringsskämt, Realistisk Android uppdateringsskärm, Äkta Android uppdateringssimulering, Underhållande Android uppdateringsskämt, Skämt med Android falsk uppdatering, Spännande Android uppdateringsupplevelse, Android uppdateringsskämtverktyg",
+    "features": {
+      "noRegistration": "Ingen registrering",
+      "worksOffline": "Fungerar offline",
+      "allDevices": "Alla enheter"
+    }
+  },
+  "keywords": "ol",
+  "preview": {
+    "updateText": "Installerar systemuppdatering"
+  },
+  "useCases": {
+    "title": "Folk använder Android Falsk Uppdateringsskärm för:",
+    "subtitle": "Upptäck olika sätt att använda vår Android falska uppdateringsskärm",
+    "simulate": {
+      "title": "Simulera Android Uppdatering för Mjukvarutestning",
+      "description": "Använd vårt Android falska uppdateringsverktyg för att skapa autentiska uppdateringsskärmar för mjukvarutestning och demonstrationsändamål."
+    },
+    "engage": {
+      "title": "Engagera din Publik med en Realistisk Android Uppdateringsskärm",
+      "description": "Fånga uppmärksamheten från teknikentusiaster genom att visa en äkta Android uppdateringssimulering under presentationer eller teknikbloggar."
+    },
+    "education": {
+      "title": "Höj Teknikutbildning med Android Uppdateringsskämtverktyg",
+      "description": "Inkorporera vår realistiska Android uppdateringsskärm i teknikutbildningsscenarier för att lära om systemuppdateringar och användargränssnittsdesign."
+    },
+    "content": {
+      "title": "Skapa Underhållande Innehåll med Android Falsk Uppdatering",
+      "description": "Producera engagerande videoinnehåll eller livestreams med ett underhållande Android uppdateringsskämt, lägga till humor till teknikdiskussioner."
+    },
+    "prank": {
+      "title": "Skämt med Vänner med en Äkta Android Uppdateringssimulering",
+      "description": "Överraska dina vänner genom att använda vårt verktyg för att skämt med en Android falsk uppdatering, förvandla vanliga ögonblick till minnesvärda teknikskämt."
+    },
+    "ux": {
+      "title": "Förbättra UX Designlärande med Simulerade Uppdateringar",
+      "description": "Använd den spännande Android uppdateringsupplevelsen för att utbilda UX/UI designers om påverkan av systemuppdateringar på användarupplevelse."
+    },
+    "recovery": {
+      "title": "Demonstrera Systemåterställningsscenarier med Android Uppdateringsskämtverktyg",
+      "description": "Utnyttja det autentiska Android uppdateringsverktyget för att simulera systemåterställningsprocesser för IT-träning och workshops."
+    }
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "subtitle": "Vanliga frågor om vår Android falska uppdateringsskärm",
+    "real": {
+      "question": "Är detta en riktig Android uppdatering?",
+      "answer": "Nej, detta är en simulerad skärm designad för underhållnings- och teständamål. Den kan inte faktiskt uppdatera din enhet."
+    },
+    "pranks": {
+      "question": "Kan jag använda detta för skämt?",
+      "answer": "Ja! Detta verktyg är perfekt för ofarliga teknikskämt. Kom bara ihåg att använda det ansvarsfullt och med god humor."
+    },
+    "realistic": {
+      "question": "Hur realistisk är simuleringen?",
+      "answer": "Vår Android uppdateringsskärm är designad för att se mycket autentisk ut, med animerad laddningsfält och lämplig Android branding."
+    },
+    "safe": {
+      "question": "Är det säkert att använda?",
+      "answer": "Absolut! Detta är en webbaserad simulering som körs helt i din webbläsare och kan inte komma åt ditt system eller enhet."
+    }
+  }
+}

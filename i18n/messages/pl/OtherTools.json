@@ -1,0 +1,75 @@
+{
+  "title": "Więcej Narzędzi Ekranu",
+  "description": "Odkryj naszą kompletną kolekcję narzędzi ekranu - symulatory systemu, wygaszacze ekranu, symulacje efektów i więcej dla wszystkich Twoich potrzeb",
+  "badge": "Profesjonalna Kolekcja Narzędzi Ekranu",
+  "categories": {
+    "systemSimulation": "Symulacja Systemu",
+    "screensaver": "Animacja Wygaszacza Ekranu",
+    "effects": "Symulacja Efektów"
+  },
+  "tools": {
+    "bios": {
+      "name": "Ekran BIOS",
+      "description": "Symuluj interfejs rozruchowy BIOS komputera"
+    },
+    "fakeWindows11Update": {
+      "name": "Ekran Aktualizacji Windows 11",
+      "description": "Symuluj interfejs aktualizacji systemu Windows 11"
+    },
+    "fakeWindows10Update": {
+      "name": "Ekran Aktualizacji Windows 10",
+      "description": "Symuluj interfejs aktualizacji systemu Windows 10"
+    },
+    "fakeWindowsXpUpdate": {
+      "name": "Ekran Aktualizacji Windows XP",
+      "description": "Symuluj interfejs aktualizacji systemu Windows XP"
+    },
+    "fakeMacOsXUpdate": {
+      "name": "Ekran Aktualizacji Mac OS X",
+      "description": "Symuluj interfejs aktualizacji systemu Mac OS X"
+    },
+    "fakeUbuntuUpdate": {
+      "name": "Ekran Aktualizacji Ubuntu 22.04",
+      "description": "Symuluj interfejs aktualizacji systemu Ubuntu 22.04"
+    },
+    "fakeAndroidUpdate": {
+      "name": "Ekran Aktualizacji Android",
+      "description": "Symuluj interfejs aktualizacji systemu Android"
+    },
+    "fakeDos": {
+      "name": "Symulator DOS",
+      "description": "Symuluj klasyczny interfejs wiersza poleceń DOS"
+    },
+    "fakeVirus": {
+      "name": "Ekran Ostrzeżenia o Wirusie",
+      "description": "Symuluj interfejs ostrzeżenia o wirusie komputerowym"
+    },
+    "fbiWarning": {
+      "name": "Ekran Ostrzeżenia FBI",
+      "description": "Symuluj interfejs ostrzeżenia o prawach autorskich FBI"
+    },
+    "dvdScreensaver": {
+      "name": "Wygaszacz Ekranu DVD",
+      "description": "Klasyczna animacja wygaszacza ekranu odtwarzacza DVD"
+    },
+    "brokenScreen": {
+      "name": "Zepsuty Ekran",
+      "description": "Symuluj efekt pękniętego ekranu"
+    },
+    "blueScreenOfDeath": {
+      "name": "Niebieski Ekran Śmierci Windows",
+      "description": "Symuluj interfejs niebieskiego ekranu śmierci Windows"
+    },
+    "hackerTyper": {
+      "name": "Symulator Hacker",
+      "description": "Twórz realistyczne efekty pisania hackera i symulacje terminala"
+    },
+    "noSignalScreensaver": {
+      "name": "Wygaszacz Ekranu Bez Sygnału Color Bars",
+      "description": "Symuluj wygaszacz ekranu pasków kolorów bez sygnału TV"
+    }
+  },
+  "footer": {
+    "description": "Wszystkie narzędzia są darmowe i nie wymagają rejestracji"
+  }
+}

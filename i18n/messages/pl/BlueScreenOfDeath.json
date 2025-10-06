@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "Symulator BSOD Windows",
+    "title": "Fałszywy Symulator Błędu Krytycznego (BSOD) – Żart z Crash Windows Online",
+    "description": "Symuluj klasyczny Błąd Krytyczny Windows (BSOD) online. Idealny do żartów, demo technicznych lub nostalgii. Działa w przeglądarce — bez pobierania, bez ryzyka.",
+    "features": {
+      "noRegistration": "Bez Rejestracji",
+      "worksOffline": "Działa Offline",
+      "allDevices": "Wszystkie Urządzenia"
+    }
+  },
+  "keywords": "błąd krytyczny, symulator BSOD, fałszywy błąd krytyczny, symulator crash Windows, żart błąd krytyczny, żart BSOD, ekran błędu Windows, fałszywy crash Windows, żart błąd krytyczny, BSOD fałszywy Windows, symulator crash komputera, fałszywy błąd systemu, błąd krytyczny Windows, fałszywy ekran BSOD, żart crash Windows, fałszywy crash komputera, symulator błędu krytycznego, symulator błędu Windows, fałszywy ekran BSOD, żart crash komputera",
+  "preview": {
+    "title": "Podgląd na Żywo",
+    "download": "Pobierz",
+    "comingSoon": "Wkrótce",
+    "bouncingLogo": "Odbijające się Logo"
+  },
+  "colorPicker": {
+    "title": "Wybierz Swój Ekran",
+    "speed": "Prędkość",
+    "size": "Rozmiar",
+    "selectScreen": "Wybierz efekt ekranu do wyświetlenia",
+    "fullScreen": "Pełny Ekran",
+    "custom": "Niestandardowy",
+    "description": "Idealny do żartów, demo technicznych i nostalgii",
+    "launchButton": "Uruchom Błąd Krytyczny"
+  },
+  "useCases": {
+    "title": "Ludzie używają Błędu Krytycznego do:",
+    "case1": {
+      "title": "Żartowanie z Przyjaciółmi Fałszywym Crash Windows",
+      "description": "Zaskocz swoich przyjaciół realistyczną symulacją Błędu Krytycznego. Nasz symulator BSOD wyświetla autentyczne komunikaty błędów Windows i ekrany crash, idealny do nieszkodliwych żartów i demonstracji technicznych."
+    },
+    "case2": {
+      "title": "Demo Techniczne i Prezentacje",
+      "description": "Użyj naszego symulatora BSOD do demonstracji technicznych, sesji szkoleniowych lub prezentacji o błędach Windows. Pokaż realistyczne scenariusze crash bez ryzyka rzeczywistych uszkodzeń systemu."
+    },
+    "case3": {
+      "title": "Nostalgiczne Doświadczenie Windows",
+      "description": "Przeżyj ponownie klasyczne doświadczenie Windows z naszym autentycznym symulatorem Błędu Krytycznego. Idealny dla tych, którzy pamiętają ikoniczne ekrany crash Windows z wcześniejszych systemów operacyjnych."
+    },
+    "case4": {
+      "title": "Edukacja Informatyczna",
+      "description": "Naucz studentów o błędach systemu Windows i scenariuszach crash używając naszego bezpiecznego symulatora BSOD. Zademonstruj koncepcje obsługi błędów bez powodowania rzeczywistych awarii systemu."
+    },
+    "case5": {
+      "title": "Tworzenie Treści i Filmów",
+      "description": "Stwórz angażujące treści z naszym symulatorem Błędu Krytycznego. Idealny do kanałów technicznych, filmów komediowych lub treści edukacyjnych o systemach komputerowych i błędach."
+    },
+    "case6": {
+      "title": "Testy i Rozwój",
+      "description": "Użyj naszego symulatora BSOD do testów oprogramowania, rozwoju UI lub demonstracji obsługi błędów. Bezpieczny sposób testowania jak aplikacje reagują na scenariusze błędów systemu."
+    },
+    "case7": {
+      "title": "Testy Ekranu i Kalibracja",
+      "description": "Użyj naszego symulatora BSOD do testów wyświetlania, kalibracji kolorów i diagnostyki ekranu. Idealny do testowania ustawień monitora i identyfikowania problemów z wyświetlaniem."
+    }
+  },
+  "faq": {
+    "title": "FAQ – Fałszywy Błąd Krytyczny (BSOD)",
+    "q1": "Czym jest Symulator Błędu Krytycznego?",
+    "a1": "To fałszywy ekran crash Windows oparty na sieci. Wygląda jak prawdziwy BSOD, ale nie wpływa na Twój system.",
+    "q2": "Czy to bezpieczne?",
+    "a2": "Tak — jest w 100% bezpieczne i działa tylko w Twojej przeglądarce internetowej. Nie powoduje żadnych prawdziwych błędów ani crash.",
+    "q3": "Czy mogę go używać do żartów z kimś?",
+    "a3": "Absolutnie! 😄 Otwórz go na pełnym ekranie, odejdź i obserwuj ich reakcję, gdy myślą, że Windows się zawiesił!",
+    "q4": "Jak wyjść z niebieskiego ekranu?",
+    "a4": "Naciśnij Esc lub F11, aby natychmiast wrócić do normalnego ekranu.",
+    "q5": "Czy działa na macOS lub Linux?",
+    "a5": "Tak — chociaż to niebieski ekran w stylu Windows, działa na każdym urządzeniu z nowoczesną przeglądarką.",
+    "q6": "Czy mogę go używać w klasie lub demo technicznym?",
+    "a6": "Tak. Wielu nauczycieli IT używa go do bezpiecznego demonstrowania, jak wygląda crash, bez konieczności psucia prawdziwego systemu.",
+    "q7": "Czy naprawdę zawiesza mój komputer?",
+    "a7": "Nie — to tylko symulacja wizualna, nie prawdziwa awaria systemu.",
+    "q8": "Gdzie mogę znaleźć inne fałszywe ekrany aktualizacji lub crash?",
+    "a8": "Spróbuj tych: Fałszywy Ekran Aktualizacji Windows 10, Fałszywy Ekran Aktualizacji macOS, Fałszywy Ekran Aktualizacji Ubuntu"
+  },
+  "additionalTools": {
+    "title": "Dodatkowe Narzędzia Ekranu",
+    "description": "Odkryj naszą kolekcję wyspecjalizowanych narzędzi ekranu do różnych celów.",
+    "colorScreens": "Ekrany Kolorów",
+    "prankScreens": "Ekrany Żartów",
+    "fakeUpdateScreens": "Fałszywe Ekrany Aktualizacji",
+    "screensaverScreens": "Ekrany Wygaszacza"
+  },
+  "howToUse": {
+    "title": "Jak Używać Symulatora Błędu Krytycznego",
+    "steps": [
+      "Otwórz stronę - Przejdź do blue-screen-of-death-windows w swojej przeglądarce desktop.",
+      "Pełny ekran - Kliknij \"Pełny Ekran\" lub naciśnij F11, aby fałszywy BSOD wypełnił Twój ekran.",
+      "Wybierz swoją wersję (jeśli obsługiwana) - Wybierz między stylami niebieskiego ekranu Windows XP, Windows 7, Windows 10 lub Windows 11.",
+      "Obserwuj symulację crash - Ekran wyświetli realistyczny \"błąd systemu\" — kompletny z niebieskim tłem i kodami błędów.",
+      "Używaj do zabawy lub nauczania - Idealny do żartów, demos klasowych lub retro efektów wizualnych.",
+      "Wyjdź w dowolnym momencie - Naciśnij Esc lub F11, aby natychmiast opuścić tryb pełnoekranowy."
+    ]
+  },
+  "techSpecs": {
+    "title": "Specyfikacje Techniczne",
+    "specs": [
+      "Rozdzielczość: Do 8K (7680x4320)",
+      "Głębia Kolorów: 24-bit RGB",
+      "Format: PNG, JPEG, WebP",
+      "Kompatybilność: Wszystkie nowoczesne przeglądarki",
+      "Funkcjonalność Offline: W pełni dostępna"
+    ]
+  }
+}

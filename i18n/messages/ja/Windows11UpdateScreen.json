@@ -1,0 +1,184 @@
+{
+  "hero": {
+    "title": "Windows 11 偽アップデート",
+    "description": "オンラインで最もリアルな Windows 11 偽アップデート画面を体験しましょう。無害ないたずら、動画、ジョークに最適。100％安全でフルスクリーン動作します。",
+    "badge": "Windows 11 システムアップデート",
+    "features": {
+      "noRegistration": "登録不要",
+      "worksOffline": "オフラインで動作",
+      "allDevices": "すべてのデバイス対応"
+    }
+  },
+  "keywords": "Windows 11偽アップデート, Windows 11アップデートシミュレーション, Windows 11アップデートをシミュレート, 偽Windows 11アップデート画面, Windows 11アップデートをエミュレート, Windows 11アップデートいたずら, Windows 11アップデートプロセス, 本物のようなWindows 11アップデート, リアルなWindows 11アップデート画面, Windows 11アップデートで友達を騙す, リアルなWindows 11アップデート進捗, 本格的なWindows 11アップデートシミュレーション, 本物のWindows 11アップデートメッセージ, Windows 11アップデート段階, 楽しいWindows 11アップデートいたずら, 楽しい偽Windows 11アップデート, シミュレートされたWindows 11アップデートを楽しむ, Windows 11偽アップデートでいたずら, 刺激的なWindows 11アップデート体験, 娯楽用Windows 11アップデート, Windows 11アップデートいたずらツール",
+  "preview": {
+    "updateText": "更新プログラムを構成しています",
+    "completeText": " ", 
+    "dontTurnOffText": "コンピューターの電源を入れたままにしてください。",
+    "restartText": "コンピューターが数回再起動することがあります。",
+    "livePreview": "ライブプレビュー",
+    "launchButton": "Windows 11 アップデートを開始"
+  },
+  "systemSelection": {
+    "title": "システムを選択",
+    "windows11": "Windows 11",
+    "windows10": "Windows 10",
+    "windowsXp": "Windows XP",
+    "macOsX": "Mac OS X",
+    "ubuntu": "Ubuntu 22.04",
+    "android": "Android"
+  },
+  "progressSettings": {
+    "title": "進行設定",
+    "updateTime": "更新時間",
+    "startTime": "開始時点",
+    "restartProgress": "進行をリセット",
+    "minutes": "分",
+    "percent": "%"
+  },
+  "description": "いたずら、システムテスト、または Windows 11 アップデートのシミュレーションに最適です。",
+  "useCases": {
+    "title": "💻 People use Windows 11 Update Screen for:",
+    "subtitle": "Windows 11 アップデート画面の活用方法",
+    "description": "Discover various ways to use our Windows 11 fake update screen",
+    "simulate": {
+      "title": "🔧 Windows 11 アップデートプロセスをシミュレーションして大盛り上がり！",
+      "description": "Windows 11 アップデートシミュレーションページを訪れて、進行状況をカスタマイズし、リアルな偽アップデートを作成しました。友達の反応を見るのがとても楽しかったです！"
+    },
+    "engage": {
+      "title": "🎯 オフィスを盛り上げた Windows 11 アップデートいたずら！",
+      "description": "職場の同僚のPCで Windows 11 アップデートのいたずらツールを使ってアップデートをシミュレーションしました。本物のようなメッセージと進行バーで、みんなが完全にだまされ、爆笑の瞬間になりました！"
+    },
+    "education": {
+      "title": "📚 大爆笑！家族に仕掛けた Windows 11 アップデートいたずら",
+      "description": "兄弟に Windows 11 偽アップデート画面を使っていたずらをしました。リアルなアップデート画面と進行バーに完全にだまされていました！"
+    },
+    "content": {
+      "title": "🎬 テック好きの友人を驚かせたリアルなアップデートシミュレーション！",
+      "description": "このサイトを使って作成した Windows 11 アップデートシミュレーションの動画を共有しました。本物そっくりの進行バーとステータスメッセージに、友人たちは本当のアップデートだと思って驚いていました！"
+    },
+    "prank": {
+      "title": "😄 同僚を完璧にだました Windows 11 偽アップデート！",
+      "description": "同僚のコンピューターで Windows 11 偽アップデート画面を使い、大規模アップデートが行われていると思わせました。リアルなビジュアルと進行アニメーションで、一瞬本気で焦っていました！"
+    },
+    "ux": {
+      "title": "🎨 Windows 11 偽アップデートで楽しいコンテンツを作成しよう",
+      "description": "おもしろい Windows 11 アップデートいたずらを使って、ユーモアあふれる動画やライブ配信を制作し、テックトークに笑いをプラスしましょう。"
+    },
+    "recovery": {
+      "title": "🔄 Windows 11 アップデートいたずらツールでシステム復旧のデモを実施",
+      "description": "リアルな見た目の Windows 11 アップデートツールを活用して、IT トレーニングやワークショップでシステム復旧プロセスをシミュレーションできます。"
+    }
+  },
+  "faq": {
+    "title": "💬 Fake Windows 11 Update Screen に関するよくある質問",
+    "subtitle": "Fake Windows 11 Update Screen に関する一般的な質問",
+    "whatIs": {
+      "question": "❓ What is the Fake Windows 11 Update Screen?",
+      "questionJapanese": "Fake Windows 11 Update Screen とは何ですか？",
+      "answer": "Fake Windows 11 Update Screen は、実際の Windows 11 アップデート画面を模倣したオンラインシミュレーターです。無害ないたずら、YouTube 動画、またはプレゼンテーションで「PC がアップデート中」に見せたいときに最適です。"
+    },
+    "safe": {
+      "question": "🔒 Is this fake update screen safe to use?",
+      "questionJapanese": "この偽アップデート画面は安全ですか？",
+      "answer": "はい、安全です。このシミュレーターは完全にブラウザ内で動作し、コンピューターに何もインストール・変更しません。実際の Windows 11 アップデートのように見えるリアルな全画面アニメーションを表示するだけです。"
+    },
+    "howToUse": {
+      "question": "🖱️ How do I use the Fake Windows 11 Update Screen?",
+      "questionJapanese": "Fake Windows 11 Update Screen の使い方を教えてください。",
+      "answer": "ページを開いて「フルスクリーン」をクリックするだけで、偽アップデートが自動的に開始します。終了したいときは、キーボードの Esc または F11 を押してください。"
+    },
+    "pranks": {
+      "question": "😄 Can I use it for pranks or videos?",
+      "questionJapanese": "いたずらや動画制作に使えますか？",
+      "answer": "もちろん可能です！多くの人が友達へのいたずら、楽しい TikTok・YouTube 動画の撮影、またはテック系コンテンツ制作に使用しています。ただし、相手が不快にならないように、優しいジョークとして使いましょう。"
+    },
+    "realistic": {
+      "question": "🎯 Does it look exactly like a real Windows 11 update?",
+      "questionJapanese": "本物の Windows 11 アップデート画面と同じように見えますか？",
+      "answer": "はい。本物のフォント、カラー、アニメーションを忠実に再現しています。多くの人は違いに気づかないほどリアルです。"
+    },
+    "otherScreens": {
+      "question": "🖥️ What other fake screens can I try?",
+      "questionJapanese": "他にどんな偽画面を試せますか？",
+      "answer": "次のような画面も利用できます：Fake Windows 10 Update Screen、Blue Screen of Death (BSOD) Prank（ブルースクリーンジョーク）、Black Screen for Cleaning（画面クリーニング用ブラックスクリーン）。楽しい演出やテスト、ディスプレイ用に最適です。"
+    },
+    "exit": {
+      "question": "🚪 How can I exit the fake update screen?",
+      "questionJapanese": "偽アップデート画面を終了するには？",
+      "answer": "フルスクリーンモードを終了するには Esc キーを押してください。もしブラウザが反応しない場合は、Alt + Tab で他のウィンドウに切り替えることもできます。"
+    },
+    "mobile": {
+      "question": "📱 Can I use it on mobile devices?",
+      "questionJapanese": "スマートフォンでも使えますか？",
+      "answer": "はい、この偽 Windows 11 アップデート画面はほとんどのスマートフォンやタブレットで動作します。最適な体験のために、端末を横向き（ランドスケープモード）にしてください。"
+    },
+    "privacy": {
+      "question": "🛡️ Does this website collect any data?",
+      "questionJapanese": "このサイトはデータを収集しますか？",
+      "answer": "いいえ、個人データは一切収集しません。このページは単にブラウザ上で視覚的なエフェクトを表示するだけです。安全でプライバシーにも配慮されています。"
+    },
+    "difference": {
+      "question": "⚖️ What's the difference between Windows 10 and Windows 11 fake update screens?",
+      "questionJapanese": "Windows 10 と Windows 11 の偽アップデート画面の違いは？",
+      "answer": "Windows 11 バージョンは、モダンな青い背景、中央揃えの進行テキスト、新しいフォントスタイルを採用しています。これにより、公式の Windows 11 画面を完璧に再現しています。"
+    }
+  },
+  "howToUse": {
+    "title": "⚙️ How Does It Work?",
+    "subtitle": "使い方",
+    "description": "Using this tool is simple:",
+    "descriptionJapanese": "このツールの使い方はとても簡単です。",
+    "stepByStepTitle": "🪜 Step-by-Step Process",
+    "stepByStepTitleJapanese": "ステップごとの手順",
+    "keyFeaturesTitle": "🌟 Key Features",
+    "keyFeaturesTitleJapanese": "主な特徴",
+    "steps": {
+      "chooseDuration": {
+        "title": "1️⃣ Choose Duration",
+        "titleJapanese": "実行時間を選択",
+        "description": "アップデートを実行する時間を選びます。数分から数時間まで自由に設定できます。"
+      },
+      "setStartingPercentage": {
+        "title": "2️⃣ Set Starting Percentage",
+        "titleJapanese": "開始パーセンテージを設定",
+        "description": "アップデートを開始するパーセンテージを設定します（例：10%、15% などお好きな数値）。"
+      },
+      "selectWindowsVersion": {
+        "title": "3️⃣ Select Windows Version",
+        "titleJapanese": "Windows のバージョンを選択",
+        "description": "シミュレーションしたい Windows バージョンを選びます。（Windows 10、Windows 11、または Windows XP）"
+      },
+      "startSimulation": {
+        "title": "4️⃣ Start Simulation",
+        "titleJapanese": "シミュレーションを開始",
+        "description": "設定が完了したら、ツールが選択したパーセンテージからアップデートアニメーションを表示します。"
+      }
+    },
+    "features": {
+      "realisticAnimation": {
+        "title": "🎞️ Realistic Animation",
+        "titleJapanese": "リアルなアニメーション",
+        "description": "本物そっくりのアニメーションとデザインで、実際のアップデート画面のように見えます。"
+      },
+      "customizableSettings": {
+        "title": "⚙️ Customizable Settings",
+        "titleJapanese": "カスタマイズ可能な設定",
+        "description": "実行時間や開始パーセンテージを自由に調整できます。"
+      },
+      "fullscreenMode": {
+        "title": "🖥️ Fullscreen Mode",
+        "titleJapanese": "フルスクリーンモード対応",
+        "description": "フルスクリーン表示で、よりリアルな体験を提供します。"
+      },
+      "deviceCompatibility": {
+        "title": "💻 Device Compatibility",
+        "titleJapanese": "デバイス対応",
+        "description": "デスクトップ、ノートPC、タブレットなど、さまざまなデバイスで動作します。"
+      }
+    },
+    "footer": {
+      "title": "Windows偽アップデートシミュレーターはユーザーにとって非常に説得力のある体験です",
+      "description": "進捗バーとアニメーションを含む実際のWindowsアップデート画面の視覚効果を再現します。"
+    }
+  }
+}

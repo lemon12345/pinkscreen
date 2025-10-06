@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "title": "Windows XP Sahte Güncelleme",
+    "description": "Web sitemizde nostaljik bir Windows XP güncelleme simülasyonu deneyimleyin. Arkadaşlarınızı otantik görünümlü Windows XP sahte güncelleme ekranımızla kandırın. Efsanevi işletim sisteminin klasik mavi ekranının ve tanıdık ilerlemesinin tadını çıkarın.",
+    "badge": "Windows XP Sistem Güncellemesi",
+    "features": {
+      "noRegistration": "Kayıt yok",
+      "worksOffline": "Çevrimdışı çalışır",
+      "allDevices": "Tüm cihazlar"
+    }
+  },
+  "keywords": "Windows XP sahte güncelleme, Windows XP güncelleme simülasyonu, Windows XP güncelleme simülasyonu, Sahte Windows XP güncelleme ekranı, Windows XP güncelleme emülasyonu, Windows XP güncelleme şakası, Windows XP güncelleme süreci, Otantik Windows XP güncelleme, Gerçekçi Windows XP güncelleme ekranı, Windows XP güncelleme ile arkadaşları kandırma, Gerçekçi Windows XP güncelleme ilerlemesi, Gerçek Windows XP güncelleme simülasyonu, Otantik Windows XP güncelleme mesajları, Windows XP güncelleme aşaması, Eğlenceli Windows XP güncelleme şakası, Eğlenceli sahte Windows XP güncelleme, Simüle edilmiş Windows XP güncellemesinin tadını çıkarma, Windows XP sahte güncelleme ile şaka, Heyecan verici Windows XP güncelleme deneyimi, Eğlence için Windows XP güncelleme, Windows XP güncelleme şaka aracı",
+  "preview": {
+    "updateText": "Windows Güncellemeleri yükleniyor...",
+    "completeText": " tamamlandı",
+    "dontTurnOffText": "Bilgisayarınızı kapatmayın veya fişini çekmeyin.",
+    "restartText": "Bilgisayarınız otomatik olarak yeniden başlayacak"
+  },
+  "useCases": {
+    "title": "İnsanlar Windows XP Güncelleme Ekranını şunun için kullanır:",
+    "subtitle": "Windows XP sahte güncelleme ekranımızı kullanmanın çeşitli yollarını keşfedin",
+    "case1": {
+      "title": "Retro Test için Windows XP Güncelleme Simülasyonu",
+      "description": "Yazılım testi ve gösterim amaçları için otantik görünümlü retro güncelleme ekranları oluşturmak için Windows XP sahte güncelleme aracımızı kullanın."
+    },
+    "case2": {
+      "title": "Nostaljik Windows XP Güncelleme ile İzleyicilerinizi Etkileyin",
+      "description": "Sunumlar veya retro teknoloji içeriği sırasında gerçek Windows XP güncelleme simülasyonu göstererek teknoloji meraklılarının dikkatini çekin."
+    },
+    "case3": {
+      "title": "Windows XP Güncelleme Şaka Aracı ile Teknoloji Eğitimini Yükseltin",
+      "description": "Miras sistemler ve kullanıcı arayüzü evrimi hakkında öğretmek için gerçekçi Windows XP güncelleme ekranımızı teknoloji eğitim senaryolarına dahil edin."
+    },
+    "case4": {
+      "title": "Windows XP Sahte Güncelleme ile Eğlenceli İçerik Oluşturun",
+      "description": "Eğlenceli Windows XP güncelleme şakası kullanarak ilgi çekici video içeriği veya canlı yayınlar üretin, teknoloji tartışmalarına nostalji ekleyin."
+    },
+    "case5": {
+      "title": "Gerçek Windows XP Güncelleme Simülasyonu ile Arkadaşlarınıza Şaka Yapın",
+      "description": "Windows XP sahte güncelleme ile şaka yapmak için aracımızı kullanarak arkadaşlarınızı şaşırtın, sıradan anları unutulmaz retro şakalarına dönüştürün."
+    },
+    "case6": {
+      "title": "Simüle Edilmiş Güncellemelerle Miras UI Tasarımını İnceleyin",
+      "description": "Sistem güncelleme arayüzlerinin evrimi hakkında UX/UI tasarımcılarını eğitmek için klasik Windows XP güncelleme deneyimini kullanın."
+    }
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "subtitle": "Windows XP Sahte Güncelleme Ekranımız hakkında yaygın sorular",
+    "whatIs": {
+      "question": "Windows XP Sahte Güncelleme Ekranı nedir?",
+      "answer": "Gerçek bir Windows XP güncelleme ekranının görünümünü yeniden yaratan eğlenceli, nostaljik bir simülatördür. Arkadaşlarınızla şaka yapmak, video yapmak veya 2000'lerin başındaki teknoloji havasını yeniden yaşamak için tarayıcınızda açabilirsiniz."
+    },
+    "safe": {
+      "question": "Kullanmak güvenli mi?",
+      "answer": "Evet — %100 güvenli. Bu sayfa sadece web tarayıcınızda sahte bir Windows XP güncelleme animasyonu gösterir. Bilgisayarınıza hiçbir şey indirmez veya yüklemez."
+    },
+    "pranks": {
+      "question": "Şaka için nasıl kullanabilirim?",
+      "answer": "Sadece sayfayı açın, Tam Ekran'a tıklayın ve çalışmasına izin verin. Gerçekçi yükleme metni herkesi PC'nizin \"Windows XP'yi güncellediğine\" inandıracak. Zararsız bir şaka için mükemmel!"
+    },
+    "realistic": {
+      "question": "Simülasyon ne kadar gerçekçi?",
+      "answer": "Windows XP güncelleme ekranımız klasik mavi arka plan ve uygun Windows XP markalama ile çok otantik görünecek şekilde tasarlanmıştır."
+    },
+    "exit": {
+      "question": "Sahte güncelleme ekranından nasıl çıkarım?",
+      "answer": "Tam ekran modundan anında çıkmak için Esc veya F11'e basın. Gerçek sisteminize hiçbir şey olmayacak."
+    },
+    "content": {
+      "question": "YouTube videoları veya canlı yayınlar için kullanabilir miyim?",
+      "answer": "Evet! Birçok içerik üreticisi sahte Windows XP güncelleme ekranını komedi skeçleri, retro tarzı düzenlemeler veya teknoloji nostaljisi videoları için kullanır."
+    },
+    "real": {
+      "question": "Bu gerçekten Windows XP'yi günceller mi?",
+      "answer": "Hayır — bu sadece görsel bir simülatördür. Sisteminizi veya dosyalarınızı hiçbir şekilde etkilemez."
+    },
+    "devices": {
+      "question": "Modern bilgisayarlarda çalışır mı?",
+      "answer": "Evet. Sahte Windows XP güncelleme ekranı Windows 10, 11, macOS ve hatta mobil cihazlar dahil olmak üzere herhangi bir modern tarayıcıda çalışır."
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "badge": "终极安卓模拟器",
+    "title": "安卓虚假更新",
+    "description": "体验逼真的虚假安卓更新屏幕工具，支持全屏显示。非常适合恶作剧、教育目的或技术演示。",
+    "features": {
+      "noRegistration": "无需注册",
+      "worksOffline": "离线工作",
+      "allDevices": "全设备兼容"
+    },
+    "keywords": "Android假更新, 模拟Android更新, 逼真的Android更新, Android更新恶作剧, 真实的Android更新屏幕, 真正的Android更新模拟, 有趣的Android更新恶作剧, 用Android假更新恶作剧, 刺激的Android更新体验, Android更新恶作剧工具"
+  },
+  "keywords": "Android假更新, 模拟Android更新, 逼真的Android更新, Android更新恶作剧, 真实的Android更新屏幕, 真正的Android更新模拟, 有趣的Android更新恶作剧, 用Android假更新恶作剧, 刺激的Android更新体验, Android更新恶作剧工具",
+  "preview": {
+    "updateText": "正在安装系统更新"
+  },
+  "useCases": {
+    "title": "人们使用Android假更新屏幕的目的：",
+    "subtitle": "发现我们Android假更新屏幕的各种使用方法",
+    "simulate": {
+      "title": "软件测试的Android更新模拟",
+      "description": "利用我们的Android假更新工具为软件测试和演示目的创建逼真的更新屏幕。"
+    },
+    "engage": {
+      "title": "用逼真的Android更新屏幕吸引观众",
+      "description": "在演示或技术博客中展示真正的Android更新模拟，吸引技术爱好者的注意。"
+    },
+    "education": {
+      "title": "用Android更新恶作剧工具提升技术教育",
+      "description": "将我们逼真的Android更新屏幕融入技术教育场景，教授系统更新和用户界面设计。"
+    },
+    "content": {
+      "title": "用Android假更新创建有趣内容",
+      "description": "使用有趣的Android更新恶作剧制作引人入胜的视频内容或直播，为技术讨论增添幽默感。"
+    },
+    "prank": {
+      "title": "用真正的Android更新模拟恶作剧朋友",
+      "description": "使用我们的工具用Android假更新恶作剧，让普通时刻变成难忘的技术恶作剧来给朋友惊喜。"
+    },
+    "ux": {
+      "title": "用模拟更新增强用户体验设计学习",
+      "description": "使用刺激的Android更新体验教育UX/UI设计师了解系统更新对用户体验的影响。"
+    },
+    "recovery": {
+      "title": "用Android更新恶作剧工具演示系统恢复场景",
+      "description": "利用逼真的Android更新工具为IT培训和研讨会模拟系统恢复过程。"
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "subtitle": "关于我们Android假更新屏幕的常见问题",
+    "real": {
+      "question": "这是真正的Android更新吗？",
+      "answer": "不是，这是一个为娱乐和测试目的设计的模拟屏幕。它无法实际更新您的设备。"
+    },
+    "pranks": {
+      "question": "可以用它来恶作剧吗？",
+      "answer": "可以！这个工具非常适合无害的技术恶作剧。只要记住负责任地使用它，并保持善意。"
+    },
+    "realistic": {
+      "question": "模拟有多逼真？",
+      "answer": "我们的Android更新屏幕设计得非常逼真，具有动画加载进度和适当的Android品牌标识。"
+    },
+    "safe": {
+      "question": "使用安全吗？",
+      "answer": "绝对安全！这是一个完全在浏览器中运行的基于Web的模拟，无法访问您的系统或设备。"
+    }
+  }
+}

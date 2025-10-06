@@ -1,0 +1,75 @@
+{
+  "title": "その他のスクリーンツール",
+  "description": "私たちの完全なスクリーンツールコレクションを探索 - システムシミュレーター、スクリーンセーバー、エフェクトシミュレーションなど、あらゆるニーズに対応",
+  "badge": "プロフェッショナルスクリーンツールコレクション",
+  "categories": {
+    "systemSimulation": "システムシミュレーション",
+    "screensaver": "スクリーンセーバーアニメーション",
+    "effects": "エフェクトシミュレーション"
+  },
+  "tools": {
+    "bios": {
+      "name": "BIOSスクリーン",
+      "description": "コンピューターBIOS起動インターフェースをシミュレート"
+    },
+    "fakeWindows11Update": {
+      "name": "Windows 11アップデートスクリーン",
+      "description": "Windows 11システムアップデートインターフェースをシミュレート"
+    },
+    "fakeWindows10Update": {
+      "name": "Windows 10アップデートスクリーン",
+      "description": "Windows 10システムアップデートインターフェースをシミュレート"
+    },
+    "fakeWindowsXpUpdate": {
+      "name": "Windows XPアップデートスクリーン",
+      "description": "Windows XPシステムアップデートインターフェースをシミュレート"
+    },
+    "fakeMacOsXUpdate": {
+      "name": "Mac OS Xアップデートスクリーン",
+      "description": "Mac OS Xシステムアップデートインターフェースをシミュレート"
+    },
+    "fakeUbuntuUpdate": {
+      "name": "Ubuntu 22.04アップデートスクリーン",
+      "description": "Ubuntu 22.04システムアップデートインターフェースをシミュレート"
+    },
+    "fakeAndroidUpdate": {
+      "name": "Androidアップデートスクリーン",
+      "description": "Androidシステムアップデートインターフェースをシミュレート"
+    },
+    "fakeDos": {
+      "name": "DOSシミュレーター",
+      "description": "クラシックなDOSコマンドラインインターフェースをシミュレート"
+    },
+    "fakeVirus": {
+      "name": "ウイルス警告スクリーン",
+      "description": "コンピューターウイルス警告インターフェースをシミュレート"
+    },
+    "fbiWarning": {
+      "name": "FBI警告スクリーン",
+      "description": "FBI著作権警告インターフェースをシミュレート"
+    },
+    "dvdScreensaver": {
+      "name": "DVDスクリーンセーバー",
+      "description": "クラシックなDVDプレイヤースクリーンセーバーアニメーション"
+    },
+    "brokenScreen": {
+      "name": "壊れたスクリーン",
+      "description": "スクリーンクラック効果をシミュレート"
+    },
+    "blueScreenOfDeath": {
+      "name": "Windowsブルースクリーンオブデス",
+      "description": "Windowsブルースクリーンオブデスインターフェースをシミュレート"
+    },
+    "hackerTyper": {
+      "name": "ハッカータイパー",
+      "description": "リアルなハッカー入力効果とターミナルシミュレーションを作成"
+    },
+    "noSignalScreensaver": {
+      "name": "ノーシグナルカラーバースクリーンセーバー",
+      "description": "テレビノーシグナルカラーバースクリーンセーバーをシミュレート"
+    }
+  },
+  "footer": {
+    "description": "すべてのツールは無料で、登録は不要です"
+  }
+}

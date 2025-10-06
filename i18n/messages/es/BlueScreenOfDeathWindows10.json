@@ -1,0 +1,85 @@
+{
+  "hero": {
+    "badge": "Simulador BSOD Windows 10",
+    "title": "Falsa Pantalla Azul de la Muerte Windows 10 (BSOD) – Simulador Online y Herramienta de Broma",
+    "description": "Simula la Pantalla Azul de la Muerte Windows 10 (BSOD) online. Perfecto para bromas, demos técnicas o nostalgia. Funciona de forma segura en tu navegador — sin descargas ni riesgo del sistema.",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Offline",
+      "allDevices": "Todos los Dispositivos"
+    },
+    "chooseScreen": "Elegir Pantalla",
+    "chooseScreenDescription": "Selecciona de nuestra colección de simulaciones de pantalla realistas",
+    "fullScreen": "Pantalla Completa",
+    "custom": "Personalizado",
+    "description": "Perfecto para bromas, demos técnicas y nostalgia",
+    "launchButton": "Lanzar Pantalla Azul de la Muerte"
+  },
+  "useCases": {
+    "title": "La gente usa Pantalla Azul de la Muerte para:",
+    "case1": {
+      "title": "Hacer Bromas a Amigos con Crash Falso de Windows",
+      "description": "Sorprende a tus amigos con una simulación realista de Pantalla Azul de la Muerte. Nuestro simulador BSOD muestra mensajes de error auténticos de Windows y pantallas de crash, perfecto para bromas inofensivas y demostraciones técnicas."
+    },
+    "case2": {
+      "title": "Demos Técnicas y Presentaciones",
+      "description": "Usa nuestro simulador BSOD para demostraciones técnicas, sesiones de entrenamiento o presentaciones sobre errores de Windows. Muestra escenarios de crash realistas sin arriesgar daños reales del sistema."
+    },
+    "case3": {
+      "title": "Experiencia Nostálgica de Windows",
+      "description": "Revive la experiencia clásica de Windows con nuestro simulador auténtico de Pantalla Azul de la Muerte. Perfecto para aquellos que recuerdan las pantallas de crash icónicas de Windows de sistemas operativos anteriores."
+    },
+    "case4": {
+      "title": "Educación en Ciencias de la Computación",
+      "description": "Enseña a los estudiantes sobre errores del sistema Windows y escenarios de crash usando nuestro simulador BSOD seguro. Demuestra conceptos de manejo de errores sin causar fallas reales del sistema."
+    },
+    "case5": {
+      "title": "Creación de Contenido y Videos",
+      "description": "Crea contenido atractivo con nuestro simulador de Pantalla Azul de la Muerte. Perfecto para canales técnicos, videos de comedia o contenido educativo sobre sistemas de computadora y errores."
+    },
+    "case6": {
+      "title": "Pruebas y Desarrollo",
+      "description": "Usa nuestro simulador BSOD para pruebas de software, desarrollo de UI o demostraciones de manejo de errores. Forma segura de probar cómo las aplicaciones responden a escenarios de error del sistema."
+    },
+    "case7": {
+      "title": "Pruebas de Pantalla y Calibración",
+      "description": "Usa nuestro simulador BSOD para pruebas de pantalla, calibración de color y diagnósticos de pantalla. Perfecto para probar configuraciones de monitor e identificar problemas de pantalla."
+    }
+  },
+  "howToUse": {
+    "title": "🧭 Cómo Usar la Falsa Pantalla Azul de la Muerte Windows 10",
+    "steps": [
+      "Abrir la página - Visita blue-screen-of-death-windows-10 en tu navegador.",
+      "Pantalla completa - Haz clic en \"Pantalla Completa\" o presiona F11 para que parezca un crash real del sistema Windows 10.",
+      "Ver el BSOD falso - La página muestra la cara triste :(, código QR y mensaje de código de parada — exactamente como una pantalla azul real de Windows 10.",
+      "Usarlo para diversión o enseñanza - Genial para bromas, lecciones de demostración o efectos visuales retro estilo Windows.",
+      "Salir en cualquier momento - Presiona Esc o F11 nuevamente para salir del modo pantalla completa de forma segura."
+    ]
+  },
+  "faq": {
+    "title": "FAQ – Falsa Pantalla Azul de la Muerte Windows 10",
+    "q1": "¿Qué es la Falsa Pantalla Azul de la Muerte Windows 10?",
+    "a1": "Es una simulación en línea de la BSOD real de Windows 10 — completa con la cara triste y código QR — hecha puramente para diversión o uso educativo.",
+    "q2": "¿Es segura?",
+    "a2": "Sí. Es completamente basada en navegador y no afecta tu computadora en absoluto.",
+    "q3": "¿Puedo usarla para hacer una broma a alguien?",
+    "a3": "¡Absolutamente! 😄 Ábrela en pantalla completa y mira a tu amigo entrar en pánico cuando aparece el \"crash del sistema\"!",
+    "q4": "¿Cómo salgo de la pantalla?",
+    "a4": "Presiona Esc o F11 para volver al modo normal instantáneamente.",
+    "q5": "¿Funciona en macOS o Linux?",
+    "a5": "Sí — aunque muestra un crash estilo Windows 10, funciona en cualquier navegador web moderno.",
+    "q6": "¿Puedo usarla en mis videos o demos?",
+    "a6": "¡Sí! Es frecuentemente usada por YouTubers de tecnología, streamers y entrenadores de IT para escenas de crash realistas.",
+    "q7": "¿Causa algún daño o pérdida de datos?",
+    "a7": "No. Es solo una simulación visual. Tu dispositivo y archivos están 100% seguros."
+  },
+  "keywords": "falsa pantalla azul de la muerte, simulador BSOD, crash Windows 10, falso crash Windows, broma pantalla azul, simulador error Windows, falso crash sistema, Windows 10 BSOD, simulador pantalla crash, falso error Windows",
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "prankScreens": "Pantallas de Broma",
+    "systemScreens": "Pantallas del Sistema",
+    "screensavers": "Protectores de Pantalla"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "hero": {
+    "badge": "Windows 10 BSOD Simülatörü",
+    "title": "Sahte Windows 10 Mavi Ekran Ölümü (BSOD) – Çevrimiçi Simülatör ve Şaka Aracı",
+    "description": "Windows 10 Mavi Ekran Ölümü (BSOD) simülasyonunu çevrimiçi yapın. Şakalar, teknik demolar veya nostalji için mükemmel. Tarayıcınızda güvenle çalışır — indirme veya sistem riski yok.",
+    "features": {
+      "noRegistration": "Kayıt Yok",
+      "worksOffline": "Çevrimdışı Çalışır",
+      "allDevices": "Tüm Cihazlar"
+    },
+    "chooseScreen": "Ekran Seç",
+    "chooseScreenDescription": "Gerçekçi ekran simülasyonları koleksiyonumuzdan seçin",
+    "fullScreen": "Tam Ekran",
+    "custom": "Özel",
+    "description": "Şakalar, teknik demolar ve nostalji için mükemmel",
+    "launchButton": "Mavi Ekran Ölümü Başlat"
+  },
+  "useCases": {
+    "title": "İnsanlar Mavi Ekran Ölümü'nü şunlar için kullanır:",
+    "case1": {
+      "title": "Sahte Windows Crash ile Arkadaşlara Şaka Yapma",
+      "description": "Arkadaşlarınızı gerçekçi Mavi Ekran Ölümü simülasyonu ile şaşırtın. BSOD simülatörümüz otantik Windows hata mesajları ve crash ekranları gösterir, zararsız şakalar ve teknik gösteriler için mükemmel."
+    },
+    "case2": {
+      "title": "Teknik Demolar ve Sunumlar",
+      "description": "Teknik demolar, eğitim oturumları veya Windows hataları hakkında sunumlar için BSOD simülatörümüzü kullanın. Gerçek sistem hasarı riski olmadan gerçekçi crash senaryoları gösterin."
+    },
+    "case3": {
+      "title": "Nostaljik Windows Deneyimi",
+      "description": "Otantik Mavi Ekran Ölümü simülatörümüzle klasik Windows deneyimini yeniden yaşayın. Önceki işletim sistemlerinin ikonik Windows crash ekranlarını hatırlayanlar için mükemmel."
+    },
+    "case4": {
+      "title": "Eğitim Bilgisayar Bilimi",
+      "description": "Güvenli BSOD simülatörümüzü kullanarak öğrencilere Windows sistem hataları ve crash senaryoları hakkında öğretin. Gerçek sistem arızasına neden olmadan hata yönetimi kavramlarını gösterin."
+    },
+    "case5": {
+      "title": "İçerik Oluşturma ve Videolar",
+      "description": "Mavi Ekran Ölümü simülatörümüzle ilgi çekici içerik oluşturun. Teknik kanallar, komedi videoları veya bilgisayar sistemleri ve hatalar hakkında eğitim içeriği için mükemmel."
+    },
+    "case6": {
+      "title": "Test ve Geliştirme",
+      "description": "Yazılım testleri, UI geliştirme veya hata yönetimi gösterileri için BSOD simülatörümüzü kullanın. Uygulamaların sistem hata senaryolarına nasıl tepki verdiğini test etmenin güvenli yolu."
+    },
+    "case7": {
+      "title": "Ekran Testi ve Kalibrasyon",
+      "description": "Görüntü testleri, renk kalibrasyonu ve ekran tanılama için BSOD simülatörümüzü kullanın. Monitör ayarlarını test etmek ve görüntü sorunlarını belirlemek için mükemmel."
+    }
+  },
+  "howToUse": {
+    "title": "🧭 Sahte Windows 10 Mavi Ekran Ölümü Nasıl Kullanılır",
+    "steps": [
+      "Sayfayı aç - Tarayıcınızda blue-screen-of-death-windows-10'u ziyaret edin.",
+      "Tam ekran - \"Tam Ekran\"a tıklayın veya F11'e basın, böylece gerçek bir Windows 10 sistem çökmesi gibi görünsün.",
+      "Sahte BSOD'u izleyin - Sayfa üzgün yüz :(, QR kodu ve durdurma kodu mesajını gösterir — tıpkı gerçek bir Windows 10 mavi ekran gibi.",
+      "Eğlence veya öğretim için kullanın - Şakalar, demo dersleri veya retro Windows tarzı görsel efektler için harika.",
+      "İstediğiniz zaman çıkın - Tam ekran modundan güvenle çıkmak için Esc veya F11'e tekrar basın."
+    ]
+  },
+  "faq": {
+    "title": "SSS – Sahte Windows 10 Mavi Ekran Ölümü",
+    "q1": "Sahte Windows 10 Mavi Ekran Ölümü nedir?",
+    "a1": "Gerçek Windows 10 BSOD'unun çevrimiçi simülasyonudur — üzgün yüz ve QR kodu ile birlikte — tamamen eğlence veya eğitim amaçlı yapılmıştır.",
+    "q2": "Güvenli mi?",
+    "a2": "Evet. Tamamen tarayıcı tabanlıdır ve bilgisayarınızı hiç etkilemez.",
+    "q3": "Birine şaka yapmak için kullanabilir miyim?",
+    "a3": "Kesinlikle! 😄 Tam ekranda açın ve arkadaşınızın \"sistem çökmesi\" göründüğünde panik yapmasını izleyin!",
+    "q4": "Ekrandan nasıl çıkarım?",
+    "a4": "Normal moda anında dönmek için Esc veya F11'e basın.",
+    "q5": "macOS veya Linux'ta çalışır mı?",
+    "a5": "Evet — Windows 10 tarzı bir çökme gösterse de, herhangi bir modern web tarayıcısında çalışır.",
+    "q6": "Videolarımda veya demolarımda kullanabilir miyim?",
+    "a6": "Evet! Teknoloji YouTuber'ları, yayıncılar ve BT eğitmenleri tarafından gerçekçi çökme sahneleri için sık sık kullanılır.",
+    "q7": "Herhangi bir zarar veya veri kaybına neden olur mu?",
+    "a7": "Hayır. Sadece görsel bir simülasyondur. Cihazınız ve dosyalarınız %100 güvenlidir."
+  },
+  "keywords": "sahte mavi ekran ölümü, BSOD simülatörü, Windows 10 crash, sahte Windows crash, mavi ekran şakası, Windows hata simülatörü, sahte sistem crash, Windows 10 BSOD, crash ekran simülatörü, sahte Windows hata",
+  "additionalTools": {
+    "title": "Ek Ekran Araçları",
+    "description": "Çeşitli amaçlar için özel ekran araçları koleksiyonumuzu keşfedin.",
+    "colorScreens": "Renk Ekranları",
+    "prankScreens": "Şaka Ekranları",
+    "systemScreens": "Sistem Ekranları",
+    "screensavers": "Ekran Koruyucular"
+  }
+}

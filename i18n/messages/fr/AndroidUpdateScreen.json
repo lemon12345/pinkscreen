@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "badge": "Simulateur Android Ultime",
+    "title": "Fausse Mise à Jour Android",
+    "description": "Découvrez un outil d'écran de fausse mise à jour Android réaliste en plein écran. Parfait pour les farces, l'éducation ou les démonstrations techniques.",
+    "keywords": "fausse mise à jour Android, Simuler mise à jour Android, Mise à jour Android authentique, Farce mise à jour Android, Écran mise à jour Android réaliste, Simulation mise à jour Android authentique, Farce mise à jour Android divertissante, Farce avec fausse mise à jour Android, Expérience mise à jour Android excitante, Outil farce mise à jour Android",
+    "features": {
+      "noRegistration": "Aucune inscription",
+      "worksOffline": "Fonctionne hors ligne",
+      "allDevices": "Tous appareils"
+    }
+  },
+  "keywords": "ol",
+  "preview": {
+    "updateText": "Installation de la mise à jour système"
+  },
+  "useCases": {
+    "title": "Les gens utilisent l'Écran de Fausse Mise à Jour Android pour :",
+    "subtitle": "Découvrez diverses façons d'utiliser notre écran de fausse mise à jour Android",
+    "simulate": {
+      "title": "Simuler la Mise à Jour Android pour les Tests Logiciels",
+      "description": "Utilisez notre outil de fausse mise à jour Android pour créer des écrans de mise à jour authentiques pour les tests logiciels et les démonstrations."
+    },
+    "engage": {
+      "title": "Captiver votre Audience avec un Écran de Mise à Jour Android Réaliste",
+      "description": "Captez l'attention des passionnés de technologie en présentant une simulation de mise à jour Android authentique lors de présentations ou de blogs tech."
+    },
+    "education": {
+      "title": "Améliorer l'Éducation Tech avec l'Outil de Farce Mise à Jour Android",
+      "description": "Intégrez notre écran de mise à jour Android réaliste dans les scénarios d'éducation tech pour enseigner les mises à jour système et le design d'interface utilisateur."
+    },
+    "content": {
+      "title": "Créer du Contenu Divertissant avec la Fausse Mise à Jour Android",
+      "description": "Produisez du contenu vidéo engageant ou des streams en direct en utilisant une farce de mise à jour Android divertissante, ajoutant de l'humour aux discussions tech."
+    },
+    "prank": {
+      "title": "Faire des Farces aux Amis avec une Simulation de Mise à Jour Android Authentique",
+      "description": "Surprenez vos amis en utilisant notre outil pour faire des farces avec une fausse mise à jour Android, transformant les moments ordinaires en farces tech mémorables."
+    },
+    "ux": {
+      "title": "Améliorer l'Apprentissage du Design UX avec les Mises à Jour Simulées",
+      "description": "Utilisez l'expérience excitante de mise à jour Android pour éduquer les designers UX/UI sur l'impact des mises à jour système sur l'expérience utilisateur."
+    },
+    "recovery": {
+      "title": "Démontrer les Scénarios de Récupération Système avec l'Outil de Farce Mise à Jour Android",
+      "description": "Exploitez l'outil de mise à jour Android authentique pour simuler les processus de récupération système pour la formation IT et les ateliers."
+    }
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "subtitle": "Questions courantes sur notre écran de fausse mise à jour Android",
+    "real": {
+      "question": "Est-ce une vraie mise à jour Android ?",
+      "answer": "Non, c'est un écran simulé conçu à des fins de divertissement et de test. Il ne peut pas réellement mettre à jour votre appareil."
+    },
+    "pranks": {
+      "question": "Puis-je l'utiliser pour des farces ?",
+      "answer": "Oui ! Cet outil est parfait pour les farces tech inoffensives. N'oubliez pas de l'utiliser de manière responsable et avec bon humour."
+    },
+    "realistic": {
+      "question": "À quel point la simulation est-elle réaliste ?",
+      "answer": "Notre écran de mise à jour Android est conçu pour paraître très authentique, avec une barre de progression animée et le branding Android approprié."
+    },
+    "safe": {
+      "question": "Est-il sûr à utiliser ?",
+      "answer": "Absolument ! C'est une simulation basée sur le web qui fonctionne entièrement dans votre navigateur et ne peut pas accéder à votre système ou appareil."
+    }
+  }
+}

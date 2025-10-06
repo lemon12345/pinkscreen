@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "badge": "Ultimate Android Simülatörü",
+    "title": "Android Sahte Güncelleme",
+    "description": "Tam ekranda gerçekçi sahte Android güncelleme ekran aracını deneyimleyin. Şakalar, eğitim amaçları veya teknik gösteriler için mükemmel.",
+    "keywords": "Android sahte güncelleme, Android güncelleme simülasyonu, Otantik Android güncelleme, Android güncelleme şakası, Gerçekçi Android güncelleme ekranı, Gerçek Android güncelleme simülasyonu, Eğlenceli Android güncelleme şakası, Android sahte güncelleme ile şaka, Heyecan verici Android güncelleme deneyimi, Android güncelleme şaka aracı",
+    "features": {
+      "noRegistration": "Kayıt yok",
+      "worksOffline": "Çevrimdışı çalışır",
+      "allDevices": "Tüm cihazlar"
+    }
+  },
+  "keywords": "ol",
+  "preview": {
+    "updateText": "Sistem güncellemesi yükleniyor"
+  },
+  "useCases": {
+    "title": "İnsanlar Android Sahte Güncelleme Ekranını şunun için kullanır:",
+    "subtitle": "Android sahte güncelleme ekranımızı kullanmanın çeşitli yollarını keşfedin",
+    "simulate": {
+      "title": "Yazılım Testi için Android Güncelleme Simülasyonu",
+      "description": "Yazılım testi ve gösterim amaçları için otantik görünümlü güncelleme ekranları oluşturmak için Android sahte güncelleme aracımızı kullanın."
+    },
+    "engage": {
+      "title": "Gerçekçi Android Güncelleme Ekranı ile İzleyicilerinizi Etkileyin",
+      "description": "Sunumlar veya teknoloji blogları sırasında gerçek Android güncelleme simülasyonu göstererek teknoloji meraklılarının dikkatini çekin."
+    },
+    "education": {
+      "title": "Android Güncelleme Şaka Aracı ile Teknoloji Eğitimini Yükseltin",
+      "description": "Sistem güncellemeleri ve kullanıcı arayüzü tasarımı hakkında öğretmek için gerçekçi Android güncelleme ekranımızı teknoloji eğitim senaryolarına dahil edin."
+    },
+    "content": {
+      "title": "Android Sahte Güncelleme ile Eğlenceli İçerik Oluşturun",
+      "description": "Eğlenceli Android güncelleme şakası kullanarak ilgi çekici video içeriği veya canlı yayınlar üretin, teknoloji tartışmalarına mizah ekleyin."
+    },
+    "prank": {
+      "title": "Gerçek Android Güncelleme Simülasyonu ile Arkadaşlarınıza Şaka Yapın",
+      "description": "Android sahte güncelleme ile şaka yapmak için aracımızı kullanarak arkadaşlarınızı şaşırtın, sıradan anları unutulmaz teknoloji şakalarına dönüştürün."
+    },
+    "ux": {
+      "title": "Simüle Edilmiş Güncellemelerle UX Tasarım Öğrenimini Geliştirin",
+      "description": "Sistem güncellemelerinin kullanıcı deneyimi üzerindeki etkisi hakkında UX/UI tasarımcılarını eğitmek için heyecan verici Android güncelleme deneyimini kullanın."
+    },
+    "recovery": {
+      "title": "Android Güncelleme Şaka Aracı ile Sistem Kurtarma Senaryolarını Gösterin",
+      "description": "IT eğitimi ve atölyeler için sistem kurtarma süreçlerini simüle etmek için otantik görünümlü Android güncelleme aracını kullanın."
+    }
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "subtitle": "Android sahte güncelleme ekranımız hakkında yaygın sorular",
+    "real": {
+      "question": "Bu gerçek bir Android güncellemesi mi?",
+      "answer": "Hayır, bu eğlence ve test amaçları için tasarlanmış simüle edilmiş bir ekrandır. Cihazınızı gerçekten güncelleyemez."
+    },
+    "pranks": {
+      "question": "Bunu şakalar için kullanabilir miyim?",
+      "answer": "Evet! Bu araç zararsız teknoloji şakaları için mükemmeldir. Sadece sorumlu bir şekilde ve iyi mizahla kullanmayı unutmayın."
+    },
+    "realistic": {
+      "question": "Simülasyon ne kadar gerçekçi?",
+      "answer": "Android güncelleme ekranımız animasyonlu yükleme çubuğu ve uygun Android markalama ile çok otantik görünecek şekilde tasarlanmıştır."
+    },
+    "safe": {
+      "question": "Kullanmak güvenli mi?",
+      "answer": "Kesinlikle! Bu tamamen tarayıcınızda çalışan web tabanlı bir simülasyondur ve sisteminize veya cihazınıza erişemez."
+    }
+  }
+}

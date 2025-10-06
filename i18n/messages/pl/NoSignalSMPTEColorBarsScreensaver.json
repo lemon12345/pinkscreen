@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "title": "Ekran TV Brak Sygnału",
+    "description": "Doświadcz autentycznych pasków kolorów SMPTE i wzorców testowych bez sygnału. Idealny do kalibracji monitora, testów produkcji wideo i tworzenia tej klasycznej atmosfery telewizji nadawczej.",
+    "badge": "Wzorzec Testowy Nadawania",
+    "features": {
+      "noRegistration": "Bez Rejestracji",
+      "worksOffline": "Działa Offline",
+      "allDevices": "Wszystkie Urządzenia"
+    }
+  },
+  "keywords": "paski kolorów SMPTE, ekran brak sygnału, wzorzec testowy, kalibracja kolorów, test wideo, wzorzec testowy nadawania, ekran testowy telewizji, kalibracja monitora, wygaszacz paski kolorów, wzorzec testowy SMPTE, inżynieria wideo, inżynieria nadawania, referencja kolorów, kalibracja wyświetlacza, test sygnału wideo, inżynieria telewizji, standard kolorów, standard nadawania, sygnał testowy, produkcja wideo",
+  "preview": {
+    "testPattern": "Wzorzec Testowy",
+    "colorBars": "Paski Kolorów SMPTE"
+  },
+  "useCases": {
+    "title": "Ludzie używają Pasków Kolorów SMPTE do:",
+    "subtitle": "Odkryj różne sposoby używania naszego wzorca testowego pasków kolorów SMPTE",
+    "case1": {
+      "title": "Kalibracja Monitora i Wyświetlacza",
+      "description": "Używaj pasków kolorów SMPTE do kalibracji monitorów, telewizorów i wyświetlaczy dla dokładnej reprodukcji kolorów w środowiskach profesjonalnych."
+    },
+    "case2": {
+      "title": "Produkcja Wideo i Nadawanie",
+      "description": "Niezbędne narzędzie dla inżynierów wideo i nadawców do testowania jakości sygnału i zapewnienia odpowiednich standardów kolorów."
+    },
+    "case3": {
+      "title": "Testowanie Sprzętu i Rozwiązywanie Problemów",
+      "description": "Zidentyfikuj problemy z wyświetlaniem, sprawdź integralność sygnału wideo i rozwiąż problemy ze sprzętem nadawczym za pomocą standardowych wzorców testowych."
+    },
+    "case4": {
+      "title": "Edukacja Nadawcza i Medialna",
+      "description": "Ucz studentów o standardach nadawczych, teorii kolorów i technikach profesjonalnej produkcji wideo."
+    },
+    "case5": {
+      "title": "Estetyka Retro i Atmosfera",
+      "description": "Stwórz autentyczną atmosferę nadawczą vintage dla wydarzeń tematycznych, planów filmowych lub tworzenia nostalgicznych treści."
+    },
+    "case6": {
+      "title": "Profesjonalny Wyświetlacz Wygaszacza",
+      "description": "Używaj jako wygaszacz w profesjonalnych środowiskach produkcji wideo i obiektach nadawczych."
+    }
+  },
+  "howToUse": {
+    "title": "Jak Używać Pasków Kolorów SMPTE",
+    "steps": [
+      "Otwórz stronę - Przejdź do no-signal-smpte-color-bars-screensaver w swojej przeglądarce",
+      "Pełny ekran - Kliknij \"Pełny ekran\" lub naciśnij F11, aby wyświetlić wzorzec testowy na całym ekranie",
+      "Wybierz wzorzec - Przełączaj między paskami kolorów SMPTE a wzorcami testowymi bez sygnału używając kontrolek",
+      "Użyj do kalibracji - Sprawdź dokładność kolorów, jasność i ustawienia kontrastu na monitorze lub ekranie",
+      "Wyjdź w dowolnym momencie - Naciśnij Esc lub F11, aby opuścić tryb pełnoekranowy i wrócić do normalnego widoku"
+    ]
+  },
+  "faq": {
+    "title": "Często Zadawane Pytania",
+    "subtitle": "Typowe pytania o paski kolorów SMPTE i wzorce testowe",
+    "whatIsSMPTE": {
+      "question": "Czym są paski kolorów SMPTE?",
+      "answer": "Paski kolorów SMPTE to znormalizowany wzorzec testowy używany w produkcji telewizyjnej i wideo do kalibracji sprzętu i zapewnienia dokładnej reprodukcji kolorów."
+    },
+    "howToUse": {
+      "question": "Jak używać tego do kalibracji monitora?",
+      "answer": "Używaj pasków kolorów do sprawdzenia, czy Twój wyświetlacz pokazuje dokładne kolory. Każdy pasek powinien wyświetlać wyraźne, czyste kolory bez rozlewania się lub zniekształceń."
+    },
+    "fullscreen": {
+      "question": "Jak wyjść z trybu pełnoekranowego?",
+      "answer": "Naciśnij klawisz Escape lub kliknij ponownie przycisk pełnoekranowy, aby wyjść z trybu pełnoekranowego. Możesz też użyć F11, aby przełączyć pełny ekran w większości przeglądarek."
+    },
+    "download": {
+      "question": "Czy mogę pobrać wzorzec pasków kolorów?",
+      "answer": "Tak, możesz pobrać wzorzec pasków kolorów w różnych rozdzielczościach. Użyj przycisku pobierania w sekcji kontroli, aby zapisać wzorzec jako plik obrazu PNG."
+    },
+    "compatibility": {
+      "question": "Jakie przeglądarki są obsługiwane?",
+      "answer": "Wygaszacz pasków kolorów działa na wszystkich nowoczesnych przeglądarkach, w tym Chrome, Firefox, Safari i Edge. Tryb pełnoekranowy jest obsługiwany na większości urządzeń i przeglądarek."
+    }
+  }
+}

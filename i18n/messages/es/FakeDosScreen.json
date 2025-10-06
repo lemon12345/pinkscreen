@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Formateo de Disco Falso - Broma DOS Online",
+    "description": "Engaña a tus amigos con la broma DOS online que parece formatear la unidad de disco pero en realidad no causa ningún daño.",
+    "badge": "Herramienta de Broma DOS"
+  },
+  "keywords": "DOS falso, broma formateo disco, broma DOS online, formateo disco falso, broma computadora, simulador DOS, broma prompt comando, format C falso, broma inofensiva, pantalla DOS",
+  "colorPicker": {
+    "title": "Broma DOS Falsa",
+    "description": "Perfecto para bromear con amigos usando simulación realista de formateo DOS",
+    "launchButton": "Lanzar Broma DOS",
+    "clickHint": "Haz clic en el botón de arriba para lanzar la broma DOS en pantalla completa"
+  },
+  "useCases": {
+    "title": "La gente usa la broma DOS para:",
+    "description": "Nuestro simulador DOS falso proporciona una experiencia realista de formateo DOS para bromas inofensivas y entretenimiento.",
+    "cases": [
+      {
+        "icon": "😂",
+        "title": "Bromas Inofensivas",
+        "description": "Bromea con amigos y colegas usando simulación realista de formateo DOS sin causar ningún daño real."
+      },
+      {
+        "icon": "🎭",
+        "title": "Videos de Entretenimiento",
+        "description": "Crea videos de reacción divertidos y contenido de entretenimiento con interfaz DOS auténtica."
+      },
+      {
+        "icon": "🎪",
+        "title": "Día de los Inocentes",
+        "description": "Perfecto para bromas del Día de los Inocentes y momentos de entretenimiento sorpresa con amigos."
+      },
+      {
+        "icon": "📱",
+        "title": "Contenido de Redes Sociales",
+        "description": "Genera contenido atractivo para redes sociales y publicaciones divertidas relacionadas con tecnología."
+      },
+      {
+        "icon": "🎬",
+        "title": "Películas y Teatro",
+        "description": "Usa en películas, producciones teatrales o demostraciones educativas que requieren interfaz DOS."
+      },
+      {
+        "icon": "🎮",
+        "title": "Juegos Retro",
+        "description": "Experimenta la interfaz DOS nostálgica y recuerda la era clásica de la informática."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "description": "Preguntas comunes sobre el simulador de broma DOS falso",
+    "questions": [
+      {
+        "question": "¿Es seguro usar esta broma DOS?",
+        "answer": "¡Absolutamente seguro! Esto es solo una simulación web que imita el formateo DOS. No formatea ni daña ningún archivo en tu computadora."
+      },
+      {
+        "question": "¿Esto realmente eliminará mis archivos?",
+        "answer": "¡No! Esto es puramente simulación visual. No se eliminan archivos, no ocurre formateo. Es completamente inofensivo y seguro."
+      },
+      {
+        "question": "¿Cómo salgo de la broma?",
+        "answer": "Presiona la tecla ESC o F11 para salir del modo pantalla completa. La broma también se revelará automáticamente después de completarse."
+      },
+      {
+        "question": "¿Puedo usar esto en dispositivos móviles?",
+        "answer": "¡Sí! La broma DOS funciona en todos los dispositivos incluyendo smartphones y tablets con soporte de pantalla completa."
+      },
+      {
+        "question": "¿Es adecuado para bromas de oficina?",
+        "answer": "Aunque es inofensivo, úsalo responsablemente y considera el ambiente de tu lugar de trabajo antes de bromear con colegas."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "prankScreens": "Pantallas de Broma",
+    "fakeUpdateScreens": "Pantallas de Actualización Falsa",
+    "screensaverScreens": "Pantallas de Protector de Pantalla"
+  },
+  "howToUse": {
+    "title": "Cómo Usar",
+    "steps": [
+      "Haz clic en el botón de lanzamiento para entrar en la broma DOS en pantalla completa",
+      "Observa cómo comienza automáticamente el proceso de formateo falso",
+      "El sistema mostrará comandos DOS realistas y progreso",
+      "Después de completarse, la broma se revela con un mensaje inofensivo",
+      "Presiona ESC o F11 para salir del modo pantalla completa en cualquier momento"
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificaciones Técnicas",
+    "specs": [
+      "Interfaz: Simulación auténtica del prompt de comandos DOS",
+      "Características: Animación realista de formateo de disco",
+      "Seguridad: 100% inofensivo - no ocurre formateo real",
+      "Compatibilidad: Todos los navegadores y dispositivos modernos",
+      "Duración: Secuencia automática de broma con revelación"
+    ]
+  }
+}

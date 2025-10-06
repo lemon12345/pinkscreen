@@ -1,0 +1,161 @@
+{
+  "hero": {
+    "title": "Windows 11 假更新",
+    "description": "体验最逼真的在线假Windows 11更新屏幕。非常适合无害的恶作剧、视频或玩笑。100%安全且支持全屏显示。",
+    "badge": "Windows 11 系统更新",
+    "features": {
+      "noRegistration": "无需注册",
+      "worksOffline": "离线运行",
+      "allDevices": "所有设备"
+    }
+  },
+  "keywords": "Windows 11假更新, Windows 11更新模拟, 模拟Windows 11更新, 假Windows 11更新屏幕, 模拟Windows 11更新, Windows 11更新恶作剧, Windows 11更新过程, 逼真的Windows 11更新, 真实的Windows 11更新屏幕, 用Windows 11更新愚弄朋友, 真实的Windows 11更新进度, 真正的Windows 11更新模拟, 真实的Windows 11更新消息, Windows 11更新阶段, 有趣的Windows 11更新恶作剧, 有趣的假Windows 11更新, 享受模拟的Windows 11更新, 用Windows 11假更新恶作剧, 刺激的Windows 11更新体验, 娱乐用的Windows 11更新, Windows 11更新恶作剧工具",
+  "systemSelection": {
+    "title": "选择系统",
+    "windows11": "Windows 11",
+    "windows10": "Windows 10",
+    "windowsXp": "Windows XP",
+    "macOsX": "Mac OS X",
+    "ubuntu": "Ubuntu 22.04",
+    "android": "Android"
+  },
+  "progressSettings": {
+    "title": "进度设置",
+    "updateTime": "更新时间",
+    "startTime": "开始时间",
+    "minutes": "分钟",
+    "percent": "%",
+    "restartProgress": "重新开始进度"
+  },
+  "description": "非常适合恶作剧、系统测试和Windows 11更新模拟",
+  "preview": {
+    "updateText": "正在配置更新程序",
+    "completeText": "完成",
+    "dontTurnOffText": "请勿关闭计算机电源",
+    "restartText": "电脑将重启数次。",
+    "livePreview": "实时预览",
+    "launchButton": "启动Windows 11更新"
+  },
+  "useCases": {
+    "title": "人们使用Windows 11更新屏幕的目的：",
+    "subtitle": "发现我们Windows 11假更新屏幕的各种使用方法",
+    "simulate": {
+      "title": "模拟Windows 11更新过程真是太棒了！",
+      "description": "访问了Windows 11更新模拟页面，自定义进度条创建了一个令人信服的假更新。看着朋友们的反应真是太有趣了！"
+    },
+    "engage": {
+      "title": "用Windows 11更新恶作剧活跃办公室气氛！",
+      "description": "使用Windows 11更新恶作剧工具在同事的PC上模拟更新。逼真的消息和进度条让所有人都被骗了，结果引发了一些搞笑的时刻！"
+    },
+    "education": {
+      "title": "搞笑的Windows 11更新恶作剧让人开怀大笑！",
+      "description": "使用Windows 11假更新屏幕对兄弟姐妹恶作剧。他们完全被逼真的更新过程和不断跳动的进度条给骗了！"
+    },
+    "content": {
+      "title": "Windows 11更新模拟的真实性让我的技术朋友们印象深刻！",
+      "description": "分享了我使用网站创建的Windows 11更新模拟的视频录制。逼真的进度条和状态消息让我的朋友们惊叹不已，他们以为这是真正的更新！"
+    },
+    "prank": {
+      "title": "用Windows 11假更新完美愚弄了我的同事！",
+      "description": "使用Windows 11假更新屏幕欺骗我的同事，让他们以为他们的电脑正在进行重大更新。逼真的视觉效果和进度动画让他们恐慌了一会儿！"
+    },
+    "ux": {
+      "title": "用Windows 11假更新创建有趣内容",
+      "description": "使用有趣的Windows 11更新恶作剧制作引人入胜的视频内容或直播，为技术讨论增添幽默感。"
+    },
+    "recovery": {
+      "title": "用Windows 11更新恶作剧工具演示系统恢复场景",
+      "description": "利用逼真的Windows 11更新工具为IT培训和研讨会模拟系统恢复过程。"
+    }
+  },
+  "faq": {
+    "title": "关于假Windows 11更新屏幕的常见问题",
+    "subtitle": "关于我们Windows 11假更新屏幕的常见问题",
+    "whatIs": {
+      "question": "什么是假Windows 11更新屏幕？",
+      "answer": "假Windows 11更新屏幕是一个有趣的在线模拟器，模拟真实的Windows 11更新过程。它专为无害的恶作剧、YouTube视频或演示而设计，让您看起来像PC正在\"更新\"。"
+    },
+    "safe": {
+      "question": "这个假更新屏幕使用安全吗？",
+      "answer": "是的。模拟器100%安全。它完全在您的浏览器中运行，不会在您的计算机上安装或修改任何内容。它只显示一个看起来像真实Windows 11更新的逼真全屏动画。"
+    },
+    "howToUse": {
+      "question": "如何使用假Windows 11更新屏幕？",
+      "answer": "只需打开页面，点击\"全屏\"，假更新将自动开始。您可以随时按Esc或F11键退出。"
+    },
+    "pranks": {
+      "question": "我可以用它来恶作剧或制作视频吗？",
+      "answer": "当然可以！许多人用它来恶作剧朋友、录制有趣的TikTok或YouTube视频，或制作科技风格的内容。只要确保您的恶作剧是友好和尊重的。"
+    },
+    "realistic": {
+      "question": "它看起来完全像真实的Windows 11更新吗？",
+      "answer": "是的——它采用与真实Windows 11更新屏幕相同的字体、颜色和动画设计。观众通常无法区分。"
+    },
+    "otherScreens": {
+      "question": "我还可以尝试哪些其他假屏幕？",
+      "answer": "您还可以尝试：假Windows 10更新屏幕、蓝屏死机(BSOD)恶作剧、清洁用黑屏。这些非常适合娱乐、测试或显示目的。"
+    },
+    "exit": {
+      "question": "如何退出假更新屏幕？",
+      "answer": "要退出全屏模式，请按Esc。如果您的浏览器没有响应，您也可以使用Alt + Tab切换窗口。"
+    },
+    "mobile": {
+      "question": "我可以在移动设备上使用它吗？",
+      "answer": "是的，假Windows 11更新屏幕在大多数智能手机和平板电脑上都能工作。为了获得最佳体验，请将手机横向放置（横屏模式）。"
+    },
+    "privacy": {
+      "question": "这个网站收集任何数据吗？",
+      "answer": "不收集个人数据。页面只是在您的浏览器中显示视觉效果。它是安全且隐私友好的。"
+    },
+    "difference": {
+      "question": "Windows 10和Windows 11假更新屏幕有什么区别？",
+      "answer": "Windows 11版本具有现代蓝色背景、居中进度文本和新字体样式——完美匹配官方Windows 11外观。"
+    }
+  },
+  "howToUse": {
+    "title": "它是如何工作的？",
+    "subtitle": "使用这个工具很简单：",
+    "stepByStepTitle": "分步流程",
+    "keyFeaturesTitle": "关键特性",
+    "steps": {
+      "chooseDuration": {
+        "title": "选择持续时间",
+        "description": "选择您希望更新运行多长时间 - 从几分钟到几小时。"
+      },
+      "setStartingPercentage": {
+        "title": "设置起始百分比",
+        "description": "为更新选择一个起始百分比，例如10%、15%或任何其他点。"
+      },
+      "selectWindowsVersion": {
+        "title": "选择Windows版本",
+        "description": "选择您想要模拟的Windows版本（Windows 10、Windows 11或Windows XP）。"
+      },
+      "startSimulation": {
+        "title": "开始模拟",
+        "description": "一旦您设置了这些选项，工具将从您选择的百分比开始显示更新动画。"
+      }
+    },
+    "features": {
+      "realisticAnimation": {
+        "title": "逼真动画",
+        "description": "更新过程看起来就像真的一样，具有准确的动画和设计。"
+      },
+      "customizableSettings": {
+        "title": "可定制设置",
+        "description": "调整持续时间和起始百分比以满足您的需求。"
+      },
+      "fullscreenMode": {
+        "title": "全屏模式",
+        "description": "工具在全屏模式下运行以获得最大效果。"
+      },
+      "deviceCompatibility": {
+        "title": "设备兼容性",
+        "description": "适用于台式机、笔记本电脑、平板电脑等。"
+      }
+    },
+    "footer": {
+      "title": "Windows假更新模拟器对用户来说是高度令人信服的体验",
+      "description": "它们复制了真实Windows更新屏幕的视觉效果，包括进度条和动画。"
+    }
+  }
+}

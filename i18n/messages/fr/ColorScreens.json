@@ -1,0 +1,20 @@
+{
+  "title": "Collection d'Écrans Colorés",
+  "description": "Explorez notre collection complète de simulations d'écrans colorés - de l'écran bleu classique aux affichages arc-en-ciel vibrants. Parfait pour les farces, les tests et les projets créatifs.",
+  "badge": "Collection Complète d'Écrans Colorés",
+  "screens": {
+    "pinkScreen": "Écran Rose",
+    "blueScreen": "Écran Bleu",
+    "redScreen": "Écran Rouge",
+    "greenScreen": "Écran Vert",
+    "yellowScreen": "Écran Jaune",
+    "orangeScreen": "Écran Orange",
+    "purpleScreen": "Écran Violet",
+    "blackScreen": "Écran Noir",
+    "whiteScreen": "Écran Blanc",
+    "zoomLighting": "Éclairage Zoom"
+  },
+  "footer": {
+    "description": "Tous les écrans sont gratuits et fonctionnent sur tous les appareils"
+  }
+}

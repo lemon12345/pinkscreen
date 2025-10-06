@@ -1,0 +1,116 @@
+{
+  "hero": {
+    "title": "Actualización Falsa de Windows 10",
+    "description": "Experimenta una simulación realista de actualización de Windows 10 en nuestro sitio web. Engaña a tus amigos con nuestra pantalla de actualización falsa de Windows 10 de aspecto auténtico. Disfruta de la suspense y diversión de un proceso de actualización simulado.",
+    "badge": "Actualización del Sistema Windows 10",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Sin Conexión",
+      "allDevices": "Todos los Dispositivos"
+    }
+  },
+  "keywords": "Falsa actualización de Windows 10, Simulación de actualización de Windows 10, Simular actualización de Windows 10, Pantalla de actualización falsa de Windows 10, Emular actualización de Windows 10, Broma de actualización de Windows 10, Proceso de actualización de Windows 10, Actualización de Windows 10 de aspecto auténtico, Pantalla de actualización realista de Windows 10, Engañar a amigos con la actualización de Windows 10, Progreso de actualización realista de Windows 10, Simulación auténtica de actualización de Windows 10, Mensajes auténticos de actualización de Windows 10, Etapa de actualización de Windows 10, Broma divertida de actualización de Windows 10, Actualización falsa divertida de Windows 10, Disfrutar de la actualización simulada de Windows 10, Broma con falsa actualización de Windows 10, Experiencia emocionante de actualización de Windows 10, Actualización de Windows 10 para diversión, Herramienta de broma de actualización de Windows 10",
+  "preview": {
+    "updateText": "Trabajando en actualizaciones",
+    "completeText": " completado",
+    "dontTurnOffText": "No apagues tu PC. Esto tomará un tiempo.",
+    "restartText": "Tu PC puede reiniciarse varias veces"
+  },
+  "colorPicker": {
+    "title": "Elige Tu Color",
+    "custom": "Personalizado",
+    "description": "Perfecto para bromas y entretenimiento",
+    "launchButton": "Lanzar Actualización de Windows 10"
+  },
+  "useCases": {
+    "title": "La gente usa actualización de Windows 10 para:",
+    "subtitle": "Descubre varias formas de usar nuestra pantalla de actualización falsa de Windows 10",
+    "simulate": {
+      "title": "Simular Actualización de Windows 10 para Pruebas de Software",
+      "description": "Utiliza nuestra herramienta de actualización falsa de Windows 10 para crear pantallas de actualización de aspecto auténtico para pruebas de software y propósitos de demostración."
+    },
+    "engage": {
+      "title": "Involucra a Tu Audiencia con una Pantalla de Actualización Realista de Windows 10",
+      "description": "Captura la atención de entusiastas de la tecnología mostrando una simulación genuina de actualización de Windows 10 durante presentaciones o blogs de tecnología."
+    },
+    "education": {
+      "title": "Eleva la Educación Tecnológica con Herramienta de Broma de Actualización de Windows 10",
+      "description": "Incorpora nuestra pantalla de actualización realista de Windows 10 en escenarios de educación tecnológica para enseñar sobre actualizaciones del sistema y diseño de interfaz de usuario."
+    },
+    "content": {
+      "title": "Crea Contenido Entretenido con Actualización Falsa de Windows 10",
+      "description": "Produce contenido de video atractivo o transmisiones en vivo usando una broma entretenida de actualización de Windows 10, añadiendo humor a las discusiones tecnológicas."
+    },
+    "prank": {
+      "title": "Bromea a Amigos con una Simulación Genuina de Actualización de Windows 10",
+      "description": "Sorprende a tus amigos usando nuestra herramienta para bromear con una actualización falsa de Windows 10, convirtiendo momentos ordinarios en bromas tecnológicas memorables."
+    },
+    "ux": {
+      "title": "Mejora el Aprendizaje de Diseño de Experiencia de Usuario con Actualizaciones Simuladas",
+      "description": "Usa la experiencia emocionante de actualización de Windows 10 para educar a diseñadores UX/UI sobre el impacto de las actualizaciones del sistema en la experiencia del usuario."
+    },
+    "testing": {
+      "title": "Probar el Brillo de la Pantalla y el Comportamiento de la Pantalla",
+      "description": "Debido a que la pantalla de actualización falsa usa visuales de pantalla completa con texto y gradientes, también se puede usar para verificar el rendimiento de la pantalla, uniformidad del brillo o precisión de color del monitor."
+    },
+    "fun": {
+      "title": "¡Solo por Diversión!",
+      "description": "Ya sea que estés aburrido o curioso, la pantalla de actualización falsa de Windows es una forma rápida y entretenida de simular la apariencia de las actualizaciones de Windows—sin instalar realmente nada."
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Preguntas comunes sobre nuestra Pantalla de Actualización Falsa de Windows 10",
+    "safe": {
+      "question": "¿Es segura la pantalla de actualización falsa de Windows 10?",
+      "answer": "¡Sí! Es completamente segura — esta página solo muestra una animación realista de actualización de Windows 10 en su navegador. No descarga ni instala nada en su computadora."
+    },
+    "pranks": {
+      "question": "¿Puedo usarla para hacer bromas a alguien?",
+      "answer": "¡Absolutamente 😄! Muchos usuarios abren la pantalla de actualización falsa en pantalla completa para engañar a sus amigos o compañeros de trabajo. ¡Se ve exactamente como la pantalla de actualización real de Windows!"
+    },
+    "exit": {
+      "question": "¿Cómo salgo de la pantalla de actualización falsa?",
+      "answer": "Simplemente presione Esc o F11 en su teclado para salir del modo de pantalla completa en cualquier momento."
+    },
+    "devices": {
+      "question": "¿Funciona en teléfonos o tabletas?",
+      "answer": "Sí, pero para el efecto más realista recomendamos usarla en una computadora de escritorio o portátil."
+    },
+    "real": {
+      "question": "¿Esta pantalla de actualización falsa realmente actualiza Windows?",
+      "answer": "No — es solo un simulador. Está diseñado para diversión, bromas o demostraciones, pero no cambiará ni instalará nada en su sistema."
+    },
+    "content": {
+      "question": "¿Puedo usarla para videos o transmisiones?",
+      "answer": "¡Sí! Puede grabar su pantalla o usarla durante transmisiones en vivo. Muchos creadores la usan para bromas tecnológicas o videos de reacciones divertidas."
+    },
+    "windows11": {
+      "question": "¿Esto funciona con Windows 11?",
+      "answer": "Esta página simula la pantalla de actualización de Windows 10. Si está buscando la versión de Windows 11, visite fake-windows-11-update"
+    }
+  },
+  "howToUse": {
+    "title": "Cómo Usar la Pantalla de Actualización Falsa de Windows 10",
+    "subtitle": "Siga estos simples pasos para comenzar con nuestra pantalla de actualización falsa de Windows 10",
+    "steps": {
+      "open": "Abrir la página",
+      "openDescription": "Vaya a  fake-windows-10-update-screen en su computadora o portátil.",
+      "fullscreen": "Elegir pantalla completa",
+      "fullscreenDescription": "Haga clic en el botón \"Pantalla Completa\" o presione F11 para que la pantalla de actualización falsa de Windows 10 cubra toda su pantalla.",
+      "wait": "Esperar y observar",
+      "waitDescription": "La pantalla comenzará a mostrar una animación realista de actualización de Windows 10 — exactamente como una actualización real del sistema.",
+      "use": "Usarla para una broma o video",
+      "useDescription": "Déjela funcionando para hacer bromas a sus amigos, grabar un video divertido o usarla como demostración para presentaciones.",
+      "exit": "Salir en cualquier momento",
+      "exitDescription": "Para salir, presione Esc o F11 nuevamente para volver a la vista normal."
+    },
+    "tips": {
+      "title": "Consejos Rápidos",
+      "exit": "Presione F11 o ESC para salir del modo de pantalla completa",
+      "realistic": "La animación se ve muy realista y auténtica",
+      "safe": "Completamente segura - no se realizan cambios reales del sistema",
+      "devices": "Funciona en todos los navegadores y dispositivos modernos"
+    }
+  }
+}

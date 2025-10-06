@@ -10,6 +10,26 @@
     }
   },
   "keywords": "blauer Bildschirm, blaues Display, blauer Bildschirm, hellblauer Bildschirm, gefälschter blauer Bildschirm, leerer blauer Bildschirm, dunkelblauer Bildschirm, blaue Bildschirmansicht, PC-blauer Bildschirm, Computer-blauer Bildschirm",
+  "colors": {
+    "Blue": "Blauer",
+    "White": "Weißer",
+    "Black": "Schwarzer",
+    "Red": "Roter",
+    "Green": "Grüner",
+    "Yellow": "Gelber",
+    "Purple": "Lila",
+    "Pink": "Rosa",
+    "Orange": "Oranger",
+    "Zoom Lighting": "Zoom-Beleuchtung"
+  },
+  "interface": {
+    "livePreview": "Live-Vorschau",
+    "clickForFullscreen": "Klicken für Vollbild",
+    "current": "Aktuell",
+    "chooseYourColor": "Wählen Sie Ihre Farbe",
+    "perfectFor": "Perfekt für Monitortests, Fotografie-Beleuchtung und Präsentationen",
+    "launchBlueScreen": "Blauen Bildschirm starten"
+  },
   "colorPicker": {
     "title": "Wählen Sie Ihre Farbe",
     "custom": "Benutzerdefiniert",
@@ -77,8 +97,26 @@
       }
     ]
   },
+  "info": {
+    "professionalTool": "Professionelles Werkzeug",
+    "title": "Blauer Bildschirm Hintergrund herunterladen",
+    "subtitle": "Verwenden Sie diesen Vollbild-Blauzeichschirm für Monitortests, Fotografie-Beleuchtung oder zum Erstellen eines blauen Hintergrunds. Sauber, schnell und werbefrei.",
+    "downloadReady": "Download bereit",
+    "downloadTitle": "Blauer Bildschirm Hintergrund",
+    "downloadDescription": "Bevorzugen Sie ein statisches Blauzeichschirm-Bild? Verwenden Sie eines unserer hochauflösenden PNGs:",
+    "hdTitle": "1920x1080 Blauer Bildschirm Hintergrund",
+    "hdDescription": "Perfekt für Standard-HD-Displays und Monitortests. Optimiert für Fotografie-Beleuchtung und Präsentationen.",
+    "hdButton": "HD herunterladen",
+    "fourKTitle": "4K Blauer Bildschirm Hintergrund",
+    "fourKDescription": "Ultra-HD-Vollbild-blauer Hintergrund für professionelle Monitortests und Fotografie. Perfekt für hochauflösende Displays.",
+    "fourKButton": "4K herunterladen",
+    "proTipBadge": "Profi-Tipp",
+    "proTipTitle": "Maximieren Sie Ihren Blauzeichschirm",
+    "proTipDescription": "Maximieren Sie die Bildschirmhelligkeit und verwenden Sie F11 für den Vollbildmodus, um den besten Effekt für Monitortests und Fotografie zu erzielen."
+  },
   "faq": {
     "title": "Häufig gestellte Fragen",
+    "description": "Finden Sie Antworten auf häufige Fragen zur Verwendung unseres blauen Bildschirm-Tools für verschiedene Zwecke.",
     "questions": [
       {
         "question": "Wofür wird ein blauer Bildschirm verwendet?",

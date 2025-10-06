@@ -1,0 +1,110 @@
+{
+  "hero": {
+    "title": "Windows 10 Sahte Güncelleme",
+    "description": "Web sitemizde gerçekçi bir Windows 10 güncelleme simülasyonu deneyimleyin. Arkadaşlarınızı otantik görünümlü Windows 10 sahte güncelleme ekranımızla kandırın. Simüle edilmiş güncelleme sürecinin heyecanını ve eğlencesini yaşayın.",
+    "badge": "Windows 10 Sistem Güncellemesi",
+    "features": {
+      "noRegistration": "Kayıt yok",
+      "worksOffline": "Çevrimdışı çalışır",
+      "allDevices": "Tüm cihazlar"
+    }
+  },
+  "keywords": "Windows 10 sahte güncelleme, Windows 10 güncelleme simülasyonu, Windows 10 güncelleme simülasyonu, Sahte Windows 10 güncelleme ekranı, Windows 10 güncelleme emülasyonu, Windows 10 güncelleme şakası, Windows 10 güncelleme süreci, Otantik Windows 10 güncelleme, Gerçekçi Windows 10 güncelleme ekranı, Windows 10 güncelleme ile arkadaşları kandırma, Gerçekçi Windows 10 güncelleme ilerlemesi, Gerçek Windows 10 güncelleme simülasyonu, Otantik Windows 10 güncelleme mesajları, Windows 10 güncelleme aşaması, Eğlenceli Windows 10 güncelleme şakası, Eğlenceli sahte Windows 10 güncelleme, Simüle edilmiş Windows 10 güncellemesinin tadını çıkarma, Windows 10 sahte güncelleme ile şaka, Heyecan verici Windows 10 güncelleme deneyimi, Eğlence için Windows 10 güncelleme, Windows 10 güncelleme şaka aracı",
+  "preview": {
+    "updateText": "Güncellemeler üzerinde çalışıyor",
+    "completeText": " tamamlandı",
+    "dontTurnOffText": "PC'nizi kapatmayın. Bu biraz zaman alacak.",
+    "restartText": "PC'niz birkaç kez yeniden başlayabilir"
+  },
+  "useCases": {
+    "title": "İnsanlar Windows 10 Güncelleme Ekranını şunun için kullanır:",
+    "subtitle": "Windows 10 sahte güncelleme ekranımızı kullanmanın çeşitli yollarını keşfedin",
+    "simulate": {
+      "title": "Yazılım Testi için Windows 10 Güncelleme Simülasyonu",
+      "description": "Yazılım testi ve gösterim amaçları için otantik görünümlü güncelleme ekranları oluşturmak için Windows 10 sahte güncelleme aracımızı kullanın."
+    },
+    "engage": {
+      "title": "Gerçekçi Windows 10 Güncelleme Ekranı ile İzleyicilerinizi Etkileyin",
+      "description": "Sunumlar veya teknoloji blogları sırasında gerçek Windows 10 güncelleme simülasyonu göstererek teknoloji meraklılarının dikkatini çekin."
+    },
+    "education": {
+      "title": "Windows 10 Güncelleme Şaka Aracı ile Teknoloji Eğitimini Yükseltin",
+      "description": "Sistem güncellemeleri ve kullanıcı arayüzü tasarımı hakkında öğretmek için gerçekçi Windows 10 güncelleme ekranımızı teknoloji eğitim senaryolarına dahil edin."
+    },
+    "content": {
+      "title": "Windows 10 Sahte Güncelleme ile Eğlenceli İçerik Oluşturun",
+      "description": "Eğlenceli Windows 10 güncelleme şakası kullanarak ilgi çekici video içeriği veya canlı yayınlar üretin, teknoloji tartışmalarına mizah ekleyin."
+    },
+    "prank": {
+      "title": "Gerçek Windows 10 Güncelleme Simülasyonu ile Arkadaşlarınıza Şaka Yapın",
+      "description": "Windows 10 sahte güncelleme ile şaka yapmak için aracımızı kullanarak arkadaşlarınızı şaşırtın, sıradan anları unutulmaz teknoloji şakalarına dönüştürün."
+    },
+    "ux": {
+      "title": "Simüle Edilmiş Güncellemelerle UX Tasarım Öğrenimini Geliştirin",
+      "description": "Sistem güncellemelerinin kullanıcı deneyimi üzerindeki etkisi hakkında UX/UI tasarımcılarını eğitmek için heyecan verici Windows 10 güncelleme deneyimini kullanın."
+    },
+    "testing": {
+      "title": "Ekran Parlaklığını ve Görüntü Davranışını Test Etme",
+      "description": "Sahte güncelleme ekranı metin ve gradyanlarla tam ekran görselleri kullandığından, ekran performansını, parlaklık düzgünlüğünü veya monitör renk doğruluğunu kontrol etmek için de kullanılabilir."
+    },
+    "fun": {
+      "title": "Sadece Eğlence İçin!",
+      "description": "Sıkılmış veya meraklı olmanız fark etmez, sahte Windows güncelleme ekranı Windows güncellemelerinin görünümünü simüle etmenin hızlı ve eğlenceli bir yoludur—gerçekten hiçbir şey yüklemeden."
+    }
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "subtitle": "Windows 10 sahte güncelleme ekranımız hakkında yaygın sorular",
+    "safe": {
+      "question": "Windows 10 sahte güncelleme ekranı güvenli mi?",
+      "answer": "Evet! Tamamen güvenli — bu sayfa tarayıcınızda sadece gerçekçi bir Windows 10 güncelleme animasyonu gösterir. Bilgisayarınıza hiçbir şey indirmez veya kurmaz."
+    },
+    "pranks": {
+      "question": "Bunu birine şaka yapmak için kullanabilir miyim?",
+      "answer": "Kesinlikle 😄 Birçok kullanıcı arkadaşlarını veya iş arkadaşlarını kandırmak için sahte güncelleme ekranını tam ekran modunda açar. Gerçek Windows güncelleme ekranıyla tamamen aynı görünüyor!"
+    },
+    "exit": {
+      "question": "Sahte güncelleme ekranından nasıl çıkarım?",
+      "answer": "Tam ekran modundan çıkmak için klavyenizde Esc veya F11 tuşuna basmanız yeterli."
+    },
+    "devices": {
+      "question": "Telefonlarda veya tabletlerde çalışır mı?",
+      "answer": "Evet, ancak en gerçekçi efekt için masaüstü veya dizüstü bilgisayarda kullanmanızı öneririz."
+    },
+    "real": {
+      "question": "Bu sahte güncelleme ekranı gerçekten Windows'u günceller mi?",
+      "answer": "Hayır — bu sadece bir simülatör. Eğlence, şaka veya gösterimler için tasarlanmıştır, ancak sisteminizde hiçbir şeyi değiştirmez veya kurmaz."
+    },
+    "content": {
+      "question": "Bunu videolar veya yayınlar için kullanabilir miyim?",
+      "answer": "Evet! Ekranınızı kaydedebilir veya canlı yayınlar sırasında kullanabilirsiniz. Birçok içerik üreticisi bunu teknoloji şakaları veya eğlenceli tepki videoları için kullanır."
+    },
+    "windows11": {
+      "question": "Bu Windows 11 ile çalışır mı?",
+      "answer": "Bu sayfa Windows 10 güncelleme ekranını simüle eder. Windows 11 sürümünü arıyorsanız, fake-windows-11-update adresini ziyaret edin"
+    }
+  },
+  "howToUse": {
+    "title": "Windows 10 Sahte Güncelleme Ekranı Nasıl Kullanılır",
+    "subtitle": "Windows 10 sahte güncelleme ekranımızla başlamak için bu basit adımları izleyin",
+    "steps": {
+      "open": "Sayfayı açın",
+      "openDescription": "Bilgisayarınızda veya dizüstü bilgisayarınızda  fake-windows-10-update-screen adresine gidin.",
+      "fullscreen": "Tam ekranı seçin",
+      "fullscreenDescription": "Sahte Windows 10 güncelleme ekranının tüm ekranınızı kaplaması için \"Tam Ekran\" düğmesine tıklayın veya F11'e basın.",
+      "wait": "Bekleyin ve izleyin",
+      "waitDescription": "Ekran gerçekçi bir Windows 10 güncelleme animasyonu göstermeye başlayacak — tıpkı gerçek bir sistem güncellemesi gibi.",
+      "use": "Şaka veya video için kullanın",
+      "useDescription": "Arkadaşlarınızla şaka yapmak, komik bir video kaydetmek veya sunumlar için demo olarak kullanmak için çalışmasına izin verin.",
+      "exit": "İstediğiniz zaman çıkın",
+      "exitDescription": "Çıkmak için Esc veya F11'e tekrar basarak normal görünüme dönün."
+    },
+    "tips": {
+      "title": "Hızlı İpuçları",
+      "exit": "Tam ekran modundan çıkmak için F11 veya ESC'ye basın",
+      "realistic": "Animasyon çok gerçekçi ve otantik görünüyor",
+      "safe": "Tamamen güvenli - gerçek sistem değişiklikleri yapılmaz",
+      "devices": "Tüm modern tarayıcılar ve cihazlarda çalışır"
+    }
+  }
+}

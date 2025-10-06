@@ -70,28 +70,24 @@
     "proTipDescription": "Use white screen during your Zoom calls or photo sessions for soft lighting that brightens your face evenly!"
   },
   "faq": {
-    "title": "Frequently Asked Questions",
-    "description": "Find answers to common questions about our white screen tool and its various applications.",
+    "title": "⚪ White Screen – FAQ",
+    "description": "Find answers to common questions about using our white screen tool for various purposes.",
     "questions": [
       {
-        "question": "What is a white screen tool used for?",
-        "answer": "A white screen tool displays a white color in fullscreen mode, commonly used for monitor testing, photography lighting, reading, and creating a clean background for various purposes."
+        "question": "What is the White Screen tool used for?",
+        "answer": "It displays a pure white background, commonly used for lighting, brightness tests, or cleaning stuck pixels."
       },
       {
-        "question": "How do I use white screen for monitor testing?",
-        "answer": "The white screen is perfect for detecting dead pixels, dirt spots, and checking monitor calibration. Simply launch the white screen in fullscreen mode and carefully examine your display."
+        "question": "Can it be used as a light source?",
+        "answer": "Yes. Many users use the white screen to brighten dark rooms or as a makeshift soft light for photography or Zoom meetings."
       },
       {
-        "question": "Can I use white screen for photography?",
-        "answer": "Yes! The white screen is excellent for product photography, creating a clean background, and providing consistent lighting for your photos."
+        "question": "Will it harm my eyes or monitor?",
+        "answer": "No, but avoid staring at bright white light for long periods. It's safe for monitors."
       },
       {
-        "question": "Why use white screen for reading?",
-        "answer": "White light provides good contrast for reading text, making it easier on your eyes when reading books or documents in low light conditions."
-      },
-      {
-        "question": "Is white screen good for focus?",
-        "answer": "Yes, a white screen can help you focus by eliminating distractions. It's commonly used by students and professionals who want to maintain concentration while working."
+        "question": "Can I adjust brightness?",
+        "answer": "Yes. Use your device's brightness control to reduce or increase light intensity."
       }
     ]
   },

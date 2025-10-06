@@ -1,0 +1,128 @@
+{
+  "hero": {
+    "badge": "BIOS Simulator Verktyg",
+    "title": "Phoenix BIOS Setup Utility Simulator",
+    "description": "Online interaktiv CMOS bios simulator med navigationsmeny och huvud-, avancerade-, säkerhets- och startinställningar",
+    "features": {
+      "noRegistration": "Ingen registrering",
+      "worksOffline": "Fungerar offline",
+      "allDevices": "Alla enheter"
+    }
+  },
+  "keywords": "BIOS simulator, Phoenix BIOS, BIOS inställningar, CMOS inställningar, online BIOS, BIOS utbildning, systeminställningar, datoreducation, IT träning, BIOS gränssnitt, systemkonfiguration",
+  "colorPicker": {
+    "title": "BIOS Simulator",
+    "custom": "Anpassad",
+    "description": "Perfekt för IT utbildning, tekniska demonstrationer och systemlärande",
+    "launchButton": "Starta BIOS Simulator",
+    "clickHint": "Klicka på knappen ovan för att starta helskärms BIOS simulator",
+    "previewAlt": "Phoenix BIOS Setup Utility Förhandsvisning",
+    "biosTitle": "Phoenix TrustedBios(tm) CMOS Setup Utility"
+  },
+  "useCases": {
+    "title": "Folk använder BIOS simulator för:",
+    "description": "Vår BIOS simulator ger autentisk BIOS upplevelse för olika professionella och lärande scenarier.",
+    "cases": [
+      {
+        "icon": "🔧",
+        "title": "Systemunderhåll Lärande",
+        "description": "Lär dig och öva BIOS inställningar säkert, förstå dator lågnivå konfigurationsalternativ och systemparametrar."
+      },
+      {
+        "icon": "📚",
+        "title": "IT Utbildning & Träning",
+        "description": "Används för datavetenskap undervisning och IT träning, låter studenter säkert lära sig BIOS gränssnitt operationer."
+      },
+      {
+        "icon": "🎭",
+        "title": "Tekniska Demonstrationer",
+        "description": "Skapa tekniska demonstrationsvideor, utför systemfelssimuleringar eller visa hårdvarukonfigurationsprocesser."
+      },
+      {
+        "icon": "🎮",
+        "title": "Nostalgisk Upplevelse",
+        "description": "Upplev det klassiska Phoenix BIOS gränssnittet, minns de historiska ögonblicken av datorutveckling."
+      },
+      {
+        "icon": "🛠️",
+        "title": "Felsökning Praktik",
+        "description": "Öva BIOS felsökningsprocedurer och inställningsåterställningsmetoder för att förbättra tekniska färdigheter."
+      },
+      {
+        "icon": "💻",
+        "title": "Hårdvarukonfiguration Lärande",
+        "description": "Förstå dator startprocess, hårdvaruidentifiering och grundläggande principer för systemkonfiguration."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "description": "Vanliga frågor och svar om BIOS simulatorn",
+    "questions": [
+      {
+        "question": "Vad är en BIOS simulator?",
+        "answer": "En BIOS simulator är ett online verktyg som helt simulerar det traditionella Phoenix BIOS setup gränssnittet, ger autentisk BIOS operation upplevelse."
+      },
+      {
+        "question": "Är det säkert att använda BIOS simulatorn?",
+        "answer": "Helt säkert! Detta är bara en webbaserad simulator som inte kommer att påverka din riktiga dator eller systeminställningar på något sätt."
+      },
+      {
+        "question": "Hur man opererar i helskärmsläge?",
+        "answer": "Använd tangentbordspilarna för navigering: vänster/höger pilar växlar menyer, upp/ned pilar väljer objekt, Enter bekräftar, F9 eller Esc avslutar."
+      },
+      {
+        "question": "Är denna simulator lämplig för undervisning?",
+        "answer": "Absolut! Denna simulator är designad specifikt för IT utbildning, låter studenter säkert lära sig BIOS operationer och systemkonfiguration."
+      },
+      {
+        "question": "Kan den användas för tekniska demonstrationer?",
+        "answer": "Säkert! Du kan använda denna simulator för att skapa utbildningsvideor, tekniska demonstrationer eller utföra systemfelssimuleringar."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Ytterligare Skärmverktyg",
+    "description": "Utforska vår samling av specialiserade skärmverktyg för olika ändamål.",
+    "colorScreens": "Färgskärmar",
+    "prankScreens": "Skämt Skärmar",
+    "fakeUpdateScreens": "Falska Uppdateringsskärmar",
+    "screensaverScreens": "Skärmsläckare Skärmar"
+  },
+  "howToUse": {
+    "title": "🧭 Hur man använder BIOS-simulatorn",
+    "description": "Följ dessa enkla steg för att navigera och använda BIOS-simulatorn effektivt.",
+    "steps": [
+      {
+        "title": "Starta simulatorn",
+        "description": "Klicka på knappen \"Starta BIOS-simulator\" för att gå in i helskärmsläge och börja utforska BIOS-gränssnittet."
+      },
+      {
+        "title": "Navigera menyer",
+        "description": "Använd vänster- och högerpiltangenter för att växla mellan olika BIOS-menyer (Huvud, Avancerat, Säkerhet, Start, Avsluta)."
+      },
+      {
+        "title": "Välj objekt",
+        "description": "Använd upp- och nedpiltangenter för att navigera genom menyalternativ och välja olika BIOS-inställningar."
+      },
+      {
+        "title": "Avsluta helskärm",
+        "description": "Tryck på ESC-tangenten eller F9 för att avsluta helskärmsläge och återvända till huvudsidan."
+      }
+    ],
+    "tip": {
+      "title": "Proffstips",
+      "description": "BIOS-simulatorn ger en autentisk upplevelse - all tangentbordsnavigering fungerar exakt som ett riktigt BIOS-gränssnitt!"
+    }
+  },
+  "techSpecs": {
+    "title": "Tekniska Specifikationer",
+    "specs": [
+      "Gränssnitt: Phoenix TrustedBios CMOS Setup",
+      "Menyer: Huvud, Avancerat, Säkerhet, Start, Avsluta",
+      "Operation: Full tangentbordsnavigering support",
+      "Kompatibilitet: Alla moderna webbläsare",
+      "Funktioner: Autentisk BIOS gränssnittssimulering"
+    ]
+  }
+}

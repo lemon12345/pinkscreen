@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "Windows BSOD 模拟器",
+    "title": "假蓝屏死机 (BSOD) 模拟器 – Windows 崩溃恶作剧在线",
+    "description": "在线模拟经典的Windows蓝屏死机 (BSOD)。非常适合恶作剧、技术演示或怀旧。在浏览器中运行 — 无下载，无风险。",
+    "features": {
+      "noRegistration": "无需注册",
+      "worksOffline": "离线工作",
+      "allDevices": "所有设备"
+    }
+  },
+  "keywords": "蓝屏死机, BSOD模拟器, 假蓝屏, Windows崩溃模拟器, 蓝屏恶作剧, BSOD恶作剧, Windows错误屏幕, 假Windows崩溃, 蓝屏笑话, Windows BSOD假, 电脑崩溃模拟器, 假系统错误, Windows蓝屏死机, BSOD假屏幕, Windows崩溃笑话, 假电脑崩溃, 蓝屏死机模拟器, Windows错误模拟器, 假BSOD屏幕, 电脑崩溃恶作剧",
+  "preview": {
+    "title": "实时预览",
+    "download": "下载",
+    "comingSoon": "即将推出",
+    "bouncingLogo": "弹跳标志"
+  },
+  "colorPicker": {
+    "title": "选择您的屏幕",
+    "speed": "速度",
+    "size": "大小",
+    "selectScreen": "选择要显示的屏幕效果",
+    "fullScreen": "全屏",
+    "custom": "自定义",
+    "description": "非常适合恶作剧、技术演示和怀旧",
+    "launchButton": "启动蓝屏死机"
+  },
+  "useCases": {
+    "title": "人们使用蓝屏死机用于：",
+    "case1": {
+      "title": "用假Windows崩溃恶作剧朋友",
+      "description": "用逼真的蓝屏死机模拟让朋友大吃一惊。我们的BSOD模拟器显示真实的Windows错误消息和崩溃屏幕，非常适合无害的恶作剧和技术演示。"
+    },
+    "case2": {
+      "title": "技术演示和演示文稿",
+      "description": "使用我们的BSOD模拟器进行技术演示、培训课程或关于Windows错误的演示。显示逼真的崩溃场景而不冒实际系统损坏的风险。"
+    },
+    "case3": {
+      "title": "怀旧的Windows体验",
+      "description": "通过我们真实的蓝屏死机模拟器重温经典的Windows体验。非常适合那些记得早期操作系统标志性Windows崩溃屏幕的人。"
+    },
+    "case4": {
+      "title": "教育计算机科学",
+      "description": "使用我们安全的BSOD模拟器教授学生Windows系统错误和崩溃场景。演示错误处理概念而不造成实际系统故障。"
+    },
+    "case5": {
+      "title": "内容创作和视频",
+      "description": "使用我们的蓝屏死机模拟器创建引人入胜的内容。非常适合技术频道、喜剧视频或关于计算机系统和错误的教育内容。"
+    },
+    "case6": {
+      "title": "测试和开发",
+      "description": "使用我们的BSOD模拟器进行软件测试、UI开发或错误处理演示。安全地测试应用程序如何响应系统错误场景。"
+    },
+    "case7": {
+      "title": "屏幕测试和校准",
+      "description": "使用我们的BSOD模拟器进行显示测试、颜色校准和屏幕诊断。非常适合测试显示器设置和识别显示问题。"
+    }
+  },
+  "faq": {
+    "title": "FAQ – 假蓝屏死机 (BSOD)",
+    "q1": "什么是蓝屏死机模拟器？",
+    "a1": "这是一个基于网络的假Windows崩溃屏幕。它看起来像真正的BSOD，但不会影响您的系统。",
+    "q2": "它安全吗？",
+    "a2": "是的 — 它100%安全，只在您的网络浏览器中运行。它不会造成任何真正的错误或崩溃。",
+    "q3": "我可以用它来恶作剧某人吗？",
+    "a3": "当然可以 😄 全屏打开它，走开，然后看着他们以为Windows崩溃时的反应！",
+    "q4": "如何退出蓝屏？",
+    "a4": "按Esc或F11立即返回您的正常屏幕。",
+    "q5": "它在macOS或Linux上能用吗？",
+    "a5": "是的 — 尽管它是Windows风格的蓝屏，但它可以在任何有现代浏览器的设备上工作。",
+    "q6": "我可以在课堂或技术演示中使用它吗？",
+    "a6": "可以。许多IT教师使用它来安全地演示崩溃的样子，而不需要破坏真正的系统。",
+    "q7": "它真的会让我的电脑崩溃吗？",
+    "a7": "不会 — 它只是视觉模拟，不是真正的系统故障。",
+    "q8": "我在哪里可以找到其他假更新或崩溃屏幕？",
+    "a8": "试试这些：假Windows 10更新屏幕、假macOS更新屏幕、假Ubuntu更新屏幕"
+  },
+  "additionalTools": {
+    "title": "其他屏幕工具",
+    "description": "探索我们为各种目的专门设计的屏幕工具集合。",
+    "colorScreens": "彩色屏幕",
+    "prankScreens": "恶作剧屏幕",
+    "fakeUpdateScreens": "假更新屏幕",
+    "screensaverScreens": "屏幕保护程序"
+  },
+  "howToUse": {
+    "title": "如何使用蓝屏死机模拟器",
+    "steps": [
+      "打开页面 - 在您的桌面浏览器上访问 blue-screen-of-death-windows。",
+      "全屏 - 点击\"全屏\"或按F11让假BSOD填满您的显示器。",
+      "选择您的版本（如果支持） - 在Windows XP、Windows 7、Windows 10或Windows 11蓝屏样式之间选择。",
+      "观看崩溃模拟 - 屏幕将显示逼真的\"系统错误\" — 包含蓝色背景和错误代码。",
+      "用于娱乐或教学 - 非常适合恶作剧、课堂演示或复古视觉效果。",
+      "随时退出 - 按Esc或F11立即退出全屏模式。"
+    ]
+  },
+  "techSpecs": {
+    "title": "技术规格",
+    "specs": [
+      "分辨率：高达8K (7680x4320)",
+      "颜色深度：24位RGB",
+      "格式：PNG、JPEG、WebP",
+      "兼容性：所有现代浏览器",
+      "离线功能：完全可用"
+    ]
+  }
+}

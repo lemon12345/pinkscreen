@@ -5,6 +5,7 @@ import ZoomLightingFAQ from "./ZoomLightingFAQ";
 import WhiteScreenHowToUse from "./WhiteScreenHowToUse";
 import ZoomLightingHero from "./ZoomLightingHero";
 import ZoomLightingUseCases from "./ZoomLightingUseCases";
+import OtherToolsSection from "../home/OtherToolsSection";
 
 export default function ZoomLightingClient() {
   const [selectedColor, setSelectedColor] = useState("#FFE5B4");
@@ -148,6 +149,9 @@ export default function ZoomLightingClient() {
         onDownload={handleDownload}
         onTemperatureChange={handleTemperatureChange}
       />
+
+      {/* Other Tools Section */}
+      <OtherToolsSection />
 
       <ZoomLightingInfo
         selectedColor={selectedColor}

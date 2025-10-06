@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Écran Virus Faux - Fichiers chiffrés",
+    "description": "Écran de virus faux exigeant de l'argent pour le déchiffrement de fichiers. Faites des farces à vos amis en ouvrant ceci sur leur machine !",
+    "badge": "Outil de Farce Virus"
+  },
+  "keywords": "faux virus, farce ransomware, faux hacker, farce ordinateur, simulateur virus, faux malware, farce fichiers chiffrés, farce virus inoffensive, fausse cybersécurité, écran farce",
+  "colorPicker": {
+    "title": "Farce Virus Fausse",
+    "description": "Écran de virus réaliste pour des farces inoffensives et l'éducation cybersécurité",
+    "launchButton": "Lancer la Farce Virus",
+    "clickHint": "Cliquez sur le bouton ci-dessus pour lancer la farce virus plein écran"
+  },
+  "useCases": {
+    "title": "Les gens utilisent la farce virus pour :",
+    "description": "Notre simulateur de virus faux fournit une expérience ransomware réaliste pour l'éducation et les farces inoffensives.",
+    "cases": [
+      {
+        "icon": "🛡️",
+        "title": "Éducation Cybersécurité",
+        "description": "Enseigner sur les menaces ransomware et la sensibilisation cybersécurité dans un environnement sûr et contrôlé."
+      },
+      {
+        "icon": "😂",
+        "title": "Farces Bureau Inoffensives",
+        "description": "Faites des farces en toute sécurité aux collègues avec un écran de virus réaliste qui se révèle comme une blague inoffensive."
+      },
+      {
+        "icon": "🎭",
+        "title": "Contenu Réseaux Sociaux",
+        "description": "Créez des vidéos de réaction engageantes et du contenu de sensibilisation cybersécurité pour les plateformes sociales."
+      },
+      {
+        "icon": "📚",
+        "title": "Formation IT",
+        "description": "Utilisez dans les cours de formation IT pour démontrer les attaques ransomware et les procédures de réponse aux incidents."
+      },
+      {
+        "icon": "🎬",
+        "title": "Cinéma & Théâtre",
+        "description": "Parfait pour les films, émissions TV ou productions théâtrales nécessitant des scènes de hacker/virus réalistes."
+      },
+      {
+        "icon": "🎪",
+        "title": "Poisson d'Avril",
+        "description": "Farce ultime du Poisson d'Avril avec interface ransomware convaincante et options de paiement humoristiques."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "description": "Questions courantes sur le simulateur de farce virus faux",
+    "questions": [
+      {
+        "question": "Cette farce virus est-elle réellement dangereuse ?",
+        "answer": "Absolument pas ! C'est une simulation 100% inoffensive. Aucun fichier n'est chiffré, aucune donnée n'est volée, et aucun malware réel n'est impliqué."
+      },
+      {
+        "question": "Cela endommagera-t-il mon ordinateur ou mes fichiers ?",
+        "answer": "Aucun dommage ! C'est purement une simulation visuelle qui fonctionne dans votre navigateur. Tous vos fichiers restent complètement sûrs et intacts."
+      },
+      {
+        "question": "À quel point cela semble-t-il réaliste ?",
+        "answer": "Très réaliste ! Il imite les interfaces ransomware réelles mais inclut des méthodes de paiement humoristiques comme 'Monopoly Money' et 'reins' pour s'assurer que c'est clairement une blague."
+      },
+      {
+        "question": "Comment sortir de la farce ?",
+        "answer": "Appuyez sur F11 ou la touche Échap pour quitter le mode plein écran. La farce se révèle aussi comme inoffensive avec des instructions claires."
+      },
+      {
+        "question": "Puis-je l'utiliser pour la formation cybersécurité ?",
+        "answer": "Oui ! C'est parfait à des fins éducatives pour démontrer à quoi ressemble le ransomware et enseigner la sensibilisation cybersécurité."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Outils d'Écran Supplémentaires",
+    "description": "Explorez notre collection d'outils d'écran spécialisés pour divers usages.",
+    "colorScreens": "Écrans de Couleur",
+    "prankScreens": "Écrans de Farce",
+    "fakeUpdateScreens": "Écrans de Mise à Jour Fausse",
+    "screensaverScreens": "Écrans de Veille"
+  },
+  "howToUse": {
+    "title": "Comment Utiliser",
+    "steps": [
+      "Cliquez sur le bouton de lancement pour entrer dans la farce virus plein écran",
+      "L'écran de ransomware faux s'affichera avec un minuteur de compte à rebours",
+      "Regardez la réaction de la victime au message de chiffrement réaliste",
+      "La farce se révèle avec des options de paiement humoristiques",
+      "Appuyez sur F11 ou Échap pour quitter le mode plein écran à tout moment"
+    ]
+  },
+  "techSpecs": {
+    "title": "Spécifications Techniques",
+    "specs": [
+      "Interface : Simulation ransomware/virus réaliste",
+      "Fonctionnalités : Minuteur de compte à rebours, message de chiffrement faux",
+      "Sécurité : 100% inoffensif - aucun virus ou malware réel",
+      "Compatibilité : Tous les navigateurs et appareils modernes",
+      "Éducation : Parfait pour la formation de sensibilisation cybersécurité"
+    ]
+  }
+}

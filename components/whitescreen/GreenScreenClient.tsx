@@ -6,6 +6,7 @@ import GreenScreenUseCases from "./GreenScreenUseCases";
 import WhiteScreenFAQ from "./WhiteScreenFAQ";
 import WhiteScreenHowToUse from "./WhiteScreenHowToUse";
 import WhiteScreenTechSpecs from "./WhiteScreenTechSpecs";
+import OtherToolsSection from "../home/OtherToolsSection";
 
 export default function GreenScreenClient() {
   const [selectedColor, setSelectedColor] = useState("#00FF00");
@@ -148,6 +149,9 @@ export default function GreenScreenClient() {
         onFullscreen={handleFullscreen}
         onDownload={handleDownload}
       />
+
+      {/* Other Tools Section */}
+      <OtherToolsSection />
 
       <GreenScreenInfo 
         onDownload={handleDownload}

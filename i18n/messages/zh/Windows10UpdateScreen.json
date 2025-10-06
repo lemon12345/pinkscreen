@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "title": "Windows 10 假更新",
+    "description": "在我们的网站上体验逼真的Windows 10更新模拟。用我们逼真的Windows 10假更新屏幕愚弄您的朋友。享受模拟更新过程的悬念和乐趣。",
+    "badge": "Windows 10 系统更新",
+    "features": {
+      "noRegistration": "无需注册",
+      "worksOffline": "离线工作",
+      "allDevices": "所有设备"
+    }
+  },
+  "keywords": "Windows 10假更新, Windows 10更新模拟, 模拟Windows 10更新, 假Windows 10更新屏幕, 模拟Windows 10更新, Windows 10更新恶作剧, Windows 10更新过程, 逼真的Windows 10更新, 真实的Windows 10更新屏幕, 用Windows 10更新愚弄朋友, 真实的Windows 10更新进度, 真正的Windows 10更新模拟, 真实的Windows 10更新消息, Windows 10更新阶段, 有趣的Windows 10更新恶作剧, 有趣的假Windows 10更新, 享受模拟的Windows 10更新, 用Windows 10假更新恶作剧, 刺激的Windows 10更新体验, 娱乐用的Windows 10更新, Windows 10更新恶作剧工具",
+  "preview": {
+    "updateText": "正在配置更新程序",
+    "completeText": "完成",
+    "dontTurnOffText": "请勿关闭计算机电源",
+    "restartText": "电脑将重启数次。"
+  },
+  "useCases": {
+    "title": "人们使用Windows 10假更新屏幕的目的：",
+    "subtitle": "发现我们Windows 10假更新屏幕的各种使用方法",
+    "prank": {
+      "title": "恶作剧朋友和同事",
+      "description": "许多人打开假Windows 10更新屏幕来欺骗朋友或同事，让他们以为电脑卡在长时间更新中。这是一种无害且有趣的惊喜方式，特别是在工作或游戏时。"
+    },
+    "content": {
+      "title": "视频或直播场景",
+      "description": "内容创作者和主播经常使用Windows 10更新模拟器作为视频、TikTok或直播笑话的一部分。它在全屏模式下看起来很逼真，为喜剧或技术主题内容增添了有趣的元素。"
+    },
+    "education": {
+      "title": "演示或教学目的",
+      "description": "教师、IT培训师和演示者有时使用假更新屏幕来演示真正的Windows更新是什么样子，或者展示如何在重要任务期间避免中断。"
+    },
+    "testing": {
+      "title": "测试屏幕亮度和显示行为",
+      "description": "由于假更新屏幕使用带有文字和渐变的全屏视觉效果，它也可以用来检查显示性能、亮度均匀性或显示器色彩准确性。"
+    },
+    "fun": {
+      "title": "纯粹为了好玩！",
+      "description": "无论您是无聊还是好奇，假Windows更新屏幕都是模拟Windows更新外观的快速且有趣的方式——无需实际安装任何东西。"
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "subtitle": "关于我们Windows 10假更新屏幕的常见问题",
+    "safe": {
+      "question": "假Windows 10更新屏幕安全吗？",
+      "answer": "是的！完全安全——这个页面只在您的浏览器中显示逼真的Windows 10更新动画。它不会在您的电脑上下载或安装任何东西。"
+    },
+    "pranks": {
+      "question": "我可以用它来恶作剧吗？",
+      "answer": "当然可以😄 许多用户全屏打开假更新屏幕来欺骗朋友或同事。它看起来就像真正的Windows更新屏幕！"
+    },
+    "exit": {
+      "question": "如何退出假更新屏幕？",
+      "answer": "只需按键盘上的Esc或F11键即可随时退出全屏模式。"
+    },
+    "devices": {
+      "question": "它在手机或平板上能用吗？",
+      "answer": "可以，但为了获得最逼真的效果，我们建议在台式机或笔记本电脑上使用。"
+    },
+    "real": {
+      "question": "这个假更新屏幕真的会更新Windows吗？",
+      "answer": "不会——它只是一个模拟器。它是为了娱乐、玩笑或演示而设计的，不会改变或安装您系统上的任何东西。"
+    },
+    "content": {
+      "question": "我可以将它用于视频或直播吗？",
+      "answer": "可以！您可以录制屏幕或在直播中使用它。许多创作者用它来做技术恶作剧或有趣的反应视频。"
+    },
+    "windows11": {
+      "question": "这个适用于Windows 11吗？",
+      "answer": "这个页面模拟的是Windows 10更新屏幕。如果您在寻找Windows 11版本，请访问fake-windows-11-update"
+    }
+  },
+  "howToUse": {
+    "title": "如何使用Windows 10假更新屏幕",
+    "subtitle": "按照这些简单步骤开始使用我们的Windows 10假更新屏幕",
+    "steps": {
+      "open": "打开页面",
+      "openDescription": "在您的电脑或笔记本电脑上访问  fake-windows-10-update-screen。",
+      "fullscreen": "选择全屏",
+      "fullscreenDescription": "点击\"全屏\"按钮或按F11键，让假Windows 10更新屏幕覆盖整个显示器。",
+      "wait": "等待并观看",
+      "waitDescription": "屏幕将开始显示逼真的Windows 10更新动画——就像真正的系统更新一样。",
+      "use": "用于恶作剧或视频",
+      "useDescription": "让它继续运行来恶作剧朋友、录制有趣的视频，或用作演示文稿的演示。",
+      "exit": "随时退出",
+      "exitDescription": "要退出，再次按Esc或F11键返回正常视图。"
+    },
+    "tips": {
+      "title": "快速提示",
+      "exit": "按F11或ESC键退出全屏模式",
+      "realistic": "动画看起来非常逼真和真实",
+      "safe": "完全安全 - 不会对系统进行任何实际更改",
+      "devices": "适用于所有现代浏览器和设备"
+    }
+  }
+}

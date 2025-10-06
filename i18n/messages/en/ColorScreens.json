@@ -1,0 +1,20 @@
+{
+  "title": "Color Screen Collection",
+  "description": "Explore our complete collection of colorful screen simulations - from classic blue screens to vibrant rainbow displays. Perfect for pranks, testing, and creative projects.",
+  "badge": "Complete Color Screen Collection",
+  "screens": {
+    "pinkScreen": "Pink Screen",
+    "blueScreen": "Blue Screen",
+    "redScreen": "Red Screen",
+    "greenScreen": "Green Screen",
+    "yellowScreen": "Yellow Screen",
+    "orangeScreen": "Orange Screen",
+    "purpleScreen": "Purple Screen",
+    "blackScreen": "Black Screen",
+    "whiteScreen": "White Screen",
+    "zoomLighting": "Zoom Lighting"
+  },
+  "footer": {
+    "description": "All screens are free and work on any device"
+  }
+}

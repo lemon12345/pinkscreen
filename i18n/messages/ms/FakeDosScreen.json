@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Format Cakera Palsu - Gurauan DOS Dalam Talian",
+    "description": "Tipu kawan anda dengan gurauan DOS dalam talian yang kelihatan seperti memformat pemacu cakera tetapi sebenarnya tidak menyebabkan sebarang bahaya.",
+    "badge": "Alat Gurauan DOS"
+  },
+  "keywords": "DOS palsu, gurauan format cakera, gurauan DOS dalam talian, format cakera palsu, gurauan komputer, simulator DOS, gurauan prompt arahan, format C palsu, gurauan tidak berbahaya, skrin DOS",
+  "colorPicker": {
+    "title": "Gurauan DOS Palsu",
+    "description": "Sempurna untuk bergurau dengan kawan menggunakan simulasi format DOS yang realistik",
+    "launchButton": "Lancarkan Gurauan DOS",
+    "clickHint": "Klik butang di atas untuk melancarkan gurauan DOS skrin penuh"
+  },
+  "useCases": {
+    "title": "Orang menggunakan gurauan DOS untuk:",
+    "description": "Simulator DOS palsu kami menyediakan pengalaman format DOS yang realistik untuk gurauan tidak berbahaya dan hiburan.",
+    "cases": [
+      {
+        "icon": "😂",
+        "title": "Gurauan Tidak Berbahaya",
+        "description": "Bergurau dengan selamat kepada kawan dan rakan sekerja dengan simulasi format DOS yang realistik tanpa sebarang kerosakan sebenar."
+      },
+      {
+        "icon": "🎭",
+        "title": "Video Hiburan",
+        "description": "Cipta video reaksi yang lucu dan kandungan hiburan dengan antara muka DOS yang autentik."
+      },
+      {
+        "icon": "🎪",
+        "title": "April Fool",
+        "description": "Sempurna untuk gurauan April Fool dan momen hiburan mengejutkan dengan kawan."
+      },
+      {
+        "icon": "📱",
+        "title": "Kandungan Media Sosial",
+        "description": "Hasilkan kandungan media sosial yang menarik dan pos teknologi yang lucu untuk penonton anda."
+      },
+      {
+        "icon": "🎬",
+        "title": "Filem & Teater",
+        "description": "Gunakan dalam filem, produksi teater atau demonstrasi pendidikan yang memerlukan antara muka DOS."
+      },
+      {
+        "icon": "🎮",
+        "title": "Permainan Retro",
+        "description": "Alami antara muka DOS yang nostalgik dan ingat era pengkomputeran klasik."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Soalan Lazim",
+    "description": "Soalan biasa tentang simulator gurauan DOS palsu",
+    "questions": [
+      {
+        "question": "Adakah gurauan DOS ini selamat untuk digunakan?",
+        "answer": "Sudah tentu selamat! Ini hanyalah simulasi web yang meniru format DOS. Ia tidak benar-benar memformat atau merosakkan sebarang fail pada komputer anda."
+      },
+      {
+        "question": "Adakah ini akan benar-benar memadamkan fail saya?",
+        "answer": "Tidak! Ini adalah simulasi visual semata-mata. Tiada fail dipadamkan, tiada format berlaku. Ia benar-benar tidak berbahaya dan selamat."
+      },
+      {
+        "question": "Bagaimana untuk keluar dari gurauan?",
+        "answer": "Tekan kekunci ESC atau F11 untuk keluar dari mod skrin penuh. Gurauan juga akan mendedahkan dirinya secara automatik selepas selesai."
+      },
+      {
+        "question": "Bolehkah saya menggunakannya pada peranti mudah alih?",
+        "answer": "Ya! Gurauan DOS berfungsi pada semua peranti termasuk telefon pintar dan tablet dengan sokongan skrin penuh."
+      },
+      {
+        "question": "Adakah ini sesuai untuk gurauan pejabat?",
+        "answer": "Walaupun tidak berbahaya, sila gunakan dengan bertanggungjawab dan pertimbangkan persekitaran tempat kerja anda sebelum bergurau dengan rakan sekerja."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Alat Skrin Tambahan",
+    "description": "Terokai koleksi alat skrin khusus kami untuk pelbagai tujuan.",
+    "colorScreens": "Skrin Warna",
+    "prankScreens": "Skrin Gurauan",
+    "fakeUpdateScreens": "Skrin Kemas Kini Palsu",
+    "screensaverScreens": "Skrin Penjimat Skrin"
+  },
+  "howToUse": {
+    "title": "Cara Menggunakan",
+    "steps": [
+      "Klik butang pelancar untuk memasuki gurauan DOS skrin penuh",
+      "Tonton bagaimana proses format palsu bermula secara automatik",
+      "Sistem akan memaparkan arahan DOS yang realistik dan kemajuan",
+      "Selepas selesai, gurauan mendedahkan dirinya dengan mesej yang tidak berbahaya",
+      "Tekan ESC atau F11 untuk keluar dari mod skrin penuh pada bila-bila masa"
+    ]
+  },
+  "techSpecs": {
+    "title": "Spesifikasi Teknikal",
+    "specs": [
+      "Antara muka: Simulasi prompt arahan DOS autentik",
+      "Ciri-ciri: Animasi format cakera yang realistik",
+      "Keselamatan: 100% tidak berbahaya - tiada format sebenar berlaku",
+      "Keserasian: Semua pelayar dan peranti moden",
+      "Tempoh: Urutan gurauan automatik dengan pendedahan"
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "hero": {
+    "title": "Actualización Falsa de Ubuntu 22.04",
+    "description": "Experimenta una simulación realista de actualización de Ubuntu 22.04 en nuestro sitio web. Engaña a tus amigos con nuestra pantalla de actualización falsa de Ubuntu 22.04 de apariencia auténtica. Disfruta de la emoción y la diversión de un proceso de actualización simulado.",
+    "badge": "Actualización del Sistema Ubuntu",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Sin Conexión",
+      "allDevices": "Todos los Dispositivos"
+    }
+  },
+  "keywords": "Actualización falsa de Ubuntu 22.04, Simulación de actualización de Ubuntu 22.04, Simular actualización de Ubuntu 22.04, Pantalla de actualización falsa de Ubuntu 22.04, Emular actualización de Ubuntu 22.04, Broma de actualización de Ubuntu 22.04, Proceso de actualización de Ubuntu 22.04, Actualización de Ubuntu 22.04 de apariencia auténtica, Pantalla de actualización de Ubuntu 22.04 realista, Engaña a amigos con actualización de Ubuntu 22.04, Progreso de actualización de Ubuntu 22.04 realista, Simulación genuina de actualización de Ubuntu 22.04, Mensajes auténticos de actualización de Ubuntu 22.04, Etapa de actualización de Ubuntu 22.04, Broma de actualización de Ubuntu 22.04 entretenida, Actualización falsa de Ubuntu 22.04 divertida, Disfruta de actualización simulada de Ubuntu 22.04, Broma con actualización falsa de Ubuntu 22.04, Experiencia emocionante de actualización de Ubuntu 22.04, Actualización de Ubuntu 22.04 para diversión, Herramienta de broma de actualización de Ubuntu 22.04",
+  "colorPicker": {
+    "title": "Elige Tu Color",
+    "custom": "Personalizado",
+    "description": "Perfecto para bromas y entretenimiento",
+    "launchButton": "Lanzar Actualización de Ubuntu 22.04"
+  },
+  "useCases": {
+    "title": "La gente usa actualización de Ubuntu 22.04 para:",
+    "subtitle": "Descubre varias formas de usar nuestra pantalla de actualización falsa de Ubuntu",
+    "pranks": {
+      "title": "Pantalla Falsa de Ubuntu para Bromas",
+      "description": "La pantalla falsa de actualización de Ubuntu es una favorita para bromas tecnológicas, perfecta para engañar a colegas haciéndoles creer que su sistema se está actualizando perpetuamente, creando momentos divertidos en la oficina."
+    },
+    "simulation": {
+      "title": "Simulando Actualizaciones con Pantalla Falsa de Ubuntu",
+      "description": "Los desarrolladores y profesionales de TI usan la pantalla falsa de actualización de Ubuntu 22.04 para simular actualizaciones del sistema y probar la paciencia del usuario o la respuesta a cambios en la interfaz sin afectar las operaciones del sistema."
+    },
+    "training": {
+      "title": "Pantalla de Actualización de Ubuntu para Entrenamiento",
+      "description": "Los instructores utilizan la pantalla falsa de Ubuntu 22.04 para educar a estudiantes de TI sobre el proceso de actualizaciones del sistema, familiarizándolos con las señales visuales de una actualización real de Ubuntu."
+    },
+    "content": {
+      "title": "Creación de Contenido con Actualización Falsa de Ubuntu",
+      "description": "Los creadores de contenido incorporan la pantalla falsa de actualización de Ubuntu en sus videos y transmisiones para agregar una capa de autenticidad al discutir temas tecnológicos o crear tutoriales sobre actualizaciones del sistema."
+    },
+    "staging": {
+      "title": "Sistemas de Escenario con Pantalla Falsa de Ubuntu 22.04",
+      "description": "Los entornos de escenario tecnológico usan la pantalla falsa de actualización de Ubuntu 22.04 para representar el proceso de actualización en escenarios como ferias comerciales o demostraciones de software, sin comprometerse a una actualización real."
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Preguntas comunes sobre nuestra Pantalla de Actualización Falsa de Ubuntu",
+    "whatIs": {
+      "question": "¿Qué es la Pantalla de Actualización Falsa de Ubuntu?",
+      "answer": "Es un simulador basado en web que imita el proceso de actualización de Ubuntu. Parece una terminal Linux real ejecutando actualizaciones del sistema, pero es solo para diversión o uso educativo."
+    },
+    "safe": {
+      "question": "¿Es seguro?",
+      "answer": "Sí. No ejecuta comandos reales ni cambia tus archivos — es puramente visual. Todo sucede dentro de tu navegador."
+    },
+    "pranks": {
+      "question": "¿Puedo usarlo para hacer bromas?",
+      "answer": "¡Por supuesto! 😄 Ve a pantalla completa, déjalo funcionando y mira cómo tus amigos entran en pánico cuando piensan que su sistema Ubuntu se está \"actualizando\" solo."
+    },
+    "exit": {
+      "question": "¿Cómo salgo de la pantalla de actualización falsa?",
+      "answer": "Simplemente presiona Esc o F11 para salir del modo pantalla completa."
+    },
+    "devices": {
+      "question": "¿Funciona en Windows o macOS?",
+      "answer": "Sí, la pantalla de actualización falsa de Ubuntu funciona en cualquier navegador moderno — Chrome, Edge, Firefox o Safari — sin importar qué sistema operativo uses."
+    },
+    "real": {
+      "question": "¿Puedo usarlo para enseñar o demos?",
+      "answer": "Definitivamente. Los instructores de TI y YouTubers técnicos a menudo usan este simulador para explicar cómo se ve el proceso de actualización de Linux, sin necesidad de una instalación real de Ubuntu."
+    },
+    "content": {
+      "question": "¿Realmente actualiza mi sistema?",
+      "answer": "No — es solo un simulador visual, no una terminal real. Tu sistema permanece completamente sin cambios."
+    }
+  },
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "prankScreens": "Pantallas de Broma",
+    "fakeUpdateScreens": "Pantallas de Actualización Falsa",
+    "screensaverScreens": "Pantallas de Protector de Pantalla"
+  },
+  "howToUse": {
+    "title": "🐧 Cómo usar la Pantalla de Actualización Falsa de Ubuntu",
+    "subtitle": "Sigue estos simples pasos para comenzar con nuestra pantalla de actualización falsa de Ubuntu",
+    "steps": {
+      "open": "Abrir la página",
+      "openDescription": "Visita  fake-ubuntu-update-screen en tu navegador de escritorio o portátil.",
+      "fullscreen": "Ir a pantalla completa",
+      "fullscreenDescription": "Haz clic en \"Pantalla Completa\" o presiona F11 para que parezca una actualización real del sistema Ubuntu en progreso.",
+      "watch": "Ver el texto de actualización estilo terminal",
+      "watchDescription": "La pantalla falsa muestra un proceso de actualización de Ubuntu realista, incluyendo barras de carga y líneas de instalación de paquetes — igual que un verdadero apt-get upgrade.",
+      "use": "Usarlo para bromas o videos",
+      "useDescription": "Es perfecto para hacer bromas a tus amigos amantes de Linux, o para crear videos técnicos divertidos y livestreams.",
+      "exit": "Salir en cualquier momento",
+      "exitDescription": "Presiona Esc o F11 para salir del modo pantalla completa instantáneamente. No se harán cambios a tu sistema real."
+    },
+    "tips": {
+      "title": "Consejos Rápidos",
+      "exit": "Presiona Esc o F11 para salir del modo pantalla completa",
+      "realistic": "La animación se ve muy realista y auténtica",
+      "safe": "Completamente seguro - no se hacen cambios reales del sistema",
+      "devices": "Funciona en todos los navegadores y dispositivos modernos"
+    }
+  },
+  "techSpecs": {
+    "title": "Especificaciones Técnicas",
+    "specs": [
+      "Resolución: Hasta 8K (7680x4320)",
+      "Profundidad de Color: 24-bit RGB",
+      "Formato: PNG, JPEG, WebP",
+      "Compatibilidad: Todos los navegadores modernos",
+      "Funcionalidad Offline: Completamente disponible"
+    ]
+  }
+}

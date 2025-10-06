@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Falsk Diskformatering - DOS Skämt Online",
+    "description": "Lura dina vänner med det online DOS-skämtet som ser ut som att det formaterar diskdriften men i verkligheten gör det ingen skada.",
+    "badge": "DOS Skämtverktyg"
+  },
+  "keywords": "falsk DOS, diskformateringsskämt, online DOS skämt, falsk diskformat, datorskämt, DOS simulator, kommandoprompt skämt, falsk format C, ofarligt skämt, DOS skärm",
+  "colorPicker": {
+    "title": "Falskt DOS Skämt",
+    "description": "Perfekt för att skämt med vänner med realistisk DOS-formateringssimulering",
+    "launchButton": "Starta DOS Skämt",
+    "clickHint": "Klicka på knappen ovan för att starta DOS-skämt i helskärm"
+  },
+  "useCases": {
+    "title": "Folk använder DOS-skämt för:",
+    "description": "Vår falska DOS-simulator ger realistisk DOS-formateringsupplevelse för ofarliga skämt och underhållning.",
+    "cases": [
+      {
+        "icon": "😂",
+        "title": "Ofarliga Skämt",
+        "description": "Skämt säkert med vänner och kollegor med realistisk DOS-formateringssimulering utan någon verklig skada."
+      },
+      {
+        "icon": "🎭",
+        "title": "Underhållningsvideor",
+        "description": "Skapa roliga reaktionsvideor och underhållningsinnehåll med autentisk DOS-gränssnitt."
+      },
+      {
+        "icon": "🎪",
+        "title": "Aprilskämt",
+        "description": "Perfekt för aprilskämt och överraskande underhållningsögonblick med vänner."
+      },
+      {
+        "icon": "📱",
+        "title": "Sociala Medier Innehåll",
+        "description": "Generera engagerande sociala medier innehåll och roliga tech-relaterade inlägg för din publik."
+      },
+      {
+        "icon": "🎬",
+        "title": "Film & Teater",
+        "description": "Använd i filmer, teaterproduktioner eller utbildningsdemonstrationer som kräver DOS-gränssnitt."
+      },
+      {
+        "icon": "🎮",
+        "title": "Retro Gaming",
+        "description": "Upplev nostalgisk DOS-gränssnitt och kom ihåg den klassiska datorepoken."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "description": "Vanliga frågor om den falska DOS-skämtetsimulatorn",
+    "questions": [
+      {
+        "question": "Är detta DOS-skämt säkert att använda?",
+        "answer": "Absolut säkert! Detta är bara en webbaserad simulering som imiterar DOS-formatering. Det formaterar inte faktiskt eller skadar några filer på din dator."
+      },
+      {
+        "question": "Kommer detta faktiskt att ta bort mina filer?",
+        "answer": "Nej! Detta är en ren visuell simulering. Inga filer tas bort, ingen formatering sker. Det är helt ofarligt och säkert."
+      },
+      {
+        "question": "Hur avslutar jag skämtet?",
+        "answer": "Tryck på ESC-tangenten eller F11 för att avsluta helskärmsläge. Skämtet kommer också att avslöja sig automatiskt efter slutförande."
+      },
+      {
+        "question": "Kan jag använda detta på mobila enheter?",
+        "answer": "Ja! DOS-skämtet fungerar på alla enheter inklusive smartphones och surfplattor med helskärmssupport."
+      },
+      {
+        "question": "Är detta lämpligt för kontorsskämt?",
+        "answer": "Även om det är ofarligt, vänligen använd ansvarsfullt och överväg din arbetsmiljö innan du skämtar med kollegor."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Ytterligare Skärmverktyg",
+    "description": "Utforska vår samling av specialiserade skärmverktyg för olika ändamål.",
+    "colorScreens": "Färgskärmar",
+    "prankScreens": "Skämt Skärmar",
+    "fakeUpdateScreens": "Falska Uppdateringsskärmar",
+    "screensaverScreens": "Skärmsläckare Skärmar"
+  },
+  "howToUse": {
+    "title": "Hur man Använder",
+    "steps": [
+      "Klicka på startknappen för att gå in i DOS-skämt i helskärm",
+      "Titta på hur den falska formateringsprocessen börjar automatiskt",
+      "Systemet kommer att visa realistiska DOS-kommandon och framsteg",
+      "Efter slutförande avslöjar skämtet sig med ett ofarligt meddelande",
+      "Tryck på ESC eller F11 för att avsluta helskärmsläge när som helst"
+    ]
+  },
+  "techSpecs": {
+    "title": "Tekniska Specifikationer",
+    "specs": [
+      "Gränssnitt: Autentisk DOS-kommandoprompt simulering",
+      "Funktioner: Realistisk diskformateringsanimation",
+      "Säkerhet: 100% ofarlig - ingen faktisk formatering sker",
+      "Kompatibilitet: Alla moderna webbläsare och enheter",
+      "Varaktighet: Automatisk skämtsekvens med avslöjande"
+    ]
+  }
+}

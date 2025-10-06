@@ -1,0 +1,102 @@
+{
+  "hero": {
+    "title": "DVD-Bildschirmschoner",
+    "description": "Erleben Sie den klassischen DVD-Bildschirmschoner online. Passen Sie die Größe des DVD-Logos und die Bewegungsgeschwindigkeit an, um eine nostalgische Atmosphäre in voller Bildschirmgröße zu schaffen. Perfekt für Entspannung, Präsentationen und Unterhaltung.",
+    "badge": "Klassischer DVD-Bildschirmschoner",
+    "features": {
+      "noRegistration": "Keine Registrierung",
+      "worksOffline": "Funktioniert Offline",
+      "allDevices": "Alle Geräte"
+    }
+  },
+  "keywords": "DVD-Bildschirmschoner, online DVD-Bildschirmschoner, DVD-Logo-Bildschirmschoner, Vollbild-Bildschirmschoner, DVD-Bildschirmschoner-Simulator, anpassbarer Bildschirmschoner, Retro-Bildschirmschoner",
+  "preview": {
+    "title": "Live-Vorschau",
+    "download": "Herunterladen",
+    "comingSoon": "Demnächst verfügbar",
+    "bouncingLogo": "Hüpfendes Logo"
+  },
+  "colorPicker": {
+    "title": "Wählen Sie Ihre Farbe",
+    "speed": "Geschwindigkeit",
+    "size": "Größe",
+    "selectScreen": "Wählen Sie einen Bildschirmeffekt zur Anzeige",
+    "fullScreen": "Vollbild",
+    "custom": "Benutzerdefiniert",
+    "description": "Perfekt für Entspannung, Präsentationen und Unterhaltung",
+    "launchButton": "DVD-Bildschirmschoner starten"
+  },
+  "useCases": {
+    "title": "Menschen nutzen den DVD-Bildschirmschoner für:",
+    "subtitle": "Entdecken Sie verschiedene Möglichkeiten, unseren DVD-Bildschirmschoner zu verwenden",
+    "case1": {
+      "title": "Entspannen Sie sich mit dem klassischen DVD-Bildschirmschoner",
+      "description": "Entspannen Sie sich nach einem langen Tag, indem Sie zusehen, wie sich der nostalgische DVD-Logo-Bildschirmschoner über Ihren Bildschirm bewegt. Dieser DVD-Bildschirmschoner-Simulator bringt den Charme klassischer Bildschirmschoner zurück und schafft eine beruhigende Atmosphäre auf Ihrem Bildschirm."
+    },
+    "case2": {
+      "title": "Verbessern Sie den Hintergrund Ihrer Präsentation",
+      "description": "Fügen Sie Ihren Präsentationen eine dynamische Note hinzu, indem Sie den DVD-Bildschirmschoner im Vollbildmodus verwenden. Passen Sie die Größe des Logos und die Bewegungsgeschwindigkeit an, um Ihren Stil zu entsprechen und Ihren Präsentationshintergrund ansprechend und professionell zu gestalten."
+    },
+    "case3": {
+      "title": "Perfekt für Wartezimmer",
+      "description": "Unterhalten Sie Ihre Besucher mit dem DVD-Logo-Bildschirmschoner in Ihrem Wartezimmer. Dieses Online-Tool ermöglicht es Ihnen, die Größe des Logos und die Bewegungsgeschwindigkeit anzupassen und bietet Ihren Gästen ein visuell ansprechendes Erlebnis."
+    },
+    "case4": {
+      "title": "Schaffen Sie eine spaßige Partystimmung",
+      "description": "Verwenden Sie den DVD-Bildschirmschoner-Simulator während Partys, um eine lustige und nostalgische Atmosphäre zu schaffen. Stellen Sie ihn auf den Vollbildmodus ein und lassen Sie das sich bewegende DVD-Logo einen einzigartigen Touch zu Ihrem Event hinzufügen, anpassbar in jeder Größe und Geschwindigkeit."
+    },
+    "case5": {
+      "title": "Konzentrationsverstärker für Lernsitzungen",
+      "description": "Steigern Sie Ihre Konzentration, indem Sie den DVD-Bildschirmschoner während des Lernens verwenden. Die sanfte Bewegung des DVD-Logos im Vollbildmodus kann helfen, den Fokus zu halten, mit anpassbarer Größe und Geschwindigkeit, um Ihren Vorlieben zu entsprechen."
+    },
+    "case6": {
+      "title": "Retro-Stil in Geschäften präsentieren",
+      "description": "Ziehen Sie Kunden in Ihr Geschäft mit dem Retro-DVD-Bildschirmschoner im Vollbildmodus. Das sich bewegende DVD-Logo, anpassbar in Größe und Geschwindigkeit, kann Ihren Displays einen Vintage-Touch verleihen."
+    }
+  },
+  "faq": {
+    "title": "Online-DVD-Bildschirmschoner",
+    "question1": "Was ist der Online-DVD-Bildschirmschoner?",
+    "answer1": "Es ist ein kostenloser browserbasierter Simulator des klassischen hüpfenden DVD-Logo-Bildschirmschoners. Keine Installation erforderlich.",
+    "question2": "Schützt er wirklich meinen Bildschirm?",
+    "answer2": "Nicht genau — es ist eine visuelle Simulation. Er aktiviert nicht den nativen Bildschirmschoner Ihres Systems, aber Sie können ihn genauso verwenden.",
+    "question3": "Ist es sicher zu verwenden?",
+    "answer3": "Ja! Es ist 100% sicher — keine Downloads, keine Werbung und keine Systemänderungen.",
+    "question4": "Kann ich es zum Spaß oder aus Nostalgie verwenden?",
+    "answer4": "Natürlich! 😄 Viele Leute verwenden es, um die klassische DVD-Ära wiederzuerleben oder zu testen, wie lange es dauert, bis das Logo die Ecke trifft!",
+    "question5": "Kann ich es auf einem zweiten Monitor oder TV laufen lassen?",
+    "answer5": "Ja. Öffnen Sie die Seite auf jedem Bildschirm und gehen Sie in den Vollbildmodus. Perfekt für Partys, Büro-Displays oder Hintergrund-Schleifen.",
+    "question6": "Funktioniert es auf Telefonen und Tablets?",
+    "answer6": "Ja, aber für den besten Effekt verwenden Sie einen Desktop oder Smart TV im Vollbildmodus.",
+    "question7": "Kann ich die Logo-Farbe oder Geschwindigkeit ändern?",
+    "answer7": "Einige Versionen enthalten Anpassungsoptionen wie Logo-Farbe oder Animationsgeschwindigkeit — probieren Sie die Buttons unter der Animation aus, falls verfügbar."
+  },
+  "additionalTools": {
+    "title": "Zusätzliche Bildschirm-Tools",
+    "description": "Entdecken Sie unsere Sammlung spezialisierter Bildschirm-Tools für verschiedene Zwecke.",
+    "colorScreens": "Farbbildschirme",
+    "prankScreens": "Streich-Bildschirme",
+    "fakeUpdateScreens": "Gefälschte Update-Bildschirme",
+    "screensaverScreens": "Bildschirmschoner"
+  },
+  "howToUse": {
+    "title": "So verwenden Sie den Online-DVD-Bildschirmschoner",
+    "steps": [
+      "Seite öffnen - Gehen Sie zu /dvd-screensaver auf Ihrem Computer oder TV-Browser.",
+      "Vollbild - Klicken Sie auf \"Vollbild\" oder drücken Sie F11, damit das DVD-Logo frei über Ihren Bildschirm springt.",
+      "Klassisches DVD-Logo-Bewegung beobachten - Genießen Sie die nostalgische Animation — das bunte DVD-Logo springt sanft und ändert die Richtung, wenn es die Bildschirmränder berührt, genau wie der ursprüngliche Bildschirmschoner von DVD-Playern.",
+      "Als echten Bildschirmschoner oder Hintergrund verwenden - Lassen Sie ihn laufen, während Sie weg sind, oder verwenden Sie ihn als Retro-Schleifen-Animation für Streaming, Dekoration oder visuelle Effekte.",
+      "Jederzeit beenden - Drücken Sie Esc oder F11 erneut, um den Vollbildmodus zu verlassen."
+    ]
+  },
+  "techSpecs": {
+    "title": "Technische Spezifikationen",
+    "specs": [
+      "Auflösung: Bis zu 8K (7680x4320)",
+      "Farbtiefe: 24-bit RGB",
+      "Format: PNG, JPEG, WebP",
+      "Kompatibilität: Alle modernen Browser",
+      "Offline-Funktionalität: Vollständig verfügbar"
+    ]
+  }
+}

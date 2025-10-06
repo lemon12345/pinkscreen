@@ -1,0 +1,81 @@
+{
+  "hero": {
+    "title": "Wygaszacz DVD",
+    "description": "Doświadcz klasycznego wygaszacza DVD online. Dostosuj rozmiar logo DVD i prędkość ruchu dla nostalgicznej atmosfery pełnoekranowej. Idealny do relaksu, prezentacji i rozrywki.",
+    "keywords": "wygaszacz dvd, wygaszacz dvd online, wygaszacz logo dvd, wygaszacz pełnoekranowy, symulator wygaszacza dvd, wygaszacz konfigurowalny, wygaszacz retro",
+    "badge": "Klasyczny Wygaszacz DVD",
+    "features": {
+      "noRegistration": "Bez Rejestracji",
+      "worksOffline": "Działa Offline",
+      "allDevices": "Wszystkie Urządzenia"
+    }
+  },
+  "keywords": "wygaszacz dvd, wygaszacz dvd online, wygaszacz logo dvd, wygaszacz pełnoekranowy, symulator wygaszacza dvd, wygaszacz konfigurowalny, wygaszacz retro, wygaszacz klasyczny, logo odbijające się, wygaszacz nostalgiczny",
+  "preview": {
+    "title": "Podgląd na Żywo",
+    "download": "Pobierz",
+    "comingSoon": "Wkrótce",
+    "bouncingLogo": "Odbijające się Logo"
+  },
+  "colorPicker": {
+    "title": "Wybierz Ekran",
+    "speed": "Prędkość",
+    "size": "Rozmiar",
+    "selectScreen": "Wybierz efekt ekranu do wyświetlenia",
+    "fullScreen": "Pełny Ekran"
+  },
+  "useCases": {
+    "title": "Ludzie używają Wygaszacza DVD do:",
+    "case1": {
+      "title": "Relaks z Klasycznym Wygaszaczem DVD",
+      "description": "Odpocznij po długim dniu oglądając nostalgiczne logo DVD poruszające się po Twoim pełnym ekranie. Ten symulator wygaszacza DVD przywraca urok klasycznych wygaszaczy, tworząc uspokajającą atmosferę na Twoim ekranie."
+    },
+    "case2": {
+      "title": "Ulepsz Tło Swojej Prezentacji",
+      "description": "Dodaj dynamiczny akcent do swoich prezentacji używając wygaszacza DVD w trybie pełnoekranowym. Dostosuj rozmiar logo i prędkość ruchu do swojego stylu, czyniąc tło prezentacji angażującym i profesjonalnym."
+    },
+    "case3": {
+      "title": "Idealny dla Poczekalni",
+      "description": "Zabawiaj gości wygaszaczem logo DVD w swojej poczekalni. To narzędzie online pozwala dostosować rozmiar logo i prędkość ruchu, zapewniając wizualnie atrakcyjne doświadczenie dla Twoich gości."
+    },
+    "case4": {
+      "title": "Stwórz Zabawną Atmosferę Imprezy",
+      "description": "Używaj symulatora wygaszacza DVD podczas imprez, aby stworzyć zabawną i nostalgiczną atmosferę. Ustaw go w trybie pełnoekranowym i pozwól poruszającemu się logo DVD dodać unikalny akcent do Twojego wydarzenia, dostosowalny do dowolnego rozmiaru i prędkości."
+    },
+    "case5": {
+      "title": "Wzmacniacz Koncentracji dla Sesji Nauki",
+      "description": "Zwiększ swoją koncentrację używając wygaszacza DVD podczas nauki. Delikatny ruch logo DVD na pełnym ekranie może pomóc utrzymać skupienie, z dostosowywalnym rozmiarem i prędkością według Twoich preferencji."
+    },
+    "case6": {
+      "title": "Pokaż Retro Styl w Sklepach",
+      "description": "Przyciągnij klientów do swojego sklepu retro wygaszaczem DVD w trybie pełnoekranowym. Poruszające się logo DVD, konfigurowalne w rozmiarze i prędkości, może dodać vintage akcent do Twoich ekranów wyświetlających."
+    }
+  },
+  "howToUse": {
+    "title": "Jak Używać Online Wygaszacza DVD",
+    "steps": [
+      "Otwórz stronę - Przejdź do /dvd-screensaver na swoim komputerze lub przeglądarce TV.",
+      "Pełny ekran - Kliknij \"Pełny Ekran\" lub naciśnij F11, aby logo DVD swobodnie odbijało się po Twoim ekranie.",
+      "Obserwuj ruch klasycznego logo DVD - Ciesz się nostalgiczną animacją — kolorowe logo DVD płynnie odbija się i zmienia kierunek, gdy dotyka krawędzi ekranu, dokładnie jak oryginalny wygaszacz z odtwarzaczy DVD.",
+      "Użyj jako prawdziwego wygaszacza lub tła - Pozwól mu działać podczas Twojej nieobecności lub użyj jako retro animacji pętli do streamingu, dekoracji lub efektów wizualnych.",
+      "Wyjdź w dowolnym momencie - Naciśnij Esc lub F11 ponownie, aby wyjść z trybu pełnoekranowego."
+    ]
+  },
+  "faq": {
+    "title": "Online Wygaszacz DVD",
+    "question1": "Czym jest Online Wygaszacz DVD?",
+    "answer1": "To darmowy symulator oparty na przeglądarce klasycznego odbijającego się wygaszacza logo DVD. Nie wymaga instalacji.",
+    "question2": "Czy naprawdę chroni mój ekran?",
+    "answer2": "Nie dokładnie — to symulacja wizualna. Nie aktywuje natywnego wygaszacza Twojego systemu, ale możesz go używać w ten sam sposób.",
+    "question3": "Czy to bezpieczne w użyciu?",
+    "answer3": "Tak! Jest w 100% bezpieczne — bez pobierania, bez reklam i bez zmian systemowych.",
+    "question4": "Czy mogę go używać do zabawy lub nostalgii?",
+    "answer4": "Oczywiście! 😄 Wiele osób używa go, aby przeżyć klasyczną erę DVD lub przetestować, ile czasu zajmuje logo dotarcie do rogu!",
+    "question5": "Czy mogę go uruchomić na drugim monitorze lub TV?",
+    "answer5": "Tak. Otwórz stronę na dowolnym ekranie i przejdź do pełnego ekranu. Idealne na imprezy, wyświetlacze biurowe lub pętle tła.",
+    "question6": "Czy działa na telefonach i tabletach?",
+    "answer6": "Tak, ale dla najlepszego efektu użyj komputera stacjonarnego lub smart TV w trybie pełnoekranowym.",
+    "question7": "Czy mogę zmienić kolor lub prędkość logo?",
+    "answer7": "Niektóre wersje zawierają opcje dostosowania, takie jak kolor logo lub prędkość animacji — spróbuj przycisków pod animacją, jeśli są dostępne."
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "hero": {
+    "title": "Gefälschtes Aktualisieren für Windows 10",
+    "description": "Erleben Sie auf unserer Webseite eine realistische Windows 10 Update-Simulation. Legen Sie Ihre Freunde mit unserem täuschend echten Windows 10 Fake Update-Bildschirm rein. Genießen Sie die Spannung und den Spaß eines simulierten Update-Vorgangs.",
+    "badge": "Windows 10 System-Update",
+    "features": {
+      "noRegistration": "Keine Registrierung",
+      "worksOffline": "Funktioniert Offline",
+      "allDevices": "Alle Geräte"
+    }
+  },
+  "keywords": "Windows 10 Fake Update, Windows 10 Update Simulation, Simulieren Sie Windows 10 Update, Fake Windows 10 Update-Bildschirm, Windows 10 Update nachahmen, Windows 10 Update-Streich, Windows 10 Update-Vorgang, Echtaussehendes Windows 10 Update, Realistischer Windows 10 Update-Bildschirm, Freunde mit Windows 10 Update hereinlegen, Realistischer Windows 10 Update-Fortschritt, Authentische Windows 10 Update-Simulation, Echte Windows 10 Update-Nachrichten, Windows 10 Update-Phase, Unterhaltsamer Windows 10 Update-Streich, Lustiges Fake Windows 10 Update, Genießen Sie simuliertes Windows 10 Update, Streich mit Windows 10 Fake Update, Spannendes Windows 10 Update-Erlebnis, Windows 10 Update zur Belustigung, Windows 10 Update-Streich Tool",
+  "preview": {
+    "updateText": "Arbeite an Updates",
+    "completeText": " abgeschlossen",
+    "dontTurnOffText": "Schalten Sie Ihren PC nicht aus. Das wird eine Weile dauern.",
+    "restartText": "Ihr PC wird möglicherweise mehrmals neu starten"
+  },
+  "colorPicker": {
+    "title": "Wählen Sie Ihre Farbe",
+    "custom": "Benutzerdefiniert",
+    "description": "Perfekt für Streiche und Unterhaltung",
+    "launchButton": "Windows 10 Update starten"
+  },
+  "useCases": {
+    "title": "Menschen verwenden Windows 10 Update für:",
+    "subtitle": "Entdecken Sie verschiedene Möglichkeiten, unseren Windows 10 Fake Update-Bildschirm zu verwenden",
+    "simulate": {
+      "title": "Simulieren Sie Windows 10 Update für Software-Tests",
+      "description": "Nutzen Sie unser Windows 10 Fake Update-Tool, um authentisch aussehende Update-Bildschirme für Software-Tests und Demonstrationszwecke zu erstellen."
+    },
+    "engage": {
+      "title": "Engagieren Sie Ihr Publikum mit einem realistischen Windows 10 Update-Bildschirm",
+      "description": "Fesseln Sie die Aufmerksamkeit von Tech-Enthusiasten, indem Sie eine echte Windows 10 Update-Simulation während Präsentationen oder Tech-Blogs zeigen."
+    },
+    "education": {
+      "title": "Verbessern Sie Tech-Bildung mit Windows 10 Update-Streich-Tool",
+      "description": "Integrieren Sie unseren realistischen Windows 10 Update-Bildschirm in Tech-Bildungsszenarien, um über System-Updates und Benutzeroberflächendesign zu unterrichten."
+    },
+    "content": {
+      "title": "Erstellen Sie unterhaltsame Inhalte mit Windows 10 Fake Update",
+      "description": "Erstellen Sie fesselnde Videoinhalte oder Live-Streams mit einem unterhaltsamen Windows 10 Update-Streich und fügen Sie Humor zu Tech-Diskussionen hinzu."
+    },
+    "prank": {
+      "title": "Streichen Sie Freunde mit einer echten Windows 10 Update-Simulation",
+      "description": "Überraschen Sie Ihre Freunde, indem Sie unser Tool verwenden, um mit einem Windows 10 Fake Update zu streichen und gewöhnliche Momente in unvergessliche Tech-Streiche zu verwandeln."
+    },
+    "ux": {
+      "title": "Verbessern Sie User Experience Design-Lernen mit simulierten Updates",
+      "description": "Verwenden Sie das spannende Windows 10 Update-Erlebnis, um UX/UI-Designer über die Auswirkungen von System-Updates auf die Benutzererfahrung zu unterrichten."
+    },
+    "testing": {
+      "title": "Testen der Bildschirmhelligkeit und Display-Verhalten",
+      "description": "Da der gefälschte Update-Bildschirm Vollbild-Visualisierungen mit Text und Verläufen verwendet, kann er auch verwendet werden, um Display-Leistung, Helligkeitsgleichmäßigkeit oder Monitor-Farbgenauigkeit zu überprüfen."
+    },
+    "fun": {
+      "title": "Nur zum Spaß!",
+      "description": "Ob Sie gelangweilt oder neugierig sind, der gefälschte Windows Update-Bildschirm ist eine schnelle und unterhaltsame Möglichkeit, das Aussehen von Windows-Updates zu simulieren—ohne tatsächlich etwas zu installieren."
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Häufige Fragen zu unserem Windows 10 Fake Update-Bildschirm",
+    "safe": {
+      "question": "Ist der gefälschte Windows 10 Update-Bildschirm sicher?",
+      "answer": "Ja! Er ist völlig sicher — diese Seite zeigt nur eine realistische Windows 10 Update-Animation in Ihrem Browser an. Sie lädt nichts herunter oder installiert nichts auf Ihrem Computer."
+    },
+    "pranks": {
+      "question": "Kann ich ihn verwenden, um jemanden zu streichen?",
+      "answer": "Absolut 😄 Viele Benutzer öffnen den gefälschten Update-Bildschirm im Vollbildmodus, um ihre Freunde oder Kollegen zu täuschen. Er sieht genauso aus wie der echte Windows Update-Bildschirm!"
+    },
+    "exit": {
+      "question": "Wie beende ich den gefälschten Update-Bildschirm?",
+      "answer": "Drücken Sie einfach Esc oder F11 auf Ihrer Tastatur, um den Vollbildmodus jederzeit zu beenden."
+    },
+    "devices": {
+      "question": "Funktioniert er auf Telefonen oder Tablets?",
+      "answer": "Ja, aber für den realistischsten Effekt empfehlen wir die Verwendung auf einem Desktop oder Laptop."
+    },
+    "real": {
+      "question": "Aktualisiert dieser gefälschte Update-Bildschirm tatsächlich Windows?",
+      "answer": "Nein — es ist nur ein Simulator. Er ist für Spaß, Witze oder Demonstrationen gedacht, aber er ändert oder installiert nichts auf Ihrem System."
+    },
+    "content": {
+      "question": "Kann ich ihn für Videos oder Streaming verwenden?",
+      "answer": "Ja! Sie können Ihren Bildschirm aufnehmen oder ihn während Live-Streams verwenden. Viele Ersteller verwenden ihn für Tech-Streiche oder lustige Reaktionsvideos."
+    },
+    "windows11": {
+      "question": "Funktioniert dies mit Windows 11?",
+      "answer": "Diese Seite simuliert den Windows 10 Update-Bildschirm. Wenn Sie nach der Windows 11 Version suchen, besuchen Sie fake-windows-11-update"
+    }
+  },
+  "howToUse": {
+    "title": "Wie man den Windows 10 Fake Update-Bildschirm verwendet",
+    "subtitle": "Folgen Sie diesen einfachen Schritten, um mit unserem Windows 10 Fake Update-Bildschirm zu beginnen",
+    "steps": {
+      "open": "Seite öffnen",
+      "openDescription": "Gehen Sie zu  fake-windows-10-update-screen auf Ihrem Computer oder Laptop.",
+      "fullscreen": "Vollbild wählen",
+      "fullscreenDescription": "Klicken Sie auf die \"Vollbild\"-Schaltfläche oder drücken Sie F11, damit der gefälschte Windows 10 Update-Bildschirm Ihren gesamten Bildschirm bedeckt.",
+      "wait": "Warten und beobachten",
+      "waitDescription": "Der Bildschirm beginnt mit einer realistischen Windows 10 Update-Animation — genau wie ein echtes System-Update.",
+      "use": "Für einen Streich oder ein Video verwenden",
+      "useDescription": "Lassen Sie ihn laufen, um Ihre Freunde zu streichen, ein lustiges Video aufzunehmen oder ihn als Demo für Präsentationen zu verwenden.",
+      "exit": "Jederzeit beenden",
+      "exitDescription": "Um zu beenden, drücken Sie Esc oder F11 erneut, um zur normalen Ansicht zurückzukehren."
+    },
+    "tips": {
+      "title": "Schnelle Tipps",
+      "exit": "Drücken Sie F11 oder ESC, um den Vollbildmodus zu beenden",
+      "realistic": "Die Animation sieht sehr realistisch und authentisch aus",
+      "safe": "Völlig sicher - keine tatsächlichen Systemänderungen werden vorgenommen",
+      "devices": "Funktioniert auf allen modernen Browsern und Geräten"
+    }
+  }
+}

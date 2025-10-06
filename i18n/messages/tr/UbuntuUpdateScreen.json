@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "title": "Ubuntu 22.04 Fake Update | Online Tool",
+    "description": "Web sitemizde gerçekçi bir Ubuntu 22.04 güncelleme simülasyonu deneyimleyin. Otantik görünümlü Ubuntu 22.04 sahte güncelleme ekranımızla arkadaşlarınızı kandırın.",
+    "keywords": "Ubuntu fake update, Ubuntu 22.04 update simulation, Simulate Ubuntu 22.04 update, Fake Ubuntu 22.04 update screen, Emulate Ubuntu 22.04 update, Ubuntu 22.04 update prank, Ubuntu 22.04 update process, Authentic-looking Ubuntu 22.04 update, Realistic Ubuntu 22.04 update screen, Fool friends with Ubuntu 22.04 update, Realistic Ubuntu 22.04 update progress, Genuine Ubuntu 22.04 update simulation, Authentic Ubuntu 22.04 update messages, Ubuntu 22.04 update stage, Entertaining Ubuntu 22.04 update prank, Fun fake Ubuntu 22.04 update, Enjoy simulated Ubuntu 22.04 update, Prank with Ubuntu 22.04 fake update, Exciting Ubuntu 22.04 update experience, Ubuntu 22.04 update for amusement, Ubuntu 22.04 update prank tool"
+  },
+  "hero": {
+    "title": "Ubuntu Fake Update",
+    "description": "Web sitemizde gerçekçi bir Ubuntu 22.04 güncelleme simülasyonu deneyimleyin. Otantik görünümlü Ubuntu 22.04 sahte güncelleme ekranımızla arkadaşlarınızı kandırın.",
+    "badge": "Ubuntu Sistem Güncelleme",
+    "features": {
+      "noRegistration": "Kayıt yok",
+      "worksOffline": "Çevrimdışı çalışır",
+      "allDevices": "Tüm cihazlar"
+    }
+  },
+  "preview": {
+    "updateText": "Güncellemeler yükleniyor... {progress}% tamamlandı"
+  },
+  "keywords": "Ubuntu fake update, Ubuntu 22.04 update simulation, Simulate Ubuntu 22.04 update, Fake Ubuntu 22.04 update screen, Emulate Ubuntu 22.04 update, Ubuntu 22.04 update prank, Ubuntu 22.04 update process, Authentic-looking Ubuntu 22.04 update, Realistic Ubuntu 22.04 update screen, Fool friends with Ubuntu 22.04 update, Realistic Ubuntu 22.04 update progress, Genuine Ubuntu 22.04 update simulation, Authentic Ubuntu 22.04 update messages, Ubuntu 22.04 update stage, Entertaining Ubuntu 22.04 update prank, Fun fake Ubuntu 22.04 update, Enjoy simulated Ubuntu 22.04 update, Prank with Ubuntu 22.04 fake update, Exciting Ubuntu 22.04 update experience, Ubuntu 22.04 update for amusement, Ubuntu 22.04 update prank tool",
+  "useCases": {
+    "title": "İnsanlar Ubuntu 22.04 Güncelleme Ekranını şunun için kullanır:",
+    "subtitle": "Ubuntu sahte güncelleme ekranımızı kullanmanın farklı yollarını keşfedin",
+    "pranks": {
+      "title": "Şakalar için Ubuntu Fake Ekran",
+      "description": "Dinamik sahte Ubuntu güncelleme ekranı, tech şakaları için favori, sistemlerinin sürekli güncellendiğine inandırarak meslektaşları kandırmak için mükemmel, ofiste hafif anlar yaratıyor."
+    },
+    "simulation": {
+      "title": "Ubuntu Fake Ekran ile Güncelleme Simülasyonu",
+      "description": "Geliştiriciler ve IT profesyonelleri, sistem operasyonlarını etkilemeden sistem güncellemelerini simüle etmek ve kullanıcıların sabrını veya arayüz değişikliklerine tepkilerini test etmek için sahte Ubuntu 22.04 güncelleme ekranını kullanır."
+    },
+    "training": {
+      "title": "Eğitim için Ubuntu Güncelleme Ekranı",
+      "description": "Eğitmenler, IT öğrencilerini sistem güncellemeleri süreci hakkında eğitmek ve onları gerçek bir Ubuntu yükseltmesinin görsel ipuçlarıyla tanıştırmak için Ubuntu 22.04 sahte ekranını kullanır."
+    },
+    "content": {
+      "title": "Ubuntu Fake Update ile İçerik Oluşturma",
+      "description": "İçerik oluşturucular, tech konularını tartışırken veya sistem güncellemeleri hakkında eğitimler oluştururken otantiklik katmanı eklemek için dinamik Ubuntu sahte güncelleme ekranını videolarına ve yayınlarına dahil eder."
+    },
+    "staging": {
+      "title": "Ubuntu 22.04 Fake Ekran ile Staging Sistemleri",
+      "description": "Tech staging ortamları, gerçek bir güncellemeye bağlı kalmadan ticaret fuarları veya yazılım gösterileri gibi senaryolarda güncelleme sürecini temsil etmek için Ubuntu 22.04 sahte güncelleme ekranını kullanır."
+    }
+  },
+  "howToUse": {
+    "title": "🐧 Ubuntu Sahte Güncelleme Ekranını Nasıl Kullanılır",
+    "subtitle": "Ubuntu sahte güncelleme ekranımızla başlamak için bu basit adımları izleyin",
+    "steps": {
+      "open": "Sayfayı açın",
+      "openDescription": "Masaüstü veya dizüstü bilgisayar tarayıcınızda  fake-ubuntu-update-screen'i ziyaret edin.",
+      "fullscreen": "Tam ekrana geçin",
+      "fullscreenDescription": "Gerçek bir Ubuntu sistem güncellemesi devam ediyormuş gibi görünmesi için \"Tam Ekran\"a tıklayın veya F11'e basın.",
+      "watch": "Terminal tarzı güncelleme metnini izleyin",
+      "watchDescription": "Sahte ekran, yükleme çubukları ve paket kurulum satırları dahil olmak üzere gerçekçi bir Ubuntu güncelleme süreci gösterir — tıpkı gerçek bir apt-get upgrade gibi.",
+      "use": "Şakalar veya videolar için kullanın",
+      "useDescription": "Linux seven arkadaşlarınızla şaka yapmak veya eğlenceli tech videoları ve canlı yayınlar oluşturmak için mükemmeldir.",
+      "exit": "İstediğiniz zaman çıkın",
+      "exitDescription": "Tam ekran modundan anında çıkmak için Esc veya F11'e basın. Gerçek sisteminizde hiçbir değişiklik yapılmayacak."
+    },
+    "tips": {
+      "title": "Hızlı İpuçları",
+      "exit": "Tam ekran modundan çıkmak için Esc veya F11'e basın",
+      "realistic": "Animasyon çok gerçekçi ve otantik görünüyor",
+      "safe": "Tamamen güvenli - gerçek sistem değişiklikleri yapılmaz",
+      "devices": "Tüm modern tarayıcılar ve cihazlarda çalışır"
+    }
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "subtitle": "Ubuntu sahte güncelleme ekranımız hakkında yaygın sorular",
+    "whatIs": {
+      "question": "Ubuntu Sahte Güncelleme Ekranı nedir?",
+      "answer": "Ubuntu güncelleme sürecini taklit eden web tabanlı bir simülatördür. Gerçek bir Linux terminalinin sistem güncellemelerini çalıştırıyor gibi görünür, ancak sadece eğlence veya eğitim amaçlıdır."
+    },
+    "safe": {
+      "question": "Güvenli mi?",
+      "answer": "Evet. Gerçek komutlar çalıştırmaz veya dosyalarınızı değiştirmez — tamamen görseldir. Her şey tarayıcınızın içinde olur."
+    },
+    "pranks": {
+      "question": "Şaka yapmak için kullanabilir miyim?",
+      "answer": "Tabii ki! 😄 Tam ekrana geçin, çalışmasına izin verin ve arkadaşlarınızın Ubuntu sistemlerinin kendini \"güncellediğini\" düşündüklerinde panik yapmalarını izleyin."
+    },
+    "exit": {
+      "question": "Sahte güncelleme ekranından nasıl çıkarım?",
+      "answer": "Tam ekran modundan çıkmak için sadece Esc veya F11'e basın."
+    },
+    "devices": {
+      "question": "Windows veya macOS'ta çalışır mı?",
+      "answer": "Evet, Ubuntu sahte güncelleme ekranı hangi işletim sistemini kullanırsanız kullanın — Chrome, Edge, Firefox veya Safari — herhangi bir modern tarayıcıda çalışır."
+    },
+    "real": {
+      "question": "Öğretim veya demo için kullanabilir miyim?",
+      "answer": "Kesinlikle. BT eğitmenleri ve tech YouTuber'ları Linux güncelleme sürecinin nasıl göründüğünü açıklamak için genellikle bu simülatörü kullanır, gerçek bir Ubuntu kurulumuna ihtiyaç duymadan."
+    },
+    "content": {
+      "question": "Gerçekten sistemimi günceller mi?",
+      "answer": "Hayır — bu sadece görsel bir simülatör, gerçek bir terminal değil. Sisteminiz tamamen değişmeden kalır."
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "title": "Gefälschter Kaputter Bildschirm",
+    "description": "Entfesseln Sie endlosen Spaß und Kreativität mit unserem Vollbild-Tool für einen gefälschten kaputten Bildschirm. Perfekt für Streiche, Content-Erstellung und Bildungszwecke.",
+    "badge": "Bildschirm-Effekt",
+    "features": {
+      "noRegistration": "Keine Registrierung",
+      "worksOffline": "Funktioniert offline",
+      "allDevices": "Alle Geräte"
+    }
+  },
+  "keywords": "kaputter Bildschirm, rissiger Bildschirm, Bildschirm-Streich, falscher kaputter Bildschirm, rissiger Handy-Bildschirm, kaputter Bildschirm, Bildschirm-Effekt, Streich-Tool, kaputter Bildschirm-Simulator, rissiger Bildschirm-Generator, falscher rissiger Bildschirm, kaputter Bildschirm-Witz, Bildschirm-Schaden-Simulation, rissiger Bildschirm-Effekt, kaputter Handy-Bildschirm, Bildschirm-Riss-Simulator, Bildschirm-Streich-Tool, kaputter Bildschirm-Generator, rissiger Bildschirm-Effekt, falscher Bildschirm-Schaden",
+  "useCases": {
+    "title": "Leute nutzen den kaputten Bildschirm für:",
+    "description": "Entdecken Sie verschiedene Möglichkeiten, unseren kaputten Bildschirm-Effekt zu verwenden",
+    "cases": [
+      {
+        "title": "Erschrecken Sie Ihre Freunde mit einem realistischen kaputten Bildschirm-Streich",
+        "description": "Führen Sie den ultimativen Streich durch, indem Sie Freunde glauben lassen, dass ihr Geräteschirm zerbrochen ist."
+      },
+      {
+        "title": "Erstellen Sie fesselnde Inhalte mit einem gesprungenen Bildschirmeffekt",
+        "description": "Verbessern Sie Ihre Videos oder Präsentationen, indem Sie eine dramatische gesprungene Bildschirmüberlagerung hinzufügen."
+      },
+      {
+        "title": "Testen Sie Ihre eigene Reaktion auf ein kaputtes Display",
+        "description": "Sehen Sie, wie Sie auf unerwartete digitale Missgeschicke reagieren würden, indem Sie einen kaputten Bildschirm simulieren."
+      },
+      {
+        "title": "Verwenden Sie ein Bild von einem kaputten Bildschirm für kreative Projekte",
+        "description": "Integrieren Sie hochqualitative kaputte Bildschirm-Visuals in Ihre digitale Kunst oder kreativen Designs."
+      },
+      {
+        "title": "Erklären Sie die Haltbarkeit von Displayschutzfolien",
+        "description": "Demonstrieren Sie die Wichtigkeit von Displayschutz, indem Sie mögliche Schäden aufzeigen."
+      },
+      {
+        "title": "Peppen Sie Ihre Technikbewertungen mit einem gefälschten kaputten Bildschirm auf",
+        "description": "Fügen Sie Ihren Gerätebewertungen eine Wendung hinzu, indem Sie Bildschirmschäden simulieren und über die Haltbarkeit diskutieren."
+      },
+      {
+        "title": "Integrieren Sie einen gesprungenen Bildschirm online in Ihre Halloween-Dekoration",
+        "description": "Verwandeln Sie Geräte in gruselige Dekorationen mit einer Vollbild-Animation eines kaputten Displays."
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "🧭 So verwenden Sie den falschen kaputten Bildschirm",
+    "steps": [
+      "Seite öffnen - Besuchen Sie die falsche kaputte Bildschirm-Seite auf Ihrem Computer, Tablet oder Telefon",
+      "Vollbild gehen - Klicken Sie auf \"Vollbild\" oder drücken Sie F11, um den falschen rissigen Bildschirm über Ihre gesamte Anzeige zu legen",
+      "Ihren Effekt wählen (falls unterstützt) - Wählen Sie aus verschiedenen Stilen — kaputtes Glas, LCD-Fehler oder Spinnennetz-Riss für das realistischste Aussehen",
+      "Für Spaß oder Tests verwenden - Perfekt für Streiche, Video-Effekte oder Bildschirm-Kalibrierung"
+    ]
+  },
+  "faq": {
+    "title": "❓ FAQ – Falscher kaputter Bildschirm",
+    "subtitle": "Häufige Fragen zu unserem kaputten Bildschirm-Effekt",
+    "questions": [
+      {
+        "question": "1. Was ist das falsche kaputte Bildschirm-Tool?",
+        "answer": "Es ist ein webbasierter Simulator, der einen rissigen oder beschädigten Bildschirm-Effekt auf Ihrer Anzeige anzeigt. Es schadet Ihrem Gerät nicht — es ist nur eine visuelle Illusion."
+      },
+      {
+        "question": "2. Ist es sicher zu verwenden?",
+        "answer": "Ja! Es lädt oder installiert nichts herunter. Es zeigt einfach eine Bildüberlagerung in Ihrem Browser an."
+      },
+      {
+        "question": "3. Kann ich damit jemanden täuschen?",
+        "answer": "Absolut! 😄 Öffnen Sie es einfach im Vollbildmodus und geben Sie Ihr Gerät einem Freund — schauen Sie sich ihre Reaktion an!"
+      },
+      {
+        "question": "4. Wie beende ich den kaputten Bildschirm-Effekt?",
+        "answer": "Drücken Sie Esc oder F11, um sofort zu Ihrer normalen Anzeige zurückzukehren."
+      },
+      {
+        "question": "5. Funktioniert das auf Telefonen oder Tablets?",
+        "answer": "Ja, es funktioniert auf jedem Gerät — Desktop, Laptop oder mobilem Browser."
+      }
+    ]
+  }
+}

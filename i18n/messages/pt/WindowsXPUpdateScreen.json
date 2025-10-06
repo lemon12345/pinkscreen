@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "title": "Atualização Windows XP Falsa",
+    "description": "Experimente uma simulação nostálgica de atualização Windows XP em nosso site. Engane seus amigos com nossa tela de atualização Windows XP falsa autêntica. Delicie-se com a tela azul clássica e o progresso familiar do sistema operacional lendário.",
+    "badge": "Atualização do Sistema Windows XP",
+    "features": {
+      "noRegistration": "Sem registro",
+      "worksOffline": "Funciona offline",
+      "allDevices": "Todos os dispositivos"
+    }
+  },
+  "keywords": "atualização Windows XP falsa, simulação atualização Windows XP, Simular atualização Windows XP, Tela atualização Windows XP falsa, Emular atualização Windows XP, Brincadeira atualização Windows XP, Processo atualização Windows XP, Atualização Windows XP autêntica, Tela atualização Windows XP realística, Enganar amigos com atualização Windows XP, Progressão atualização Windows XP realística, Simulação atualização Windows XP genuína, Mensagens atualização Windows XP autênticas, Estágio atualização Windows XP, Brincadeira atualização Windows XP divertida, Atualização Windows XP falsa divertida, Desfrutar simulação atualização Windows XP, Brincadeira com atualização Windows XP falsa, Experiência atualização Windows XP excitante, Atualização Windows XP para diversão, Ferramenta brincadeira atualização Windows XP",
+  "preview": {
+    "updateText": "Instalando atualizações do Windows...",
+    "completeText": " completo",
+    "dontTurnOffText": "Não desligue ou desconecte seu computador.",
+    "restartText": "Seu computador reiniciará automaticamente"
+  },
+  "useCases": {
+    "title": "As pessoas usam a Tela de Atualização Windows XP para:",
+    "subtitle": "Descubra várias maneiras de usar nossa tela de atualização Windows XP falsa",
+    "case1": {
+      "title": "Simular Atualização Windows XP para Testes Retro",
+      "description": "Utilize nossa ferramenta de atualização Windows XP falsa para criar telas de atualização retro autênticas para testes de software e fins demonstrativos."
+    },
+    "case2": {
+      "title": "Envolva seu Público com Atualização Windows XP Nostálgica",
+      "description": "Capture a atenção dos entusiastas de tecnologia mostrando uma simulação de atualização Windows XP genuína durante apresentações ou conteúdo tech retro."
+    },
+    "case3": {
+      "title": "Eleve a Educação Técnica com Ferramenta de Brincadeira Atualização Windows XP",
+      "description": "Incorpore nossa tela de atualização Windows XP realística em cenários de educação técnica para ensinar sobre sistemas legados e evolução da interface do usuário."
+    },
+    "case4": {
+      "title": "Crie Conteúdo Divertido com Atualização Windows XP Falsa",
+      "description": "Produza conteúdo de vídeo envolvente ou transmissões ao vivo usando uma brincadeira de atualização Windows XP divertida, adicionando nostalgia às discussões técnicas."
+    },
+    "case5": {
+      "title": "Brincadeira com Amigos com Simulação de Atualização Windows XP Genuína",
+      "description": "Surpreenda seus amigos usando nossa ferramenta para brincar com uma atualização Windows XP falsa, transformando momentos comuns em brincadeiras retro memoráveis."
+    },
+    "case6": {
+      "title": "Estude Design UI Legado com Atualizações Simuladas",
+      "description": "Use a experiência clássica de atualização Windows XP para educar designers UX/UI sobre a evolução das interfaces de atualização do sistema."
+    }
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "subtitle": "Perguntas comuns sobre nossa Tela de Atualização Falsa do Windows XP",
+    "whatIs": {
+      "question": "O que é a Tela de Atualização Falsa do Windows XP?",
+      "answer": "É um simulador divertido e nostálgico que recria a aparência de uma tela real de atualização do Windows XP. Você pode abri-lo no seu navegador para pregar peças nos amigos, fazer vídeos ou reviver a vibe tech do início dos anos 2000."
+    },
+    "safe": {
+      "question": "É seguro usar?",
+      "answer": "Sim — 100% seguro. Esta página apenas mostra uma animação falsa de atualização do Windows XP no seu navegador web. Ela não baixa ou instala nada no seu computador."
+    },
+    "pranks": {
+      "question": "Como posso usá-la para uma brincadeira?",
+      "answer": "Apenas abra a página, clique em Tela Cheia e deixe funcionando. O texto de carregamento realístico fará qualquer um acreditar que seu PC está \"atualizando o Windows XP.\" Perfeito para uma brincadeira inofensiva!"
+    },
+    "realistic": {
+      "question": "Quão realística é a simulação?",
+      "answer": "Nossa tela de atualização Windows XP é projetada para parecer muito autêntica, com o fundo azul clássico e branding Windows XP apropriado."
+    },
+    "exit": {
+      "question": "Como saio da tela de atualização falsa?",
+      "answer": "Pressione Esc ou F11 para sair instantaneamente do modo tela cheia. Nada acontecerá ao seu sistema real."
+    },
+    "content": {
+      "question": "Posso usá-la para vídeos do YouTube ou livestreams?",
+      "answer": "Sim! Muitos criadores usam a tela de atualização falsa do Windows XP para esquetes cômicos, edições estilo retro ou vídeos de nostalgia tech."
+    },
+    "real": {
+      "question": "Isso realmente atualiza o Windows XP?",
+      "answer": "Não — isso é apenas um simulador visual. Ele não afeta seu sistema ou arquivos de forma alguma."
+    },
+    "devices": {
+      "question": "Funciona em computadores modernos?",
+      "answer": "Sim. A tela de atualização falsa do Windows XP funciona em qualquer navegador moderno — incluindo Windows 10, 11, macOS e até dispositivos móveis."
+    }
+  }
+}

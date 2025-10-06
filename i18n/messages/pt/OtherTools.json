@@ -1,0 +1,75 @@
+{
+  "title": "Mais Ferramentas de Tela",
+  "description": "Explore nossa coleção completa de ferramentas de tela - simuladores de sistema, protetores de tela, simulações de efeitos e mais para todas as suas necessidades",
+  "badge": "Coleção de Ferramentas de Tela Profissionais",
+  "categories": {
+    "systemSimulation": "Simulação de Sistema",
+    "screensaver": "Animação de Protetor de Tela",
+    "effects": "Simulação de Efeitos"
+  },
+  "tools": {
+    "bios": {
+      "name": "Tela BIOS",
+      "description": "Simular a interface de inicialização BIOS do computador"
+    },
+    "fakeWindows11Update": {
+      "name": "Tela de Atualização Windows 11",
+      "description": "Simular a interface de atualização do sistema Windows 11"
+    },
+    "fakeWindows10Update": {
+      "name": "Tela de Atualização Windows 10",
+      "description": "Simular a interface de atualização do sistema Windows 10"
+    },
+    "fakeWindowsXpUpdate": {
+      "name": "Tela de Atualização Windows XP",
+      "description": "Simular a interface de atualização do sistema Windows XP"
+    },
+    "fakeMacOsXUpdate": {
+      "name": "Tela de Atualização Mac OS X",
+      "description": "Simular a interface de atualização do sistema Mac OS X"
+    },
+    "fakeUbuntuUpdate": {
+      "name": "Tela de Atualização Ubuntu 22.04",
+      "description": "Simular a interface de atualização do sistema Ubuntu 22.04"
+    },
+    "fakeAndroidUpdate": {
+      "name": "Tela de Atualização Android",
+      "description": "Simular a interface de atualização do sistema Android"
+    },
+    "fakeDos": {
+      "name": "Simulador DOS",
+      "description": "Simular a interface de linha de comando DOS clássica"
+    },
+    "fakeVirus": {
+      "name": "Tela de Aviso de Vírus",
+      "description": "Simular a interface de aviso de vírus de computador"
+    },
+    "fbiWarning": {
+      "name": "Tela de Aviso FBI",
+      "description": "Simular a interface de aviso de direitos autorais FBI"
+    },
+    "dvdScreensaver": {
+      "name": "Protetor de Tela DVD",
+      "description": "Animação clássica de protetor de tela de reprodutor DVD"
+    },
+    "brokenScreen": {
+      "name": "Tela Quebrada",
+      "description": "Simular o efeito de tela rachada"
+    },
+    "blueScreenOfDeath": {
+      "name": "Tela Azul da Morte Windows",
+      "description": "Simular a interface da tela azul da morte do Windows"
+    },
+    "hackerTyper": {
+      "name": "Simulador Hacker",
+      "description": "Criar efeitos de digitação hacker realistas e simulações de terminal"
+    },
+    "noSignalScreensaver": {
+      "name": "Protetor de Tela Sem Sinal Color Bars",
+      "description": "Simular o protetor de tela de barras coloridas sem sinal de TV"
+    }
+  },
+  "footer": {
+    "description": "Todas as ferramentas são gratuitas e não requerem registro"
+  }
+}

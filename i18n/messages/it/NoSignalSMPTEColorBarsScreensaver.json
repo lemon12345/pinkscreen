@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "title": "Schermo TV Nessun Segnale",
+    "description": "Sperimenta le barre di colore SMPTE autentiche e i pattern di test senza segnale. Perfetto per la calibrazione del monitor, i test di produzione video e creare quell'atmosfera classica della televisione broadcast.",
+    "badge": "Pattern di Test Broadcast",
+    "features": {
+      "noRegistration": "Nessuna Registrazione",
+      "worksOffline": "Funziona Offline",
+      "allDevices": "Tutti i Dispositivi"
+    }
+  },
+  "keywords": "barre di colore SMPTE, schermo nessun segnale, pattern di test, calibrazione colore, test video, pattern di test broadcast, schermo di test televisione, calibrazione monitor, salvaschermo barre colore, pattern di test SMPTE, ingegneria video, ingegneria broadcast, riferimento colore, calibrazione display, test segnale video, ingegneria televisione, standard colore, standard broadcast, segnale di test, produzione video",
+  "preview": {
+    "testPattern": "Pattern di Test",
+    "colorBars": "Barre di Colore SMPTE"
+  },
+  "useCases": {
+    "title": "Le persone usano le Barre di Colore SMPTE per:",
+    "subtitle": "Scopri vari modi per usare il nostro pattern di test barre di colore SMPTE",
+    "case1": {
+      "title": "Calibrazione Monitor e Display",
+      "description": "Usa le barre di colore SMPTE per calibrare monitor, TV e display per una riproduzione del colore accurata in ambienti professionali."
+    },
+    "case2": {
+      "title": "Produzione Video e Broadcasting",
+      "description": "Strumento essenziale per ingegneri video e broadcaster per testare la qualità del segnale e assicurare standard di colore appropriati."
+    },
+    "case3": {
+      "title": "Test Attrezzature e Risoluzione Problemi",
+      "description": "Identifica problemi di display, controlla l'integrità del segnale video e risolvi problemi con attrezzature broadcast usando pattern di test standard."
+    },
+    "case4": {
+      "title": "Educazione Broadcasting e Media",
+      "description": "Insegna agli studenti standard broadcast, teoria del colore e tecniche di produzione video professionale."
+    },
+    "case5": {
+      "title": "Estetica Retro e Atmosfera",
+      "description": "Crea un'atmosfera broadcast vintage autentica per eventi tematici, set cinematografici o creazione di contenuti nostalgici."
+    },
+    "case6": {
+      "title": "Display Salvaschermo Professionale",
+      "description": "Usa come salvaschermo in ambienti di produzione video professionale e strutture broadcast."
+    }
+  },
+  "howToUse": {
+    "title": "Come Usare le Barre di Colore SMPTE",
+    "steps": [
+      "Aprire la pagina - Naviga verso no-signal-smpte-color-bars-screensaver nel tuo browser",
+      "Schermo intero - Clicca su \"Schermo Intero\" o premi F11 per visualizzare il pattern di test su tutto il tuo schermo",
+      "Scegli il tuo pattern - Passa tra le barre di colore SMPTE e i pattern di test senza segnale usando i controlli",
+      "Usa per la calibrazione - Verifica l'accuratezza del colore, luminosità e impostazioni di contrasto sul tuo monitor o schermo",
+      "Esci in qualsiasi momento - Premi Esc o F11 per uscire dalla modalità schermo intero e tornare alla visualizzazione normale"
+    ]
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "subtitle": "Domande comuni sulle barre di colore SMPTE e pattern di test",
+    "whatIsSMPTE": {
+      "question": "Cosa sono le barre di colore SMPTE?",
+      "answer": "Le barre di colore SMPTE sono un pattern di test standardizzato usato nella produzione televisiva e video per calibrare attrezzature e assicurare una riproduzione del colore accurata."
+    },
+    "howToUse": {
+      "question": "Come uso questo per la calibrazione del monitor?",
+      "answer": "Usa le barre di colore per controllare se il tuo display mostra colori accurati. Ogni barra dovrebbe mostrare colori distinti e puri senza sanguinamento o distorsione."
+    },
+    "fullscreen": {
+      "question": "Come esco dalla modalità schermo intero?",
+      "answer": "Premi il tasto Esc o clicca di nuovo il pulsante schermo intero per uscire dalla modalità schermo intero. Puoi anche usare F11 per attivare/disattivare lo schermo intero nella maggior parte dei browser."
+    },
+    "download": {
+      "question": "Posso scaricare il pattern delle barre di colore?",
+      "answer": "Sì, puoi scaricare il pattern delle barre di colore in varie risoluzioni. Usa il pulsante di download nella sezione controlli per salvare il pattern come file immagine PNG."
+    },
+    "compatibility": {
+      "question": "Quali browser sono supportati?",
+      "answer": "Il salvaschermo delle barre di colore funziona su tutti i browser moderni inclusi Chrome, Firefox, Safari e Edge. La modalità schermo intero è supportata sulla maggior parte dei dispositivi e browser."
+    }
+  }
+}

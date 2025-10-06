@@ -5,6 +5,7 @@ import OrangeScreenInfo from "./OrangeScreenInfo";
 import OrangeScreenUseCases from "./OrangeScreenUseCases";
 import OrangeScreenFAQ from "./OrangeScreenFAQ";
 import WhiteScreenHowToUse from "./WhiteScreenHowToUse";
+import OtherToolsSection from "../home/OtherToolsSection";
 
 export default function OrangeScreenClient() {
   const [selectedColor, setSelectedColor] = useState("#FFA500");
@@ -147,6 +148,9 @@ export default function OrangeScreenClient() {
         onFullscreen={handleFullscreen}
         onDownload={handleDownload}
       />
+
+      {/* Other Tools Section */}
+      <OtherToolsSection />
 
       <OrangeScreenInfo
         selectedColor={selectedColor}

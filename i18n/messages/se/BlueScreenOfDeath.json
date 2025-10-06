@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "Windows BSOD Simulator",
+    "title": "Falsk Blå Skärm av Döden (BSOD) Simulator – Windows Crash Skämt Online",
+    "description": "Simulera den klassiska Windows Blå Skärm av Döden (BSOD) online. Perfekt för skämt, tekniska demos eller nostalgi. Körs i din webbläsare — inga nedladdningar, ingen risk.",
+    "features": {
+      "noRegistration": "Ingen Registrering",
+      "worksOffline": "Fungerar Offline",
+      "allDevices": "Alla Enheter"
+    }
+  },
+  "keywords": "blå skärm av döden, BSOD simulator, falsk blå skärm, Windows crash simulator, blå skärm skämt, BSOD skämt, Windows fel skärm, falsk Windows crash, blå skärm skämt, Windows BSOD fake, dator crash simulator, falskt system fel, Windows blå skärm av döden, BSOD falsk skärm, Windows crash skämt, falsk dator crash, blå skärm av döden simulator, Windows fel simulator, falsk BSOD skärm, dator crash skämt",
+  "preview": {
+    "title": "Live Förhandsvisning",
+    "download": "Ladda Ner",
+    "comingSoon": "Kommer Snart",
+    "bouncingLogo": "Studsande Logotyp"
+  },
+  "colorPicker": {
+    "title": "Välj Din Skärm",
+    "speed": "Hastighet",
+    "size": "Storlek",
+    "selectScreen": "Välj en skärmeffekt att visa",
+    "fullScreen": "Helskärm",
+    "custom": "Anpassad",
+    "description": "Perfekt för skämt, tekniska demos och nostalgi",
+    "launchButton": "Starta Blå Skärm av Döden"
+  },
+  "useCases": {
+    "title": "Människor använder Blå Skärm av Döden för:",
+    "case1": {
+      "title": "Skämta med Vänner med Falsk Windows Crash",
+      "description": "Överraska dina vänner med en realistisk Blå Skärm av Döden simulering. Vår BSOD simulator visar autentiska Windows felmeddelanden och crash-skärmar, perfekt för ofarliga skämt och tekniska demonstrationer."
+    },
+    "case2": {
+      "title": "Tekniska Demos och Presentationer",
+      "description": "Använd vår BSOD simulator för tekniska demonstrationer, träningssessioner eller presentationer om Windows fel. Visa realistiska crash-scenarier utan att riskera verkliga systemskador."
+    },
+    "case3": {
+      "title": "Nostalgisk Windows Upplevelse",
+      "description": "Återupplev den klassiska Windows upplevelsen med vår autentiska Blå Skärm av Döden simulator. Perfekt för dem som kommer ihåg de ikoniska Windows crash-skärmarna från tidigare operativsystem."
+    },
+    "case4": {
+      "title": "Datavetenskap Utbildning",
+      "description": "Lär studenter om Windows systemfel och crash-scenarier med vår säkra BSOD simulator. Demonstrera felhanteringskoncept utan att orsaka verkliga systemfel."
+    },
+    "case5": {
+      "title": "Innehållsskapande och Videor",
+      "description": "Skapa engagerande innehåll med vår Blå Skärm av Döden simulator. Perfekt för tekniska kanaler, komedivideor eller utbildningsinnehåll om datorsystem och fel."
+    },
+    "case6": {
+      "title": "Testning och Utveckling",
+      "description": "Använd vår BSOD simulator för mjukvarutestning, UI-utveckling eller felhanteringsdemonstrationer. Säkert sätt att testa hur applikationer svarar på systemfelscenarier."
+    },
+    "case7": {
+      "title": "Skärmtestning och Kalibrering",
+      "description": "Använd vår BSOD simulator för visningstester, färgkalibrering och skärmdiagnostik. Perfekt för att testa monitornställningar och identifiera visningsproblem."
+    }
+  },
+  "faq": {
+    "title": "FAQ – Falsk Blå Skärm av Döden (BSOD)",
+    "q1": "Vad är Blå Skärm av Döden Simulatorn?",
+    "a1": "Det är en webbaserad falsk Windows crash-skärm. Den ser ut som en riktig BSOD men påverkar inte ditt system.",
+    "q2": "Är den säker?",
+    "a2": "Ja — den är 100% säker och körs bara i din webbläsare. Den orsakar inga riktiga fel eller crashes.",
+    "q3": "Kan jag använda den för att skämta med någon?",
+    "a3": "Absolut! 😄 Öppna den i helskärm, gå iväg och titta på deras reaktion när de tror att Windows har kraschat!",
+    "q4": "Hur kommer jag ut från den blå skärmen?",
+    "a4": "Tryck på Esc eller F11 för att omedelbart återvända till din normala skärm.",
+    "q5": "Fungerar den på macOS eller Linux?",
+    "a5": "Ja — även om det är en Windows-stil blå skärm, fungerar den på vilken enhet som helst med en modern webbläsare.",
+    "q6": "Kan jag använda den i ett klassrum eller teknisk demo?",
+    "a6": "Ja. Många IT-lärare använder den för att säkert demonstrera hur en crash ser ut utan att behöva förstöra ett riktigt system.",
+    "q7": "Kraschar den verkligen min dator?",
+    "a7": "Nej — det är bara en visuell simulering, inte ett riktigt systemfel.",
+    "q8": "Var kan jag hitta andra falska uppdaterings- eller crash-skärmar?",
+    "a8": "Prova dessa: Falsk Windows 10 Uppdateringsskärm, Falsk macOS Uppdateringsskärm, Falsk Ubuntu Uppdateringsskärm"
+  },
+  "additionalTools": {
+    "title": "Ytterligare Skärmverktyg",
+    "description": "Utforska vår samling av specialiserade skärmverktyg för olika ändamål.",
+    "colorScreens": "Färgskärmar",
+    "prankScreens": "Skämt Skärmar",
+    "fakeUpdateScreens": "Falska Uppdateringsskärmar",
+    "screensaverScreens": "Skärmsläckare Skärmar"
+  },
+  "howToUse": {
+    "title": "Hur man Använder Blå Skärm av Döden Simulatorn",
+    "steps": [
+      "Öppna sidan - Gå till blue-screen-of-death-windows i din desktop-webbläsare.",
+      "Helskärm - Klicka på \"Helskärm\" eller tryck på F11 för att få den falska BSOD att fylla din skärm.",
+      "Välj din version (om den stöds) - Välj mellan Windows XP, Windows 7, Windows 10 eller Windows 11 blå skärm-stilar.",
+      "Titta på crash-simuleringen - Skärmen kommer att visa ett realistiskt \"systemfel\" — komplett med blå bakgrund och felkoder.",
+      "Använd det för kul eller undervisning - Ideal för skämt, klass-demos eller retro visuella effekter.",
+      "Avsluta när som helst - Tryck på Esc eller F11 för att omedelbart lämna helskärmsläge."
+    ]
+  },
+  "techSpecs": {
+    "title": "Tekniska Specifikationer",
+    "specs": [
+      "Upplösning: Upp till 8K (7680x4320)",
+      "Färgdjup: 24-bit RGB",
+      "Format: PNG, JPEG, WebP",
+      "Kompatibilitet: Alla moderna webbläsare",
+      "Offline-funktionalitet: Helt tillgänglig"
+    ]
+  }
+}

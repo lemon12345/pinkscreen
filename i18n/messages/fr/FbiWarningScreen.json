@@ -1,0 +1,116 @@
+{
+  "hero": {
+    "title": "Écran d'Avertissement FBI Faux",
+    "description": "Faux écran d'avertissement FBI en ligne pour faire des farces à vos amis. Cet appareil a été verrouillé, attendez que l'équipe SWAT arrive !",
+    "badge": "Outil de Farce Avertissement FBI"
+  },
+  "keywords": "faux avertissement FBI, farce application loi, écran avertissement police, farce ordinateur verrouillé, farce équipe SWAT, faux avertissement gouvernement, farce cybercriminalité, simulateur avertissement fédéral, faux avertissement arrestation, écran verrouillage FBI",
+  "colorPicker": {
+    "title": "Faux Avertissement FBI",
+    "description": "Écran d'avertissement FBI réaliste pour des farces inoffensives et l'éducation application loi",
+    "launchButton": "Lancer Avertissement FBI",
+    "clickHint": "Cliquez sur le bouton ci-dessus pour lancer la farce avertissement FBI plein écran"
+  },
+  "useCases": {
+    "title": "Les gens utilisent la farce avertissement FBI pour :",
+    "description": "Notre simulateur d'avertissement FBI faux fournit une expérience d'application loi réaliste pour l'éducation et les farces inoffensives.",
+    "cases": [
+      {
+        "icon": "👮",
+        "title": "Formation Application Loi",
+        "description": "Former le personnel d'application loi sur les procédures d'enquête cybercriminalité et les protocoles de saisie informatique."
+      },
+      {
+        "icon": "😂",
+        "title": "Poisson d'Avril Bureau",
+        "description": "Créez la farce de bureau ultime avec un avertissement FBI réaliste qui se révèle comme une blague inoffensive."
+      },
+      {
+        "icon": "🎬",
+        "title": "Production Cinéma & TV",
+        "description": "Parfait pour les films, émissions TV nécessitant des écrans d'avertissement gouvernement/FBI réalistes et des scènes de cybercriminalité."
+      },
+      {
+        "icon": "📚",
+        "title": "Éducation Cybersécurité",
+        "description": "Démontrer l'application loi cybercriminalité gouvernement dans la sensibilisation cybersécurité et la formation forensique numérique."
+      },
+      {
+        "icon": "🎭",
+        "title": "Contenu Réseaux Sociaux",
+        "description": "Créez des vidéos de réaction engageantes et du contenu éducatif sur l'application loi cybercriminalité pour les plateformes sociales."
+      },
+      {
+        "icon": "🎪",
+        "title": "Farce Ultime",
+        "description": "La farce de verrouillage informatique la plus convaincante avec des avertissements FBI réalistes et des références équipe SWAT."
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ – Écran d'Avertissement FBI Faux",
+    "description": "Questions courantes sur le simulateur d'écran d'avertissement FBI faux",
+    "questions": [
+      {
+        "question": "Qu'est-ce que l'Écran d'Avertissement FBI Faux ?",
+        "answer": "C'est une simulation en ligne de l'écran classique d'Avertissement Anti-Piratage du FBI vu sur les anciens DVDs et cassettes — recréé pour le plaisir et l'usage créatif."
+      },
+      {
+        "question": "Est-ce que c'est réel ?",
+        "answer": "Non 😄 C'est 100% faux et fait pour le divertissement ou des fins éducatives."
+      },
+      {
+        "question": "Est-ce sûr à utiliser ?",
+        "answer": "Absolument. Il fonctionne entièrement dans votre navigateur web et n'accède ni ne modifie votre ordinateur d'aucune manière."
+      },
+      {
+        "question": "Puis-je l'utiliser dans ma vidéo ou stream ?",
+        "answer": "Oui ! Beaucoup de créateurs de contenu l'utilisent comme introduction rétro, scène de transition ou mème visuel."
+      },
+      {
+        "question": "Comment le rendre réaliste ?",
+        "answer": "Passez en plein écran, tamisez vos lumières et jouez-le avant que votre vidéo commence — ça ressemblera à la vraie chose."
+      },
+      {
+        "question": "Puis-je faire une farce à quelqu'un avec ?",
+        "answer": "Oui — c'est génial pour les farces inoffensives. Rappelez-leur juste que ce n'est pas un vrai avertissement gouvernemental 😅"
+      },
+      {
+        "question": "Puis-je changer le texte ou la langue ?",
+        "answer": "Actuellement, c'est un avertissement FBI classique anglais fixe. Les versions futures pourraient supporter du texte personnalisé."
+      },
+      {
+        "question": "Fonctionne-t-il sur tous les appareils ?",
+        "answer": "Oui, il fonctionne sur Windows, macOS, Android, iPhone et tout navigateur web moderne."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Outils d'Écran Supplémentaires",
+    "description": "Explorez notre collection d'outils d'écran spécialisés pour divers usages.",
+    "colorScreens": "Écrans de Couleur",
+    "prankScreens": "Écrans de Farce",
+    "fakeUpdateScreens": "Écrans de Mise à Jour Fausse",
+    "screensaverScreens": "Écrans de Veille"
+  },
+  "howToUse": {
+    "title": "🧭 Comment Utiliser l'Écran d'Avertissement FBI Faux",
+    "steps": [
+      "Ouvrir la page - Allez sur fbi-warning dans votre navigateur d'ordinateur ou mobile.",
+      "Plein écran - Cliquez sur \"Plein Écran\" ou appuyez sur F11 pour que l'avertissement FBI faux remplisse tout votre écran — comme un démarrage de DVD ancien.",
+      "Choisir votre farce ou affichage - Utilisez-le comme introduction amusante de film, prétendez que votre PC a reçu un \"avertissement fédéral\" 😆, ou définissez-le comme arrière-plan de cinéma rétro.",
+      "Utiliser pour des projets créatifs - Excellent pour les monteurs vidéo, cinéastes, streamers et créateurs de mèmes qui veulent cette apparence classique d'Avertissement Anti-Piratage FBI.",
+      "Sortir à tout moment - Appuyez sur Échap ou F11 à nouveau pour quitter le mode plein écran en toute sécurité."
+    ]
+  },
+  "techSpecs": {
+    "title": "Spécifications Techniques",
+    "specs": [
+      "Interface : Simulation d'avertissement FBI/gouvernement réaliste",
+      "Fonctionnalités : Minuteur de compte à rebours, badges et avertissements officiels",
+      "Sécurité : 100% inoffensif - aucune implication gouvernementale réelle",
+      "Compatibilité : Tous les navigateurs et appareils modernes",
+      "Éducation : Parfait pour la formation cybersécurité et application loi"
+    ]
+  }
+}

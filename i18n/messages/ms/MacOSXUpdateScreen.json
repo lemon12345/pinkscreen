@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "title": "Kemas Kini Mac OS X Palsu",
+    "description": "Alami simulasi kemas kini Mac OS X yang meyakinkan di laman web kami. Tipu kawan anda dengan skrin kemas kini Mac OS X palsu yang kelihatan tulen. Nikmati keseronokan dan hiburan proses kemas kini yang disimulasikan.",
+    "badge": "Kemas Kini Sistem macOS",
+    "features": {
+      "noRegistration": "Tiada pendaftaran",
+      "worksOffline": "Berfungsi luar talian",
+      "allDevices": "Semua peranti"
+    }
+  },
+  "keywords": "kemas kini Mac OS X palsu, Simulasi kemas kini Mac OS X, Kemas kini Mac OS X yang autentik, Gurauan kemas kini Mac OS X, Skrin kemas kini Mac OS X yang realistik, Simulasi kemas kini Mac OS X yang tulen, Gurauan kemas kini Mac OS X yang menghiburkan, Gurauan dengan kemas kini Mac OS X palsu, Pengalaman kemas kini Mac OS X yang menarik, Alat gurauan kemas kini Mac OS X",
+  "preview": {
+    "title": "Pratonton Langsung",
+    "fullscreen": "Skrin Penuh",
+    "download": "Muat Turun"
+  },
+  "useCases": {
+    "title": "Orang menggunakan Skrin Kemas Kini Mac OS untuk:",
+    "cases": [
+      {
+        "title": "Bergurau dengan kawan anda",
+        "description": "Gunakan alat kemas kini Mac OS X palsu kami untuk bermain gurauan yang tidak berbahaya kepada kawan anda, membuat mereka percaya komputer mereka sedang menjalani kemas kini yang penting. Tonton reaksi mereka dan ketawa!"
+      },
+      {
+        "title": "Uji kesabaran",
+        "description": "Ketahui bagaimana rakan sekerja atau orang tersayang anda bertindak balas terhadap kemas kini yang tidak dijangka. Ia adalah cara yang menyeronokkan untuk memeriksa kesabaran mereka tanpa menyebabkan sebarang ketidakselesaan sebenar."
+      },
+      {
+        "title": "Bantuan pengajaran teknologi",
+        "description": "Gunakan alat kemas kini palsu sebagai bantuan pengajaran untuk kursus atau bengkel teknologi. Ia boleh digunakan untuk menerangkan kemas kini sistem dan cara mengurusnya."
+      },
+      {
+        "title": "Ujian UI/UX",
+        "description": "Untuk pereka UI/UX, alat kami boleh memberikan kajian kes yang menarik tentang pengalaman pengguna semasa kemas kini sistem. Analisis interaksi dan penglibatan pengguna semasa proses ini."
+      },
+      {
+        "title": "Penciptaan kandungan",
+        "description": "Pencipta kandungan boleh menggunakan alat ini untuk mencipta kandungan teknologi yang menarik atau eksperimen sosial untuk blog, vlog atau platform media sosial mereka."
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "How to Use the Fake macOS Update Screen",
+    "subtitle": "Follow these simple steps to get started with our macOS fake update screen",
+    "steps": {
+      "open": "Open the page",
+      "openDescription": "Visit  fake-macos-update-screen on your Mac or any computer browser.",
+      "fullscreen": "Go full screen",
+      "fullscreenDescription": "Click the 'Full Screen' button or press Control + Command + F to make it look like a real macOS update.",
+      "watch": "Watch the update animation",
+      "watchDescription": "The page will display a realistic macOS update progress bar, similar to what appears during actual system upgrades.",
+      "use": "Use for pranks or video scenes",
+      "useDescription": "Surprise your friends or record for your YouTube, TikTok, or livestream content — it looks very convincing in full screen!",
+      "exit": "Exit anytime",
+      "exitDescription": "Press Esc or Control + Command + F again to return to normal view. No data or settings will be changed."
+    },
+    "tips": {
+      "title": "Quick Tips",
+      "exit": "Press Esc or Control + Command + F to exit full screen mode",
+      "realistic": "The animation looks very realistic and authentic",
+      "safe": "Completely safe — no actual system changes are made",
+      "devices": "Works on all modern browsers and devices"
+    }
+  },
+  "faq": {
+    "title": "Soalan Lazim",
+    "subtitle": "Soalan biasa tentang Skrin Kemas Kini macOS Palsu kami",
+    "whatIs": {
+      "question": "Apakah Skrin Kemas Kini macOS Palsu?",
+      "answer": "Ia adalah simulator dalam talian yang meniru skrin kemas kini macOS dengan sempurna. Ia bagus untuk gurauan, video atau menguji bagaimana paparan anda kelihatan dengan elemen gelap dan terang."
+    },
+    "safe": {
+      "question": "Adakah ia selamat untuk digunakan?",
+      "answer": "Ya. Alat ini benar-benar selamat — ia tidak memasang atau mengubah apa-apa pada peranti anda. Ia hanya memaparkan animasi kemas kini palsu dalam pelayar web anda."
+    },
+    "pranks": {
+      "question": "Bolehkah saya menggunakannya untuk bergurau?",
+      "answer": "Sudah tentu 😄 Pergi ke skrin penuh, pergi jauh dan biarkan kawan anda fikir Mac anda tersekat mengemas kini lagi!"
+    },
+    "exit": {
+      "question": "Bagaimana saya keluar dari skrin kemas kini palsu?",
+      "answer": "Tekan Esc atau Control + Command + F sahaja. Simulator akan ditutup dengan segera."
+    },
+    "devices": {
+      "question": "Adakah ia berfungsi pada Windows atau telefon?",
+      "answer": "Ya, ia berfungsi dalam mana-mana pelayar moden — tetapi untuk kesan yang paling realistik, gunakannya pada Mac atau paparan desktop yang besar."
+    },
+    "real": {
+      "question": "Adakah ia benar-benar mengemas kini macOS?",
+      "answer": "Tidak — ini hanyalah simulator visual. Ia tidak akan memuat turun, memasang atau mengubah apa-apa pada komputer anda."
+    },
+    "content": {
+      "question": "Bolehkah saya menggunakannya dalam video atau strim saya?",
+      "answer": "Ya! Ramai pencipta menggunakan skrin kemas kini macOS palsu untuk projek video, humor teknologi dan kompilasi gurauan."
+    }
+  }
+}

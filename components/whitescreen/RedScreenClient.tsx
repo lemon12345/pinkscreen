@@ -5,6 +5,7 @@ import RedScreenInfo from "./RedScreenInfo";
 import RedScreenUseCases from "./RedScreenUseCases";
 import RedScreenFAQ from "./RedScreenFAQ";
 import WhiteScreenHowToUse from "./WhiteScreenHowToUse";
+import OtherToolsSection from "../home/OtherToolsSection";
 
 export default function RedScreenClient() {
   const [selectedColor, setSelectedColor] = useState("#FF0000");
@@ -147,6 +148,9 @@ export default function RedScreenClient() {
         onFullscreen={handleFullscreen}
         onDownload={handleDownload}
       />
+
+      {/* Other Tools Section */}
+      <OtherToolsSection />
 
       <RedScreenInfo
         selectedColor={selectedColor}

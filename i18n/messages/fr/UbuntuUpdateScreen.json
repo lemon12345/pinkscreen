@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "title": "Ubuntu 22.04 Fake Update | Online Tool",
+    "description": "Découvrez une simulation réaliste de mise à jour Ubuntu 22.04 sur notre site web. Trompez vos amis avec notre écran de fausse mise à jour Ubuntu 22.04 authentique.",
+    "keywords": "Ubuntu fake update, Ubuntu 22.04 update simulation, Simulate Ubuntu 22.04 update, Fake Ubuntu 22.04 update screen, Emulate Ubuntu 22.04 update, Ubuntu 22.04 update prank, Ubuntu 22.04 update process, Authentic-looking Ubuntu 22.04 update, Realistic Ubuntu 22.04 update screen, Fool friends with Ubuntu 22.04 update, Realistic Ubuntu 22.04 update progress, Genuine Ubuntu 22.04 update simulation, Authentic Ubuntu 22.04 update messages, Ubuntu 22.04 update stage, Entertaining Ubuntu 22.04 update prank, Fun fake Ubuntu 22.04 update, Enjoy simulated Ubuntu 22.04 update, Prank with Ubuntu 22.04 fake update, Exciting Ubuntu 22.04 update experience, Ubuntu 22.04 update for amusement, Ubuntu 22.04 update prank tool"
+  },
+  "hero": {
+    "title": "Ubuntu Fake Update",
+    "description": "Découvrez une simulation réaliste de mise à jour Ubuntu 22.04 sur notre site web. Trompez vos amis avec notre écran de fausse mise à jour Ubuntu 22.04 authentique.",
+    "badge": "Mise à jour Système Ubuntu",
+    "features": {
+      "noRegistration": "Aucune inscription",
+      "worksOffline": "Fonctionne hors ligne",
+      "allDevices": "Tous appareils"
+    }
+  },
+  "preview": {
+    "updateText": "Installation des mises à jour... {progress}% terminé"
+  },
+  "keywords": "Ubuntu fake update, Ubuntu 22.04 update simulation, Simulate Ubuntu 22.04 update, Fake Ubuntu 22.04 update screen, Emulate Ubuntu 22.04 update, Ubuntu 22.04 update prank, Ubuntu 22.04 update process, Authentic-looking Ubuntu 22.04 update, Realistic Ubuntu 22.04 update screen, Fool friends with Ubuntu 22.04 update, Realistic Ubuntu 22.04 update progress, Genuine Ubuntu 22.04 update simulation, Authentic Ubuntu 22.04 update messages, Ubuntu 22.04 update stage, Entertaining Ubuntu 22.04 update prank, Fun fake Ubuntu 22.04 update, Enjoy simulated Ubuntu 22.04 update, Prank with Ubuntu 22.04 fake update, Exciting Ubuntu 22.04 update experience, Ubuntu 22.04 update for amusement, Ubuntu 22.04 update prank tool",
+  "useCases": {
+    "title": "Les gens utilisent l'écran de mise à jour Ubuntu 22.04 pour :",
+    "subtitle": "Découvrez les différentes façons d'utiliser notre écran de fausse mise à jour Ubuntu",
+    "pranks": {
+      "title": "Écran Ubuntu Fake pour les farces",
+      "description": "L'écran de fausse mise à jour Ubuntu dynamique est un favori pour les farces tech, parfait pour tromper les collègues en leur faisant croire que leur système se met constamment à jour, créant des moments légers au bureau."
+    },
+    "simulation": {
+      "title": "Simulation de mises à jour avec l'écran Ubuntu Fake",
+      "description": "Les développeurs et professionnels IT utilisent l'écran de fausse mise à jour Ubuntu 22.04 pour simuler les mises à jour système et tester la patience des utilisateurs ou leur réaction aux changements d'interface sans affecter les opérations système."
+    },
+    "training": {
+      "title": "Écran de mise à jour Ubuntu pour la formation",
+      "description": "Les formateurs utilisent l'écran Ubuntu 22.04 fake pour éduquer les étudiants IT sur le processus de mises à jour système, les familiarisant avec les indices visuels d'une mise à jour Ubuntu réelle."
+    },
+    "content": {
+      "title": "Création de contenu avec Ubuntu Fake Update",
+      "description": "Les créateurs de contenu intègrent l'écran de fausse mise à jour Ubuntu dynamique dans leurs vidéos et streams pour ajouter une couche d'authenticité lors de discussions sur des sujets tech ou de création de tutoriels sur les mises à jour système."
+    },
+    "staging": {
+      "title": "Systèmes de staging avec l'écran Ubuntu 22.04 Fake",
+      "description": "Les environnements de staging tech utilisent l'écran de fausse mise à jour Ubuntu 22.04 pour représenter le processus de mise à jour dans des scénarios comme les salons commerciaux ou les démonstrations logicielles, sans s'engager dans une mise à jour réelle."
+    }
+  },
+  "howToUse": {
+    "title": "🐧 Comment utiliser l'Écran de Mise à Jour Fausse d'Ubuntu",
+    "subtitle": "Suivez ces étapes simples pour commencer avec notre écran de mise à jour fausse d'Ubuntu",
+    "steps": {
+      "open": "Ouvrir la page",
+      "openDescription": "Visitez  fake-ubuntu-update-screen dans votre navigateur de bureau ou portable.",
+      "fullscreen": "Aller en plein écran",
+      "fullscreenDescription": "Cliquez sur \"Plein écran\" ou appuyez sur F11 pour qu'il ressemble à une vraie mise à jour du système Ubuntu en cours.",
+      "watch": "Regarder le texte de mise à jour style terminal",
+      "watchDescription": "L'écran faux montre un processus de mise à jour Ubuntu réaliste, incluant des barres de chargement et des lignes d'installation de paquets — comme un vrai apt-get upgrade.",
+      "use": "L'utiliser pour des farces ou des vidéos",
+      "useDescription": "C'est parfait pour faire des farces à vos amis amoureux de Linux, ou pour créer des vidéos tech amusantes et des livestreams.",
+      "exit": "Sortir à tout moment",
+      "exitDescription": "Appuyez sur Esc ou F11 pour quitter le mode plein écran instantanément. Aucun changement ne sera apporté à votre vrai système."
+    },
+    "tips": {
+      "title": "Conseils Rapides",
+      "exit": "Appuyez sur Esc ou F11 pour sortir du mode plein écran",
+      "realistic": "L'animation semble très réaliste et authentique",
+      "safe": "Complètement sûr - aucun changement système réel n'est effectué",
+      "devices": "Fonctionne sur tous les navigateurs et appareils modernes"
+    }
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "subtitle": "Questions communes sur notre Écran de Mise à Jour Fausse d'Ubuntu",
+    "whatIs": {
+      "question": "Qu'est-ce que l'Écran de Mise à Jour Fausse d'Ubuntu ?",
+      "answer": "C'est un simulateur basé sur le web qui imite le processus de mise à jour d'Ubuntu. Il ressemble à un vrai terminal Linux exécutant des mises à jour système, mais c'est juste pour le plaisir ou l'usage éducatif."
+    },
+    "safe": {
+      "question": "Est-ce sûr ?",
+      "answer": "Oui. Il n'exécute aucune commande réelle ni ne modifie vos fichiers — c'est purement visuel. Tout se passe dans votre navigateur."
+    },
+    "pranks": {
+      "question": "Puis-je l'utiliser pour faire des farces ?",
+      "answer": "Bien sûr ! 😄 Passez en plein écran, laissez-le fonctionner et regardez vos amis paniquer quand ils pensent que leur système Ubuntu se \"met à jour\" tout seul."
+    },
+    "exit": {
+      "question": "Comment sortir de l'écran de mise à jour fausse ?",
+      "answer": "Appuyez simplement sur Esc ou F11 pour sortir du mode plein écran."
+    },
+    "devices": {
+      "question": "Fonctionne-t-il sur Windows ou macOS ?",
+      "answer": "Oui, l'écran de mise à jour fausse d'Ubuntu fonctionne sur n'importe quel navigateur moderne — Chrome, Edge, Firefox ou Safari — peu importe quel système d'exploitation vous utilisez."
+    },
+    "real": {
+      "question": "Puis-je l'utiliser pour l'enseignement ou les démos ?",
+      "answer": "Définitivement. Les instructeurs IT et les YouTubers tech utilisent souvent ce simulateur pour expliquer à quoi ressemble le processus de mise à jour Linux, sans avoir besoin d'une vraie installation Ubuntu."
+    },
+    "content": {
+      "question": "Met-il vraiment à jour mon système ?",
+      "answer": "Non — c'est seulement un simulateur visuel, pas un vrai terminal. Votre système reste complètement inchangé."
+    }
+  }
+}

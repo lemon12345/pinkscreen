@@ -1,0 +1,75 @@
+{
+  "title": "Daha Fazla Ekran Aracı",
+  "description": "Tam ekran araçları koleksiyonumuzu keşfedin - sistem simülatörleri, ekran koruyucuları, efekt simülasyonları ve tüm ihtiyaçlarınız için daha fazlası",
+  "badge": "Profesyonel Ekran Araçları Koleksiyonu",
+  "categories": {
+    "systemSimulation": "Sistem Simülasyonu",
+    "screensaver": "Ekran Koruyucu Animasyonu",
+    "effects": "Efekt Simülasyonu"
+  },
+  "tools": {
+    "bios": {
+      "name": "BIOS Ekranı",
+      "description": "Bilgisayar BIOS başlatma arayüzünü simüle edin"
+    },
+    "fakeWindows11Update": {
+      "name": "Windows 11 Güncelleme Ekranı",
+      "description": "Windows 11 sistem güncelleme arayüzünü simüle edin"
+    },
+    "fakeWindows10Update": {
+      "name": "Windows 10 Güncelleme Ekranı",
+      "description": "Windows 10 sistem güncelleme arayüzünü simüle edin"
+    },
+    "fakeWindowsXpUpdate": {
+      "name": "Windows XP Güncelleme Ekranı",
+      "description": "Windows XP sistem güncelleme arayüzünü simüle edin"
+    },
+    "fakeMacOsXUpdate": {
+      "name": "Mac OS X Güncelleme Ekranı",
+      "description": "Mac OS X sistem güncelleme arayüzünü simüle edin"
+    },
+    "fakeUbuntuUpdate": {
+      "name": "Ubuntu 22.04 Güncelleme Ekranı",
+      "description": "Ubuntu 22.04 sistem güncelleme arayüzünü simüle edin"
+    },
+    "fakeAndroidUpdate": {
+      "name": "Android Güncelleme Ekranı",
+      "description": "Android sistem güncelleme arayüzünü simüle edin"
+    },
+    "fakeDos": {
+      "name": "DOS Simülatörü",
+      "description": "Klasik DOS komut satırı arayüzünü simüle edin"
+    },
+    "fakeVirus": {
+      "name": "Virus Uyarı Ekranı",
+      "description": "Bilgisayar virus uyarı arayüzünü simüle edin"
+    },
+    "fbiWarning": {
+      "name": "FBI Uyarı Ekranı",
+      "description": "FBI telif hakkı uyarı arayüzünü simüle edin"
+    },
+    "dvdScreensaver": {
+      "name": "DVD Ekran Koruyucu",
+      "description": "Klasik DVD oynatıcı ekran koruyucu animasyonu"
+    },
+    "brokenScreen": {
+      "name": "Kırık Ekran",
+      "description": "Çatlak ekran efektini simüle edin"
+    },
+    "blueScreenOfDeath": {
+      "name": "Windows Blue Screen of Death",
+      "description": "Windows Blue Screen of Death arayüzünü simüle edin"
+    },
+    "hackerTyper": {
+      "name": "Hacker Simülatörü",
+      "description": "Gerçekçi hacker yazma efektleri ve terminal simülasyonları oluşturun"
+    },
+    "noSignalScreensaver": {
+      "name": "Sinyal Yok Color Bars Ekran Koruyucu",
+      "description": "TV sinyal yok renk çubukları ekran koruyucuyu simüle edin"
+    }
+  },
+  "footer": {
+    "description": "Tüm araçlar ücretsizdir ve kayıt gerektirmez"
+  }
+}

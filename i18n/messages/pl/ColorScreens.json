@@ -1,0 +1,20 @@
+{
+  "title": "Kolekcja Kolorowych Ekranów",
+  "description": "Odkryj naszą kompletną kolekcję symulacji kolorowych ekranów - od klasycznego niebieskiego ekranu po żywe wyświetlacze tęczowe. Idealne do żartów, testów i projektów kreatywnych.",
+  "badge": "Kompletna Kolekcja Kolorowych Ekranów",
+  "screens": {
+    "pinkScreen": "Różowy Ekran",
+    "blueScreen": "Niebieski Ekran",
+    "redScreen": "Czerwony Ekran",
+    "greenScreen": "Zielony Ekran",
+    "yellowScreen": "Żółty Ekran",
+    "orangeScreen": "Pomarańczowy Ekran",
+    "purpleScreen": "Fioletowy Ekran",
+    "blackScreen": "Czarny Ekran",
+    "whiteScreen": "Biały Ekran",
+    "zoomLighting": "Oświetlenie Zoom"
+  },
+  "footer": {
+    "description": "Wszystkie ekrany są darmowe i działają na wszystkich urządzeniach"
+  }
+}

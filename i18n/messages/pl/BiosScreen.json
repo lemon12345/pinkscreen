@@ -1,0 +1,128 @@
+{
+  "hero": {
+    "badge": "Narzędzie Symulatora BIOS",
+    "title": "Symulator Phoenix BIOS Setup Utility",
+    "description": "Interaktywny symulator CMOS bios online z menu nawigacji i ustawieniami głównymi, zaawansowanymi, bezpieczeństwa i rozruchu",
+    "features": {
+      "noRegistration": "Bez rejestracji",
+      "worksOffline": "Działa offline",
+      "allDevices": "Wszystkie urządzenia"
+    }
+  },
+  "keywords": "symulator BIOS, Phoenix BIOS, konfiguracja BIOS, konfiguracja CMOS, BIOS online, edukacja BIOS, ustawienia systemu, edukacja komputerowa, szkolenie IT, interfejs BIOS, konfiguracja systemu",
+  "colorPicker": {
+    "title": "Symulator BIOS",
+    "custom": "Niestandardowy",
+    "description": "Idealny do edukacji IT, demonstracji technicznych i nauki systemu",
+    "launchButton": "Uruchom Symulator BIOS",
+    "clickHint": "Kliknij przycisk powyżej, aby uruchomić symulator BIOS w trybie pełnoekranowym",
+    "previewAlt": "Podgląd Phoenix BIOS Setup Utility",
+    "biosTitle": "Phoenix TrustedBios(tm) CMOS Setup Utility"
+  },
+  "useCases": {
+    "title": "Ludzie używają symulatora BIOS do:",
+    "description": "Nasz symulator BIOS zapewnia autentyczne doświadczenie BIOS dla różnych scenariuszy zawodowych i edukacyjnych.",
+    "cases": [
+      {
+        "icon": "🔧",
+        "title": "Nauka Konserwacji Systemu",
+        "description": "Bezpiecznie ucz się i ćwicz ustawienia BIOS, zrozum opcje konfiguracji niskiego poziomu i parametry systemu."
+      },
+      {
+        "icon": "📚",
+        "title": "Edukacja & Szkolenie IT",
+        "description": "Używany do nauczania informatyki i szkolenia IT, pozwalając studentom bezpiecznie uczyć się operacji interfejsu BIOS."
+      },
+      {
+        "icon": "🎭",
+        "title": "Demonstracje Techniczne",
+        "description": "Twórz filmy demonstracyjne techniczne, przeprowadzaj symulacje awarii systemu lub pokazuj procesy konfiguracji sprzętu."
+      },
+      {
+        "icon": "🎮",
+        "title": "Doświadczenie Nostalgiczne",
+        "description": "Doświadcz klasycznego interfejsu Phoenix BIOS, wspominaj historyczne momenty rozwoju komputerów."
+      },
+      {
+        "icon": "🛠️",
+        "title": "Praktyka Rozwiązywania Problemów",
+        "description": "Ćwicz procedury rozwiązywania problemów BIOS i metody odzyskiwania ustawień, aby poprawić umiejętności techniczne."
+      },
+      {
+        "icon": "💻",
+        "title": "Nauka Konfiguracji Sprzętu",
+        "description": "Zrozum proces rozruchu komputera, wykrywanie sprzętu i podstawowe zasady konfiguracji systemu."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Często Zadawane Pytania",
+    "description": "Typowe pytania i odpowiedzi dotyczące symulatora BIOS",
+    "questions": [
+      {
+        "question": "Czym jest symulator BIOS?",
+        "answer": "Symulator BIOS to narzędzie online, które całkowicie symuluje tradycyjny interfejs Phoenix BIOS setup, zapewniając autentyczne doświadczenie operacji BIOS."
+      },
+      {
+        "question": "Czy bezpiecznie jest używać symulatora BIOS?",
+        "answer": "Całkowicie bezpiecznie! To tylko symulator internetowy, który nie wpłynie na Twój prawdziwy komputer lub ustawienia systemu w żaden sposób."
+      },
+      {
+        "question": "Jak operować w trybie pełnoekranowym?",
+        "answer": "Używaj klawiszy strzałek klawiatury do nawigacji: strzałki lewo/prawo przełączają menu, strzałki góra/dół wybierają elementy, Enter potwierdza, F9 lub Esc wychodzi."
+      },
+      {
+        "question": "Czy ten symulator nadaje się do nauczania?",
+        "answer": "Absolutnie! Ten symulator jest zaprojektowany specjalnie do edukacji IT, pozwalając studentom bezpiecznie uczyć się operacji BIOS i konfiguracji systemu."
+      },
+      {
+        "question": "Czy można go używać do demonstracji technicznych?",
+        "answer": "Z pewnością! Możesz używać tego symulatora do tworzenia filmów edukacyjnych, demonstracji technicznych lub przeprowadzania symulacji awarii systemu."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Dodatkowe Narzędzia Ekranu",
+    "description": "Odkryj naszą kolekcję specjalistycznych narzędzi ekranu do różnych celów.",
+    "colorScreens": "Ekrany Kolorowe",
+    "prankScreens": "Ekrany Żartów",
+    "fakeUpdateScreens": "Ekrany Fałszywych Aktualizacji",
+    "screensaverScreens": "Ekrany Wygaszaczy"
+  },
+  "howToUse": {
+    "title": "🧭 Jak używać symulatora BIOS",
+    "description": "Wykonaj te proste kroki, aby skutecznie nawigować i używać symulatora BIOS.",
+    "steps": [
+      {
+        "title": "Uruchom symulator",
+        "description": "Kliknij przycisk \"Uruchom symulator BIOS\", aby wejść w tryb pełnoekranowy i rozpocząć eksplorację interfejsu BIOS."
+      },
+      {
+        "title": "Nawiguj po menu",
+        "description": "Używaj klawiszy strzałek w lewo i w prawo, aby przełączać między różnymi menu BIOS (Główne, Zaawansowane, Bezpieczeństwo, Rozruch, Wyjście)."
+      },
+      {
+        "title": "Wybierz elementy",
+        "description": "Używaj klawiszy strzałek w górę i w dół, aby nawigować po elementach menu i wybierać różne ustawienia BIOS."
+      },
+      {
+        "title": "Wyjdź z pełnego ekranu",
+        "description": "Naciśnij klawisz ESC lub F9, aby wyjść z trybu pełnoekranowego i wrócić do strony głównej."
+      }
+    ],
+    "tip": {
+      "title": "Wskazówka profesjonalna",
+      "description": "Symulator BIOS zapewnia autentyczne doświadczenie - cała nawigacja klawiaturą działa dokładnie jak prawdziwy interfejs BIOS!"
+    }
+  },
+  "techSpecs": {
+    "title": "Specyfikacje Techniczne",
+    "specs": [
+      "Interfejs: Phoenix TrustedBios CMOS Setup",
+      "Menu: Główne, Zaawansowane, Bezpieczeństwo, Rozruch, Wyjście",
+      "Operacja: Pełne wsparcie nawigacji klawiaturą",
+      "Kompatybilność: Wszystkie nowoczesne przeglądarki",
+      "Funkcje: Autentyczna symulacja interfejsu BIOS"
+    ]
+  }
+}

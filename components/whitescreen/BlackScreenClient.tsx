@@ -5,6 +5,7 @@ import BlackScreenInfo from "./BlackScreenInfo";
 import BlackScreenUseCases from "./BlackScreenUseCases";
 import BlackScreenFAQ from "./BlackScreenFAQ";
 import WhiteScreenHowToUse from "./WhiteScreenHowToUse";
+import OtherToolsSection from "../home/OtherToolsSection";
 
 export default function BlackScreenClient() {
   const [selectedColor, setSelectedColor] = useState("#000000");
@@ -147,6 +148,9 @@ export default function BlackScreenClient() {
         onFullscreen={handleFullscreen}
         onDownload={handleDownload}
       />
+
+      {/* Other Tools Section */}
+      <OtherToolsSection />
 
       <BlackScreenInfo
         selectedColor={selectedColor}

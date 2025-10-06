@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Falsk Virusskärm - Filer krypterade",
+    "description": "Falsk virusskärm som kräver pengar för fildekryptering. Lura dina vänner genom att öppna detta på deras maskin!",
+    "badge": "Virus Skämtverktyg"
+  },
+  "keywords": "falsk virus, ransomware skämt, falsk hackare, datorskämt, virus simulator, falsk malware, krypterade filer skämt, ofarligt virus skämt, falsk cybersäkerhet, skämt skärm",
+  "colorPicker": {
+    "title": "Falskt Virus Skämt",
+    "description": "Realistisk virusskärm för ofarliga skämt och cybersäkerhetsutbildning",
+    "launchButton": "Starta Virus Skämt",
+    "clickHint": "Klicka på knappen ovan för att starta virus skämt i helskärm"
+  },
+  "useCases": {
+    "title": "Folk använder virus skämt för:",
+    "description": "Vår falska virus simulator ger realistisk ransomware upplevelse för utbildning och ofarliga skämt.",
+    "cases": [
+      {
+        "icon": "🛡️",
+        "title": "Cybersäkerhetsutbildning",
+        "description": "Lära om ransomware hot och cybersäkerhetsmedvetenhet i en säker, kontrollerad miljö."
+      },
+      {
+        "icon": "😂",
+        "title": "Ofarliga Kontorsskämt",
+        "description": "Skämt säkert med kollegor med realistisk virusskärm som avslöjar sig som ofarligt skämt."
+      },
+      {
+        "icon": "🎭",
+        "title": "Sociala Medier Innehåll",
+        "description": "Skapa engagerande reaktionsvideor och cybersäkerhetsmedvetenhetsinnehåll för sociala plattformar."
+      },
+      {
+        "icon": "📚",
+        "title": "IT Träning",
+        "description": "Använd i IT-träningskurser för att demonstrera ransomware attacker och incidenthanteringsprocedurer."
+      },
+      {
+        "icon": "🎬",
+        "title": "Film & Teater",
+        "description": "Perfekt för filmer, TV-show eller teaterproduktioner som kräver realistiska hackare/virus scener."
+      },
+      {
+        "icon": "🎪",
+        "title": "Aprilskämt",
+        "description": "Ultimat aprilskämt med övertygande ransomware gränssnitt och humoristiska betalningsalternativ."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "description": "Vanliga frågor om den falska virus skämtetsimulatorn",
+    "questions": [
+      {
+        "question": "Är detta virus skämt faktiskt farligt?",
+        "answer": "Absolut inte! Detta är 100% ofarlig simulering. Inga filer krypteras, ingen data stjäls, och inget riktigt malware är inblandat."
+      },
+      {
+        "question": "Kommer detta att skada min dator eller filer?",
+        "answer": "Ingen skada alls! Det är en ren visuell simulering som körs i din webbläsare. Alla dina filer förblir helt säkra och orörda."
+      },
+      {
+        "question": "Hur realistisk ser det ut?",
+        "answer": "Mycket realistiskt! Det imiterar riktiga ransomware gränssnitt men inkluderar humoristiska betalningsmetoder som 'Monopolpengar' och 'njurar' för att säkerställa att det tydligt är ett skämt."
+      },
+      {
+        "question": "Hur avslutar jag skämtet?",
+        "answer": "Tryck på F11 eller ESC-tangenten för att avsluta helskärmsläge. Skämtet avslöjar sig också som ofarligt med tydliga instruktioner."
+      },
+      {
+        "question": "Kan jag använda detta för cybersäkerhetsträning?",
+        "answer": "Ja! Det är perfekt för utbildningsändamål för att demonstrera hur ransomware ser ut och lära cybersäkerhetsmedvetenhet."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Ytterligare Skärmverktyg",
+    "description": "Utforska vår samling av specialiserade skärmverktyg för olika ändamål.",
+    "colorScreens": "Färgskärmar",
+    "prankScreens": "Skämt Skärmar",
+    "fakeUpdateScreens": "Falska Uppdateringsskärmar",
+    "screensaverScreens": "Skärmsläckare Skärmar"
+  },
+  "howToUse": {
+    "title": "Hur man Använder",
+    "steps": [
+      "Klicka på startknappen för att gå in i virus skämt i helskärm",
+      "Den falska ransomware skärmen kommer att visas med nedräkningstimer",
+      "Titta på offrets reaktion på det realistiska krypteringsmeddelandet",
+      "Skämtet avslöjar sig med humoristiska betalningsalternativ",
+      "Tryck på F11 eller ESC för att avsluta helskärmsläge när som helst"
+    ]
+  },
+  "techSpecs": {
+    "title": "Tekniska Specifikationer",
+    "specs": [
+      "Gränssnitt: Realistisk ransomware/virus simulering",
+      "Funktioner: Nedräkningstimer, falskt krypteringsmeddelande",
+      "Säkerhet: 100% ofarlig - inget riktigt virus eller malware",
+      "Kompatibilitet: Alla moderna webbläsare och enheter",
+      "Utbildning: Perfekt för cybersäkerhetsmedvetenhetsträning"
+    ]
+  }
+}

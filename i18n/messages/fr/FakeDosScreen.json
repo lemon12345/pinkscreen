@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Fausse Formatage de Disque - Farce DOS en Ligne",
+    "description": "Trompez vos amis avec la farce DOS en ligne qui semble formater le lecteur de disque mais en réalité ne fait aucun mal.",
+    "badge": "Outil de Farce DOS"
+  },
+  "keywords": "faux DOS, farce formatage disque, farce DOS en ligne, faux formatage disque, farce ordinateur, simulateur DOS, farce invite commande, faux format C, farce inoffensive, écran DOS",
+  "colorPicker": {
+    "title": "Farce DOS Fausse",
+    "description": "Parfait pour faire des farces aux amis avec une simulation de formatage DOS réaliste",
+    "launchButton": "Lancer la Farce DOS",
+    "clickHint": "Cliquez sur le bouton ci-dessus pour lancer la farce DOS plein écran"
+  },
+  "useCases": {
+    "title": "Les gens utilisent la farce DOS pour :",
+    "description": "Notre simulateur DOS faux fournit une expérience de formatage DOS réaliste pour des farces inoffensives et du divertissement.",
+    "cases": [
+      {
+        "icon": "😂",
+        "title": "Farces Inoffensives",
+        "description": "Faites des farces en toute sécurité aux amis et collègues avec une simulation de formatage DOS réaliste sans aucun dommage réel."
+      },
+      {
+        "icon": "🎭",
+        "title": "Vidéos de Divertissement",
+        "description": "Créez des vidéos de réaction amusantes et du contenu divertissant avec une interface DOS authentique."
+      },
+      {
+        "icon": "🎪",
+        "title": "Poisson d'Avril",
+        "description": "Parfait pour les farces du Poisson d'Avril et les moments de divertissement surprise avec les amis."
+      },
+      {
+        "icon": "📱",
+        "title": "Contenu Réseaux Sociaux",
+        "description": "Générez du contenu engageant pour les réseaux sociaux et des posts tech amusants pour votre audience."
+      },
+      {
+        "icon": "🎬",
+        "title": "Cinéma & Théâtre",
+        "description": "Utilisez dans les films, productions théâtrales ou démonstrations éducatives nécessitant une interface DOS."
+      },
+      {
+        "icon": "🎮",
+        "title": "Jeux Rétro",
+        "description": "Découvrez l'interface DOS nostalgique et souvenez-vous de l'ère informatique classique."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "description": "Questions courantes sur le simulateur de farce DOS faux",
+    "questions": [
+      {
+        "question": "Cette farce DOS est-elle sûre à utiliser ?",
+        "answer": "Absolument sûre ! Ce n'est qu'une simulation web qui imite le formatage DOS. Elle ne formate pas réellement ni n'endommage aucun fichier sur votre ordinateur."
+      },
+      {
+        "question": "Cela supprimera-t-il réellement mes fichiers ?",
+        "answer": "Non ! C'est purement une simulation visuelle. Aucun fichier n'est supprimé, aucun formatage n'a lieu. C'est complètement inoffensif et sûr."
+      },
+      {
+        "question": "Comment sortir de la farce ?",
+        "answer": "Appuyez sur la touche Échap ou F11 pour quitter le mode plein écran. La farce se révélera aussi automatiquement après completion."
+      },
+      {
+        "question": "Puis-je l'utiliser sur les appareils mobiles ?",
+        "answer": "Oui ! La farce DOS fonctionne sur tous les appareils y compris les smartphones et tablettes avec support plein écran."
+      },
+      {
+        "question": "Est-ce approprié pour les farces de bureau ?",
+        "answer": "Bien qu'inoffensive, veuillez l'utiliser de manière responsable et considérer votre environnement de travail avant de faire des farces aux collègues."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Outils d'Écran Supplémentaires",
+    "description": "Explorez notre collection d'outils d'écran spécialisés pour divers usages.",
+    "colorScreens": "Écrans de Couleur",
+    "prankScreens": "Écrans de Farce",
+    "fakeUpdateScreens": "Écrans de Mise à Jour Fausse",
+    "screensaverScreens": "Écrans de Veille"
+  },
+  "howToUse": {
+    "title": "Comment Utiliser",
+    "steps": [
+      "Cliquez sur le bouton de lancement pour entrer dans la farce DOS plein écran",
+      "Regardez comme le processus de formatage faux commence automatiquement",
+      "Le système affichera des commandes DOS réalistes et le progrès",
+      "Après completion, la farce se révèle avec un message inoffensif",
+      "Appuyez sur Échap ou F11 pour quitter le mode plein écran à tout moment"
+    ]
+  },
+  "techSpecs": {
+    "title": "Spécifications Techniques",
+    "specs": [
+      "Interface : Simulation d'invite de commande DOS authentique",
+      "Fonctionnalités : Animation de formatage de disque réaliste",
+      "Sécurité : 100% inoffensif - aucun formatage réel n'a lieu",
+      "Compatibilité : Tous les navigateurs et appareils modernes",
+      "Durée : Séquence de farce automatique avec révélation"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "title": "彩色条 - 无信号电视屏幕",
+    "description": "在线生成真实的电视彩色条和无信号屏幕。免费全屏 SMPTE 测试图案生成器，具有经典广播测试卡效果。完美适用于视频制作、流媒体和复古显示。",
+    "badge": "广播测试图案",
+    "features": {
+      "noRegistration": "无需注册",
+      "worksOffline": "离线可用",
+      "allDevices": "全设备支持"
+    }
+  },
+  "keywords": "彩色条, 无信号屏幕, 电视测试图案, SMPTE, 测试卡, 广播条, 电视校准, 彩色条生成器, 电视静态屏幕, 全屏测试图案, 在线彩色条, 复古电视屏幕, 视频校准图案, 电视彩色条生成器",
+  "preview": {
+    "title": "预览",
+    "comingSoon": "即将推出",
+    "testPattern": "测试图案",
+    "colorBars": "SMPTE彩色条"
+  },
+  "controls": {
+    "title": "控制",
+    "fullscreen": "全屏",
+    "resolution": "分辨率",
+    "width": "宽度",
+    "height": "高度",
+    "swapDimensions": "交换尺寸",
+    "download": "下载"
+  },
+  "useCases": {
+    "title": "人们使用彩色条屏幕保护程序用于：",
+    "case1": {
+      "title": "用彩色条屏幕创造复古电视氛围",
+      "description": "怀念那些经典的电视测试图案？运行这个彩色条生成器全屏模式，将任何显示器变成复古电视显示。完美适用于设置复古游戏流或创造那种怀旧的广播感觉。"
+    },
+    "case2": {
+      "title": "视频制作的电视无信号屏幕",
+      "description": "需要专业的 SMPTE 彩色条用于视频项目？这个在线工具在您的浏览器中生成广播质量的测试图案。非常适合设置显示器或为您的作品添加真实的技术元素。"
+    },
+    "case3": {
+      "title": "自定义您的流媒体休息屏幕",
+      "description": "寻找专业的马上回来屏幕？使用这个在线电视测试卡生成器为您的流媒体休息创建经典的广播外观。用真实的彩色条为您的频道增添专业感。"
+    },
+    "case4": {
+      "title": "艺术装置的经典无信号屏幕",
+      "description": "为您的艺术项目寻找真实的电视静态外观？这个在线彩色条生成器创建真实的测试图案和无信号屏幕。完美适用于画廊、装置或任何复古科技美学。"
+    },
+    "case5": {
+      "title": "用复古测试卡图案营造氛围",
+      "description": "用真实的彩色条和测试图案将任何屏幕变成怀旧的电视显示。非常适合派对、主题活动或只是在您的空间中创造完美的复古氛围。"
+    },
+    "case6": {
+      "title": "用无信号屏幕恶作剧您的朋友",
+      "description": "想要搞一个经典的电视恶作剧？当您的朋友不注意时打开这个全屏彩色条生成器。当他们看到经典的无信号图案时，看着他们试图修复电视！"
+    },
+    "entertainment": {
+      "title": "娱乐和恶作剧",
+      "fullscreenPranks": "全屏无信号屏幕恶作剧",
+      "retroTVParty": "复古电视派对装饰",
+      "streamingBreaks": "流媒体休息屏幕效果",
+      "vintageBroadcast": "复古广播美学",
+      "gamingRoom": "游戏房间氛围"
+    },
+    "professional": {
+      "title": "专业用途",
+      "smpteTesting": "SMPTE 彩色条测试",
+      "monitorCalibration": "显示器校准图案",
+      "videoProduction": "视频制作测试卡",
+      "displaySetup": "显示设置参考",
+      "broadcastEquipment": "广播设备检查"
+    },
+    "creative": {
+      "title": "创意项目",
+      "artInstallations": "艺术装置背景",
+      "retroVideo": "复古视频美学",
+      "vintageTV": "复古电视设计",
+      "filmProduction": "电影制作道具",
+      "nostalgicMedia": "怀旧媒体显示"
+    }
+  },
+  "howToUse": {
+    "title": "如何使用SMPTE彩色条",
+    "steps": [
+      "打开页面 - 在浏览器中访问 no-signal-smpte-color-bars-screensaver",
+      "全屏显示 - 点击\"全屏\"或按F11键在整个显示器上显示测试图案",
+      "选择图案 - 使用控件在SMPTE彩色条和无信号测试图案之间切换",
+      "用于校准 - 检查显示器或显示设备的颜色准确性、亮度和对比度设置",
+      "随时退出 - 按Esc或F11键退出全屏模式并返回正常查看"
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "whatIsSMPTE": {
+      "question": "什么是 SMPTE 彩色条？",
+      "answer": "SMPTE 彩色条是视频制作和广播中使用的标准化测试图案，用于校准显示器并确保正确的色彩再现。它们由特定的彩色条组成，帮助技术人员调整亮度、对比度和色彩设置。"
+    },
+    "howToUse": {
+      "question": "如何使用彩色条屏幕保护程序？",
+      "answer": "只需点击预览区域进入全屏模式，或使用控制项调整分辨率和下载图案。彩色条将显示真实的扫描线和噪声效果，呈现逼真的电视外观。"
+    },
+    "fullscreen": {
+      "question": "如何退出全屏模式？",
+      "answer": "按 Escape 键或再次点击全屏按钮退出全屏模式。您也可以使用 F11 在大多数浏览器中切换全屏。"
+    },
+    "download": {
+      "question": "我可以下载彩色条图案吗？",
+      "answer": "是的，您可以下载各种分辨率的彩色条图案。使用控制部分的下载按钮将图案保存为 PNG 图像文件。"
+    },
+    "compatibility": {
+      "question": "支持哪些浏览器？",
+      "answer": "彩色条屏幕保护程序适用于所有现代浏览器，包括 Chrome、Firefox、Safari 和 Edge。全屏模式在大多数设备和浏览器上都受支持。"
+    }
+  }
+}

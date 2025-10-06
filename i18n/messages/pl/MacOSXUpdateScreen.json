@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "title": "Fałszywa Aktualizacja Mac OS X",
+    "description": "Doświadcz przekonującej symulacji aktualizacji Mac OS X na naszej stronie internetowej. Oszukaj swoich przyjaciół naszym autentycznym ekranem fałszywej aktualizacji Mac OS X. Ciesz się ekscytacją i rozrywką symulowanego procesu aktualizacji.",
+    "badge": "Aktualizacja Systemu macOS",
+    "features": {
+      "noRegistration": "Bez rejestracji",
+      "worksOffline": "Działa offline",
+      "allDevices": "Wszystkie urządzenia"
+    }
+  },
+  "keywords": "fałszywa aktualizacja Mac OS X, Symuluj aktualizację Mac OS X, Autentyczna aktualizacja Mac OS X, Żart aktualizacji Mac OS X, Realistyczny ekran aktualizacji Mac OS X, Prawdziwa symulacja aktualizacji Mac OS X, Zabawowy żart aktualizacji Mac OS X, Żart z fałszywą aktualizacją Mac OS X, Ekscytujące doświadczenie aktualizacji Mac OS X, Narzędzie żartu aktualizacji Mac OS X",
+  "preview": {
+    "title": "Podgląd na Żywo",
+    "fullscreen": "Pełny Ekran",
+    "download": "Pobierz"
+  },
+  "useCases": {
+    "title": "Ludzie używają Ekranu Aktualizacji Mac OS do:",
+    "cases": [
+      {
+        "title": "Żartuj z przyjaciółmi",
+        "description": "Użyj naszego narzędzia fałszywej aktualizacji Mac OS X, aby zrobić niewinny żart swoim przyjaciołom, sprawiając, że uwierzą, że ich komputer przechodzi znaczącą aktualizację. Obserwuj ich reakcje i śmiej się!"
+      },
+      {
+        "title": "Testuj cierpliwość",
+        "description": "Dowiedz się, jak Twoi koledzy lub bliscy reagują na nieoczekiwane aktualizacje. To zabawny sposób sprawdzenia ich cierpliwości bez powodowania prawdziwych niedogodności."
+      },
+      {
+        "title": "Pomoc dydaktyczna tech",
+        "description": "Użyj narzędzia fałszywej aktualizacji jako pomocy dydaktycznej dla kursów lub warsztatów tech. Może być używane do wyjaśniania aktualizacji systemu i jak je zarządzać."
+      },
+      {
+        "title": "Test UI/UX",
+        "description": "Dla projektantów UI/UX, nasze narzędzie może dostarczyć interesujące studium przypadku na temat doświadczenia użytkownika podczas aktualizacji systemu. Analizuj interakcję i zaangażowanie użytkownika podczas tego procesu."
+      },
+      {
+        "title": "Tworzenie treści",
+        "description": "Twórcy treści mogą używać tego narzędzia do tworzenia interesujących treści tech lub eksperymentów społecznych dla swoich blogów, vlogów lub platform mediów społecznościowych."
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "How to Use the Fake macOS Update Screen",
+    "subtitle": "Follow these simple steps to get started with our macOS fake update screen",
+    "steps": {
+      "open": "Open the page",
+      "openDescription": "Visit  fake-macos-update-screen on your Mac or any computer browser.",
+      "fullscreen": "Go full screen",
+      "fullscreenDescription": "Click the 'Full Screen' button or press Control + Command + F to make it look like a real macOS update.",
+      "watch": "Watch the update animation",
+      "watchDescription": "The page will display a realistic macOS update progress bar, similar to what appears during actual system upgrades.",
+      "use": "Use for pranks or video scenes",
+      "useDescription": "Surprise your friends or record for your YouTube, TikTok, or livestream content — it looks very convincing in full screen!",
+      "exit": "Exit anytime",
+      "exitDescription": "Press Esc or Control + Command + F again to return to normal view. No data or settings will be changed."
+    },
+    "tips": {
+      "title": "Quick Tips",
+      "exit": "Press Esc or Control + Command + F to exit full screen mode",
+      "realistic": "The animation looks very realistic and authentic",
+      "safe": "Completely safe — no actual system changes are made",
+      "devices": "Works on all modern browsers and devices"
+    }
+  },
+  "faq": {
+    "title": "Często Zadawane Pytania",
+    "subtitle": "Częste pytania dotyczące naszego Fałszywego Ekranu Aktualizacji macOS",
+    "whatIs": {
+      "question": "Czym jest Fałszywy Ekran Aktualizacji macOS?",
+      "answer": "To symulator online, który doskonale imituje ekran aktualizacji macOS. Jest świetny do żartów, filmów lub testowania, jak wygląda Twój wyświetlacz z ciemnymi i jasnymi elementami."
+    },
+    "safe": {
+      "question": "Czy jest bezpieczny w użyciu?",
+      "answer": "Tak. To narzędzie jest całkowicie bezpieczne — nie instaluje ani nie modyfikuje niczego na Twoim urządzeniu. Wyświetla tylko fałszywą animację aktualizacji w Twojej przeglądarce internetowej."
+    },
+    "pranks": {
+      "question": "Czy mogę go używać do żartów?",
+      "answer": "Zdecydowanie 😄 Przejdź na pełny ekran, odejdź i pozwól swoim przyjaciołom myśleć, że Twój Mac znów utknął podczas aktualizacji!"
+    },
+    "exit": {
+      "question": "Jak wyjść z fałszywego ekranu aktualizacji?",
+      "answer": "Po prostu naciśnij Esc lub Control + Command + F. Symulator zamknie się natychmiast."
+    },
+    "devices": {
+      "question": "Czy działa na Windows lub telefonach?",
+      "answer": "Tak, działa w każdej nowoczesnej przeglądarce — ale dla najbardziej realistycznego efektu użyj go na Macu lub dużym wyświetlaczu desktopowym."
+    },
+    "real": {
+      "question": "Czy rzeczywiście aktualizuje macOS?",
+      "answer": "Nie — to tylko symulator wizualny. Nie pobierze, nie zainstaluje ani nie zmieni niczego na Twoim komputerze."
+    },
+    "content": {
+      "question": "Czy mogę go używać w moim filmie lub streamie?",
+      "answer": "Tak! Wielu twórców używa fałszywego ekranu aktualizacji macOS do projektów wideo, humoru technologicznego i kompilacji żartów."
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Weitere Bildschirm-Tools",
+  "description": "Entdecken Sie unsere vollständige Sammlung von Bildschirm-Tools - System-Simulatoren, Bildschirmschoner, Effekt-Simulationen und mehr für alle Ihre Bedürfnisse",
+  "badge": "Professionelle Bildschirm-Tools-Sammlung",
+  "categories": {
+    "systemSimulation": "System-Simulation",
+    "screensaver": "Bildschirmschoner-Animation",
+    "effects": "Effekt-Simulation"
+  },
+  "tools": {
+    "bios": {
+      "name": "BIOS-Bildschirm",
+      "description": "Simulieren Sie die Computer-BIOS-Startoberfläche"
+    },
+    "fakeWindows11Update": {
+      "name": "Windows 11 Update-Bildschirm",
+      "description": "Simulieren Sie die Windows 11 System-Update-Oberfläche"
+    },
+    "fakeWindows10Update": {
+      "name": "Windows 10 Update-Bildschirm",
+      "description": "Simulieren Sie die Windows 10 System-Update-Oberfläche"
+    },
+    "fakeWindowsXpUpdate": {
+      "name": "Windows XP Update-Bildschirm",
+      "description": "Simulieren Sie die Windows XP System-Update-Oberfläche"
+    },
+    "fakeMacOsXUpdate": {
+      "name": "Mac OS X Update-Bildschirm",
+      "description": "Simulieren Sie die Mac OS X System-Update-Oberfläche"
+    },
+    "fakeUbuntuUpdate": {
+      "name": "Ubuntu 22.04 Update-Bildschirm",
+      "description": "Simulieren Sie die Ubuntu 22.04 System-Update-Oberfläche"
+    },
+    "fakeAndroidUpdate": {
+      "name": "Android Update-Bildschirm",
+      "description": "Simulieren Sie die Android System-Update-Oberfläche"
+    },
+    "fakeDos": {
+      "name": "DOS-Simulator",
+      "description": "Simulieren Sie die klassische DOS-Befehlszeilenoberfläche"
+    },
+    "fakeVirus": {
+      "name": "Virus-Warnbildschirm",
+      "description": "Simulieren Sie die Computer-Virus-Warnoberfläche"
+    },
+    "fbiWarning": {
+      "name": "FBI-Warnbildschirm",
+      "description": "Simulieren Sie die FBI-Urheberrechts-Warnoberfläche"
+    },
+    "dvdScreensaver": {
+      "name": "DVD-Bildschirmschoner",
+      "description": "Klassische DVD-Player-Bildschirmschoner-Animation"
+    },
+    "brokenScreen": {
+      "name": "Kaputter Bildschirm",
+      "description": "Simulieren Sie den Bildschirm-Riss-Effekt"
+    },
+    "blueScreenOfDeath": {
+      "name": "Windows Blue Screen of Death",
+      "description": "Simulieren Sie die Windows Blue Screen of Death-Oberfläche"
+    },
+    "hackerTyper": {
+      "name": "Hacker Simulator",
+      "description": "Erstellen Sie realistische Hacker-Tippeffekte und Terminal-Simulationen"
+    },
+    "noSignalScreensaver": {
+      "name": "Kein-Signal Color Bars Bildschirmschoner",
+      "description": "Simulieren Sie den TV-Kein-Signal Color Bars-Bildschirmschoner"
+    }
+  },
+  "footer": {
+    "description": "Alle Tools sind kostenlos und erfordern keine Registrierung"
+  }
+}

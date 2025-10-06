@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "title": "Windows XP Falsk Uppdatering",
+    "description": "Upplev en nostalgisk Windows XP uppdateringssimulering på vår webbplats. Lura dina vänner med vår autentiska Windows XP falska uppdateringsskärm. Njut av den klassiska blå skärmen och den välbekanta framstegen av det legendariska operativsystemet.",
+    "badge": "Windows XP Systemuppdatering",
+    "features": {
+      "noRegistration": "Ingen registrering",
+      "worksOffline": "Fungerar offline",
+      "allDevices": "Alla enheter"
+    }
+  },
+  "keywords": "Windows XP falsk uppdatering, Windows XP uppdateringssimulering, Simulera Windows XP uppdatering, Falsk Windows XP uppdateringsskärm, Emulera Windows XP uppdatering, Windows XP uppdateringsskämt, Windows XP uppdateringsprocess, Autentisk Windows XP uppdatering, Realistisk Windows XP uppdateringsskärm, Lura vänner med Windows XP uppdatering, Realistisk Windows XP uppdateringsframsteg, Äkta Windows XP uppdateringssimulering, Autentiska Windows XP uppdateringsmeddelanden, Windows XP uppdateringsstadium, Underhållande Windows XP uppdateringsskämt, Rolig falsk Windows XP uppdatering, Njut av simulerad Windows XP uppdatering, Skämt med Windows XP falsk uppdatering, Spännande Windows XP uppdateringsupplevelse, Windows XP uppdatering för nöje, Windows XP uppdateringsskämtverktyg",
+  "preview": {
+    "updateText": "Installerar Windows-uppdateringar...",
+    "completeText": " slutförd",
+    "dontTurnOffText": "Stäng inte av eller koppla från din dator.",
+    "restartText": "Din dator kommer att starta om automatiskt"
+  },
+  "useCases": {
+    "title": "Folk använder Windows XP Uppdateringsskärm för:",
+    "subtitle": "Upptäck olika sätt att använda vår Windows XP falska uppdateringsskärm",
+    "case1": {
+      "title": "Simulera Windows XP Uppdatering för Retro-testning",
+      "description": "Använd vårt Windows XP falska uppdateringsverktyg för att skapa autentiska retro-uppdateringsskärmar för mjukvarutestning och demonstrationsändamål."
+    },
+    "case2": {
+      "title": "Engagera din Publik med Nostalgisk Windows XP Uppdatering",
+      "description": "Fånga uppmärksamheten från teknikentusiaster genom att visa en äkta Windows XP uppdateringssimulering under presentationer eller retro-teknikinnehåll."
+    },
+    "case3": {
+      "title": "Höj Teknikutbildning med Windows XP Uppdateringsskämtverktyg",
+      "description": "Inkorporera vår realistiska Windows XP uppdateringsskärm i teknikutbildningsscenarier för att lära om arvsystem och användargränssnittsevolution."
+    },
+    "case4": {
+      "title": "Skapa Underhållande Innehåll med Windows XP Falsk Uppdatering",
+      "description": "Producera engagerande videoinnehåll eller livestreams med ett underhållande Windows XP uppdateringsskämt, lägga till nostalgi till teknikdiskussioner."
+    },
+    "case5": {
+      "title": "Skämt med Vänner med en Äkta Windows XP Uppdateringssimulering",
+      "description": "Överraska dina vänner genom att använda vårt verktyg för att skämt med en Windows XP falsk uppdatering, förvandla vanliga ögonblick till minnesvärda retro-skämt."
+    },
+    "case6": {
+      "title": "Studera Legacy UI Design med Simulerade Uppdateringar",
+      "description": "Använd den klassiska Windows XP uppdateringsupplevelsen för att utbilda UX/UI designers om evolutionen av systemuppdateringsgränssnitt."
+    }
+  },
+  "faq": {
+    "title": "Vanliga Frågor",
+    "subtitle": "Vanliga frågor om vår Windows XP Falska Uppdateringsskärm",
+    "whatIs": {
+      "question": "Vad är Windows XP Falska Uppdateringsskärmen?",
+      "answer": "Det är en rolig, nostalgisk simulator som återskapar utseendet av en riktig Windows XP uppdateringsskärm. Du kan öppna den i din webbläsare för att skämta med vänner, göra videor eller återuppleva tidiga 2000-talets tech-känsla."
+    },
+    "safe": {
+      "question": "Är det säkert att använda?",
+      "answer": "Ja — 100% säkert. Denna sida visar bara en falsk Windows XP uppdateringsanimation i din webbläsare. Den laddar inte ner eller installerar något på din dator."
+    },
+    "pranks": {
+      "question": "Hur kan jag använda det för ett skämt?",
+      "answer": "Öppna bara sidan, klicka på Helskärm och låt den köra. Den realistiska laddningstexten kommer att få vem som helst att tro att din PC \"uppdaterar Windows XP.\" Perfekt för ett ofarligt skämt!"
+    },
+    "realistic": {
+      "question": "Hur realistisk är simuleringen?",
+      "answer": "Vår Windows XP uppdateringsskärm är designad för att se mycket autentisk ut, med den klassiska blå bakgrunden och lämplig Windows XP branding."
+    },
+    "exit": {
+      "question": "Hur avslutar jag den falska uppdateringsskärmen?",
+      "answer": "Tryck Esc eller F11 för att lämna helskärmsläge omedelbart. Inget kommer att hända med ditt riktiga system."
+    },
+    "content": {
+      "question": "Kan jag använda det för YouTube-videor eller livestreams?",
+      "answer": "Ja! Många skapare använder den falska Windows XP uppdateringsskärmen för komedisketcher, retro-stilredigeringar eller tech-nostalgivideor."
+    },
+    "real": {
+      "question": "Uppdaterar detta verkligen Windows XP?",
+      "answer": "Nej — detta är bara en visuell simulator. Det påverkar inte ditt system eller filer på något sätt."
+    },
+    "devices": {
+      "question": "Fungerar det på moderna datorer?",
+      "answer": "Ja. Den falska Windows XP uppdateringsskärmen fungerar på alla moderna webbläsare — inklusive Windows 10, 11, macOS och till och med mobila enheter."
+    }
+  }
+}

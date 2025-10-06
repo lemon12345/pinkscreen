@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Fake Virus Screen - Files encrypted",
+    "description": "Fake virus screen demanding money for file decryption. Prank your friends opening this in their machine!",
+    "badge": "Virus Prank Tool"
+  },
+  "keywords": "fake virus, ransomware prank, fake hacker, computer prank, virus simulator, fake malware, encrypted files prank, harmless virus prank, fake cybersecurity, prank screen",
+  "colorPicker": {
+    "title": "Fake Virus Prank",
+    "description": "Realistic virus screen for harmless pranks and cybersecurity education",
+    "launchButton": "Launch Virus Prank",
+    "clickHint": "Click the button above to launch fullscreen virus prank"
+  },
+  "useCases": {
+    "title": "People use virus prank for:",
+    "description": "Our fake virus simulator provides realistic ransomware experience for education and harmless pranks.",
+    "cases": [
+      {
+        "icon": "🛡️",
+        "title": "Cybersecurity Education",
+        "description": "Teach about ransomware threats and cybersecurity awareness in a safe, controlled environment."
+      },
+      {
+        "icon": "😂",
+        "title": "Harmless Office Pranks",
+        "description": "Safely prank colleagues with realistic virus screen that reveals itself as harmless joke."
+      },
+      {
+        "icon": "🎭",
+        "title": "Social Media Content",
+        "description": "Create engaging reaction videos and cybersecurity awareness content for social platforms."
+      },
+      {
+        "icon": "📚",
+        "title": "IT Training",
+        "description": "Use in IT training courses to demonstrate ransomware attacks and incident response procedures."
+      },
+      {
+        "icon": "🎬",
+        "title": "Film & Theater",
+        "description": "Perfect for movies, TV shows, or theater productions requiring realistic hacker/virus scenes."
+      },
+      {
+        "icon": "🎪",
+        "title": "April Fools",
+        "description": "Ultimate April Fools' Day prank with convincing ransomware interface and humorous payment options."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Common questions about the fake virus prank simulator",
+    "questions": [
+      {
+        "question": "Is this virus prank actually dangerous?",
+        "answer": "Absolutely not! This is 100% harmless simulation. No files are encrypted, no data is stolen, and no actual malware is involved."
+      },
+      {
+        "question": "Will this damage my computer or files?",
+        "answer": "No damage whatsoever! It's purely visual simulation running in your browser. All your files remain completely safe and untouched."
+      },
+      {
+        "question": "How realistic does it look?",
+        "answer": "Very realistic! It mimics actual ransomware interfaces but includes humorous payment methods like 'Monopoly Money' and 'kidneys' to ensure it's clearly a joke."
+      },
+      {
+        "question": "How do I exit the prank?",
+        "answer": "Press F11 or ESC key to exit fullscreen mode. The prank also reveals itself as harmless with clear instructions."
+      },
+      {
+        "question": "Can I use this for cybersecurity training?",
+        "answer": "Yes! It's perfect for educational purposes to demonstrate what ransomware looks like and teach cybersecurity awareness."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Additional Screen Tools",
+    "description": "Explore our collection of specialized screen tools for various purposes.",
+    "colorScreens": "Color Screens",
+    "prankScreens": "Prank Screens",
+    "fakeUpdateScreens": "Fake Update Screens",
+    "screensaverScreens": "Screensaver Screens"
+  },
+  "howToUse": {
+    "title": "How to Use",
+    "steps": [
+      "Click the launch button to enter fullscreen virus prank",
+      "The fake ransomware screen will display with countdown timer",
+      "Watch the victim's reaction to the realistic encryption message",
+      "The prank reveals itself with humorous payment options",
+      "Press F11 or ESC to exit fullscreen mode anytime"
+    ]
+  },
+  "techSpecs": {
+    "title": "Technical Specifications",
+    "specs": [
+      "Interface: Realistic ransomware/virus simulation",
+      "Features: Countdown timer, fake encryption message",
+      "Safety: 100% harmless - no actual virus or malware",
+      "Compatibility: All modern browsers and devices",
+      "Education: Perfect for cybersecurity awareness training"
+    ]
+  }
+}

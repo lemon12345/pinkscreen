@@ -1,0 +1,101 @@
+{
+  "hero": {
+    "badge": "Ultimativer Android-Simulator",
+    "title": "Android Fake-Update",
+    "description": "Erleben Sie ein realistisches Android Fake-Update-Tool im Vollbildmodus. Perfekt für Streiche, Bildungszwecke oder technische Demonstrationen.",
+    "features": {
+      "noRegistration": "Keine Registrierung",
+      "worksOffline": "Funktioniert offline",
+      "allDevices": "Alle Geräte"
+    }
+  },
+  "keywords": "Android-Update faken, Android-Update simulieren, Authentisch aussehendes Android-Update, Android-Update-Streich, Realistischer Android-Update-Bildschirm, Echte Android-Update-Simulation, Unterhaltsamer Android-Update-Streich, Streich mit gefälschtem Android-Update, Spannende Android-Update-Erfahrung, Android-Update-Streich-Tool",
+  "preview": {
+    "updateText": "System-Update wird installiert"
+  },
+  "colorPicker": {
+    "title": "Wählen Sie Ihre Farbe",
+    "custom": "Benutzerdefiniert",
+    "description": "Perfekt für Streiche und Bildungszwecke",
+    "launchButton": "Android Update starten"
+  },
+  "useCases": {
+    "title": "Menschen nutzen den gefälschten Android-Update-Bildschirm für:",
+    "subtitle": "Entdecken Sie verschiedene Möglichkeiten, unseren Android Fake Update-Bildschirm zu verwenden",
+    "simulate": {
+      "title": "Android-Update für Softwaretests simulieren",
+      "description": "Verwenden Sie unser gefälschtes Android-Update-Tool, um authentisch aussehende Update-Bildschirme für Softwaretests und Demonstrationszwecke zu erstellen."
+    },
+    "engage": {
+      "title": "Begeistern Sie Ihr Publikum mit einem realistischen Android-Update-Bildschirm",
+      "description": "Erregen Sie die Aufmerksamkeit von Technikbegeisterten, indem Sie während Präsentationen oder Tech-Blogs eine echte Android-Update-Simulation zeigen."
+    },
+    "education": {
+      "title": "Erhöhen Sie die technische Bildung mit dem Android-Update-Streich-Tool",
+      "description": "Integrieren Sie unseren realistischen Android-Update-Bildschirm in technische Bildungsszenarien, um über Systemaktualisierungen und Benutzeroberflächendesign zu lehren."
+    },
+    "content": {
+      "title": "Erstellen Sie unterhaltsame Inhalte mit einem gefälschten Android-Update",
+      "description": "Produzieren Sie ansprechende Videoinhalte oder Live-Streams mit einem unterhaltsamen Android-Update-Streich und fügen Sie technischen Diskussionen Humor hinzu."
+    },
+    "prank": {
+      "title": "Täuschen Sie Freunde mit einer echten Android-Update-Simulation",
+      "description": "Überraschen Sie Ihre Freunde, indem Sie unser Tool verwenden, um mit einem gefälschten Android-Update einen Streich zu spielen und gewöhnliche Momente in unvergessliche technische Streiche zu verwandeln."
+    },
+    "ux": {
+      "title": "Verbessern Sie das Benutzererlebnisdesign mit simulierten Updates",
+      "description": "Nutzen Sie die aufregende Android-Update-Erfahrung, um UX/UI-Designern den Einfluss von Systemaktualisierungen auf das Benutzererlebnis zu vermitteln."
+    },
+    "recovery": {
+      "title": "Demonstrieren Sie Systemwiederherstellungsszenarien mit dem Android-Update-Streich-Tool",
+      "description": "Nutzen Sie das authentisch aussehende Android-Update-Tool, um Systemwiederherstellungsprozesse für IT-Schulungen und Workshops zu simulieren."
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Häufige Fragen zu unserem Android Fake Update-Bildschirm",
+    "real": {
+      "question": "Ist dies ein echtes Android-Update?",
+      "answer": "Nein, dies ist ein simulierter Bildschirm, der für Unterhaltung und Testzwecke entwickelt wurde. Er kann Ihr Gerät nicht tatsächlich aktualisieren."
+    },
+    "pranks": {
+      "question": "Kann ich dies für Streiche verwenden?",
+      "answer": "Ja! Dieses Tool ist perfekt für harmlose Tech-Streiche. Denken Sie daran, es verantwortungsvoll und mit gutem Humor zu verwenden."
+    },
+    "realistic": {
+      "question": "Wie realistisch ist die Simulation?",
+      "answer": "Unser Android-Update-Bildschirm ist so gestaltet, dass er sehr authentisch aussieht und animierte Lade-Fortschritte sowie korrekte Android-Markierung verwendet."
+    },
+    "safe": {
+      "question": "Ist es sicher zu verwenden?",
+      "answer": "Absolut! Dies ist eine webbasierte Simulation, die vollständig in Ihrem Browser läuft und nicht auf Ihr System oder Gerät zugreifen kann."
+    }
+  },
+  "additionalTools": {
+    "title": "Zusätzliche Bildschirm-Tools",
+    "description": "Entdecken Sie unsere Sammlung spezialisierter Bildschirm-Tools für verschiedene Zwecke.",
+    "colorScreens": "Farbbildschirme",
+    "prankScreens": "Streich-Bildschirme",
+    "fakeUpdateScreens": "Gefälschte Update-Bildschirme",
+    "screensaverScreens": "Bildschirmschoner"
+  },
+  "howToUse": {
+    "title": "Verwendung",
+    "steps": [
+      "Wählen Sie Ihre bevorzugte Farbe aus der Palette",
+      "Klicken Sie auf den 'Starten'-Button, um im Vollbildmodus zu öffnen",
+      "Verwenden Sie F11 oder ESC, um den Vollbildmodus zu beenden",
+      "Laden Sie das Bild in Ihrer bevorzugten Auflösung herunter"
+    ]
+  },
+  "techSpecs": {
+    "title": "Technische Spezifikationen",
+    "specs": [
+      "Auflösung: Bis zu 8K (7680x4320)",
+      "Farbtiefe: 24-bit RGB",
+      "Format: PNG, JPEG, WebP",
+      "Kompatibilität: Alle modernen Browser",
+      "Offline-Funktionalität: Vollständig verfügbar"
+    ]
+  }
+}

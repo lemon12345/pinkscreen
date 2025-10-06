@@ -1,0 +1,107 @@
+{
+  "HackerTyper": {
+    "title": "Online Hacker Simulator - Prank Your Friends | Free Hacker Typer",
+    "description": "This interactive online hacker app will let you simulate that you're hacking a computer or a digital network. Adjust the screen in the Start menu, open and minimize the windows and play with them",
+    "keywords": "hacker simulator, hacker typer, fake hacker, prank hacker, online hacker, geek typer",
+    "hero": {
+      "badge": "Interactive Hacker Simulator",
+      "title": "Online Hacker Simulator",
+      "description": "Experience the thrill of simulated hacking with our interactive online hacker simulator. Perfect for pranks, content creation, and educational purposes.",
+      "fullscreenButton": "Full Screen Mode",
+      "openInNewTab": "Open in New Tab"
+    },
+    "info": {
+      "title": "Features",
+      "description": "Everything you need for an authentic hacker simulation experience",
+      "features": {
+        "terminal": {
+          "title": "Interactive Terminal",
+          "description": "Type on your keyboard to display realistic hacking commands and code"
+        },
+        "themes": {
+          "title": "Multiple Themes",
+          "description": "Choose from B&W, DOS, Pascal, and Green terminal color schemes"
+        },
+        "windows": {
+          "title": "Multiple Windows",
+          "description": "Browse directory trees, run scripts, and monitor network traffic"
+        },
+        "realtime": {
+          "title": "Real-time Animation",
+          "description": "Watch progress bars, matrix rain, and code compilation in real-time"
+        }
+      }
+    },
+    "useCases": {
+      "title": "Use Cases",
+      "description": "How people are using our hacker simulator",
+      "items": {
+        "content": {
+          "title": "Content Creation",
+          "description": "Create authentic-looking hacker scenes for videos, streams, and social media content"
+        },
+        "prank": {
+          "title": "Pranks & Fun",
+          "description": "Impress your friends by pretending to be a professional hacker"
+        },
+        "education": {
+          "title": "Education",
+          "description": "Learn about cybersecurity concepts and what hacking interfaces look like"
+        },
+        "fun": {
+          "title": "Entertainment",
+          "description": "Simply enjoy the satisfaction of typing and seeing hacker code appear"
+        }
+      }
+    },
+    "howToUse": {
+      "title": "How to Use",
+      "description": "Get started with the hacker simulator in 4 easy steps",
+      "steps": {
+        "click": {
+          "title": "Click Terminal",
+          "description": "Click on the Terminal window to activate it"
+        },
+        "type": {
+          "title": "Start Typing",
+          "description": "Type any keys on your keyboard to display hacking code"
+        },
+        "customize": {
+          "title": "Customize",
+          "description": "Open the Start menu to change themes, fonts, and window sizes"
+        },
+        "fullscreen": {
+          "title": "Go Fullscreen",
+          "description": "Click the fullscreen button for an immersive hacking experience"
+        }
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Everything you need to know about the hacker simulator",
+      "items": {
+        "0": {
+          "question": "Is this a real hacking tool?",
+          "answer": "No, this is a simulator for educational and entertainment purposes only. It displays realistic-looking hacker code but does not perform any actual hacking activities."
+        },
+        "1": {
+          "question": "How do I make the code appear?",
+          "answer": "Simply click on the Terminal window to activate it, then start typing any keys on your keyboard. The simulator will automatically display realistic hacking commands and code."
+        },
+        "2": {
+          "question": "Can I change the appearance?",
+          "answer": "Yes! Click the Start button in the bottom left corner to access settings. You can change color themes (B&W, DOS, Pascal, Green), font styles, window sizes, and text size."
+        },
+        "3": {
+          "question": "What are the different windows for?",
+          "answer": "The simulator includes multiple windows showing different aspects of hacking: Terminal for commands, Directory for file browsing, Encryptor for code compilation, Transfer for network monitoring, Scripts for process management, and more. Click on any window to view its content."
+        },
+        "4": {
+          "question": "Is it safe to use?",
+          "answer": "Yes, completely safe! This is purely a visual simulation that runs in your browser. It doesn't access your files, network, or perform any actual hacking activities."
+        }
+      }
+    }
+  }
+}
+

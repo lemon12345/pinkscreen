@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Pantalla de Virus Falso - Archivos encriptados",
+    "description": "Pantalla de virus falso que exige dinero para desencriptar archivos. ¡Haz una broma a tus amigos abriendo esto en su máquina!",
+    "badge": "Herramienta de Broma de Virus"
+  },
+  "keywords": "virus falso, broma ransomware, hacker falso, broma computadora, simulador virus, malware falso, broma archivos encriptados, broma virus inofensiva, ciberseguridad falsa, pantalla broma",
+  "colorPicker": {
+    "title": "Broma de Virus Falsa",
+    "description": "Pantalla de virus realista para bromas inofensivas y educación en ciberseguridad",
+    "launchButton": "Lanzar Broma de Virus",
+    "clickHint": "Haz clic en el botón de arriba para lanzar la broma de virus en pantalla completa"
+  },
+  "useCases": {
+    "title": "La gente usa la broma de virus para:",
+    "description": "Nuestro simulador de virus falso proporciona una experiencia realista de ransomware para educación y bromas inofensivas.",
+    "cases": [
+      {
+        "icon": "🛡️",
+        "title": "Educación en Ciberseguridad",
+        "description": "Enseñar sobre amenazas de ransomware y conciencia de ciberseguridad en un entorno seguro y controlado."
+      },
+      {
+        "icon": "😂",
+        "title": "Bromas de Oficina Inofensivas",
+        "description": "Hacer bromas seguras a colegas con pantalla de virus realista que se revela como broma inofensiva."
+      },
+      {
+        "icon": "🎭",
+        "title": "Contenido de Redes Sociales",
+        "description": "Crear videos de reacción atractivos y contenido de conciencia de ciberseguridad para plataformas sociales."
+      },
+      {
+        "icon": "📚",
+        "title": "Entrenamiento IT",
+        "description": "Usar en cursos de entrenamiento IT para demostrar ataques de ransomware y procedimientos de respuesta a incidentes."
+      },
+      {
+        "icon": "🎬",
+        "title": "Cine y Teatro",
+        "description": "Perfecto para películas, programas de TV o producciones teatrales que requieren escenas realistas de hacker/virus."
+      },
+      {
+        "icon": "🎪",
+        "title": "Día de los Inocentes",
+        "description": "Broma definitiva del Día de los Inocentes con interfaz de ransomware convincente y opciones de pago humorísticas."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "description": "Preguntas comunes sobre el simulador de broma de virus falso",
+    "questions": [
+      {
+        "question": "¿Es realmente peligrosa esta broma de virus?",
+        "answer": "¡Absolutamente no! Esta es una simulación 100% inofensiva. No se encriptan archivos, no se roban datos y no hay malware real involucrado."
+      },
+      {
+        "question": "¿Esto dañará mi computadora o archivos?",
+        "answer": "¡Ningún daño! Es puramente una simulación visual que se ejecuta en tu navegador. Todos tus archivos permanecen completamente seguros e intactos."
+      },
+      {
+        "question": "¿Qué tan realista se ve?",
+        "answer": "¡Muy realista! Imita interfaces de ransomware reales pero incluye métodos de pago humorísticos como 'Dinero de Monopoly' y 'riñones' para asegurar que claramente es una broma."
+      },
+      {
+        "question": "¿Cómo salgo de la broma?",
+        "answer": "Presiona F11 o la tecla ESC para salir del modo pantalla completa. La broma también se revela como inofensiva con instrucciones claras."
+      },
+      {
+        "question": "¿Puedo usar esto para entrenamiento de ciberseguridad?",
+        "answer": "¡Sí! Es perfecto para propósitos educativos para demostrar cómo se ve el ransomware y enseñar conciencia de ciberseguridad."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "prankScreens": "Pantallas de Broma",
+    "fakeUpdateScreens": "Pantallas de Actualización Falsa",
+    "screensaverScreens": "Pantallas de Protector de Pantalla"
+  },
+  "howToUse": {
+    "title": "Cómo Usar",
+    "steps": [
+      "Haz clic en el botón de lanzamiento para entrar en la broma de virus en pantalla completa",
+      "La pantalla de ransomware falso se mostrará con temporizador de cuenta regresiva",
+      "Observa la reacción de la víctima al mensaje de encriptación realista",
+      "La broma se revela con opciones de pago humorísticas",
+      "Presiona F11 o ESC para salir del modo pantalla completa en cualquier momento"
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificaciones Técnicas",
+    "specs": [
+      "Interfaz: Simulación realista de ransomware/virus",
+      "Características: Temporizador de cuenta regresiva, mensaje de encriptación falso",
+      "Seguridad: 100% inofensivo - sin virus o malware real",
+      "Compatibilidad: Todos los navegadores y dispositivos modernos",
+      "Educación: Perfecto para entrenamiento de conciencia de ciberseguridad"
+    ]
+  }
+}

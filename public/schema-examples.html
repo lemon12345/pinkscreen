@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Screen FAQ Schema Examples</title>
+</head>
+<body>
+    <h1>Color Screen FAQ Schema Examples</h1>
+    
+    <h2>How to Use JSON-LD Schema in Your Website</h2>
+    
+    <h3>1. Black Screen FAQ Schema</h3>
+    <p>Add this script tag to your black-screen page head:</p>
+    <pre><code>&lt;script type="application/ld+json"&gt;
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Black Screen tool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Black Screen tool turns your screen completely black. It's perfect for testing monitors, using as a dark background, or focusing without distractions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use it as a light-off screen or night mode?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Many people use the black screen to reduce glare or light while watching movies, resting, or sleeping."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the black screen damage the display?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, it's completely safe. It simply displays a black color and doesn't affect your monitor or pixels."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use it in full screen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Click the Full Screen button or press F11 for a borderless black display."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it available offline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once loaded, you can keep the black screen active even without an internet connection."
+      }
+    }
+  ]
+}
+&lt;/script&gt;</code></pre>
+
+    <h3>2. White Screen FAQ Schema</h3>
+    <p>Add this script tag to your white-screen page head:</p>
+    <pre><code>&lt;script type="application/ld+json"&gt;
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the White Screen tool used for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It displays a pure white background, commonly used for lighting, brightness tests, or cleaning stuck pixels."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can it be used as a light source?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Many users use the white screen to brighten dark rooms or as a makeshift soft light for photography or Zoom meetings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will it harm my eyes or monitor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, but avoid staring at bright white light for long periods. It's safe for monitors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I adjust brightness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Use your device's brightness control to reduce or increase light intensity."
+      }
+    }
+  ]
+}
+&lt;/script&gt;</code></pre>
+
+    <h3>3. Blue Screen FAQ Schema</h3>
+    <p>Add this script tag to your blue-screen page head:</p>
+    <pre><code>&lt;script type="application/ld+json"&gt;
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the Blue Screen tool?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It shows a solid blue background on your monitor — ideal for blue color testing, visual balance, or chroma-style effects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it the same as the Blue Screen of Death?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. This is a harmless blue background generator, not an error screen."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use it for photography or video?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the solid blue color works well as a background for compositing or creative effects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does it support full screen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Use the full-screen button for an immersive display."
+      }
+    }
+  ]
+}
+&lt;/script&gt;</code></pre>
+
+    <h2>Benefits of Using JSON-LD Schema</h2>
+    <ul>
+        <li><strong>SEO Benefits:</strong> Helps search engines understand your FAQ content</li>
+        <li><strong>Rich Snippets:</strong> May appear as rich snippets in search results</li>
+        <li><strong>Voice Search:</strong> Improves compatibility with voice search queries</li>
+        <li><strong>Structured Data:</strong> Makes your content more machine-readable</li>
+        <li><strong>Google Search Console:</strong> Provides insights into how your structured data performs</li>
+    </ul>
+
+    <h2>Implementation Tips</h2>
+    <ul>
+        <li>Place the script tag in the &lt;head&gt; section of your HTML</li>
+        <li>Use the exact schema.org vocabulary for best results</li>
+        <li>Test your schema using Google's Rich Results Test tool</li>
+        <li>Monitor performance in Google Search Console</li>
+        <li>Keep FAQ content updated and relevant</li>
+    </ul>
+
+    <h2>File Structure</h2>
+    <p>All schema files are saved in the following locations:</p>
+    <ul>
+        <li><code>/public/faq-schema.json</code> - Combined schema for all screens</li>
+        <li><code>/public/schema/black-screen-faq.json</code> - Black screen FAQ schema</li>
+        <li><code>/public/schema/white-screen-faq.json</code> - White screen FAQ schema</li>
+        <li><code>/public/schema/blue-screen-faq.json</code> - Blue screen FAQ schema</li>
+        <li><code>/public/schema/red-screen-faq.json</code> - Red screen FAQ schema</li>
+        <li><code>/public/schema/green-screen-faq.json</code> - Green screen FAQ schema</li>
+        <li><code>/public/schema/purple-screen-faq.json</code> - Purple screen FAQ schema</li>
+        <li><code>/public/schema/pink-screen-faq.json</code> - Pink screen FAQ schema</li>
+        <li><code>/public/schema/orange-screen-faq.json</code> - Orange screen FAQ schema</li>
+        <li><code>/public/schema/yellow-screen-faq.json</code> - Yellow screen FAQ schema</li>
+    </ul>
+</body>
+</html>

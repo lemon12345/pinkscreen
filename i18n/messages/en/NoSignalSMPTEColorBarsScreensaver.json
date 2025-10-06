@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "title": "No Signal TV Screen",
+    "description": "Experience authentic SMPTE color bars and no signal test patterns. Perfect for monitor calibration, video production testing, and creating that classic broadcast television atmosphere.",
+    "badge": "Broadcast Test Pattern",
+    "features": {
+      "noRegistration": "No Registration",
+      "worksOffline": "Works Offline",
+      "allDevices": "All Devices"
+    }
+  },
+  "keywords": "SMPTE color bars, no signal screen, test pattern, color calibration, video test, broadcast test pattern, television test screen, monitor calibration, color bars screensaver, SMPTE test pattern, video engineering, broadcast engineering, color reference, display calibration, video signal test, television engineering, color standard, broadcast standard, test signal, video production",
+  "preview": {
+    "testPattern": "Test Pattern",
+    "colorBars": "SMPTE Color Bars"
+  },
+  "useCases": {
+    "title": "People use SMPTE Color Bars for:",
+    "subtitle": "Discover various ways to use our SMPTE color bars test pattern",
+    "case1": {
+      "title": "Monitor and Display Calibration",
+      "description": "Use SMPTE color bars to calibrate monitors, TVs, and displays for accurate color reproduction in professional environments."
+    },
+    "case2": {
+      "title": "Video Production and Broadcasting",
+      "description": "Essential tool for video engineers and broadcasters to test signal quality and ensure proper color standards."
+    },
+    "case3": {
+      "title": "Equipment Testing and Troubleshooting",
+      "description": "Identify display issues, check video signal integrity, and troubleshoot broadcast equipment with standard test patterns."
+    },
+    "case4": {
+      "title": "Broadcasting and Media Education",
+      "description": "Teach students about broadcast standards, color theory, and professional video production techniques."
+    },
+    "case5": {
+      "title": "Retro Aesthetic and Atmosphere",
+      "description": "Create authentic vintage broadcast atmosphere for themed events, film sets, or nostalgic content creation."
+    },
+    "case6": {
+      "title": "Professional Screensaver Display",
+      "description": "Use as a screensaver in professional video production environments and broadcast facilities."
+    }
+  },
+  "howToUse": {
+    "title": "How to Use SMPTE Color Bars",
+    "steps": [
+      "Open the page - Navigate to no-signal-smpte-color-bars-screensaver in your browser",
+      "Go full screen - Click \"Full Screen\" or press F11 to display the test pattern across your entire display",
+      "Choose your pattern - Switch between SMPTE color bars and no signal test patterns using the controls",
+      "Use for calibration - Check color accuracy, brightness, and contrast settings on your monitor or display",
+      "Exit anytime - Press Esc or F11 to leave full-screen mode and return to normal viewing"
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about SMPTE color bars and test patterns",
+    "whatIsSMPTE": {
+      "question": "What are SMPTE color bars?",
+      "answer": "SMPTE color bars are a standardized test pattern used in television and video production to calibrate equipment and ensure accurate color reproduction."
+    },
+    "howToUse": {
+      "question": "How do I use this for monitor calibration?",
+      "answer": "Use the color bars to check if your display shows accurate colors. Each bar should display distinct, pure colors without bleeding or distortion."
+    },
+    "fullscreen": {
+      "question": "How do I exit fullscreen mode?",
+      "answer": "Press the Escape key or click the fullscreen button again to exit fullscreen mode. You can also use F11 to toggle fullscreen in most browsers."
+    },
+    "download": {
+      "question": "Can I download the color bars pattern?",
+      "answer": "Yes, you can download the color bars pattern in various resolutions. Use the download button in the controls section to save the pattern as a PNG image file."
+    },
+    "compatibility": {
+      "question": "What browsers are supported?",
+      "answer": "The color bars screensaver works on all modern browsers including Chrome, Firefox, Safari, and Edge. Fullscreen mode is supported on most devices and browsers."
+    }
+  }
+}

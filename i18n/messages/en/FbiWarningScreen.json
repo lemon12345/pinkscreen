@@ -1,0 +1,116 @@
+{
+  "hero": {
+    "title": "Fake FBI Warining Screen",
+    "description": "Fake online FBI warning screen to prank your friends. This device has been locked, wait for the SWAT team to arrive!",
+    "badge": "FBI Warning Prank Tool"
+  },
+  "keywords": "fake FBI warning, law enforcement prank, police warning screen, computer locked prank, SWAT team prank, government warning fake, cybercrime prank, federal warning simulator, fake arrest warning, FBI lock screen",
+  "colorPicker": {
+    "title": "Fake FBI Warning",
+    "description": "Realistic FBI warning screen for harmless pranks and law enforcement education",
+    "launchButton": "Launch FBI Warning",
+    "clickHint": "Click the button above to launch fullscreen FBI warning prank"
+  },
+  "useCases": {
+    "title": "People use FBI warning prank for:",
+    "description": "Our fake FBI warning simulator provides realistic law enforcement experience for education and harmless pranks.",
+    "cases": [
+      {
+        "icon": "👮",
+        "title": "Law Enforcement Training",
+        "description": "Train law enforcement personnel on cybercrime investigation procedures and computer seizure protocols."
+      },
+      {
+        "icon": "😂",
+        "title": "Office April Fools",
+        "description": "Create the ultimate office prank with realistic FBI warning that reveals itself as harmless joke."
+      },
+      {
+        "icon": "🎬",
+        "title": "Film & TV Production",
+        "description": "Perfect for movies, TV shows requiring realistic government/FBI warning screens and cybercrime scenes."
+      },
+      {
+        "icon": "📚",
+        "title": "Cybersecurity Education",
+        "description": "Demonstrate government cybercrime enforcement in cybersecurity awareness and digital forensics training."
+      },
+      {
+        "icon": "🎭",
+        "title": "Social Media Content",
+        "description": "Create engaging reaction videos and educational content about cybercrime enforcement for social platforms."
+      },
+      {
+        "icon": "🎪",
+        "title": "Ultimate Prank",
+        "description": "The most convincing computer lock prank with realistic FBI warnings and SWAT team references."
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ – Fake FBI Warning Screen",
+    "description": "Common questions about the fake FBI warning screen simulator",
+    "questions": [
+      {
+        "question": "What is the Fake FBI Warning Screen?",
+        "answer": "It's an online simulation of the classic FBI Anti-Piracy Warning screen seen on old DVDs and tapes — recreated for fun and creative use."
+      },
+      {
+        "question": "Is this real?",
+        "answer": "No 😄 It's 100% fake and made for entertainment or educational purposes."
+      },
+      {
+        "question": "Is it safe to use?",
+        "answer": "Absolutely. It runs entirely in your web browser and doesn't access or modify your computer in any way."
+      },
+      {
+        "question": "Can I use it in my video or stream?",
+        "answer": "Yes! Many content creators use it as a retro intro, transition scene, or visual meme."
+      },
+      {
+        "question": "How do I make it look realistic?",
+        "answer": "Go full screen, dim your lights, and play it before your video starts — it'll feel just like the real thing."
+      },
+      {
+        "question": "Can I prank someone with it?",
+        "answer": "Yes — it's great for harmless pranks. Just remind them it's not a real government warning 😅"
+      },
+      {
+        "question": "Can I change the text or language?",
+        "answer": "Currently, it's a fixed classic English FBI warning. Future versions may support custom text."
+      },
+      {
+        "question": "Does it work on all devices?",
+        "answer": "Yes, it works on Windows, macOS, Android, iPhone, and any modern web browser."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Additional Screen Tools",
+    "description": "Explore our collection of specialized screen tools for various purposes.",
+    "colorScreens": "Color Screens",
+    "prankScreens": "Prank Screens",
+    "fakeUpdateScreens": "Fake Update Screens",
+    "screensaverScreens": "Screensaver Screens"
+  },
+  "howToUse": {
+    "title": "🧭 How to Use the Fake FBI Warning Screen",
+    "steps": [
+      "Open the page - Go to fbi-warning on your computer or mobile browser.",
+      "Go full screen - Click \"Full Screen\" or press F11 to make the fake FBI warning fill your entire screen — just like an old DVD startup.",
+      "Choose your prank or display - Use it as a fun movie intro, pretend your PC got a \"federal warning\" 😆, or set it as a retro cinema background.",
+      "Use for creative projects - Great for video editors, filmmakers, streamers, and meme creators who want that classic FBI Anti-Piracy Warning look.",
+      "Exit anytime - Press Esc or F11 again to leave full-screen mode safely."
+    ]
+  },
+  "techSpecs": {
+    "title": "Technical Specifications",
+    "specs": [
+      "Interface: Realistic FBI/government warning simulation",
+      "Features: Countdown timer, official-looking badges and warnings",
+      "Safety: 100% harmless - no actual government involvement",
+      "Compatibility: All modern browsers and devices",
+      "Education: Perfect for cybersecurity and law enforcement training"
+    ]
+  }
+}

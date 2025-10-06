@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "badge": "Simulador Android Definitivo",
+    "title": "Atualização Android Falsa",
+    "description": "Experimente uma ferramenta de tela de atualização Android falsa realística em tela cheia. Perfeito para brincadeiras, fins educacionais ou demonstrações técnicas.",
+    "keywords": "atualização Android falsa, Simular atualização Android, Atualização Android autêntica, Brincadeira atualização Android, Tela atualização Android realística, Simulação atualização Android genuína, Brincadeira atualização Android divertida, Brincadeira com atualização Android falsa, Experiência atualização Android excitante, Ferramenta brincadeira atualização Android",
+    "features": {
+      "noRegistration": "Sem registro",
+      "worksOffline": "Funciona offline",
+      "allDevices": "Todos os dispositivos"
+    }
+  },
+  "keywords": "ol",
+  "preview": {
+    "updateText": "Instalando atualização do sistema"
+  },
+  "useCases": {
+    "title": "As pessoas usam a Tela de Atualização Android Falsa para:",
+    "subtitle": "Descubra várias maneiras de usar nossa tela de atualização Android falsa",
+    "simulate": {
+      "title": "Simular Atualização Android para Testes de Software",
+      "description": "Utilize nossa ferramenta de atualização Android falsa para criar telas de atualização autênticas para testes de software e fins demonstrativos."
+    },
+    "engage": {
+      "title": "Envolva seu Público com uma Tela de Atualização Android Realística",
+      "description": "Capture a atenção dos entusiastas de tecnologia mostrando uma simulação de atualização Android genuína durante apresentações ou blogs técnicos."
+    },
+    "education": {
+      "title": "Eleve a Educação Técnica com Ferramenta de Brincadeira Atualização Android",
+      "description": "Incorpore nossa tela de atualização Android realística em cenários de educação técnica para ensinar sobre atualizações do sistema e design de interface do usuário."
+    },
+    "content": {
+      "title": "Crie Conteúdo Divertido com Atualização Android Falsa",
+      "description": "Produza conteúdo de vídeo envolvente ou transmissões ao vivo usando uma brincadeira de atualização Android divertida, adicionando humor às discussões técnicas."
+    },
+    "prank": {
+      "title": "Brincadeira com Amigos com Simulação de Atualização Android Genuína",
+      "description": "Surpreenda seus amigos usando nossa ferramenta para brincar com uma atualização Android falsa, transformando momentos comuns em brincadeiras técnicas memoráveis."
+    },
+    "ux": {
+      "title": "Melhore o Aprendizado de Design UX com Atualizações Simuladas",
+      "description": "Use a experiência excitante de atualização Android para educar designers UX/UI sobre o impacto das atualizações do sistema na experiência do usuário."
+    },
+    "recovery": {
+      "title": "Demonstre Cenários de Recuperação do Sistema com Ferramenta de Brincadeira Atualização Android",
+      "description": "Aproveite a ferramenta de atualização Android autêntica para simular processos de recuperação do sistema para treinamento IT e workshops."
+    }
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "subtitle": "Perguntas comuns sobre nossa tela de atualização Android falsa",
+    "real": {
+      "question": "Esta é uma atualização Android real?",
+      "answer": "Não, esta é uma tela simulada projetada para fins de entretenimento e teste. Ela não pode realmente atualizar seu dispositivo."
+    },
+    "pranks": {
+      "question": "Posso usar isso para brincadeiras?",
+      "answer": "Sim! Esta ferramenta é perfeita para brincadeiras técnicas inofensivas. Apenas lembre-se de usá-la responsavelmente e com bom humor."
+    },
+    "realistic": {
+      "question": "Quão realística é a simulação?",
+      "answer": "Nossa tela de atualização Android é projetada para parecer muito autêntica, com barra de progresso animada e branding Android apropriado."
+    },
+    "safe": {
+      "question": "É seguro usar?",
+      "answer": "Absolutamente! Esta é uma simulação baseada na web que roda inteiramente em seu navegador e não pode acessar seu sistema ou dispositivo."
+    }
+  }
+}

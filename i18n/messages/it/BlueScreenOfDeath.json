@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "Simulatore BSOD Windows",
+    "title": "Simulatore Falso Schermo Blu della Morte (BSOD) – Scherzo Crash Windows Online",
+    "description": "Simula il classico Schermo Blu della Morte (BSOD) Windows online. Perfetto per scherzi, demo tecniche o nostalgia. Funziona nel tuo browser — nessun download, nessun rischio.",
+    "features": {
+      "noRegistration": "Nessuna Registrazione",
+      "worksOffline": "Funziona Offline",
+      "allDevices": "Tutti i Dispositivi"
+    }
+  },
+  "keywords": "schermo blu della morte, simulatore BSOD, falso schermo blu, simulatore crash Windows, scherzo schermo blu, scherzo BSOD, schermo errore Windows, falso crash Windows, scherzo schermo blu, BSOD falso Windows, simulatore crash computer, falso errore sistema, schermo blu della morte Windows, falso schermo BSOD, scherzo crash Windows, falso crash computer, simulatore schermo blu della morte, simulatore errore Windows, falso schermo BSOD, scherzo crash computer",
+  "preview": {
+    "title": "Anteprima dal Vivo",
+    "download": "Scarica",
+    "comingSoon": "Prossimamente",
+    "bouncingLogo": "Logo Rimbalzante"
+  },
+  "colorPicker": {
+    "title": "Scegli il Tuo Schermo",
+    "speed": "Velocità",
+    "size": "Dimensione",
+    "selectScreen": "Seleziona un effetto schermo da visualizzare",
+    "fullScreen": "Schermo Intero",
+    "custom": "Personalizzato",
+    "description": "Perfetto per scherzi, demo tecniche e nostalgia",
+    "launchButton": "Avvia Schermo Blu della Morte"
+  },
+  "useCases": {
+    "title": "Le persone usano lo Schermo Blu della Morte per:",
+    "case1": {
+      "title": "Fare Scherzi agli Amici con un Falso Crash Windows",
+      "description": "Sorprendi i tuoi amici con una simulazione realistica dello Schermo Blu della Morte. Il nostro simulatore BSOD mostra messaggi di errore Windows autentici e schermi di crash, perfetto per scherzi innocui e dimostrazioni tecniche."
+    },
+    "case2": {
+      "title": "Demo Tecniche e Presentazioni",
+      "description": "Usa il nostro simulatore BSOD per dimostrazioni tecniche, sessioni di formazione o presentazioni sugli errori Windows. Mostra scenari di crash realistici senza rischiare danni reali al sistema."
+    },
+    "case3": {
+      "title": "Esperienza Windows Nostalgica",
+      "description": "Rivivi l'esperienza Windows classica con il nostro simulatore autentico dello Schermo Blu della Morte. Perfetto per coloro che ricordano gli schermi di crash iconici Windows dei sistemi operativi precedenti."
+    },
+    "case4": {
+      "title": "Educazione Informatica",
+      "description": "Insegna agli studenti gli errori del sistema Windows e gli scenari di crash usando il nostro simulatore BSOD sicuro. Dimostra i concetti di gestione degli errori senza causare veri malfunzionamenti del sistema."
+    },
+    "case5": {
+      "title": "Creazione Contenuti e Video",
+      "description": "Crea contenuti coinvolgenti con il nostro simulatore dello Schermo Blu della Morte. Perfetto per canali tecnici, video comici o contenuti educativi sui sistemi informatici e gli errori."
+    },
+    "case6": {
+      "title": "Test e Sviluppo",
+      "description": "Usa il nostro simulatore BSOD per test software, sviluppo UI o dimostrazioni di gestione errori. Modo sicuro per testare come le applicazioni rispondono agli scenari di errore del sistema."
+    },
+    "case7": {
+      "title": "Test Schermo e Calibrazione",
+      "description": "Usa il nostro simulatore BSOD per test di visualizzazione, calibrazione colori e diagnostica schermo. Perfetto per testare le impostazioni del monitor e identificare problemi di visualizzazione."
+    }
+  },
+  "faq": {
+    "title": "FAQ – Schermo Blu della Morte Falso (BSOD)",
+    "q1": "Cos'è il Simulatore Schermo Blu della Morte?",
+    "a1": "È uno schermo di crash Windows falso basato su web. Sembra un vero BSOD ma non influisce sul tuo sistema.",
+    "q2": "È sicuro?",
+    "a2": "Sì — è sicuro al 100% e funziona solo nel tuo browser web. Non causa errori o crash reali.",
+    "q3": "Posso usarlo per fare uno scherzo a qualcuno?",
+    "a3": "Assolutamente! 😄 Aprilo a schermo intero, allontanati e guarda la loro reazione quando pensano che Windows si sia crashato!",
+    "q4": "Come esco dallo schermo blu?",
+    "a4": "Premi Esc o F11 per tornare istantaneamente al tuo schermo normale.",
+    "q5": "Funziona su macOS o Linux?",
+    "a5": "Sì — anche se è uno schermo blu stile Windows, funziona su qualsiasi dispositivo con un browser moderno.",
+    "q6": "Posso usarlo in un'aula o demo tecnica?",
+    "a6": "Sì. Molti insegnanti IT lo usano per dimostrare in sicurezza come appare un crash senza dover rompere un sistema reale.",
+    "q7": "Crasha davvero il mio computer?",
+    "a7": "No — è solo una simulazione visiva, non un vero guasto del sistema.",
+    "q8": "Dove posso trovare altri schermi di aggiornamento o crash falsi?",
+    "a8": "Prova questi: Schermo di Aggiornamento Falso Windows 10, Schermo di Aggiornamento Falso macOS, Schermo di Aggiornamento Falso Ubuntu"
+  },
+  "additionalTools": {
+    "title": "Strumenti Schermo Aggiuntivi",
+    "description": "Esplora la nostra collezione di strumenti schermo specializzati per vari scopi.",
+    "colorScreens": "Schermi Colore",
+    "prankScreens": "Schermi Scherzo",
+    "fakeUpdateScreens": "Schermi Aggiornamento Falso",
+    "screensaverScreens": "Schermi Salvaschermo"
+  },
+  "howToUse": {
+    "title": "Come Usare il Simulatore Schermo Blu della Morte",
+    "steps": [
+      "Apri la pagina - Vai su blue-screen-of-death-windows nel tuo browser desktop.",
+      "Schermo intero - Clicca su \"Schermo Intero\" o premi F11 per far riempire il tuo schermo dal falso BSOD.",
+      "Scegli la tua versione (se supportata) - Seleziona tra gli stili schermo blu Windows XP, Windows 7, Windows 10 o Windows 11.",
+      "Guarda la simulazione di crash - Lo schermo mostrerà un \"errore di sistema\" realistico — completo con sfondo blu e codici di errore.",
+      "Usalo per divertimento o insegnamento - Ideale per scherzi, demo di classe o effetti visivi retro.",
+      "Esci in qualsiasi momento - Premi Esc o F11 per uscire dalla modalità schermo intero istantaneamente."
+    ]
+  },
+  "techSpecs": {
+    "title": "Specifiche Tecniche",
+    "specs": [
+      "Risoluzione: Fino a 8K (7680x4320)",
+      "Profondità Colore: 24-bit RGB",
+      "Formato: PNG, JPEG, WebP",
+      "Compatibilità: Tutti i browser moderni",
+      "Funzionalità Offline: Completamente disponibile"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Färgskärm Samling",
+  "description": "Utforska vår kompletta samling av färgskärm simuleringar - från klassisk blå skärm till livliga regnbågsdisplayer. Perfekt för skämt, tester och kreativa projekt.",
+  "badge": "Komplett Färgskärm Samling",
+  "screens": {
+    "pinkScreen": "Rosa Skärm",
+    "blueScreen": "Blå Skärm",
+    "redScreen": "Röd Skärm",
+    "greenScreen": "Grön Skärm",
+    "yellowScreen": "Gul Skärm",
+    "orangeScreen": "Orange Skärm",
+    "purpleScreen": "Lila Skärm",
+    "blackScreen": "Svart Skärm",
+    "whiteScreen": "Vit Skärm",
+    "zoomLighting": "Zoom Belysning"
+  },
+  "footer": {
+    "description": "Alla skärmar är gratis och fungerar på alla enheter"
+  }
+}

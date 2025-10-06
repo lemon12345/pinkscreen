@@ -10,6 +10,26 @@
     }
   },
   "keywords": "rosa Bildschirm, leerer rosa Bildschirm, ein rosa Bildschirm, leere Bildschirme, voll rosa Bildschirm, PC rosa Bildschirm, Computer rosa Bildschirm, total rosa Bildschirm, einfacher rosa Bildschirm, rosa Bildschirm 10 Stunden, rosa Anzeige, leerer Computerbildschirm, voll rosa Bildschirm, total rosa Bildschirm",
+  "colors": {
+    "Pink": "Rosa",
+    "White": "Weißer",
+    "Black": "Schwarzer",
+    "Red": "Roter",
+    "Blue": "Blauer",
+    "Green": "Grüner",
+    "Yellow": "Gelber",
+    "Purple": "Lila",
+    "Orange": "Oranger",
+    "Zoom Lighting": "Zoom-Beleuchtung"
+  },
+  "interface": {
+    "livePreview": "Live-Vorschau",
+    "clickForFullscreen": "Klicken für Vollbild",
+    "current": "Aktuell",
+    "chooseYourColor": "Wählen Sie Ihre Farbe",
+    "perfectFor": "Perfekt für Monitortests, Fotografie-Beleuchtung und Präsentationen",
+    "launchPinkScreen": "Rosafarbenen Bildschirm starten"
+  },
   "colorPicker": {
     "title": "Wählen Sie Ihre Farbe",
     "custom": "Benutzerdefiniert",
@@ -81,6 +101,7 @@
   },
   "faq": {
     "title": "Häufig gestellte Fragen",
+    "description": "Finden Sie Antworten auf häufige Fragen zur Verwendung unseres rosafarbenen Bildschirm-Tools für verschiedene Zwecke.",
     "questions": [
       {
         "question": "Wofür wird ein rosa Bildschirm verwendet?",
@@ -88,7 +109,7 @@
       },
       {
         "question": "Wie verwende ich rosa Bildschirm für Entspannung?",
-        "description": "Der rosa Bildschirm ist beruhigend und perfekt für entspannende Inhaltsentwicklung und Entlastung der Augen."
+        "answer": "Der rosa Bildschirm ist beruhigend und perfekt für entspannende Inhaltsentwicklung und Entlastung der Augen."
       },
       {
         "question": "Kann ich rosa Bildschirm für Fotografie verwenden?",

@@ -1,0 +1,117 @@
+{
+  "hero": {
+    "title": "Hacker Typer Online – Falscher Code-Bildschirm zum Spaß",
+    "description": "Erstellen Sie Ihren eigenen falschen Hacker-Bildschirm online! Tippen Sie wie ein echter Programmierer und machen Sie Ihren Freunden Streiche mit realistischen Terminal-Effekten. Probieren Sie den ultimativen Hacker Typer Simulator kostenlos auf PinkScreen",
+    "badge": "Interaktiver Hacker-Simulator"
+  },
+  "keywords": "hacker simulator, interactive hacker, ethical hacking, cybersecurity training, programming simulator, bitcoin mining simulator, password cracker, nuclear plant control, geek prank hacker",
+  "colorPicker": {
+    "title": "Interactive Hacker Simulator",
+    "description": "Full-featured hacker desktop environment with interactive programs and realistic typing effects",
+    "launchButton": "Launch Hacker Simulator",
+    "clickHint": "Click the button above to launch fullscreen hacker simulator"
+  },
+  "useCases": {
+    "title": "People use hacker simulator for:",
+    "description": "Our interactive hacker simulator provides comprehensive cybersecurity experience with multiple programs and realistic desktop environment.",
+    "cases": [
+      {
+        "icon": "💻",
+        "title": "Cybersecurity Education",
+        "description": "Learn about ethical hacking, cybersecurity concepts, and computer security in a safe, interactive environment with realistic hacker tools."
+      },
+      {
+        "icon": "🎬",
+        "title": "Film & Theater Production",
+        "description": "Create authentic hacker scenes for movies, TV shows, theater productions, and video content with interactive desktop environment."
+      },
+      {
+        "icon": "🎮",
+        "title": "Interactive Gaming",
+        "description": "Experience the thrill of being a hacker with 10+ interactive programs including bitcoin mining, password cracking, and system penetration."
+      },
+      {
+        "icon": "📚",
+        "title": "Programming Education",
+        "description": "Demonstrate programming concepts, terminal usage, system administration, and computer architecture to students interactively."
+      },
+      {
+        "icon": "🎭",
+        "title": "Social Media Content",
+        "description": "Create engaging tech-related content with interactive hacker tools for social media, tutorials, and educational cybersecurity videos."
+      },
+      {
+        "icon": "🏢",
+        "title": "Corporate Training",
+        "description": "Use in cybersecurity awareness training, IT workshops, and employee education about digital security threats and ethical hacking."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Common questions about the interactive hacker simulator and its advanced features",
+    "questions": [
+      {
+        "question": "What makes this different from simple hacker typers?",
+        "answer": "This is a full interactive desktop environment with 10+ working programs including bitcoin mining, password cracking, nuclear plant control, server access, and more - not just typing simulation."
+      },
+      {
+        "question": "What interactive programs are included?",
+        "answer": "Bitcoin mining with real-time data, password cracking with visual progress, nuclear plant control panel, main server access, remote connections, and 5+ passive windows for various scenarios."
+      },
+      {
+        "question": "How do I use all the features?",
+        "answer": "Type randomly for code simulation, click right-side icons to open interactive programs, press number keys (0-9) for passive windows, drag windows around, and use Space to close passive windows."
+      },
+      {
+        "question": "Is this suitable for cybersecurity training?",
+        "answer": "Absolutely! It provides realistic cybersecurity interfaces and scenarios perfect for ethical hacking education, security awareness training, and IT demonstrations."
+      },
+      {
+        "question": "Can I use this for professional presentations?",
+        "answer": "Yes! Many cybersecurity professionals, educators, and content creators use this for training sessions, presentations, and educational demonstrations due to its realistic features."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Additional Screen Tools",
+    "description": "Explore our collection of specialized screen tools for various purposes.",
+    "colorScreens": "Color Screens",
+    "prankScreens": "Prank Screens",
+    "fakeUpdateScreens": "Fake Update Screens",
+    "screensaverScreens": "Screensaver Screens"
+  },
+  "howToUse": {
+    "title": "How to Use",
+    "steps": [
+      "Click the launch button to enter fullscreen interactive hacker simulator",
+      "Start typing random keys to simulate hacking code automatically",
+      "Click icons on the right side to open interactive programs and tools",
+      "Press number keys (0-9) to display passive program windows and alerts",
+      "Drag windows around the desktop to organize your hacker workspace",
+      "Use Space key to close passive windows, ESC to exit fullscreen mode"
+    ]
+  },
+  "howToUse": {
+    "title": "🧭 Hacker-Simulator verwenden",
+    "description": "Lernen Sie, realistische Hacker-Effekte zu erstellen und Ihre Freunde mit unserem interaktiven Simulator zu veräppeln",
+    "steps": [
+      "Seite öffnen - Gehen Sie zu hacker-typer in Ihrem Desktop-Browser",
+      "Vollbild - Klicken Sie auf \"Hacker-Simulator starten\" oder drücken Sie F11 für den Vollbildmodus",
+      "Tippen beginnen - Tippen Sie beliebige Tasten auf Ihrer Tastatur, um realistischen Code auf dem Bildschirm zu sehen",
+      "Tastenkürzel verwenden - Drücken Sie ALT für \"ZUGRIFF GEWÄHRT\", ENTER für \"ZUGRIFF VERWEIGERT\" oder CTRL für Sicherheitswarnungen",
+      "Zifferntasten ausprobieren - Drücken Sie 1-5, um verschiedene Hacker-Programme und Fenster zu öffnen"
+    ]
+  },
+  "techSpecs": {
+    "title": "Technical Specifications",
+    "specs": [
+      "Desktop: Full interactive hacker desktop environment with taskbar",
+      "Programs: 6 interactive applications + 5 passive windows",
+      "Features: Real-time bitcoin mining, password cracking animations",
+      "Interaction: Draggable windows, keyboard shortcuts, window management",
+      "Compatibility: All modern browsers with full keyboard and mouse support",
+      "Education: Perfect for advanced cybersecurity and ethical hacking demonstrations"
+    ]
+  }
+}

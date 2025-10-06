@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "Simulateur BSOD Windows",
+    "title": "Simulateur Faux Écran Bleu de la Mort (BSOD) – Blague de Crash Windows En Ligne",
+    "description": "Simulez le classique Écran Bleu de la Mort (BSOD) Windows en ligne. Parfait pour les blagues, démos techniques ou nostalgie. Fonctionne dans votre navigateur — aucun téléchargement, aucun risque.",
+    "features": {
+      "noRegistration": "Pas d'Inscription",
+      "worksOffline": "Fonctionne Hors Ligne",
+      "allDevices": "Tous les Appareils"
+    }
+  },
+  "keywords": "écran bleu de la mort, simulateur BSOD, faux écran bleu, simulateur de crash Windows, blague écran bleu, blague BSOD, écran d'erreur Windows, faux crash Windows, blague écran bleu, faux BSOD Windows, simulateur de crash ordinateur, fausse erreur système, écran bleu de la mort Windows, faux écran BSOD, blague crash Windows, faux crash ordinateur, simulateur écran bleu de la mort, simulateur erreur Windows, faux écran BSOD, blague crash ordinateur",
+  "preview": {
+    "title": "Aperçu en Direct",
+    "download": "Télécharger",
+    "comingSoon": "Bientôt Disponible",
+    "bouncingLogo": "Logo Rebondissant"
+  },
+  "colorPicker": {
+    "title": "Choisissez Votre Écran",
+    "speed": "Vitesse",
+    "size": "Taille",
+    "selectScreen": "Sélectionnez un effet d'écran à afficher",
+    "fullScreen": "Plein Écran",
+    "custom": "Personnalisé",
+    "description": "Parfait pour les blagues, démos techniques et nostalgie",
+    "launchButton": "Lancer Écran Bleu de la Mort"
+  },
+  "useCases": {
+    "title": "Les gens utilisent l'Écran Bleu de la Mort pour :",
+    "case1": {
+      "title": "Faire des Blagues aux Amis avec un Faux Crash Windows",
+      "description": "Surprenez vos amis avec une simulation réaliste d'Écran Bleu de la Mort. Notre simulateur BSOD affiche des messages d'erreur Windows authentiques et des écrans de crash, parfait pour des blagues inoffensives et des démonstrations techniques."
+    },
+    "case2": {
+      "title": "Démos Techniques et Présentations",
+      "description": "Utilisez notre simulateur BSOD pour des démonstrations techniques, sessions de formation ou présentations sur les erreurs Windows. Montrez des scénarios de crash réalistes sans risquer de vrais dommages système."
+    },
+    "case3": {
+      "title": "Expérience Windows Nostalgique",
+      "description": "Revivez l'expérience Windows classique avec notre simulateur authentique d'Écran Bleu de la Mort. Parfait pour ceux qui se souviennent des écrans de crash iconiques Windows des systèmes d'exploitation antérieurs."
+    },
+    "case4": {
+      "title": "Éducation Informatique",
+      "description": "Enseignez aux étudiants les erreurs système Windows et scénarios de crash en utilisant notre simulateur BSOD sécurisé. Démontrez les concepts de gestion d'erreurs sans causer de vraies pannes système."
+    },
+    "case5": {
+      "title": "Création de Contenu et Vidéos",
+      "description": "Créez du contenu engageant avec notre simulateur d'Écran Bleu de la Mort. Parfait pour les chaînes techniques, vidéos comiques ou contenu éducatif sur les systèmes informatiques et erreurs."
+    },
+    "case6": {
+      "title": "Tests et Développement",
+      "description": "Utilisez notre simulateur BSOD pour les tests logiciels, développement UI ou démonstrations de gestion d'erreurs. Façon sécurisée de tester comment les applications répondent aux scénarios d'erreur système."
+    },
+    "case7": {
+      "title": "Tests d'Écran et Calibrage",
+      "description": "Utilisez notre simulateur BSOD pour les tests d'affichage, calibrage des couleurs et diagnostics d'écran. Parfait pour tester les paramètres de moniteur et identifier les problèmes d'affichage."
+    }
+  },
+  "faq": {
+    "title": "FAQ – Faux Écran Bleu de la Mort (BSOD)",
+    "q1": "Qu'est-ce que le Simulateur d'Écran Bleu de la Mort ?",
+    "a1": "C'est un écran de crash Windows faux basé sur le web. Il ressemble à un vrai BSOD mais n'affecte pas votre système.",
+    "q2": "Est-ce sûr ?",
+    "a2": "Oui — c'est 100% sûr et ne fonctionne que dans votre navigateur web. Il ne cause aucun erreur ou crash réel.",
+    "q3": "Puis-je l'utiliser pour faire une blague à quelqu'un ?",
+    "a3": "Absolument ! 😄 Ouvrez-le en plein écran, éloignez-vous et regardez leur réaction quand ils pensent que Windows a planté !",
+    "q4": "Comment sortir de l'écran bleu ?",
+    "a4": "Appuyez sur Échap ou F11 pour revenir instantanément à votre écran normal.",
+    "q5": "Fonctionne-t-il sur macOS ou Linux ?",
+    "a5": "Oui — même si c'est un écran bleu style Windows, il fonctionne sur tout appareil avec un navigateur moderne.",
+    "q6": "Puis-je l'utiliser dans une classe ou une démo technique ?",
+    "a6": "Oui. Beaucoup de professeurs d'informatique l'utilisent pour démontrer en toute sécurité à quoi ressemble un crash sans avoir besoin de casser un vrai système.",
+    "q7": "Fait-il vraiment planter mon ordinateur ?",
+    "a7": "Non — c'est seulement une simulation visuelle, pas une vraie panne système.",
+    "q8": "Où puis-je trouver d'autres écrans de mise à jour ou de crash faux ?",
+    "a8": "Essayez ceux-ci : Écran de Mise à Jour Faux Windows 10, Écran de Mise à Jour Faux macOS, Écran de Mise à Jour Faux Ubuntu"
+  },
+  "additionalTools": {
+    "title": "Outils d'Écran Supplémentaires",
+    "description": "Explorez notre collection d'outils d'écran spécialisés pour divers usages.",
+    "colorScreens": "Écrans de Couleur",
+    "prankScreens": "Écrans de Blague",
+    "fakeUpdateScreens": "Écrans de Mise à Jour Fausse",
+    "screensaverScreens": "Écrans de Veille"
+  },
+  "howToUse": {
+    "title": "Comment Utiliser le Simulateur Écran Bleu de la Mort",
+    "steps": [
+      "Ouvrir la page - Allez sur blue-screen-of-death-windows dans votre navigateur de bureau.",
+      "Plein écran - Cliquez sur \"Plein Écran\" ou appuyez sur F11 pour que le faux BSOD remplisse votre écran.",
+      "Choisissez votre version (si supportée) - Sélectionnez entre les styles d'écran bleu Windows XP, Windows 7, Windows 10 ou Windows 11.",
+      "Regardez la simulation de crash - L'écran affichera une \"erreur système\" réaliste — complète avec fond bleu et codes d'erreur.",
+      "Utilisez-le pour le plaisir ou l'enseignement - Idéal pour les blagues, démos de classe ou effets visuels rétro.",
+      "Sortir à tout moment - Appuyez sur Échap ou F11 pour quitter le mode plein écran instantanément."
+    ]
+  },
+  "techSpecs": {
+    "title": "Spécifications Techniques",
+    "specs": [
+      "Résolution : Jusqu'à 8K (7680x4320)",
+      "Profondeur de Couleur : 24-bit RGB",
+      "Format : PNG, JPEG, WebP",
+      "Compatibilité : Tous les navigateurs modernes",
+      "Fonctionnalité Hors Ligne : Complètement disponible"
+    ]
+  }
+}

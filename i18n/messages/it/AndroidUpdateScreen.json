@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "badge": "Simulatore Android Definitivo",
+    "title": "Falso Aggiornamento Android",
+    "description": "Sperimenta un realistico strumento di schermo falso aggiornamento Android a schermo intero. Perfetto per scherzi, scopi educativi o dimostrazioni tecniche.",
+    "keywords": "falso aggiornamento Android, Simula aggiornamento Android, Aggiornamento Android autentico, Scherzo aggiornamento Android, Schermo aggiornamento Android realistico, Simulazione aggiornamento Android genuina, Scherzo aggiornamento Android divertente, Scherzo con falso aggiornamento Android, Esperienza aggiornamento Android eccitante, Strumento scherzo aggiornamento Android",
+    "features": {
+      "noRegistration": "Nessuna registrazione",
+      "worksOffline": "Funziona offline",
+      "allDevices": "Tutti i dispositivi"
+    }
+  },
+  "keywords": "ol",
+  "preview": {
+    "updateText": "Installazione aggiornamento sistema"
+  },
+  "useCases": {
+    "title": "Le persone usano lo Schermo Falso Aggiornamento Android per:",
+    "subtitle": "Scopri vari modi per usare il nostro schermo falso aggiornamento Android",
+    "simulate": {
+      "title": "Simula Aggiornamento Android per Test Software",
+      "description": "Utilizza il nostro strumento falso aggiornamento Android per creare schermi di aggiornamento autentici per test software e scopi dimostrativi."
+    },
+    "engage": {
+      "title": "Coinvolgi il tuo Pubblico con uno Schermo Aggiornamento Android Realistico",
+      "description": "Cattura l'attenzione degli appassionati di tecnologia mostrando una simulazione di aggiornamento Android genuina durante presentazioni o blog tech."
+    },
+    "education": {
+      "title": "Eleva l'Educazione Tech con lo Strumento Scherzo Aggiornamento Android",
+      "description": "Incorpora il nostro schermo di aggiornamento Android realistico negli scenari di educazione tech per insegnare aggiornamenti sistema e design interfaccia utente."
+    },
+    "content": {
+      "title": "Crea Contenuto Divertente con Falso Aggiornamento Android",
+      "description": "Produca contenuto video coinvolgente o live stream usando uno scherzo di aggiornamento Android divertente, aggiungendo umorismo alle discussioni tech."
+    },
+    "prank": {
+      "title": "Fai Scherzi agli Amici con una Simulazione Aggiornamento Android Genuina",
+      "description": "Sorprendi i tuoi amici usando il nostro strumento per fare scherzi con un falso aggiornamento Android, trasformando momenti ordinari in scherzi tech memorabili."
+    },
+    "ux": {
+      "title": "Migliora l'Apprendimento Design UX con Aggiornamenti Simulati",
+      "description": "Usa l'esperienza eccitante di aggiornamento Android per educare i designer UX/UI sull'impatto degli aggiornamenti sistema sull'esperienza utente."
+    },
+    "recovery": {
+      "title": "Dimostra Scenari Recupero Sistema con Strumento Scherzo Aggiornamento Android",
+      "description": "Sfrutta lo strumento di aggiornamento Android autentico per simulare processi di recupero sistema per formazione IT e workshop."
+    }
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "subtitle": "Domande comuni sul nostro schermo falso aggiornamento Android",
+    "real": {
+      "question": "È un vero aggiornamento Android?",
+      "answer": "No, questo è uno schermo simulato progettato per scopi di intrattenimento e test. Non può effettivamente aggiornare il tuo dispositivo."
+    },
+    "pranks": {
+      "question": "Posso usarlo per scherzi?",
+      "answer": "Sì! Questo strumento è perfetto per scherzi tech innocui. Ricorda solo di usarlo responsabilmente e con buon umore."
+    },
+    "realistic": {
+      "question": "Quanto è realistica la simulazione?",
+      "answer": "Il nostro schermo di aggiornamento Android è progettato per sembrare molto autentico, con barra di caricamento animata e branding Android appropriato."
+    },
+    "safe": {
+      "question": "È sicuro da usare?",
+      "answer": "Assolutamente! Questa è una simulazione basata su web che funziona interamente nel tuo browser e non può accedere al tuo sistema o dispositivo."
+    }
+  }
+}

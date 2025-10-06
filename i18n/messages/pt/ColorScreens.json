@@ -1,0 +1,20 @@
+{
+  "title": "Coleção de Telas Coloridas",
+  "description": "Explore nossa coleção completa de simulações de telas coloridas - da tela azul clássica aos displays arco-íris vibrantes. Perfeito para brincadeiras, testes e projetos criativos.",
+  "badge": "Coleção Completa de Telas Coloridas",
+  "screens": {
+    "pinkScreen": "Tela Rosa",
+    "blueScreen": "Tela Azul",
+    "redScreen": "Tela Vermelha",
+    "greenScreen": "Tela Verde",
+    "yellowScreen": "Tela Amarela",
+    "orangeScreen": "Tela Laranja",
+    "purpleScreen": "Tela Roxa",
+    "blackScreen": "Tela Preta",
+    "whiteScreen": "Tela Branca",
+    "zoomLighting": "Iluminação Zoom"
+  },
+  "footer": {
+    "description": "Todas as telas são gratuitas e funcionam em todos os dispositivos"
+  }
+}

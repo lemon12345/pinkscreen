@@ -99,6 +99,43 @@
       "Laden Sie das Bild in Ihrer bevorzugten Auflösung herunter"
     ]
   },
+  "colors": {
+    "White": "Weißer",
+    "Black": "Schwarzer",
+    "Red": "Roter",
+    "Blue": "Blauer",
+    "Green": "Grüner",
+    "Yellow": "Gelber",
+    "Purple": "Lila",
+    "Pink": "Rosa",
+    "Orange": "Oranger",
+    "Zoom Lighting": "Zoom-Beleuchtung"
+  },
+  "interface": {
+    "livePreview": "Live-Vorschau",
+    "clickForFullscreen": "Klicken für Vollbild",
+    "current": "Aktuell",
+    "chooseYourColor": "Wählen Sie Ihre Farbe",
+    "perfectFor": "Perfekt für Monitortests, Fotografie-Beleuchtung und Präsentationen",
+    "launchWhiteScreen": "Weißen Bildschirm starten"
+  },
+  "info": {
+    "professionalTool": "Professionelles Werkzeug",
+    "title": "Weißer Bildschirm Hintergrund herunterladen",
+    "subtitle": "Verwenden Sie diesen Vollbild-Weißbildschirm für Monitortests, Fotografie-Beleuchtung oder zum Erstellen eines sauberen Hintergrunds. Sauber, schnell und werbefrei.",
+    "downloadReady": "Download bereit",
+    "downloadTitle": "Weißer Bildschirm Hintergrund",
+    "downloadDescription": "Bevorzugen Sie ein statisches Weißbildschirm-Bild? Verwenden Sie eines unserer hochauflösenden PNGs:",
+    "hdTitle": "1920x1080 Weißer Bildschirm Hintergrund",
+    "hdDescription": "Perfekt für Standard-HD-Displays und Monitortests. Optimiert für Fotografie-Beleuchtung und Präsentationen.",
+    "hdButton": "HD herunterladen",
+    "fourKTitle": "4K Weißer Bildschirm Hintergrund",
+    "fourKDescription": "Ultra-HD-Vollbild-weißer Hintergrund für professionelle Monitortests und Fotografie. Perfekt für hochauflösende Displays.",
+    "fourKButton": "4K herunterladen",
+    "proTipBadge": "Profi-Tipp",
+    "proTipTitle": "Maximieren Sie Ihren Weißbildschirm",
+    "proTipDescription": "Maximieren Sie die Bildschirmhelligkeit und verwenden Sie F11 für den Vollbildmodus, um den besten Effekt für Monitortests und Fotografie zu erzielen."
+  },
   "techSpecs": {
     "title": "Technische Spezifikationen",
     "specs": [

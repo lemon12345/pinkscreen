@@ -1,0 +1,20 @@
+{
+  "title": "Colección de Pantallas de Colores",
+  "description": "Explora nuestra colección completa de simulaciones de pantallas coloridas - desde la clásica pantalla azul hasta pantallas de arcoíris vibrantes. Perfecto para bromas, pruebas y proyectos creativos.",
+  "badge": "Colección Completa de Pantallas de Colores",
+  "screens": {
+    "pinkScreen": "Pantalla Rosa",
+    "blueScreen": "Pantalla Azul",
+    "redScreen": "Pantalla Roja",
+    "greenScreen": "Pantalla Verde",
+    "yellowScreen": "Pantalla Amarilla",
+    "orangeScreen": "Pantalla Naranja",
+    "purpleScreen": "Pantalla Morada",
+    "blackScreen": "Pantalla Negra",
+    "whiteScreen": "Pantalla Blanca",
+    "zoomLighting": "Iluminación Zoom"
+  },
+  "footer": {
+    "description": "Todas las pantallas son gratuitas y funcionan en todos los dispositivos"
+  }
+}

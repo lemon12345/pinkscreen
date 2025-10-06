@@ -1,0 +1,85 @@
+{
+  "hero": {
+    "badge": "Symulator BSOD Windows 10",
+    "title": "Fałszywy Błąd Krytyczny Windows 10 (BSOD) – Symulator Online i Narzędzie Żartu",
+    "description": "Symuluj Błąd Krytyczny Windows 10 (BSOD) online. Idealny do żartów, demo technicznych lub nostalgii. Działa bezpiecznie w Twojej przeglądarce — bez pobierania lub ryzyka systemu.",
+    "features": {
+      "noRegistration": "Bez Rejestracji",
+      "worksOffline": "Działa Offline",
+      "allDevices": "Wszystkie Urządzenia"
+    },
+    "chooseScreen": "Wybierz Ekran",
+    "chooseScreenDescription": "Wybierz z naszej kolekcji realistycznych symulacji ekranu",
+    "fullScreen": "Pełny Ekran",
+    "custom": "Niestandardowy",
+    "description": "Idealny do żartów, demo technicznych i nostalgii",
+    "launchButton": "Uruchom Błąd Krytyczny"
+  },
+  "useCases": {
+    "title": "Ludzie używają Błędu Krytycznego do:",
+    "case1": {
+      "title": "Żartów z Przyjaciółmi z Fałszywym Crash Windows",
+      "description": "Zaskocz swoich przyjaciół realistyczną symulacją Błędu Krytycznego. Nasz symulator BSOD wyświetla autentyczne komunikaty błędów Windows i ekrany crash, idealny do nieszkodliwych żartów i demonstracji technicznych."
+    },
+    "case2": {
+      "title": "Demo Techniczne i Prezentacje",
+      "description": "Użyj naszego symulatora BSOD do demonstracji technicznych, sesji szkoleniowych lub prezentacji o błędach Windows. Pokaż realistyczne scenariusze crash bez ryzyka rzeczywistych uszkodzeń systemu."
+    },
+    "case3": {
+      "title": "Nostalgiczne Doświadczenie Windows",
+      "description": "Ożyw klasyczne doświadczenie Windows z naszym autentycznym symulatorem Błędu Krytycznego. Idealny dla tych, którzy pamiętają ikoniczne ekrany crash Windows z wcześniejszych systemów operacyjnych."
+    },
+    "case4": {
+      "title": "Edukacja Informatyczna",
+      "description": "Ucz studentów o błędach systemu Windows i scenariuszach crash używając naszego bezpiecznego symulatora BSOD. Demonstruj koncepcje obsługi błędów bez powodowania rzeczywistych awarii systemu."
+    },
+    "case5": {
+      "title": "Tworzenie Treści i Filmów",
+      "description": "Stwórz angażujące treści z naszym symulatorem Błędu Krytycznego. Idealny do kanałów technicznych, filmów komediowych lub treści edukacyjnych o systemach komputerowych i błędach."
+    },
+    "case6": {
+      "title": "Testy i Rozwój",
+      "description": "Użyj naszego symulatora BSOD do testów oprogramowania, rozwoju UI lub demonstracji obsługi błędów. Bezpieczny sposób testowania jak aplikacje reagują na scenariusze błędów systemu."
+    },
+    "case7": {
+      "title": "Testy Ekranu i Kalibracja",
+      "description": "Użyj naszego symulatora BSOD do testów wyświetlania, kalibracji kolorów i diagnostyki ekranu. Idealny do testowania ustawień monitora i identyfikowania problemów z wyświetlaniem."
+    }
+  },
+  "howToUse": {
+    "title": "🧭 Jak Używać Fałszywego Błędu Krytycznego Windows 10",
+    "steps": [
+      "Otwórz stronę - Odwiedź blue-screen-of-death-windows-10 w swojej przeglądarce.",
+      "Pełny ekran - Kliknij \"Pełny Ekran\" lub naciśnij F11, aby wyglądało jak prawdziwy crash systemu Windows 10.",
+      "Obserwuj fałszywy BSOD - Strona wyświetla smutną twarz :(, kod QR i wiadomość kodu zatrzymania — dokładnie jak prawdziwy niebieski ekran Windows 10.",
+      "Używaj do zabawy lub nauczania - Świetne do żartów, lekcji demonstracyjnych lub retro efektów wizualnych w stylu Windows.",
+      "Wyjdź w dowolnym momencie - Naciśnij Esc lub F11 ponownie, aby bezpiecznie opuścić tryb pełnoekranowy."
+    ]
+  },
+  "faq": {
+    "title": "FAQ – Fałszywy Błąd Krytyczny Windows 10",
+    "q1": "Czym jest Fałszywy Błąd Krytyczny Windows 10?",
+    "a1": "To symulacja online prawdziwego BSOD Windows 10 — kompletna z smutną twarzą i kodem QR — stworzona wyłącznie dla zabawy lub celów edukacyjnych.",
+    "q2": "Czy to bezpieczne?",
+    "a2": "Tak. Jest całkowicie oparte na przeglądarce i w ogóle nie wpływa na Twój komputer.",
+    "q3": "Czy mogę użyć tego do żartu z kimś?",
+    "a3": "Absolutnie! 😄 Otwórz na pełnym ekranie i obserwuj, jak Twój przyjaciel wpada w panikę, gdy pojawia się \"crash systemu\"!",
+    "q4": "Jak wyjść z ekranu?",
+    "a4": "Naciśnij Esc lub F11, aby natychmiast wrócić do trybu normalnego.",
+    "q5": "Czy działa na macOS lub Linux?",
+    "a5": "Tak — chociaż pokazuje crash w stylu Windows 10, działa w każdej nowoczesnej przeglądarce internetowej.",
+    "q6": "Czy mogę użyć tego w moich filmach lub demo?",
+    "a6": "Tak! Jest często używane przez YouTuberów technologicznych, streamerów i trenerów IT do realistycznych scen crash.",
+    "q7": "Czy powoduje szkody lub utratę danych?",
+    "a7": "Nie. To tylko symulacja wizualna. Twoje urządzenie i pliki są w 100% bezpieczne."
+  },
+  "keywords": "fałszywy błąd krytyczny, symulator BSOD, crash Windows 10, fałszywy crash Windows, żart niebieski ekran, symulator błąd Windows, fałszywy crash systemu, Windows 10 BSOD, symulator ekran crash, fałszywy błąd Windows",
+  "additionalTools": {
+    "title": "Dodatkowe Narzędzia Ekranu",
+    "description": "Odkryj naszą kolekcję wyspecjalizowanych narzędzi ekranu do różnych celów.",
+    "colorScreens": "Ekrany Kolorów",
+    "prankScreens": "Ekrany Żartów",
+    "systemScreens": "Ekrany Systemu",
+    "screensavers": "Wygaszacze Ekranu"
+  }
+}

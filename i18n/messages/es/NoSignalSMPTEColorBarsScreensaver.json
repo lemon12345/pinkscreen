@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "title": "Barras de Color - Pantalla de TV Sin Señal",
+    "description": "Genera barras de color de TV auténticas y pantallas sin señal online. Generador gratuito de patrón de prueba SMPTE en pantalla completa con efectos clásicos de tarjeta de prueba de transmisión. Perfecto para producción de video, transmisión y pantallas retro.",
+    "badge": "Patrón de Prueba de Transmisión",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Sin Conexión",
+      "allDevices": "Todos los Dispositivos"
+    }
+  },
+  "keywords": "barras de color, pantalla sin señal, patrón de prueba de tv, SMPTE, tarjeta de prueba, barras de transmisión, calibración de televisión, generador de barras de color, pantalla estática de TV, patrón de prueba pantalla completa, barras de color online, pantalla de tv retro, patrón de calibración de video, generador de barras de color de tv",
+  "preview": {
+    "title": "Vista Previa",
+    "comingSoon": "Próximamente",
+    "testPattern": "Patrón de Prueba",
+    "colorBars": "Barras de Color SMPTE"
+  },
+  "controls": {
+    "title": "Controles",
+    "fullscreen": "Pantalla Completa",
+    "resolution": "Resolución",
+    "width": "Ancho",
+    "height": "Alto",
+    "swapDimensions": "Intercambiar Dimensiones",
+    "download": "Descargar"
+  },
+  "useCases": {
+    "title": "La gente usa Protector de Pantalla de Barras de Color para:",
+    "case1": {
+      "title": "Crear Vibes de TV Retro con Pantalla de Barras de Color",
+      "description": "¿Extrañas esos patrones de prueba clásicos de TV? Ejecuta este generador de barras de color en pantalla completa para transformar cualquier monitor en una pantalla de televisión vintage. Perfecto para configurar transmisiones de juegos retro o crear esa sensación de transmisión nostálgica."
+    },
+    "case2": {
+      "title": "Pantalla Sin Señal de TV para Producción de Video",
+      "description": "¿Necesitas barras de color SMPTE profesionales para proyectos de video? Esta herramienta online genera patrones de prueba de calidad de transmisión directamente en tu navegador. Excelente para configurar pantallas o agregar elementos técnicos auténticos a tus producciones."
+    },
+    "case3": {
+      "title": "Personalizar la Pantalla de Pausa de tu Transmisión",
+      "description": "¿Buscas una pantalla profesional de 'vuelvo pronto'? Usa este generador de tarjeta de prueba de TV online para crear un aspecto de transmisión clásico para tus pausas de transmisión. Agrega ese toque profesional a tu canal con barras de color auténticas."
+    },
+    "case4": {
+      "title": "Pantalla Sin Señal Clásica para Instalaciones de Arte",
+      "description": "¿Quieres ese aspecto de estática de TV auténtico para tu proyecto de arte? Este generador de barras de color online crea patrones de prueba y pantallas sin señal de apariencia genuina. Perfecto para galerías, instalaciones o cualquier estética retro-tecnológica."
+    },
+    "case5": {
+      "title": "Establecer el Estado de Ánimo con Patrones de Tarjeta de Prueba Retro",
+      "description": "Transforma cualquier pantalla en una pantalla de TV nostálgica con barras de color auténticas y patrones de prueba. Excelente para fiestas, eventos temáticos o simplemente crear esa atmósfera vintage perfecta en tu espacio."
+    },
+    "case6": {
+      "title": "Bromear a tus Amigos con una Pantalla Sin Señal",
+      "description": "¿Quieres hacer una broma clásica de TV? Abre este generador de barras de color en pantalla completa cuando tus amigos no estén mirando. ¡Míralos intentar 'arreglar' la TV cuando vean el patrón clásico sin señal!"
+    },
+    "entertainment": {
+      "title": "Entretenimiento y Bromas",
+      "fullscreenPranks": "bromas de pantalla sin señal en pantalla completa",
+      "retroTVParty": "decoraciones de fiesta de TV retro",
+      "streamingBreaks": "efectos de pantalla de pausa de transmisión",
+      "vintageBroadcast": "estética de transmisión vintage",
+      "gamingRoom": "ambiente de sala de juegos"
+    },
+    "professional": {
+      "title": "Usos Profesionales",
+      "smpteTesting": "pruebas de barras de color SMPTE",
+      "monitorCalibration": "patrones de calibración de monitor",
+      "videoProduction": "tarjetas de prueba de producción de video",
+      "displaySetup": "referencia de configuración de pantalla",
+      "broadcastEquipment": "verificaciones de equipo de transmisión"
+    },
+    "creative": {
+      "title": "Proyectos Creativos",
+      "artInstallations": "fondos de instalación de arte",
+      "retroVideo": "estética de video retro",
+      "vintageTV": "diseño de set de TV vintage",
+      "filmProduction": "accesorios de producción de películas",
+      "nostalgicMedia": "pantallas de medios nostálgicos"
+    }
+  },
+  "howToUse": {
+    "title": "Cómo Usar las Barras de Color SMPTE",
+    "steps": [
+      "Abrir la página - Navega a no-signal-smpte-color-bars-screensaver en tu navegador",
+      "Pantalla completa - Haz clic en \"Pantalla Completa\" o presiona F11 para mostrar el patrón de prueba en toda tu pantalla",
+      "Elegir tu patrón - Cambia entre barras de color SMPTE y patrones de prueba sin señal usando los controles",
+      "Usar para calibración - Verifica la precisión del color, brillo y configuración de contraste en tu monitor o pantalla",
+      "Salir en cualquier momento - Presiona Esc o F11 para salir del modo pantalla completa y volver a la vista normal"
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "whatIsSMPTE": {
+      "question": "¿Qué son las barras de color SMPTE?",
+      "answer": "Las barras de color SMPTE son un patrón de prueba estandarizado usado en producción de video y transmisión para calibrar pantallas y asegurar reproducción de color adecuada. Consisten en barras de color específicas que ayudan a los técnicos a ajustar brillo, contraste y configuraciones de color."
+    },
+    "howToUse": {
+      "question": "¿Cómo uso el protector de pantalla de barras de color?",
+      "answer": "Simplemente haz clic en el área de vista previa para entrar en modo pantalla completa, o usa los controles para ajustar resolución y descargar el patrón. Las barras de color se mostrarán con líneas de escaneo auténticas y efectos de ruido para una apariencia realista de TV."
+    },
+    "fullscreen": {
+      "question": "¿Cómo salgo del modo pantalla completa?",
+      "answer": "Presiona la tecla Escape o haz clic en el botón de pantalla completa nuevamente para salir del modo pantalla completa. También puedes usar F11 en la mayoría de navegadores para alternar pantalla completa."
+    },
+    "download": {
+      "question": "¿Puedo descargar el patrón de barras de color?",
+      "answer": "Sí, puedes descargar el patrón de barras de color en varias resoluciones. Usa el botón de descarga en la sección de controles para guardar el patrón como archivo de imagen PNG."
+    },
+    "compatibility": {
+      "question": "¿Qué navegadores son compatibles?",
+      "answer": "El protector de pantalla de barras de color funciona en todos los navegadores modernos incluyendo Chrome, Firefox, Safari y Edge. El modo pantalla completa es compatible con la mayoría de dispositivos y navegadores."
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "hero": {
+    "badge": "BIOS模拟器工具",
+    "title": "Phoenix BIOS Setup Utility Simulator",
+    "description": "Online interactive CMOS bios setup simulator with navigation menu and main, advanced, security, boot settings",
+    "features": {
+      "noRegistration": "无需注册",
+      "worksOffline": "离线工作",
+      "allDevices": "所有设备"
+    }
+  },
+  "keywords": "BIOS模拟器, Phoenix BIOS, BIOS设置, CMOS设置, 在线BIOS, BIOS教学, 系统设置, 计算机教育, IT培训, BIOS界面, 系统配置",
+  "colorPicker": {
+    "title": "BIOS模拟器",
+    "custom": "自定义",
+    "description": "完美适用于IT教学、技术演示和系统学习",
+    "launchButton": "启动BIOS模拟器",
+    "clickHint": "点击上方按钮启动全屏BIOS模拟器",
+    "previewAlt": "Phoenix BIOS设置实用程序预览",
+    "biosTitle": "Phoenix TrustedBios(tm) CMOS Setup Utility"
+  },
+  "useCases": {
+    "title": "人们使用BIOS模拟器用于：",
+    "description": "我们的BIOS模拟器为各种专业和学习场景提供真实的BIOS体验。",
+    "cases": [
+      {
+        "icon": "🔧",
+        "title": "系统维护学习",
+        "description": "安全地学习和练习BIOS设置，了解计算机底层配置选项和系统参数。"
+      },
+      {
+        "icon": "📚",
+        "title": "IT教育培训",
+        "description": "用于计算机科学教学和IT培训，让学生安全地学习BIOS界面操作。"
+      },
+      {
+        "icon": "🎭",
+        "title": "技术演示",
+        "description": "制作技术演示视频、进行系统故障模拟或展示硬件配置过程。"
+      },
+      {
+        "icon": "🎮",
+        "title": "怀旧体验",
+        "description": "体验经典的Phoenix BIOS界面，回忆计算机发展的历史时光。"
+      },
+      {
+        "icon": "🛠️",
+        "title": "故障排除练习",
+        "description": "练习BIOS故障诊断流程和设置恢复方法，提升技术能力。"
+      },
+      {
+        "icon": "💻",
+        "title": "硬件配置学习",
+        "description": "了解计算机启动过程、硬件检测和系统配置的基本原理。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "description": "关于BIOS模拟器的常见问题解答",
+    "questions": [
+      {
+        "question": "什么是BIOS模拟器？",
+        "answer": "BIOS模拟器是一个在线工具，完全模拟传统的Phoenix BIOS设置界面，提供真实的BIOS操作体验。"
+      },
+      {
+        "question": "使用BIOS模拟器安全吗？",
+        "answer": "完全安全！这只是一个网页模拟器，不会对您的真实计算机或系统设置造成任何影响。"
+      },
+      {
+        "question": "如何在全屏模式下操作？",
+        "answer": "使用键盘箭头键导航：左右箭头切换菜单，上下箭头选择项目，Enter确认，F9或ESC退出。"
+      },
+      {
+        "question": "这个模拟器适合教学吗？",
+        "answer": "非常适合！这个模拟器专为IT教育设计，让学生能够安全地学习BIOS操作和系统配置。"
+      },
+      {
+        "question": "可以用于技术演示吗？",
+        "answer": "当然可以！您可以使用这个模拟器制作教学视频、技术演示或进行系统故障模拟。"
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "其他屏幕工具",
+    "description": "探索我们专用于各种目的的专业屏幕工具集合。",
+    "colorScreens": "彩色屏幕",
+    "prankScreens": "恶作剧屏幕",
+    "fakeUpdateScreens": "假更新屏幕",
+    "screensaverScreens": "屏幕保护程序"
+  },
+  "howToUse": {
+    "title": "🧭 如何使用BIOS模拟器",
+    "description": "按照以下简单步骤有效导航和使用BIOS模拟器。",
+    "steps": [
+      {
+        "title": "启动模拟器",
+        "description": "点击\"启动BIOS模拟器\"按钮进入全屏模式，开始探索BIOS界面。"
+      },
+      {
+        "title": "导航菜单",
+        "description": "使用左右箭头键在不同BIOS菜单间切换（主菜单、高级、安全、启动、退出）。"
+      },
+      {
+        "title": "选择项目",
+        "description": "使用上下箭头键浏览菜单项目，选择不同的BIOS设置。"
+      },
+      {
+        "title": "退出全屏",
+        "description": "按ESC键或F9键退出全屏模式，返回主页面。"
+      }
+    ],
+    "tip": {
+      "title": "专业提示",
+      "description": "BIOS模拟器提供真实体验 - 所有键盘导航都与真实BIOS界面完全一样！"
+    }
+  },
+  "techSpecs": {
+    "title": "技术规格",
+    "specs": [
+      "界面: Phoenix TrustedBios CMOS设置",
+      "菜单: Main, Advanced, Security, Boot, Exit",
+      "操作: 完整键盘导航支持",
+      "兼容性: 所有现代浏览器",
+      "功能: 真实BIOS界面模拟"
+    ]
+  }
+}

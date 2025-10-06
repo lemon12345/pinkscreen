@@ -1,0 +1,79 @@
+{
+  "hero": {
+    "title": "Skrin TV Tiada Isyarat",
+    "description": "Alami bar warna SMPTE yang autentik dan corak ujian tiada isyarat. Sempurna untuk penentukuran monitor, ujian pengeluaran video dan mencipta suasana televisyen penyiaran klasik itu.",
+    "badge": "Corak Ujian Penyiaran",
+    "features": {
+      "noRegistration": "Tiada Pendaftaran",
+      "worksOffline": "Berfungsi Luar Talian",
+      "allDevices": "Semua Peranti"
+    }
+  },
+  "keywords": "bar warna SMPTE, skrin tiada isyarat, corak ujian, penentukuran warna, ujian video, corak ujian penyiaran, skrin ujian televisyen, penentukuran monitor, penjimat skrin bar warna, corak ujian SMPTE, kejuruteraan video, kejuruteraan penyiaran, rujukan warna, penentukuran paparan, ujian isyarat video, kejuruteraan televisyen, standard warna, standard penyiaran, isyarat ujian, pengeluaran video",
+  "preview": {
+    "testPattern": "Corak Ujian",
+    "colorBars": "Bar Warna SMPTE"
+  },
+  "useCases": {
+    "title": "Orang menggunakan Bar Warna SMPTE untuk:",
+    "subtitle": "Temui pelbagai cara untuk menggunakan corak ujian bar warna SMPTE kami",
+    "case1": {
+      "title": "Penentukuran Monitor dan Paparan",
+      "description": "Gunakan bar warna SMPTE untuk menentukur monitor, TV dan paparan untuk reproduksi warna yang tepat dalam persekitaran profesional."
+    },
+    "case2": {
+      "title": "Pengeluaran Video dan Penyiaran",
+      "description": "Alat penting untuk jurutera video dan penyiar untuk menguji kualiti isyarat dan memastikan standard warna yang sesuai."
+    },
+    "case3": {
+      "title": "Ujian Peralatan dan Penyelesaian Masalah",
+      "description": "Kenal pasti masalah paparan, periksa integriti isyarat video dan selesaikan masalah peralatan penyiaran dengan corak ujian standard."
+    },
+    "case4": {
+      "title": "Pendidikan Penyiaran dan Media",
+      "description": "Ajar pelajar tentang standard penyiaran, teori warna dan teknik pengeluaran video profesional."
+    },
+    "case5": {
+      "title": "Estetik Retro dan Suasana",
+      "description": "Cipta suasana penyiaran vintage yang autentik untuk acara bertema, set filem atau penciptaan kandungan nostalgik."
+    },
+    "case6": {
+      "title": "Paparan Penjimat Skrin Profesional",
+      "description": "Gunakan sebagai penjimat skrin dalam persekitaran pengeluaran video profesional dan kemudahan penyiaran."
+    }
+  },
+  "howToUse": {
+    "title": "Cara Menggunakan Bar Warna SMPTE",
+    "steps": [
+      "Buka halaman - Navigasi ke no-signal-smpte-color-bars-screensaver di browser Anda",
+      "Layar penuh - Klik \"Layar Penuh\" atau tekan F11 untuk menampilkan pola uji di seluruh layar Anda",
+      "Pilih pola Anda - Beralih antara bar warna SMPTE dan pola uji tanpa sinyal menggunakan kontrol",
+      "Gunakan untuk kalibrasi - Periksa akurasi warna, kecerahan, dan pengaturan kontras pada monitor atau layar Anda",
+      "Keluar kapan saja - Tekan Esc atau F11 untuk keluar dari mode layar penuh dan kembali ke tampilan normal"
+    ]
+  },
+  "faq": {
+    "title": "Soalan Lazim",
+    "subtitle": "Soalan biasa tentang bar warna SMPTE dan corak ujian",
+    "whatIsSMPTE": {
+      "question": "Apakah bar warna SMPTE?",
+      "answer": "Bar warna SMPTE adalah corak ujian standard yang digunakan dalam pengeluaran televisyen dan video untuk menentukur peralatan dan memastikan reproduksi warna yang tepat."
+    },
+    "howToUse": {
+      "question": "Bagaimana saya menggunakan ini untuk penentukuran monitor?",
+      "answer": "Gunakan bar warna untuk memeriksa sama ada paparan anda menunjukkan warna yang tepat. Setiap bar harus memaparkan warna yang berbeza dan tulen tanpa pendarahan atau herotan."
+    },
+    "fullscreen": {
+      "question": "Bagaimana saya keluar dari mod skrin penuh?",
+      "answer": "Tekan kekunci Escape atau klik butang skrin penuh sekali lagi untuk keluar dari mod skrin penuh. Anda juga boleh menggunakan F11 untuk menukar skrin penuh dalam kebanyakan pelayar."
+    },
+    "download": {
+      "question": "Bolehkah saya memuat turun corak bar warna?",
+      "answer": "Ya, anda boleh memuat turun corak bar warna dalam pelbagai resolusi. Gunakan butang muat turun dalam bahagian kawalan untuk menyimpan corak sebagai fail imej PNG."
+    },
+    "compatibility": {
+      "question": "Pelayar apa yang disokong?",
+      "answer": "Penjimat skrin bar warna berfungsi pada semua pelayar moden termasuk Chrome, Firefox, Safari dan Edge. Mod skrin penuh disokong pada kebanyakan peranti dan pelayar."
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "Windows BSOD Simulator",
+    "title": "Fake Blue Screen of Death (BSOD) Simulator – Windows Crash Prank Online",
+    "description": "Simulate the classic Windows Blue Screen of Death (BSOD) online. Perfect for pranks, tech demos, or nostalgia. Runs in your browser — no downloads, no risk.",
+    "features": {
+      "noRegistration": "No Registration",
+      "worksOffline": "Works Offline",
+      "allDevices": "All Devices"
+    }
+  },
+  "keywords": "blue screen of death, BSOD simulator, fake blue screen, Windows crash simulator, blue screen prank, BSOD prank, Windows error screen, fake Windows crash, blue screen joke, Windows BSOD fake, computer crash simulator, fake system error, Windows blue screen death, BSOD fake screen, Windows crash joke, fake computer crash, blue screen death simulator, Windows error simulator, fake BSOD screen, computer crash prank",
+  "preview": {
+    "title": "Live Preview",
+    "download": "Download",
+    "comingSoon": "Coming Soon",
+    "bouncingLogo": "Bouncing Logo"
+  },
+  "colorPicker": {
+    "title": "Choose Your Screen",
+    "speed": "Speed",
+    "size": "Size",
+    "selectScreen": "Select a screen effect to display",
+    "fullScreen": "Full Screen",
+    "custom": "Custom",
+    "description": "Perfect for pranks, tech demos, and nostalgia",
+    "launchButton": "Launch Blue Screen of Death"
+  },
+  "useCases": {
+    "title": "People use Blue Screen of Death for:",
+    "case1": {
+      "title": "Prank Friends with Fake Windows Crash",
+      "description": "Surprise your friends with a realistic Blue Screen of Death simulation. Our BSOD simulator displays authentic Windows error messages and crash screens, perfect for harmless pranks and tech demonstrations."
+    },
+    "case2": {
+      "title": "Tech Demos and Presentations",
+      "description": "Use our BSOD simulator for technical demonstrations, training sessions, or presentations about Windows errors. Show realistic crash scenarios without risking actual system damage."
+    },
+    "case3": {
+      "title": "Nostalgic Windows Experience",
+      "description": "Relive the classic Windows experience with our authentic Blue Screen of Death simulator. Perfect for those who remember the iconic Windows crash screens from earlier operating systems."
+    },
+    "case4": {
+      "title": "Educational Computer Science",
+      "description": "Teach students about Windows system errors and crash scenarios using our safe BSOD simulator. Demonstrate error handling concepts without causing actual system failures."
+    },
+    "case5": {
+      "title": "Content Creation and Videos",
+      "description": "Create engaging content with our Blue Screen of Death simulator. Perfect for tech channels, comedy videos, or educational content about computer systems and errors."
+    },
+    "case6": {
+      "title": "Testing and Development",
+      "description": "Use our BSOD simulator for software testing, UI development, or error handling demonstrations. Safe way to test how applications respond to system error scenarios."
+    },
+    "case7": {
+      "title": "Screen Testing and Calibration",
+      "description": "Use our BSOD simulator for display testing, color calibration, and screen diagnostics. Perfect for testing monitor settings and identifying display issues."
+    }
+  },
+  "faq": {
+    "title": "FAQ – Fake Blue Screen of Death (BSOD)",
+    "q1": "What is the Blue Screen of Death Simulator?",
+    "a1": "It's a web-based fake Windows crash screen. It looks like a real BSOD but doesn't affect your system.",
+    "q2": "Is it safe?",
+    "a2": "Yes — it's 100% safe and runs only in your web browser. It doesn't cause any real errors or crashes.",
+    "q3": "Can I use it to prank someone?",
+    "a3": "Absolutely 😄 Open it full screen, step away, and watch their reaction when they think Windows has crashed!",
+    "q4": "How do I exit the blue screen?",
+    "a4": "Press Esc or F11 to instantly return to your normal screen.",
+    "q5": "Does it work on macOS or Linux?",
+    "a5": "Yes — even though it's a Windows-style blue screen, it works on any device with a modern browser.",
+    "q6": "Can I use it in a classroom or tech demo?",
+    "a6": "Yes. Many IT teachers use it to safely demonstrate what a crash looks like without needing to break a real system.",
+    "q7": "Does it really crash my computer?",
+    "a7": "No — it's only a visual simulation, not a real system failure.",
+    "q8": "Where can I find other fake update or crash screens?",
+    "a8": "Try these: Fake Windows 10 Update Screen, Fake macOS Update Screen, Fake Ubuntu Update Screen"
+  },
+  "additionalTools": {
+    "title": "Additional Screen Tools",
+    "description": "Explore our collection of specialized screen tools for various purposes.",
+    "colorScreens": "Color Screens",
+    "prankScreens": "Prank Screens",
+    "fakeUpdateScreens": "Fake Update Screens",
+    "screensaverScreens": "Screensaver Screens"
+  },
+  "howToUse": {
+    "title": "How to Use the Blue Screen of Death Simulator",
+    "steps": [
+      "Open the page - Go to blue-screen-of-death-windows on your desktop browser.",
+      "Go full screen - Click \"Full Screen\" or press F11 to make the fake BSOD fill your display.",
+      "Choose your version (if supported) - Pick between Windows XP, Windows 7, Windows 10, or Windows 11 blue screen styles.",
+      "Watch the crash simulation - The screen will display a realistic \"system error\" — complete with blue background and error codes.",
+      "Use it for fun or teaching - Ideal for pranks, class demos, or retro visual effects.",
+      "Exit anytime - Press Esc or F11 to leave full-screen mode instantly."
+    ]
+  },
+  "techSpecs": {
+    "title": "Technical Specifications",
+    "specs": [
+      "Resolution: Up to 8K (7680x4320)",
+      "Color Depth: 24-bit RGB",
+      "Format: PNG, JPEG, WebP",
+      "Compatibility: All modern browsers",
+      "Offline Functionality: Fully available"
+    ]
+  }
+}

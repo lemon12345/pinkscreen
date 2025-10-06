@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "Simulador de BSOD de Windows",
+    "title": "Simulador Falso de Pantalla Azul de la Muerte (BSOD) – Broma de Crash de Windows Online",
+    "description": "Experimenta la broma definitiva con nuestra herramienta de pantalla completa de la falsa Pantalla Azul de la Muerte de Windows. Perfecta para fines educativos, de entretenimiento y creación de contenido.",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Sin Conexión",
+      "allDevices": "Todos los Dispositivos"
+    }
+  },
+  "keywords": "pantalla azul de la muerte, simulador BSOD, pantalla azul falsa, simulador de crash de Windows, broma de pantalla azul, broma BSOD, pantalla de error de Windows, crash falso de Windows, broma de pantalla azul, BSOD falso de Windows, simulador de crash de computadora, error de sistema falso, pantalla azul de la muerte de Windows, pantalla falsa BSOD, broma de crash de Windows, crash falso de computadora, simulador de pantalla azul de la muerte, simulador de error de Windows, pantalla falsa BSOD, broma de crash de computadora",
+  "preview": {
+    "title": "Vista Previa en Vivo",
+    "download": "Descargar",
+    "comingSoon": "Próximamente",
+    "bouncingLogo": "Logo Rebotando"
+  },
+  "colorPicker": {
+    "title": "Elige Tu Pantalla",
+    "speed": "Velocidad",
+    "size": "Tamaño",
+    "selectScreen": "Selecciona un efecto de pantalla para mostrar",
+    "fullScreen": "Pantalla Completa",
+    "custom": "Personalizado",
+    "description": "Perfecto para bromas, demos técnicas y nostalgia",
+    "launchButton": "Lanzar Pantalla Azul de la Muerte"
+  },
+  "useCases": {
+    "title": "La gente usa la Pantalla de la Muerte para:",
+    "case1": {
+      "title": "Haz una broma a tus amigos con una falsa Pantalla Azul de la Muerte",
+      "description": "Mejora tu juego de bromas haciendo que tus amigos crean que su PC se ha estrellado. Perfecto para una risa inofensiva."
+    },
+    "case2": {
+      "title": "Crea fiestas memorables con temática tecnológica",
+      "description": "Añade un toque peculiar a las fiestas con temática tecnológica mostrando la icónica pantalla azul de la muerte de Windows en las pantallas."
+    },
+    "case3": {
+      "title": "Educa sobre la Pantalla Azul de la Muerte de Windows",
+      "description": "Usa la simulación como una herramienta educativa para enseñar sobre la solución de problemas y la prevención del verdadero BSOD."
+    },
+    "case4": {
+      "title": "Mejora tus habilidades de soporte técnico",
+      "description": "Practica tus habilidades de reacción y diagnóstico utilizando el falso BSOD como una herramienta de entrenamiento."
+    },
+    "case5": {
+      "title": "Dale un toque especial a tu canal de YouTube tecnológico",
+      "description": "Crea contenido atractivo incorporando la broma de la pantalla azul de la muerte en tus videos tecnológicos."
+    },
+    "case6": {
+      "title": "Prueba la paciencia",
+      "description": "Desafía tu paciencia o la de un amigo enfrentando el temido escenario de la pantalla azul en un entorno controlado."
+    },
+    "case7": {
+      "title": "Producciones cinematográficas y escenas tecnológicas",
+      "description": "Incorpora una animación realista de la Pantalla Azul de la Muerte de Windows en tu producción cinematográfica o de video para un drama tecnológico auténtico."
+    }
+  },
+  "faq": {
+    "title": "FAQ – Pantalla Azul de la Muerte Falsa (BSOD)",
+    "q1": "¿Qué es el Simulador de Pantalla Azul de la Muerte?",
+    "a1": "Es una pantalla de crash falsa de Windows basada en web. Se ve como un BSOD real pero no afecta tu sistema.",
+    "q2": "¿Es seguro?",
+    "a2": "Sí — es 100% seguro y solo se ejecuta en tu navegador web. No causa errores o crashes reales.",
+    "q3": "¿Puedo usarlo para hacer una broma a alguien?",
+    "a3": "¡Absolutamente! 😄 Ábrelo en pantalla completa, aléjate y observa su reacción cuando piensen que Windows se ha crasheado.",
+    "q4": "¿Cómo salgo de la pantalla azul?",
+    "a4": "Presiona Esc o F11 para regresar instantáneamente a tu pantalla normal.",
+    "q5": "¿Funciona en macOS o Linux?",
+    "a5": "Sí — aunque es una pantalla azul estilo Windows, funciona en cualquier dispositivo con un navegador moderno.",
+    "q6": "¿Puedo usarlo en un aula o demo técnica?",
+    "a6": "Sí. Muchos profesores de TI lo usan para demostrar de forma segura cómo se ve un crash sin necesidad de romper un sistema real.",
+    "q7": "¿Realmente crashea mi computadora?",
+    "a7": "No — es solo una simulación visual, no una falla real del sistema.",
+    "q8": "¿Dónde puedo encontrar otras pantallas de actualización o crash falsas?",
+    "a8": "Prueba estas: Pantalla de Actualización Falsa de Windows 10, Pantalla de Actualización Falsa de macOS, Pantalla de Actualización Falsa de Ubuntu"
+  },
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "prankScreens": "Pantallas de Broma",
+    "fakeUpdateScreens": "Pantallas de Actualización Falsa",
+    "screensaverScreens": "Pantallas de Protector de Pantalla"
+  },
+  "howToUse": {
+    "title": "Cómo Usar el Simulador de Pantalla Azul de la Muerte",
+    "steps": [
+      "Abrir la página - Ve a blue-screen-of-death-windows en tu navegador de escritorio.",
+      "Pantalla completa - Haz clic en \"Pantalla Completa\" o presiona F11 para que el BSOD falso llene tu pantalla.",
+      "Elige tu versión (si está soportada) - Selecciona entre estilos de pantalla azul de Windows XP, Windows 7, Windows 10 o Windows 11.",
+      "Observa la simulación de crash - La pantalla mostrará un \"error del sistema\" realista — completo con fondo azul y códigos de error.",
+      "Úsalo para diversión o enseñanza - Ideal para bromas, demos de clase o efectos visuales retro.",
+      "Salir en cualquier momento - Presiona Esc o F11 para salir del modo pantalla completa instantáneamente."
+    ]
+  },
+  "techSpecs": {
+    "title": "Especificaciones Técnicas",
+    "specs": [
+      "Resolución: Hasta 8K (7680x4320)",
+      "Profundidad de Color: 24-bit RGB",
+      "Formato: PNG, JPEG, WebP",
+      "Compatibilidad: Todos los navegadores modernos",
+      "Funcionalidad Offline: Completamente disponible"
+    ]
+  }
+}

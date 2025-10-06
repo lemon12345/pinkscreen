@@ -1,0 +1,112 @@
+{
+  "hero": {
+    "title": "Farbbalken - Kein Signal TV Bildschirm",
+    "description": "Generieren Sie authentische TV-Farbbalken und Kein-Signal-Bildschirme online. Kostenloser Vollbild-SMPTE-Testmuster-Generator mit klassischen Broadcast-Testkarten-Effekten. Perfekt für Videoproduktion, Streaming und Retro-Displays.",
+    "badge": "Broadcast-Testmuster",
+    "features": {
+      "noRegistration": "Keine Registrierung",
+      "worksOffline": "Funktioniert offline",
+      "allDevices": "Alle Geräte"
+    }
+  },
+  "keywords": "farbbalken, kein signal bildschirm, tv testmuster, SMPTE, testkarte, broadcast balken, fernsehkalibrierung, farbbalken generator, TV statik bildschirm, vollbild testmuster, online farbbalken, retro tv bildschirm, video kalibrierung muster, tv farbbalken generator",
+  "preview": {
+    "title": "Vorschau",
+    "comingSoon": "Demnächst",
+    "testPattern": "Testmuster",
+    "colorBars": "SMPTE Farbbalken"
+  },
+  "controls": {
+    "title": "Steuerung",
+    "fullscreen": "Vollbild",
+    "resolution": "Auflösung",
+    "width": "Breite",
+    "height": "Höhe",
+    "swapDimensions": "Dimensionen tauschen",
+    "download": "Herunterladen"
+  },
+  "useCases": {
+    "title": "Menschen verwenden Farbbalken Bildschirmschoner für:",
+    "case1": {
+      "title": "Retro TV Vibes mit Farbbalken Bildschirm erstellen",
+      "description": "Vermissen Sie diese klassischen TV-Testmuster? Führen Sie diesen Farbbalken-Generator im Vollbildmodus aus, um jeden Monitor in ein Vintage-Fernsehdisplay zu verwandeln. Perfekt für das Einrichten von Retro-Gaming-Streams oder das Erstellen dieses nostalgischen Broadcast-Gefühls."
+    },
+    "case2": {
+      "title": "TV Kein Signal Bildschirm für Videoproduktion",
+      "description": "Benötigen Sie professionelle SMPTE-Farbbalken für Videoprojekte? Dieses Online-Tool generiert Broadcast-Qualitäts-Testmuster direkt in Ihrem Browser. Großartig für das Einrichten von Displays oder das Hinzufügen authentischer technischer Elemente zu Ihren Produktionen."
+    },
+    "case3": {
+      "title": "Ihren Streams Pausenbildschirm anpassen",
+      "description": "Suchen Sie nach einem professionellen 'Bin gleich zurück'-Bildschirm? Verwenden Sie diesen Online-TV-Testkarten-Generator, um ein klassisches Broadcast-Aussehen für Ihre Streaming-Pausen zu erstellen. Fügen Sie Ihrem Kanal mit authentischen Farbbalken diesen professionellen Touch hinzu."
+    },
+    "case4": {
+      "title": "Klassischer Kein Signal Bildschirm für Kunstinstallationen",
+      "description": "Möchten Sie diesen authentischen TV-Statik-Look für Ihr Kunstprojekt? Dieser Online-Farbbalken-Generator erstellt echt aussehende Testmuster und Kein-Signal-Bildschirme. Perfekt für Galerien, Installationen oder jede Retro-Tech-Ästhetik."
+    },
+    "case5": {
+      "title": "Stimmung mit Retro-Testkarten-Mustern setzen",
+      "description": "Verwandeln Sie jeden Bildschirm in ein nostalgisches TV-Display mit authentischen Farbbalken und Testmustern. Großartig für Partys, thematische Events oder einfach das Erstellen dieser perfekten Vintage-Atmosphäre in Ihrem Raum."
+    },
+    "case6": {
+      "title": "Freunde mit einem Kein Signal Bildschirm necken",
+      "description": "Möchten Sie einen klassischen TV-Streich spielen? Öffnen Sie diesen Vollbild-Farbbalken-Generator, wenn Ihre Freunde nicht hinschauen. Beobachten Sie, wie sie versuchen, den TV zu 'reparieren', wenn sie das klassische Kein-Signal-Muster sehen!"
+    },
+    "entertainment": {
+      "title": "Unterhaltung & Streiche",
+      "fullscreenPranks": "Vollbild kein Signal Bildschirm Streiche",
+      "retroTVParty": "Retro TV Party Dekorationen",
+      "streamingBreaks": "Streaming Pause Bildschirm Effekte",
+      "vintageBroadcast": "Vintage Broadcast Ästhetik",
+      "gamingRoom": "Gaming Raum Ambiente"
+    },
+    "professional": {
+      "title": "Professionelle Verwendungen",
+      "smpteTesting": "SMPTE Farbbalken Tests",
+      "monitorCalibration": "Monitor Kalibrierung Muster",
+      "videoProduction": "Videoproduktion Testkarten",
+      "displaySetup": "Display Setup Referenz",
+      "broadcastEquipment": "Broadcast Equipment Checks"
+    },
+    "creative": {
+      "title": "Kreative Projekte",
+      "artInstallations": "Kunstinstallation Hintergründe",
+      "retroVideo": "Retro Video Ästhetik",
+      "vintageTV": "Vintage TV Set Design",
+      "filmProduction": "Filmproduktion Requisiten",
+      "nostalgicMedia": "Nostalgische Medien Displays"
+    }
+  },
+  "howToUse": {
+    "title": "Wie man SMPTE-Farbbalken verwendet",
+    "steps": [
+      "Seite öffnen - Navigieren Sie zu no-signal-smpte-color-bars-screensaver in Ihrem Browser",
+      "Vollbild - Klicken Sie auf \"Vollbild\" oder drücken Sie F11, um das Testmuster auf Ihrem gesamten Bildschirm anzuzeigen",
+      "Muster wählen - Wechseln Sie zwischen SMPTE-Farbbalken und Testmustern ohne Signal mit den Steuerelementen",
+      "Für Kalibrierung verwenden - Überprüfen Sie die Farbgenauigkeit, Helligkeit und Kontrasteinstellungen auf Ihrem Monitor oder Bildschirm",
+      "Jederzeit beenden - Drücken Sie Esc oder F11, um den Vollbildmodus zu verlassen und zur normalen Ansicht zurückzukehren"
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "whatIsSMPTE": {
+      "question": "Was sind SMPTE Farbbalken?",
+      "answer": "SMPTE Farbbalken sind ein standardisiertes Testmuster, das in der Videoproduktion und im Broadcasting verwendet wird, um Displays zu kalibrieren und eine ordnungsgemäße Farbwiedergabe zu gewährleisten. Sie bestehen aus spezifischen Farbbalken, die Technikern helfen, Helligkeit, Kontrast und Farbeinstellungen anzupassen."
+    },
+    "howToUse": {
+      "question": "Wie verwende ich den Farbbalken Bildschirmschoner?",
+      "answer": "Klicken Sie einfach auf den Vorschaubereich, um den Vollbildmodus zu betreten, oder verwenden Sie die Steuerung, um Auflösung anzupassen und das Muster herunterzuladen. Die Farbbalken werden mit authentischen Scan-Linien und Rauscheffekten für ein realistisches TV-Aussehen angezeigt."
+    },
+    "fullscreen": {
+      "question": "Wie beende ich den Vollbildmodus?",
+      "answer": "Drücken Sie die Escape-Taste oder klicken Sie erneut auf die Vollbild-Schaltfläche, um den Vollbildmodus zu beenden. Sie können auch F11 in den meisten Browsern verwenden, um Vollbild zu umschalten."
+    },
+    "download": {
+      "question": "Kann ich das Farbbalken-Muster herunterladen?",
+      "answer": "Ja, Sie können das Farbbalken-Muster in verschiedenen Auflösungen herunterladen. Verwenden Sie die Download-Schaltfläche im Steuerungsbereich, um das Muster als PNG-Bilddatei zu speichern."
+    },
+    "compatibility": {
+      "question": "Welche Browser werden unterstützt?",
+      "answer": "Der Farbbalken Bildschirmschoner funktioniert auf allen modernen Browsern einschließlich Chrome, Firefox, Safari und Edge. Der Vollbildmodus wird auf den meisten Geräten und Browsern unterstützt."
+    }
+  }
+}

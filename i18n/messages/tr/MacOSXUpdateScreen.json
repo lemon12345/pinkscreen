@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "title": "Mac OS X Sahte Güncelleme",
+    "description": "Web sitemizde ikna edici bir Mac OS X güncelleme simülasyonu deneyimleyin. Arkadaşlarınızı otantik görünümlü Mac OS X sahte güncelleme ekranımızla kandırın. Simüle edilmiş güncelleme sürecinin heyecanını ve eğlencesini yaşayın.",
+    "badge": "macOS Sistem Güncellemesi",
+    "features": {
+      "noRegistration": "Kayıt yok",
+      "worksOffline": "Çevrimdışı çalışır",
+      "allDevices": "Tüm cihazlar"
+    }
+  },
+  "keywords": "Mac OS X sahte güncelleme, Mac OS X güncelleme simülasyonu, Otantik Mac OS X güncelleme, Mac OS X güncelleme şakası, Gerçekçi Mac OS X güncelleme ekranı, Gerçek Mac OS X güncelleme simülasyonu, Eğlenceli Mac OS X güncelleme şakası, Mac OS X sahte güncelleme ile şaka, Heyecan verici Mac OS X güncelleme deneyimi, Mac OS X güncelleme şaka aracı",
+  "preview": {
+    "title": "Canlı Önizleme",
+    "fullscreen": "Tam Ekran",
+    "download": "İndir"
+  },
+  "useCases": {
+    "title": "İnsanlar Mac OS Güncelleme Ekranını şunun için kullanır:",
+    "cases": [
+      {
+        "title": "Arkadaşlarınızla şaka yapın",
+        "description": "Arkadaşlarınızla zararsız bir şaka yapmak için Mac OS X sahte güncelleme aracımızı kullanın, bilgisayarlarının önemli bir güncelleme geçirdiğine inanmalarını sağlayın. Tepkilerini izleyin ve eğlenin!"
+      },
+      {
+        "title": "Sabır test edin",
+        "description": "Meslektaşlarınızın veya sevdiklerinizin beklenmedik güncellemelere nasıl tepki verdiğini öğrenin. Gerçek bir rahatsızlığa neden olmadan sabırlarını kontrol etmenin eğlenceli bir yolu."
+      },
+      {
+        "title": "Teknoloji öğretim yardımı",
+        "description": "Teknoloji kursları veya atölyeleri için sahte güncelleme aracını öğretim yardımı olarak kullanın. Sistem güncellemelerini ve nasıl yönetileceğini açıklamak için kullanılabilir."
+      },
+      {
+        "title": "UI/UX testi",
+        "description": "UI/UX tasarımcıları için aracımız, sistem güncellemeleri sırasında kullanıcı deneyimi hakkında ilginç bir vaka çalışması sağlayabilir. Bu süreçte kullanıcı etkileşimi ve katılımını analiz edin."
+      },
+      {
+        "title": "İçerik oluşturma",
+        "description": "İçerik oluşturucuları bu aracı blogları, vlogları veya sosyal medya platformları için ilginç teknoloji içeriği veya sosyal deneyler oluşturmak için kullanabilir."
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "How to Use the Fake macOS Update Screen",
+    "subtitle": "Follow these simple steps to get started with our macOS fake update screen",
+    "steps": {
+      "open": "Open the page",
+      "openDescription": "Visit  fake-macos-update-screen on your Mac or any computer browser.",
+      "fullscreen": "Go full screen",
+      "fullscreenDescription": "Click the 'Full Screen' button or press Control + Command + F to make it look like a real macOS update.",
+      "watch": "Watch the update animation",
+      "watchDescription": "The page will display a realistic macOS update progress bar, similar to what appears during actual system upgrades.",
+      "use": "Use for pranks or video scenes",
+      "useDescription": "Surprise your friends or record for your YouTube, TikTok, or livestream content — it looks very convincing in full screen!",
+      "exit": "Exit anytime",
+      "exitDescription": "Press Esc or Control + Command + F again to return to normal view. No data or settings will be changed."
+    },
+    "tips": {
+      "title": "Quick Tips",
+      "exit": "Press Esc or Control + Command + F to exit full screen mode",
+      "realistic": "The animation looks very realistic and authentic",
+      "safe": "Completely safe — no actual system changes are made",
+      "devices": "Works on all modern browsers and devices"
+    }
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "subtitle": "Sahte macOS Güncelleme Ekranımız hakkında sık sorulan sorular",
+    "whatIs": {
+      "question": "Sahte macOS Güncelleme Ekranı nedir?",
+      "answer": "macOS güncelleme ekranını mükemmel şekilde taklit eden bir çevrimiçi simülatördür. Şakalar, videolar veya ekranınızın karanlık ve açık öğelerle nasıl göründüğünü test etmek için harikadır."
+    },
+    "safe": {
+      "question": "Kullanmak güvenli mi?",
+      "answer": "Evet. Bu araç tamamen güvenlidir — cihazınıza hiçbir şey yüklemez veya değiştirmez. Sadece web tarayıcınızda sahte bir güncelleme animasyonu gösterir."
+    },
+    "pranks": {
+      "question": "Şaka yapmak için kullanabilir miyim?",
+      "answer": "Kesinlikle 😄 Tam ekrana geçin, uzaklaşın ve arkadaşlarınızın Mac'inizin tekrar güncellemede takıldığını düşünmelerine izin verin!"
+    },
+    "exit": {
+      "question": "Sahte güncelleme ekranından nasıl çıkarım?",
+      "answer": "Sadece Esc veya Control + Command + F tuşlarına basın. Simülatör hemen kapanacak."
+    },
+    "devices": {
+      "question": "Windows veya telefonlarda çalışır mı?",
+      "answer": "Evet, herhangi bir modern tarayıcıda çalışır — ancak en gerçekçi etki için Mac veya büyük masaüstü ekranında kullanın."
+    },
+    "real": {
+      "question": "Gerçekten macOS'u günceller mi?",
+      "answer": "Hayır — bu sadece görsel bir simülatördür. Bilgisayarınıza hiçbir şey indirmez, yüklemez veya değiştirmez."
+    },
+    "content": {
+      "question": "Video veya yayınımda kullanabilir miyim?",
+      "answer": "Evet! Birçok içerik oluşturucu video projeleri, teknoloji mizahı ve şaka derlemeleri için sahte macOS güncelleme ekranını kullanır."
+    }
+  }
+}

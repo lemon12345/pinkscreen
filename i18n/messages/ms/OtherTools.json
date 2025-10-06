@@ -1,0 +1,75 @@
+{
+  "title": "Lebih Banyak Alat Skrin",
+  "description": "Terokai koleksi lengkap alat skrin kami - simulator sistem, screensaver, simulasi kesan dan banyak lagi untuk semua keperluan anda",
+  "badge": "Koleksi Alat Skrin Profesional",
+  "categories": {
+    "systemSimulation": "Simulasi Sistem",
+    "screensaver": "Animasi Screensaver",
+    "effects": "Simulasi Kesan"
+  },
+  "tools": {
+    "bios": {
+      "name": "Skrin BIOS",
+      "description": "Simulasikan antara muka boot BIOS komputer"
+    },
+    "fakeWindows11Update": {
+      "name": "Skrin Kemas Kini Windows 11",
+      "description": "Simulasikan antara muka kemas kini sistem Windows 11"
+    },
+    "fakeWindows10Update": {
+      "name": "Skrin Kemas Kini Windows 10",
+      "description": "Simulasikan antara muka kemas kini sistem Windows 10"
+    },
+    "fakeWindowsXpUpdate": {
+      "name": "Skrin Kemas Kini Windows XP",
+      "description": "Simulasikan antara muka kemas kini sistem Windows XP"
+    },
+    "fakeMacOsXUpdate": {
+      "name": "Skrin Kemas Kini Mac OS X",
+      "description": "Simulasikan antara muka kemas kini sistem Mac OS X"
+    },
+    "fakeUbuntuUpdate": {
+      "name": "Skrin Kemas Kini Ubuntu 22.04",
+      "description": "Simulasikan antara muka kemas kini sistem Ubuntu 22.04"
+    },
+    "fakeAndroidUpdate": {
+      "name": "Skrin Kemas Kini Android",
+      "description": "Simulasikan antara muka kemas kini sistem Android"
+    },
+    "fakeDos": {
+      "name": "Simulator DOS",
+      "description": "Simulasikan antara muka baris arahan DOS klasik"
+    },
+    "fakeVirus": {
+      "name": "Skrin Amaran Virus",
+      "description": "Simulasikan antara muka amaran virus komputer"
+    },
+    "fbiWarning": {
+      "name": "Skrin Amaran FBI",
+      "description": "Simulasikan antara muka amaran hak cipta FBI"
+    },
+    "dvdScreensaver": {
+      "name": "Screensaver DVD",
+      "description": "Animasi screensaver pemain DVD klasik"
+    },
+    "brokenScreen": {
+      "name": "Skrin Pecah",
+      "description": "Simulasikan kesan skrin retak"
+    },
+    "blueScreenOfDeath": {
+      "name": "Skrin Biru Kematian Windows",
+      "description": "Simulasikan antara muka skrin biru kematian Windows"
+    },
+    "hackerTyper": {
+      "name": "Simulator Hacker",
+      "description": "Cipta kesan menaip hacker yang realistik dan simulasi terminal"
+    },
+    "noSignalScreensaver": {
+      "name": "Screensaver Tiada Isyarat Color Bars",
+      "description": "Simulasikan screensaver bar warna tiada isyarat TV"
+    }
+  },
+  "footer": {
+    "description": "Semua alat adalah percuma dan tidak memerlukan pendaftaran"
+  }
+}

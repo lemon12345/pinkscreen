@@ -1,0 +1,98 @@
+{
+  "hero": {
+    "title": "Windows 10 Fake Update",
+    "description": "Experience a realistic Windows 10 update simulation on our website. Fool your friends with our authentic-looking Windows 10 fake update screen. Enjoy the suspense and fun of a simulated update process.",
+    "badge": "Windows 10 System Update",
+    "features": {
+      "noRegistration": "No Registration",
+      "worksOffline": "Works Offline",
+      "allDevices": "All Devices"
+    }
+  },
+  "keywords": "Windows 10 fake update, Windows 10 update simulation, Simulate Windows 10 update, Fake Windows 10 update screen, Emulate Windows 10 update, Windows 10 update prank, Windows 10 update process, Authentic-looking Windows 10 update, Realistic Windows 10 update screen, Fool friends with Windows 10 update, Realistic Windows 10 update progress, Genuine Windows 10 update simulation, Authentic Windows 10 update messages, Windows 10 update stage, Entertaining Windows 10 update prank, Fun fake Windows 10 update, Enjoy simulated Windows 10 update, Prank with Windows 10 fake update, Exciting Windows 10 update experience, Windows 10 update for amusement, Windows 10 update prank tool",
+  "preview": {
+    "updateText": "Working on updates",
+    "completeText": " complete",
+    "dontTurnOffText": "Don't turn off your PC. This will take a while.",
+    "restartText": "Your PC may restart several times"
+  },
+  "useCases": {
+    "title": "People use Windows 10 Fake Update Screen for:",
+    "subtitle": "Discover various ways to use our Windows 10 fake update screen",
+    "prank": {
+      "title": "Pranking Friends and Coworkers",
+      "description": "Many people open the Fake Windows 10 Update Screen to trick their friends or coworkers into thinking their computer is stuck in a long update. It's a harmless and funny way to surprise someone, especially during work or gaming sessions."
+    },
+    "content": {
+      "title": "Video or Streaming Scenes",
+      "description": "Content creators and streamers often use the Windows 10 update simulator as part of videos, TikToks, or livestream jokes. It looks realistic in full-screen mode and adds a fun touch to comedy or tech-themed content."
+    },
+    "education": {
+      "title": "Presentation or Demo Purposes",
+      "description": "Teachers, IT trainers, and presenters sometimes use the fake update screen to demonstrate what a real Windows update looks like, or to show how to avoid interruptions during important tasks."
+    },
+    "testing": {
+      "title": "Testing Screen Brightness and Display Behavior",
+      "description": "Because the fake update screen uses full-screen visuals with text and gradients, it can also be used to check display performance, brightness uniformity, or monitor color accuracy."
+    },
+    "fun": {
+      "title": "Just for Fun!",
+      "description": "Whether you're bored or curious, the fake Windows update screen is a quick and entertaining way to simulate the look of Windows updating—without actually installing anything."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about our Windows 10 Fake Update Screen",
+    "safe": {
+      "question": "Is the fake Windows 10 update screen safe?",
+      "answer": "Yes! It's completely safe — this page only displays a realistic Windows 10 update animation in your browser. It doesn't download or install anything on your computer."
+    },
+    "pranks": {
+      "question": "Can I use it to prank someone?",
+      "answer": "Absolutely 😄 Many users open the fake update screen full screen to trick their friends or coworkers. It looks just like the real Windows update screen!"
+    },
+    "exit": {
+      "question": "How do I exit the fake update screen?",
+      "answer": "Simply press Esc or F11 on your keyboard to exit full-screen mode at any time."
+    },
+    "devices": {
+      "question": "Does it work on phones or tablets?",
+      "answer": "Yes, but for the most realistic effect we recommend using it on a desktop or laptop."
+    },
+    "real": {
+      "question": "Does this fake update screen actually update Windows?",
+      "answer": "No — it's only a simulator. It's designed for fun, jokes, or demonstrations, but it won't change or install anything on your system."
+    },
+    "content": {
+      "question": "Can I use it for videos or streaming?",
+      "answer": "Yes! You can record your screen or use it during livestreams. Many creators use it for tech pranks or funny reaction videos."
+    },
+    "windows11": {
+      "question": "Does this work with Windows 11?",
+      "answer": "This page simulates the Windows 10 update screen. If you're looking for the Windows 11 version, visit fake-windows-11-update"
+    }
+  },
+  "howToUse": {
+    "title": "How to Use the Windows 10 Fake Update Screen",
+    "subtitle": "Follow these simple steps to get started with our Windows 10 fake update screen",
+    "steps": {
+      "open": "Open the page",
+      "openDescription": "Go to  fake-windows-10-update-screen on your computer or laptop.",
+      "fullscreen": "Choose full screen",
+      "fullscreenDescription": "Click the \"Full Screen\" button or press F11 to make the fake Windows 10 update screen cover your whole display.",
+      "wait": "Wait and watch",
+      "waitDescription": "The screen will start showing a realistic Windows 10 update animation — just like a real system update.",
+      "use": "Use it for a prank or video",
+      "useDescription": "Leave it running to prank your friends, record a funny video, or use it as a demo for presentations.",
+      "exit": "Exit anytime",
+      "exitDescription": "To exit, press Esc or F11 again to return to normal view."
+    },
+    "tips": {
+      "title": "Quick Tips",
+      "exit": "Press F11 or ESC to exit fullscreen mode",
+      "realistic": "The animation looks very realistic and authentic",
+      "safe": "Completely safe - no actual system changes are made",
+      "devices": "Works on all modern browsers and devices"
+    }
+  }
+}

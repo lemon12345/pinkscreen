@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "title": "Fałszywy Pęknięty Ekran",
+    "description": "Odkryj nieskończoną zabawę i kreatywność dzięki naszemu pełnoekranowemu narzędziu do symulacji pękniętego ekranu. Idealne do żartów, tworzenia treści i celów edukacyjnych.",
+    "badge": "Efekt Ekranu",
+    "features": {
+      "noRegistration": "Bez Rejestracji",
+      "worksOffline": "Działa Offline",
+      "allDevices": "Wszystkie Urządzenia"
+    }
+  },
+  "keywords": "zepsuty ekran, pęknięty ekran, żart ekranu, fałszywy zepsuty ekran, pęknięty ekran telefonu, zepsuty ekran, efekt ekranu, narzędzie żartu, symulator zepsutego ekranu, generator pękniętego ekranu, fałszywy pęknięty ekran, żart zepsutego ekranu, symulacja uszkodzenia ekranu, efekt pękniętego ekranu, zepsuty ekran telefonu, symulator pęknięcia ekranu, narzędzie żartu ekranu, generator zepsutego ekranu, efekt pękniętego ekranu, fałszywe uszkodzenie ekranu",
+  "useCases": {
+    "title": "Ludzie używają Pękniętego Ekranu do:",
+    "description": "Odkryj różne sposoby wykorzystania naszego efektu zepsutego ekranu",
+    "cases": [
+      {
+        "title": "Przestrasz Swoich Przyjaciół Realistycznym Żartem z Pękniętym Ekranem",
+        "description": "Przeprowadź ostateczny żart, sprawiając, że przyjaciele uwierzą, że ekran ich urządzenia się rozbił."
+      },
+      {
+        "title": "Twórz Angażujące Treści z Efektem Pękniętego Ekranu",
+        "description": "Ulepsz swoje filmy lub prezentacje, dodając dramatyczną nakładkę pękniętego ekranu."
+      },
+      {
+        "title": "Przetestuj Swoją Własną Reakcję na Uszkodzony Wyświetlacz",
+        "description": "Zobacz, jak zareagowałbyś na nieoczekiwane cyfrowe niepowodzenia, symulując pęknięty ekran."
+      },
+      {
+        "title": "Użyj Obrazu Pękniętego Ekranu do Kreatywnych Projektów",
+        "description": "Włącz wysokiej jakości wizualizacje pękniętego ekranu do swojej sztuki cyfrowej lub kreatywnych projektów."
+      },
+      {
+        "title": "Edukuj o Wytrzymałości Folii Ochronnych na Ekran",
+        "description": "Zademonstruj znaczenie ochrony ekranu, pokazując potencjalne uszkodzenia."
+      },
+      {
+        "title": "Urozmaić Swoje Recenzje Technologiczne Fałszywym Pękniętym Ekranem",
+        "description": "Dodaj twist do recenzji urządzeń, symulując uszkodzenie ekranu i omawiając wytrzymałość."
+      },
+      {
+        "title": "Włącz Pęknięty Ekran Online do Swojej Dekoracji na Halloween",
+        "description": "Zamień urządzenia w upiorne dekoracje za pomocą pełnoekranowej animacji pękniętego wyświetlacza."
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "🧭 Jak używać Fałszywego Zepsutego Ekranu",
+    "steps": [
+      "Otwórz stronę - Odwiedź stronę fałszywego zepsutego ekranu na swoim komputerze, tablecie lub telefonie",
+      "Przejdź na pełny ekran - Kliknij \"Pełny ekran\" lub naciśnij F11, aby fałszywy pęknięty ekran pokrył cały wyświetlacz",
+      "Wybierz swój efekt (jeśli obsługiwany) - Wybierz spośród różnych stylów — rozbite szkło, awaria LCD lub pęknięcie pajęczej sieci dla najbardziej realistycznego wyglądu",
+      "Użyj do zabawy lub testowania - Idealne do żartów, efektów wideo lub kalibracji ekranu"
+    ]
+  },
+  "faq": {
+    "title": "❓ FAQ – Fałszywy Zepsuty Ekran",
+    "subtitle": "Często zadawane pytania o nasz Efekt Zepsutego Ekranu",
+    "questions": [
+      {
+        "question": "1. Co to jest narzędzie Fałszywy Zepsuty Ekran?",
+        "answer": "To symulator oparty na przeglądarce, który wyświetla efekt pękniętego lub uszkodzonego ekranu na Twoim wyświetlaczu. Nie szkodzi Twojemu urządzeniu — to tylko iluzja wizualna."
+      },
+      {
+        "question": "2. Czy jest bezpieczny w użyciu?",
+        "answer": "Tak! Nie pobiera ani nie instaluje niczego. Po prostu pokazuje nakładkę obrazu w Twojej przeglądarce."
+      },
+      {
+        "question": "3. Czy mogę użyć go do żartu?",
+        "answer": "Oczywiście! 😄 Po prostu otwórz go na pełnym ekranie i podaj swoje urządzenie przyjacielowi — zobacz ich reakcję!"
+      },
+      {
+        "question": "4. Jak wyjść z efektu zepsutego ekranu?",
+        "answer": "Naciśnij Esc lub F11, aby natychmiast wrócić do normalnego wyświetlacza."
+      },
+      {
+        "question": "5. Czy działa na telefonach lub tabletach?",
+        "answer": "Tak, działa na każdym urządzeniu — komputerze stacjonarnym, laptopie lub przeglądarce mobilnej."
+      }
+    ]
+  }
+}

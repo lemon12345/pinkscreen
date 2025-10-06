@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "title": "Faux Écran Cassé",
+    "description": "Déverrouillez une infinité de plaisir et de créativité avec notre outil d'écran cassé en plein écran. Parfait pour les farces, la création de contenu et les fins éducatives.",
+    "badge": "Effet d'Écran",
+    "features": {
+      "noRegistration": "Aucune inscription",
+      "worksOffline": "Fonctionne hors ligne",
+      "allDevices": "Tous appareils"
+    }
+  },
+  "keywords": "écran cassé, écran fissuré, farce d'écran, faux écran cassé, écran de téléphone fissuré, écran cassé, effet d'écran, outil de farce, simulateur d'écran cassé, générateur d'écran fissuré, faux écran fissuré, blague d'écran cassé, simulation de dommage d'écran, effet d'écran fissuré, écran de téléphone cassé, simulateur de fissure d'écran, outil de farce d'écran, générateur d'écran cassé, effet d'écran fissuré, faux dommage d'écran",
+  "useCases": {
+    "title": "Les gens utilisent l'Écran Cassé pour:",
+    "description": "Découvrez les différentes façons d'utiliser notre effet d'écran cassé",
+    "cases": [
+      {
+        "title": "Effrayez Vos Amis avec une Farce d'Écran Cassé Réaliste",
+        "description": "Réalisez la farce ultime en faisant croire à vos amis que l'écran de leur appareil est brisé."
+      },
+      {
+        "title": "Créez du Contenu Engagé avec un Effet d'Écran Fissuré",
+        "description": "Améliorez vos vidéos ou présentations en ajoutant une superposition dramatique d'écran fissuré."
+      },
+      {
+        "title": "Testez Votre Propre Réaction à un Écran Cassé",
+        "description": "Voyez comment vous réagiriez à des incidents numériques inattendus en simulant un écran cassé."
+      },
+      {
+        "title": "Utilisez une Image d'Écran Cassé pour des Projets Créatifs",
+        "description": "Incorporez des visuels d'écran cassé de haute qualité dans votre art numérique ou vos designs créatifs."
+      },
+      {
+        "title": "Éduquez sur la Durabilité des Protecteurs d'Écran",
+        "description": "Démontrez l'importance de la protection de l'écran en montrant les dommages potentiels."
+      },
+      {
+        "title": "Pimentez Vos Critiques Technologiques avec un Faux Écran Cassé",
+        "description": "Ajoutez une touche originale à vos critiques de dispositifs en simulant des dommages à l'écran et en discutant de la durabilité."
+      },
+      {
+        "title": "Incorporez un Écran Fissuré en Ligne dans Votre Décoration d'Halloween",
+        "description": "Transformez vos appareils en décorations effrayantes avec une animation d'écran cassé en plein écran."
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "🧭 Comment utiliser le faux écran cassé",
+    "steps": [
+      "Ouvrir la page - Visitez la page d'écran cassé faux sur votre ordinateur, tablette ou téléphone",
+      "Passer en plein écran - Cliquez sur \"Plein écran\" ou appuyez sur F11 pour faire couvrir votre écran entier par l'écran fissuré faux",
+      "Choisir votre effet (si supporté) - Choisissez parmi différents styles — verre cassé, dysfonctionnement LCD, ou fissure d'araignée pour l'apparence la plus réaliste",
+      "L'utiliser pour s'amuser ou tester - Parfait pour les farces, effets vidéo ou calibrage d'écran"
+    ]
+  },
+  "faq": {
+    "title": "❓ FAQ – Faux écran cassé",
+    "subtitle": "Questions communes sur notre Effet d'Écran Cassé",
+    "questions": [
+      {
+        "question": "1. Qu'est-ce que l'outil faux écran cassé ?",
+        "answer": "C'est un simulateur basé sur le web qui affiche un effet d'écran fissuré ou endommagé sur votre écran. Il ne nuit pas à votre appareil — c'est juste une illusion visuelle."
+      },
+      {
+        "question": "2. Est-ce sûr à utiliser ?",
+        "answer": "Oui ! Il ne télécharge ou n'installe rien. Il affiche simplement une superposition d'image dans votre navigateur."
+      },
+      {
+        "question": "3. Puis-je faire une farce à quelqu'un avec ?",
+        "answer": "Absolument ! 😄 Ouvrez-le simplement en plein écran et donnez votre appareil à un ami — regardez leur réaction !"
+      },
+      {
+        "question": "4. Comment sortir de l'effet d'écran cassé ?",
+        "answer": "Appuyez sur Échap ou F11 pour revenir instantanément à votre affichage normal."
+      },
+      {
+        "question": "5. Cela fonctionne-t-il sur les téléphones ou tablettes ?",
+        "answer": "Oui, cela fonctionne sur n'importe quel appareil — bureau, ordinateur portable ou navigateur mobile."
+      }
+    ]
+  }
+}

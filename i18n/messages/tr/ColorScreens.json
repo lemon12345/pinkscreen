@@ -1,0 +1,20 @@
+{
+  "title": "Renkli Ekran Koleksiyonu",
+  "description": "Tam renkli ekran simülasyon koleksiyonumuzu keşfedin - klasik mavi ekrandan canlı gökkuşağı ekranlarına kadar. Şakalar, testler ve yaratıcı projeler için mükemmel.",
+  "badge": "Tam Renkli Ekran Koleksiyonu",
+  "screens": {
+    "pinkScreen": "Pembe Ekran",
+    "blueScreen": "Mavi Ekran",
+    "redScreen": "Kırmızı Ekran",
+    "greenScreen": "Yeşil Ekran",
+    "yellowScreen": "Sarı Ekran",
+    "orangeScreen": "Turuncu Ekran",
+    "purpleScreen": "Mor Ekran",
+    "blackScreen": "Siyah Ekran",
+    "whiteScreen": "Beyaz Ekran",
+    "zoomLighting": "Zoom Aydınlatma"
+  },
+  "footer": {
+    "description": "Tüm ekranlar ücretsizdir ve tüm cihazlarda çalışır"
+  }
+}

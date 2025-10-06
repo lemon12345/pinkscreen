@@ -10,6 +10,18 @@
     }
   },
   "keywords": "Beste Beleuchtung für Zoom-Anrufe, Zoom-Beleuchtung, Beleuchtung für Zoom-Meetings, Licht für Zoom-Meetings, Beleuchtung für Videokonferenzen, bestes Licht für Zoom-Meetings, Zoom-Beleuchtungsset, beste Zoom-Beleuchtung, bestes Licht für Videokonferenzen",
+  "colors": {
+    "Zoom Lighting": "Zoom-Beleuchtung",
+    "White": "Weißer",
+    "Black": "Schwarzer",
+    "Red": "Roter",
+    "Blue": "Blauer",
+    "Green": "Grüner",
+    "Yellow": "Gelber",
+    "Purple": "Lila",
+    "Pink": "Rosa",
+    "Orange": "Oranger"
+  },
   "colorPicker": {
     "title": "Wählen Sie Ihre Farbe",
     "custom": "Benutzerdefiniert",

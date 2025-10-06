@@ -1,0 +1,116 @@
+{
+  "hero": {
+    "title": "Falsk FBI Varningsskärm",
+    "description": "Falsk online FBI varningsskärm för att skämt med dina vänner. Denna enhet har låsts, vänta på att SWAT-teamet anländer!",
+    "badge": "FBI Varning Skämtverktyg"
+  },
+  "keywords": "falsk FBI varning, lagtillämpning skämt, polis varningsskärm, låst dator skämt, SWAT team skämt, falsk regeringsvarning, cyberbrott skämt, federal varningssimulator, falsk arrestering varning, FBI låsskärm",
+  "colorPicker": {
+    "title": "Falsk FBI Varning",
+    "description": "Realistisk FBI varningsskärm för ofarliga skämt och lagtillämpningsutbildning",
+    "launchButton": "Starta FBI Varning",
+    "clickHint": "Klicka på knappen ovan för att starta FBI varning skämt i helskärm"
+  },
+  "useCases": {
+    "title": "Folk använder FBI varning skämt för:",
+    "description": "Vår falska FBI varningssimulator ger realistisk lagtillämpningsupplevelse för utbildning och ofarliga skämt.",
+    "cases": [
+      {
+        "icon": "👮",
+        "title": "Lagtillämpningsträning",
+        "description": "Träna lagtillämpningspersonal om cyberbrottsutredningsprocedurer och datorkonfiskationsprotokoll."
+      },
+      {
+        "icon": "😂",
+        "title": "Kontors Aprilskämt",
+        "description": "Skapa det ultimata kontorsskämtet med realistisk FBI varning som avslöjar sig som ofarligt skämt."
+      },
+      {
+        "icon": "🎬",
+        "title": "Film & TV Produktion",
+        "description": "Perfekt för filmer, TV-show som kräver realistiska regerings-/FBI varningsskärmar och cyberbrottsscener."
+      },
+      {
+        "icon": "📚",
+        "title": "Cybersäkerhetsutbildning",
+        "description": "Demonstrera regerings cyberbrottstillämpning i cybersäkerhetsmedvetenhet och digital forensikträning."
+      },
+      {
+        "icon": "🎭",
+        "title": "Sociala Medier Innehåll",
+        "description": "Skapa engagerande reaktionsvideor och utbildningsinnehåll om cyberbrottstillämpning för sociala plattformar."
+      },
+      {
+        "icon": "🎪",
+        "title": "Ultimat Skämt",
+        "description": "Det mest övertygande datorlåsskämtet med realistiska FBI varningar och SWAT-teamreferenser."
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ – Falsk FBI Varningsskärm",
+    "description": "Vanliga frågor om den falska FBI varningsskärmensimulatorn",
+    "questions": [
+      {
+        "question": "Vad är den Falska FBI Varningsskärmen?",
+        "answer": "Det är en onlinesimulering av den klassiska FBI Anti-Pirateri Varningsskärmen som sågs på gamla DVD:er och band — återskapad för nöje och kreativ användning."
+      },
+      {
+        "question": "Är detta riktigt?",
+        "answer": "Nej 😄 Det är 100% falskt och gjort för underhållning eller utbildningsändamål."
+      },
+      {
+        "question": "Är det säkert att använda?",
+        "answer": "Absolut. Det körs helt i din webbläsare och kommer inte åt eller modifierar din dator på något sätt."
+      },
+      {
+        "question": "Kan jag använda det i min video eller stream?",
+        "answer": "Ja! Många innehållsskapare använder det som retro-introduktion, övergångsscen eller visuellt meme."
+      },
+      {
+        "question": "Hur gör jag det realistiskt?",
+        "answer": "Gå till helskärm, dämpa dina ljus och spela det innan din video börjar — det kommer att kännas som den riktiga saken."
+      },
+      {
+        "question": "Kan jag skämta med någon med detta?",
+        "answer": "Ja — det är bra för ofarliga skämt. Påminn dem bara att det inte är en riktig regeringsvarning 😅"
+      },
+      {
+        "question": "Kan jag ändra texten eller språket?",
+        "answer": "För närvarande är det en fast klassisk engelsk FBI-varning. Framtida versioner kan stödja anpassad text."
+      },
+      {
+        "question": "Fungerar det på alla enheter?",
+        "answer": "Ja, det fungerar på Windows, macOS, Android, iPhone och alla moderna webbläsare."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Ytterligare Skärmverktyg",
+    "description": "Utforska vår samling av specialiserade skärmverktyg för olika ändamål.",
+    "colorScreens": "Färgskärmar",
+    "prankScreens": "Skämt Skärmar",
+    "fakeUpdateScreens": "Falska Uppdateringsskärmar",
+    "screensaverScreens": "Skärmsläckare Skärmar"
+  },
+  "howToUse": {
+    "title": "🧭 Hur man Använder den Falska FBI Varningsskärmen",
+    "steps": [
+      "Öppna sidan - Gå till fbi-warning i din dator- eller mobilwebbläsare.",
+      "Helskärm - Klicka på \"Helskärm\" eller tryck på F11 för att göra så att den falska FBI-varningen fyller hela din skärm — som en gammal DVD-start.",
+      "Välj din skämt eller visning - Använd som rolig filmintroduktion, låtsas att din PC fick en \"federal varning\" 😆, eller ställ in som retro biografbakgrund.",
+      "Använd för kreativa projekt - Perfekt för videoeditörer, filmskapare, streamers och meme-skapare som vill ha den klassiska FBI Anti-Pirateri Varningsutseendet.",
+      "Avsluta när som helst - Tryck på Esc eller F11 igen för att säkert lämna helskärmsläge."
+    ]
+  },
+  "techSpecs": {
+    "title": "Tekniska Specifikationer",
+    "specs": [
+      "Gränssnitt: Realistisk FBI/regeringsvarningssimulering",
+      "Funktioner: Nedräkningstimer, officiellt utseende märken och varningar",
+      "Säkerhet: 100% ofarlig - ingen faktisk regeringsinblandning",
+      "Kompatibilitet: Alla moderna webbläsare och enheter",
+      "Utbildning: Perfekt för cybersäkerhets- och lagtillämpningsträning"
+    ]
+  }
+}

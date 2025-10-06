@@ -1,0 +1,75 @@
+{
+  "title": "Plus d'Outils d'Écran",
+  "description": "Explorez notre collection complète d'outils d'écran - simulateurs de système, économiseurs d'écran, simulations d'effets et plus pour tous vos besoins",
+  "badge": "Collection d'Outils d'Écran Professionnels",
+  "categories": {
+    "systemSimulation": "Simulation de Système",
+    "screensaver": "Animation d'Économiseur d'Écran",
+    "effects": "Simulation d'Effets"
+  },
+  "tools": {
+    "bios": {
+      "name": "Écran BIOS",
+      "description": "Simulez l'interface de démarrage BIOS de l'ordinateur"
+    },
+    "fakeWindows11Update": {
+      "name": "Écran de Mise à Jour Windows 11",
+      "description": "Simuler l'interface de mise à jour du système Windows 11"
+    },
+    "fakeWindows10Update": {
+      "name": "Écran de Mise à Jour Windows 10",
+      "description": "Simuler l'interface de mise à jour du système Windows 10"
+    },
+    "fakeWindowsXpUpdate": {
+      "name": "Écran de Mise à Jour Windows XP",
+      "description": "Simuler l'interface de mise à jour du système Windows XP"
+    },
+    "fakeMacOsXUpdate": {
+      "name": "Écran de Mise à Jour Mac OS X",
+      "description": "Simuler l'interface de mise à jour du système Mac OS X"
+    },
+    "fakeUbuntuUpdate": {
+      "name": "Écran de Mise à Jour Ubuntu 22.04",
+      "description": "Simuler l'interface de mise à jour du système Ubuntu 22.04"
+    },
+    "fakeAndroidUpdate": {
+      "name": "Écran de Mise à Jour Android",
+      "description": "Simuler l'interface de mise à jour du système Android"
+    },
+    "fakeDos": {
+      "name": "Simulateur DOS",
+      "description": "Simuler l'interface de ligne de commande DOS classique"
+    },
+    "fakeVirus": {
+      "name": "Écran d'Avertissement de Virus",
+      "description": "Simuler l'interface d'avertissement de virus informatique"
+    },
+    "fbiWarning": {
+      "name": "Écran d'Avertissement FBI",
+      "description": "Simuler l'interface d'avertissement de droits d'auteur FBI"
+    },
+    "dvdScreensaver": {
+      "name": "Économiseur d'Écran DVD",
+      "description": "Animation classique d'économiseur d'écran de lecteur DVD"
+    },
+    "brokenScreen": {
+      "name": "Écran Cassé",
+      "description": "Simuler l'effet d'écran fissuré"
+    },
+    "blueScreenOfDeath": {
+      "name": "Écran Bleu de la Mort Windows",
+      "description": "Simuler l'interface d'écran bleu de la mort de Windows"
+    },
+    "hackerTyper": {
+      "name": "Simulateur Hacker",
+      "description": "Créer des effets de frappe hacker réalistes et des simulations de terminal"
+    },
+    "noSignalScreensaver": {
+      "name": "Économiseur d'Écran Sans Signal Color Bars",
+      "description": "Simuler l'économiseur d'écran de barres de couleur sans signal TV"
+    }
+  },
+  "footer": {
+    "description": "Tous les outils sont gratuits et ne nécessitent pas d'inscription"
+  }
+}

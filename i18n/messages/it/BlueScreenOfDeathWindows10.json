@@ -1,0 +1,85 @@
+{
+  "hero": {
+    "badge": "Simulatore BSOD Windows 10",
+    "title": "Falso Schermo Blu della Morte Windows 10 (BSOD) – Simulatore Online e Strumento Scherzo",
+    "description": "Simula lo Schermo Blu della Morte Windows 10 (BSOD) online. Perfetto per scherzi, demo tecniche o nostalgia. Funziona in sicurezza nel tuo browser — nessun download o rischio del sistema.",
+    "features": {
+      "noRegistration": "Nessuna Registrazione",
+      "worksOffline": "Funziona Offline",
+      "allDevices": "Tutti i Dispositivi"
+    },
+    "chooseScreen": "Scegli Schermo",
+    "chooseScreenDescription": "Seleziona dalla nostra collezione di simulazioni di schermo realistiche",
+    "fullScreen": "Schermo Intero",
+    "custom": "Personalizzato",
+    "description": "Perfetto per scherzi, demo tecniche e nostalgia",
+    "launchButton": "Avvia Schermo Blu della Morte"
+  },
+  "useCases": {
+    "title": "Le persone usano lo Schermo Blu della Morte per:",
+    "case1": {
+      "title": "Fare Scherzi agli Amici con Crash Windows Falso",
+      "description": "Sorprendi i tuoi amici con una simulazione realistica dello Schermo Blu della Morte. Il nostro simulatore BSOD mostra messaggi di errore Windows autentici e schermi di crash, perfetto per scherzi innocui e dimostrazioni tecniche."
+    },
+    "case2": {
+      "title": "Demo Tecniche e Presentazioni",
+      "description": "Usa il nostro simulatore BSOD per dimostrazioni tecniche, sessioni di formazione o presentazioni sugli errori Windows. Mostra scenari di crash realistici senza rischiare danni reali al sistema."
+    },
+    "case3": {
+      "title": "Esperienza Windows Nostalgica",
+      "description": "Rivivi l'esperienza Windows classica con il nostro simulatore autentico dello Schermo Blu della Morte. Perfetto per chi ricorda gli schermi di crash Windows iconici dei sistemi operativi precedenti."
+    },
+    "case4": {
+      "title": "Educazione Informatica",
+      "description": "Insegna agli studenti errori del sistema Windows e scenari di crash usando il nostro simulatore BSOD sicuro. Dimostra concetti di gestione errori senza causare guasti reali del sistema."
+    },
+    "case5": {
+      "title": "Creazione Contenuti e Video",
+      "description": "Crea contenuti coinvolgenti con il nostro simulatore dello Schermo Blu della Morte. Perfetto per canali tecnici, video comici o contenuti educativi sui sistemi informatici e gli errori."
+    },
+    "case6": {
+      "title": "Test e Sviluppo",
+      "description": "Usa il nostro simulatore BSOD per test software, sviluppo UI o dimostrazioni di gestione errori. Modo sicuro per testare come le applicazioni rispondono agli scenari di errore del sistema."
+    },
+    "case7": {
+      "title": "Test Schermo e Calibrazione",
+      "description": "Usa il nostro simulatore BSOD per test di visualizzazione, calibrazione colori e diagnostica schermo. Perfetto per testare le impostazioni del monitor e identificare problemi di visualizzazione."
+    }
+  },
+  "howToUse": {
+    "title": "🧭 Come Usare il Falso Schermo Blu della Morte Windows 10",
+    "steps": [
+      "Aprire la pagina - Visita blue-screen-of-death-windows-10 nel tuo browser.",
+      "Schermo intero - Clicca su \"Schermo Intero\" o premi F11 per farlo sembrare un vero crash del sistema Windows 10.",
+      "Osservare il falso BSOD - La pagina mostra la faccia triste :(, codice QR e messaggio del codice di arresto — esattamente come un vero schermo blu Windows 10.",
+      "Usarlo per divertimento o insegnamento - Perfetto per scherzi, lezioni dimostrative o effetti visivi retro stile Windows.",
+      "Uscire in qualsiasi momento - Premi Esc o F11 di nuovo per uscire dalla modalità schermo intero in sicurezza."
+    ]
+  },
+  "faq": {
+    "title": "FAQ – Falso Schermo Blu della Morte Windows 10",
+    "q1": "Cos'è il Falso Schermo Blu della Morte Windows 10?",
+    "a1": "È una simulazione online del vero BSOD Windows 10 — completa con la faccia triste e il codice QR — fatta puramente per divertimento o uso educativo.",
+    "q2": "È sicuro?",
+    "a2": "Sì. È completamente basato sul browser e non influisce affatto sul tuo computer.",
+    "q3": "Posso usarlo per fare uno scherzo a qualcuno?",
+    "a3": "Assolutamente! 😄 Aprilo a schermo intero e guarda il tuo amico andare in panico quando appare il \"crash del sistema\"!",
+    "q4": "Come esco dallo schermo?",
+    "a4": "Premi Esc o F11 per tornare alla modalità normale istantaneamente.",
+    "q5": "Funziona su macOS o Linux?",
+    "a5": "Sì — anche se mostra un crash in stile Windows 10, funziona su qualsiasi browser web moderno.",
+    "q6": "Posso usarlo nei miei video o demo?",
+    "a6": "Sì! È spesso usato da YouTuber tech, streamer e formatori IT per scene di crash realistiche.",
+    "q7": "Causa danni o perdita di dati?",
+    "a7": "No. È solo una simulazione visiva. Il tuo dispositivo e i file sono al 100% sicuri."
+  },
+  "keywords": "falso schermo blu della morte, simulatore BSOD, crash Windows 10, falso crash Windows, scherzo schermo blu, simulatore errore Windows, falso crash sistema, Windows 10 BSOD, simulatore schermo crash, falso errore Windows",
+  "additionalTools": {
+    "title": "Strumenti Schermo Aggiuntivi",
+    "description": "Esplora la nostra collezione di strumenti schermo specializzati per vari scopi.",
+    "colorScreens": "Schermi Colore",
+    "prankScreens": "Schermi Scherzo",
+    "systemScreens": "Schermi Sistema",
+    "screensavers": "Salvaschermo"
+  }
+}

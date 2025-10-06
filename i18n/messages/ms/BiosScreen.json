@@ -1,0 +1,128 @@
+{
+  "hero": {
+    "badge": "Alat Simulator BIOS",
+    "title": "Simulator Phoenix BIOS Setup Utility",
+    "description": "Simulator CMOS bios interaktif dalam talian dengan menu navigasi dan tetapan utama, lanjutan, keselamatan dan but",
+    "features": {
+      "noRegistration": "Tiada pendaftaran",
+      "worksOffline": "Berfungsi luar talian",
+      "allDevices": "Semua peranti"
+    }
+  },
+  "keywords": "simulator BIOS, Phoenix BIOS, tetapan BIOS, tetapan CMOS, BIOS dalam talian, pendidikan BIOS, tetapan sistem, pendidikan komputer, latihan IT, antara muka BIOS, konfigurasi sistem",
+  "colorPicker": {
+    "title": "Simulator BIOS",
+    "custom": "Tersuai",
+    "description": "Sempurna untuk pendidikan IT, demonstrasi teknikal dan pembelajaran sistem",
+    "launchButton": "Lancarkan Simulator BIOS",
+    "clickHint": "Klik butang di atas untuk melancarkan simulator BIOS skrin penuh",
+    "previewAlt": "Pratonton Phoenix BIOS Setup Utility",
+    "biosTitle": "Phoenix TrustedBios(tm) CMOS Setup Utility"
+  },
+  "useCases": {
+    "title": "Orang menggunakan simulator BIOS untuk:",
+    "description": "Simulator BIOS kami menyediakan pengalaman BIOS yang autentik untuk pelbagai senario profesional dan pembelajaran.",
+    "cases": [
+      {
+        "icon": "🔧",
+        "title": "Pembelajaran Penyelenggaraan Sistem",
+        "description": "Belajar dan amalkan tetapan BIOS dengan selamat, fahami pilihan konfigurasi tahap rendah komputer dan parameter sistem."
+      },
+      {
+        "icon": "📚",
+        "title": "Pendidikan & Latihan IT",
+        "description": "Digunakan untuk pengajaran sains komputer dan latihan IT, membolehkan pelajar belajar operasi antara muka BIOS dengan selamat."
+      },
+      {
+        "icon": "🎭",
+        "title": "Demonstrasi Teknikal",
+        "description": "Cipta video demonstrasi teknikal, lakukan simulasi kegagalan sistem atau tunjukkan proses konfigurasi perkakasan."
+      },
+      {
+        "icon": "🎮",
+        "title": "Pengalaman Nostalgik",
+        "description": "Alami antara muka Phoenix BIOS klasik, kenang kembali detik-detik bersejarah perkembangan komputer."
+      },
+      {
+        "icon": "🛠️",
+        "title": "Amalan Penyelesaian Masalah",
+        "description": "Amalkan prosedur penyelesaian masalah BIOS dan kaedah pemulihan tetapan untuk meningkatkan kemahiran teknikal."
+      },
+      {
+        "icon": "💻",
+        "title": "Pembelajaran Konfigurasi Perkakasan",
+        "description": "Fahami proses but komputer, pengesanan perkakasan dan prinsip asas konfigurasi sistem."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Soalan Lazim",
+    "description": "Soalan dan jawapan biasa tentang simulator BIOS",
+    "questions": [
+      {
+        "question": "Apakah simulator BIOS?",
+        "answer": "Simulator BIOS adalah alat dalam talian yang mensimulasikan sepenuhnya antara muka Phoenix BIOS setup tradisional, menyediakan pengalaman operasi BIOS yang autentik."
+      },
+      {
+        "question": "Adakah selamat menggunakan simulator BIOS?",
+        "answer": "Sepenuhnya selamat! Ini hanyalah simulator web yang tidak akan menjejaskan komputer sebenar atau tetapan sistem anda dengan cara apa pun."
+      },
+      {
+        "question": "Bagaimana untuk beroperasi dalam mod skrin penuh?",
+        "answer": "Gunakan kekunci anak panah papan kekunci untuk navigasi: anak panah kiri/kanan tukar menu, anak panah atas/bawah pilih item, Enter untuk mengesahkan, F9 atau Esc untuk keluar."
+      },
+      {
+        "question": "Adakah simulator ini sesuai untuk pengajaran?",
+        "answer": "Sudah tentu! Simulator ini direka khusus untuk pendidikan IT, membolehkan pelajar belajar operasi BIOS dan konfigurasi sistem dengan selamat."
+      },
+      {
+        "question": "Bolehkah ia digunakan untuk demonstrasi teknikal?",
+        "answer": "Sudah tentu! Anda boleh menggunakan simulator ini untuk mencipta video pendidikan, demonstrasi teknikal atau melakukan simulasi kegagalan sistem."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Alat Skrin Tambahan",
+    "description": "Terokai koleksi alat skrin khusus kami untuk pelbagai tujuan.",
+    "colorScreens": "Skrin Warna",
+    "prankScreens": "Skrin Gurauan",
+    "fakeUpdateScreens": "Skrin Kemas Kini Palsu",
+    "screensaverScreens": "Skrin Penjimat Skrin"
+  },
+  "howToUse": {
+    "title": "🧭 Cara Menggunakan Simulator BIOS",
+    "description": "Ikuti langkah-langkah mudah ini untuk menavigasi dan menggunakan simulator BIOS dengan berkesan.",
+    "steps": [
+      {
+        "title": "Lancarkan simulator",
+        "description": "Klik butang \"Lancarkan Simulator BIOS\" untuk masuk ke mod skrin penuh dan mula meneroka antara muka BIOS."
+      },
+      {
+        "title": "Navigasi menu",
+        "description": "Gunakan kekunci anak panah kiri dan kanan untuk bertukar antara menu BIOS yang berbeza (Utama, Lanjutan, Keselamatan, But, Keluar)."
+      },
+      {
+        "title": "Pilih item",
+        "description": "Gunakan kekunci anak panah atas dan bawah untuk menavigasi item menu dan memilih tetapan BIOS yang berbeza."
+      },
+      {
+        "title": "Keluar dari skrin penuh",
+        "description": "Tekan kekunci ESC atau F9 untuk keluar dari mod skrin penuh dan kembali ke halaman utama."
+      }
+    ],
+    "tip": {
+      "title": "Petua profesional",
+      "description": "Simulator BIOS menyediakan pengalaman yang autentik - semua navigasi papan kekunci berfungsi sama seperti antara muka BIOS sebenar!"
+    }
+  },
+  "techSpecs": {
+    "title": "Spesifikasi Teknikal",
+    "specs": [
+      "Antara muka: Phoenix TrustedBios CMOS Setup",
+      "Menu: Utama, Lanjutan, Keselamatan, But, Keluar",
+      "Operasi: Sokongan navigasi papan kekunci penuh",
+      "Keserasian: Semua pelayar moden",
+      "Ciri-ciri: Simulasi antara muka BIOS autentik"
+    ]
+  }
+}

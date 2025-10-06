@@ -1,0 +1,75 @@
+{
+  "title": "Fler Skärmsverktyg",
+  "description": "Utforska vår kompletta samling av skärmsverktyg - systemsimulatorer, skärmsläckare, effektsimuleringar och mer för alla dina behov",
+  "badge": "Professionell Samling av Skärmsverktyg",
+  "categories": {
+    "systemSimulation": "System Simulering",
+    "screensaver": "Skärmsläckare Animation",
+    "effects": "Effekt Simulering"
+  },
+  "tools": {
+    "bios": {
+      "name": "BIOS Skärm",
+      "description": "Simulera datorns BIOS startgränssnitt"
+    },
+    "fakeWindows11Update": {
+      "name": "Windows 11 Uppdateringsskärm",
+      "description": "Simulera Windows 11 systemuppdateringsgränssnitt"
+    },
+    "fakeWindows10Update": {
+      "name": "Windows 10 Uppdateringsskärm",
+      "description": "Simulera Windows 10 systemuppdateringsgränssnitt"
+    },
+    "fakeWindowsXpUpdate": {
+      "name": "Windows XP Uppdateringsskärm",
+      "description": "Simulera Windows XP systemuppdateringsgränssnitt"
+    },
+    "fakeMacOsXUpdate": {
+      "name": "Mac OS X Uppdateringsskärm",
+      "description": "Simulera Mac OS X systemuppdateringsgränssnitt"
+    },
+    "fakeUbuntuUpdate": {
+      "name": "Ubuntu 22.04 Uppdateringsskärm",
+      "description": "Simulera Ubuntu 22.04 systemuppdateringsgränssnitt"
+    },
+    "fakeAndroidUpdate": {
+      "name": "Android Uppdateringsskärm",
+      "description": "Simulera Android systemuppdateringsgränssnitt"
+    },
+    "fakeDos": {
+      "name": "DOS Simulator",
+      "description": "Simulera klassiskt DOS kommandoradsgränssnitt"
+    },
+    "fakeVirus": {
+      "name": "Virus Varningsskärm",
+      "description": "Simulera datorvirus varningsgränssnitt"
+    },
+    "fbiWarning": {
+      "name": "FBI Varningsskärm",
+      "description": "Simulera FBI upphovsrätts varningsgränssnitt"
+    },
+    "dvdScreensaver": {
+      "name": "DVD Skärmsläckare",
+      "description": "Klassisk DVD-spelare skärmsläckare animation"
+    },
+    "brokenScreen": {
+      "name": "Trasig Skärm",
+      "description": "Simulera sprucken skärmeffekt"
+    },
+    "blueScreenOfDeath": {
+      "name": "Windows Blue Screen of Death",
+      "description": "Simulera Windows Blue Screen of Death gränssnitt"
+    },
+    "hackerTyper": {
+      "name": "Hacker Simulator",
+      "description": "Skapa realistiska hacker-typingeffekter och terminalsimuleringar"
+    },
+    "noSignalScreensaver": {
+      "name": "Ingen Signal Color Bars Skärmsläckare",
+      "description": "Simulera TV ingen signal färgstänger skärmsläckare"
+    }
+  },
+  "footer": {
+    "description": "Alla verktyg är gratis och kräver ingen registrering"
+  }
+}

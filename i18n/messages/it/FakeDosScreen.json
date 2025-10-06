@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Falso Formattaggio Disco - Scherzo DOS Online",
+    "description": "Inganna i tuoi amici con lo scherzo DOS online che sembra formattare l'unità disco ma in realtà non fa alcun danno.",
+    "badge": "Strumento Scherzo DOS"
+  },
+  "keywords": "falso DOS, scherzo formattaggio disco, scherzo DOS online, falso formattaggio disco, scherzo computer, simulatore DOS, scherzo prompt comando, falso format C, scherzo innocuo, schermo DOS",
+  "colorPicker": {
+    "title": "Scherzo DOS Falso",
+    "description": "Perfetto per fare scherzi agli amici con simulazione formattaggio DOS realistica",
+    "launchButton": "Avvia Scherzo DOS",
+    "clickHint": "Clicca il pulsante sopra per avviare scherzo DOS schermo intero"
+  },
+  "useCases": {
+    "title": "Le persone usano lo scherzo DOS per:",
+    "description": "Il nostro simulatore DOS falso fornisce un'esperienza di formattaggio DOS realistica per scherzi innocui e intrattenimento.",
+    "cases": [
+      {
+        "icon": "😂",
+        "title": "Scherzi Innocui",
+        "description": "Fai scherzi in sicurezza ad amici e colleghi con simulazione formattaggio DOS realistica senza alcun danno reale."
+      },
+      {
+        "icon": "🎭",
+        "title": "Video Intrattenimento",
+        "description": "Crea video di reazione divertenti e contenuti di intrattenimento con interfaccia DOS autentica."
+      },
+      {
+        "icon": "🎪",
+        "title": "Pesce d'Aprile",
+        "description": "Perfetto per scherzi del Pesce d'Aprile e momenti di intrattenimento a sorpresa con gli amici."
+      },
+      {
+        "icon": "📱",
+        "title": "Contenuti Social Media",
+        "description": "Genera contenuti social media coinvolgenti e post tech divertenti per il tuo pubblico."
+      },
+      {
+        "icon": "🎬",
+        "title": "Cinema & Teatro",
+        "description": "Usa in film, produzioni teatrali o dimostrazioni educative che richiedono interfaccia DOS."
+      },
+      {
+        "icon": "🎮",
+        "title": "Gaming Retro",
+        "description": "Sperimenta l'interfaccia DOS nostalgica e ricorda l'era informatica classica."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "description": "Domande comuni sul simulatore scherzo DOS falso",
+    "questions": [
+      {
+        "question": "È sicuro usare questo scherzo DOS?",
+        "answer": "Assolutamente sicuro! Questa è solo una simulazione web che imita il formattaggio DOS. Non formatta realmente né danneggia alcun file sul tuo computer."
+      },
+      {
+        "question": "Cancellerà realmente i miei file?",
+        "answer": "No! Questa è puramente una simulazione visiva. Nessun file viene cancellato, nessun formattaggio avviene. È completamente innocuo e sicuro."
+      },
+      {
+        "question": "Come esco dallo scherzo?",
+        "answer": "Premi il tasto ESC o F11 per uscire dalla modalità schermo intero. Lo scherzo si rivelerà anche automaticamente dopo il completamento."
+      },
+      {
+        "question": "Posso usarlo su dispositivi mobili?",
+        "answer": "Sì! Lo scherzo DOS funziona su tutti i dispositivi inclusi smartphone e tablet con supporto schermo intero."
+      },
+      {
+        "question": "È adatto per scherzi in ufficio?",
+        "answer": "Sebbene innocuo, per favore usalo responsabilmente e considera il tuo ambiente di lavoro prima di fare scherzi ai colleghi."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Strumenti Schermo Aggiuntivi",
+    "description": "Esplora la nostra collezione di strumenti schermo specializzati per vari scopi.",
+    "colorScreens": "Schermi Colore",
+    "prankScreens": "Schermi Scherzo",
+    "fakeUpdateScreens": "Schermi Aggiornamento Falso",
+    "screensaverScreens": "Schermi Salvaschermo"
+  },
+  "howToUse": {
+    "title": "Come Usare",
+    "steps": [
+      "Clicca il pulsante di avvio per entrare nello scherzo DOS schermo intero",
+      "Guarda come il processo di formattaggio falso inizia automaticamente",
+      "Il sistema mostrerà comandi DOS realistici e progresso",
+      "Dopo il completamento, lo scherzo si rivela con un messaggio innocuo",
+      "Premi ESC o F11 per uscire dalla modalità schermo intero in qualsiasi momento"
+    ]
+  },
+  "techSpecs": {
+    "title": "Specifiche Tecniche",
+    "specs": [
+      "Interfaccia: Simulazione prompt comando DOS autentica",
+      "Funzionalità: Animazione formattaggio disco realistica",
+      "Sicurezza: 100% innocuo - nessun formattaggio reale avviene",
+      "Compatibilità: Tutti i browser e dispositivi moderni",
+      "Durata: Sequenza scherzo automatica con rivelazione"
+    ]
+  }
+}

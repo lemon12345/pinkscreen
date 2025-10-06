@@ -63,27 +63,47 @@
     ]
   },
   "faq": {
-    "title": "Frequently Asked Questions",
+    "title": "FAQ – Zoom Lighting Online",
     "questions": [
       {
-        "question": "What is zoom lighting used for?",
-        "answer": "Zoom lighting is used to create optimal lighting conditions for video conferencing, photography, eLearning, and various professional applications where proper lighting is essential."
+        "question": "What is Zoom Lighting Online?",
+        "answer": "Zoom Lighting Online is a free web tool that turns your screen into a bright, soft light source — perfect for improving your appearance on video calls, live streams, or online meetings."
       },
       {
-        "question": "How do I use zoom lighting for video calls?",
-        "answer": "Simply open our zoom lighting screen and adjust the color temperature and brightness to create the perfect lighting for your video calls. The warm, adjustable lighting helps improve your appearance on camera."
+        "question": "How do I use it?",
+        "answer": "Simply open the page, choose your preferred brightness or color, and make your browser full screen. The screen will act as a virtual light for your face or background."
       },
       {
-        "question": "Can I use zoom lighting for photography?",
-        "answer": "Yes! Our zoom lighting screen provides adjustable color and temperature settings that are perfect for photography backdrops and creating the ideal lighting conditions for your photoshoots."
+        "question": "Does it really make me look better on Zoom?",
+        "answer": "Yes! A bright, even light helps your camera capture clearer, more natural skin tones. It reduces shadows and makes your video look more professional."
       },
       {
-        "question": "Why use zoom lighting for eLearning?",
-        "answer": "Proper lighting is crucial for eLearning environments. Our zoom lighting screen creates optimal reading conditions and helps reduce eye strain, improving concentration and learning outcomes."
+        "question": "Can I adjust the brightness or color temperature?",
+        "answer": "Yes. Use your device's brightness controls, or switch between white, warm, and cool color options to find the lighting that suits you best."
       },
       {
-        "question": "Is zoom lighting good for web development?",
-        "answer": "Yes, web developers can use our zoom lighting screen to test how different lighting conditions affect the appearance of their designs, ensuring their websites look great under various lighting scenarios."
+        "question": "Is Zoom Lighting safe for my eyes?",
+        "answer": "Yes, it's completely safe. However, avoid staring directly at bright white light for long periods — use it at a comfortable brightness level."
+      },
+      {
+        "question": "Does it work on phones or tablets?",
+        "answer": "Absolutely. Zoom Lighting works on any device with a web browser — desktop, laptop, tablet, or mobile."
+      },
+      {
+        "question": "Do I need to download anything?",
+        "answer": "No downloads or sign-ups required. Just open the page and use it instantly."
+      },
+      {
+        "question": "Can I use it for photography or streaming too?",
+        "answer": "Yes. Many people use Zoom Lighting as a quick and simple soft light for YouTube videos, Twitch streams, and portrait photos."
+      },
+      {
+        "question": "Is it free to use?",
+        "answer": "Yes, Zoom Lighting Online is 100% free and doesn't include any ads or watermarks."
+      },
+      {
+        "question": "Does it work offline?",
+        "answer": "You need an internet connection to load the page, but once it's loaded, it will continue to display the light even if your connection drops."
       }
     ]
   },

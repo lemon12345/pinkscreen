@@ -1,0 +1,75 @@
+{
+  "title": "Altri Strumenti Schermo",
+  "description": "Esplora la nostra collezione completa di strumenti schermo - simulatori di sistema, salvaschermi, simulazioni di effetti e altro per tutte le tue esigenze",
+  "badge": "Collezione Strumenti Schermo Professionali",
+  "categories": {
+    "systemSimulation": "Simulazione Sistema",
+    "screensaver": "Animazione Salvaschermo",
+    "effects": "Simulazione Effetti"
+  },
+  "tools": {
+    "bios": {
+      "name": "Schermo BIOS",
+      "description": "Simula l'interfaccia di avvio BIOS del computer"
+    },
+    "fakeWindows11Update": {
+      "name": "Schermo Aggiornamento Windows 11",
+      "description": "Simula l'interfaccia di aggiornamento del sistema Windows 11"
+    },
+    "fakeWindows10Update": {
+      "name": "Schermo Aggiornamento Windows 10",
+      "description": "Simula l'interfaccia di aggiornamento del sistema Windows 10"
+    },
+    "fakeWindowsXpUpdate": {
+      "name": "Schermo Aggiornamento Windows XP",
+      "description": "Simula l'interfaccia di aggiornamento del sistema Windows XP"
+    },
+    "fakeMacOsXUpdate": {
+      "name": "Schermo Aggiornamento Mac OS X",
+      "description": "Simula l'interfaccia di aggiornamento del sistema Mac OS X"
+    },
+    "fakeUbuntuUpdate": {
+      "name": "Schermo Aggiornamento Ubuntu 22.04",
+      "description": "Simula l'interfaccia di aggiornamento del sistema Ubuntu 22.04"
+    },
+    "fakeAndroidUpdate": {
+      "name": "Schermo Aggiornamento Android",
+      "description": "Simula l'interfaccia di aggiornamento del sistema Android"
+    },
+    "fakeDos": {
+      "name": "Simulatore DOS",
+      "description": "Simula l'interfaccia della riga di comando DOS classica"
+    },
+    "fakeVirus": {
+      "name": "Schermo Avviso Virus",
+      "description": "Simula l'interfaccia di avviso virus del computer"
+    },
+    "fbiWarning": {
+      "name": "Schermo Avviso FBI",
+      "description": "Simula l'interfaccia di avviso copyright FBI"
+    },
+    "dvdScreensaver": {
+      "name": "Salvaschermo DVD",
+      "description": "Animazione classica del salvaschermo del lettore DVD"
+    },
+    "brokenScreen": {
+      "name": "Schermo Rotto",
+      "description": "Simula l'effetto schermo incrinato"
+    },
+    "blueScreenOfDeath": {
+      "name": "Schermo Blu della Morte Windows",
+      "description": "Simula l'interfaccia dello schermo blu della morte di Windows"
+    },
+    "hackerTyper": {
+      "name": "Simulatore Hacker",
+      "description": "Crea effetti di digitazione hacker realistici e simulazioni di terminale"
+    },
+    "noSignalScreensaver": {
+      "name": "Salvaschermo Nessun Segnale Color Bars",
+      "description": "Simula il salvaschermo delle barre colorate senza segnale TV"
+    }
+  },
+  "footer": {
+    "description": "Tutti gli strumenti sono gratuiti e non richiedono registrazione"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "title": "Tela Quebrada Falsa",
+    "description": "Desbloqueie diversão e criatividade sem fim com nossa ferramenta de tela quebrada falsa em tela cheia. Perfeita para pegadinhas, criação de conteúdo e fins educacionais.",
+    "badge": "Efeito de Tela",
+    "features": {
+      "noRegistration": "Sem Registro",
+      "worksOffline": "Funciona Offline",
+      "allDevices": "Todos os Dispositivos"
+    }
+  },
+  "keywords": "tela quebrada, tela rachada, brincadeira de tela, tela quebrada falsa, tela de telefone rachada, tela quebrada, efeito de tela, ferramenta de brincadeira, simulador de tela quebrada, gerador de tela rachada, tela rachada falsa, brincadeira de tela quebrada, simulação de dano de tela, efeito de tela rachada, tela de telefone quebrada, simulador de rachadura de tela, ferramenta de brincadeira de tela, gerador de tela quebrada, efeito de tela rachada, dano de tela falso",
+  "useCases": {
+    "title": "As pessoas usam a Tela Quebrada para:",
+    "description": "Descubra várias maneiras de usar nosso efeito de tela quebrada",
+    "cases": [
+      {
+        "title": "Assuste Seus Amigos com uma Pegadinha Realista de Tela Quebrada",
+        "description": "Faça a pegadinha definitiva fazendo seus amigos acreditarem que a tela do dispositivo deles está quebrada."
+      },
+      {
+        "title": "Crie Conteúdo Envolvente com um Efeito de Tela Rachada",
+        "description": "Melhore seus vídeos ou apresentações adicionando uma sobreposição de tela rachada dramática."
+      },
+      {
+        "title": "Teste Sua Própria Reação a um Display Quebrado",
+        "description": "Veja como você reagiria a imprevistos digitais simulando uma tela quebrada."
+      },
+      {
+        "title": "Use uma Imagem de Tela Quebrada para Projetos Criativos",
+        "description": "Incorpore visuais de tela quebrada de alta qualidade em sua arte digital ou designs criativos."
+      },
+      {
+        "title": "Eduque Sobre a Durabilidade dos Protetores de Tela",
+        "description": "Demonstre a importância da proteção da tela mostrando possíveis danos."
+      },
+      {
+        "title": "Apimente Suas Avaliações de Tecnologia com uma Tela Quebrada Falsa",
+        "description": "Adicione um toque às avaliações de dispositivos simulando danos na tela e discutindo a durabilidade."
+      },
+      {
+        "title": "Incorpore uma Tela Rachada Online na Sua Decoração de Halloween",
+        "description": "Transforme dispositivos em decorações assustadoras com uma animação de display quebrado em tela cheia."
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "🧭 Como usar a Tela Quebrada Falsa",
+    "steps": [
+      "Abra a página - Visite a página de tela quebrada falsa no seu computador, tablet ou telefone",
+      "Vá para tela cheia - Clique em \"Tela Cheia\" ou pressione F11 para fazer a tela rachada falsa cobrir toda a sua tela",
+      "Escolha seu efeito (se suportado) - Escolha entre diferentes estilos — vidro quebrado, falha LCD, ou rachadura de teia de aranha para a aparência mais realista",
+      "Use para diversão ou teste - Perfeito para brincadeiras, efeitos de vídeo ou calibração de tela"
+    ]
+  },
+  "faq": {
+    "title": "❓ FAQ – Tela Quebrada Falsa",
+    "subtitle": "Perguntas comuns sobre nosso Efeito de Tela Quebrada",
+    "questions": [
+      {
+        "question": "1. O que é a ferramenta Tela Quebrada Falsa?",
+        "answer": "É um simulador baseado na web que exibe um efeito de tela rachada ou danificada na sua tela. Não prejudica seu dispositivo — é apenas uma ilusão visual."
+      },
+      {
+        "question": "2. É seguro usar?",
+        "answer": "Sim! Não baixa ou instala nada. Simplesmente mostra uma sobreposição de imagem no seu navegador."
+      },
+      {
+        "question": "3. Posso usar para fazer uma brincadeira?",
+        "answer": "Claro! 😄 Apenas abra em tela cheia e entregue seu dispositivo a um amigo — veja a reação deles!"
+      },
+      {
+        "question": "4. Como sair do efeito de tela quebrada?",
+        "answer": "Pressione Esc ou F11 para retornar instantaneamente à sua tela normal."
+      },
+      {
+        "question": "5. Funciona em telefones ou tablets?",
+        "answer": "Sim, funciona em qualquer dispositivo — desktop, laptop ou navegador móvel."
+      }
+    ]
+  }
+}

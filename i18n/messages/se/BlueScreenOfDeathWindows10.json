@@ -1,0 +1,85 @@
+{
+  "hero": {
+    "badge": "Windows 10 BSOD Simulator",
+    "title": "Falsk Windows 10 Blå Skärm av Döden (BSOD) – Online Simulator och Skämt Verktyg",
+    "description": "Simulera Windows 10 Blå Skärm av Döden (BSOD) online. Perfekt för skämt, tekniska demos eller nostalgia. Körs säkert i din webbläsare — inga nedladdningar eller systemrisk.",
+    "features": {
+      "noRegistration": "Ingen Registrering",
+      "worksOffline": "Fungerar Offline",
+      "allDevices": "Alla Enheter"
+    },
+    "chooseScreen": "Välj Skärm",
+    "chooseScreenDescription": "Välj från vår samling realistiska skärmsimuleringar",
+    "fullScreen": "Helskärm",
+    "custom": "Anpassad",
+    "description": "Perfekt för skämt, tekniska demos och nostalgia",
+    "launchButton": "Starta Blå Skärm av Döden"
+  },
+  "useCases": {
+    "title": "Människor använder Blå Skärm av Döden för:",
+    "case1": {
+      "title": "Skämta med Vänner med Falsk Windows Crash",
+      "description": "Överraska dina vänner med en realistisk Blå Skärm av Döden simulering. Vår BSOD simulator visar autentiska Windows felmeddelanden och crash-skärmar, perfekt för ofarliga skämt och tekniska demonstrationer."
+    },
+    "case2": {
+      "title": "Tekniska Demos och Presentationer",
+      "description": "Använd vår BSOD simulator för tekniska demonstrationer, träningssessioner eller presentationer om Windows fel. Visa realistiska crash-scenarier utan att riskera verkliga systemskador."
+    },
+    "case3": {
+      "title": "Nostalgisk Windows Upplevelse",
+      "description": "Återupplev den klassiska Windows upplevelsen med vår autentiska Blå Skärm av Döden simulator. Perfekt för dem som kommer ihåg de ikoniska Windows crash-skärmarna från tidigare operativsystem."
+    },
+    "case4": {
+      "title": "Utbildning Datavetenskap",
+      "description": "Lär studenter om Windows systemfel och crash-scenarier med vår säkra BSOD simulator. Demonstra felhanteringskoncept utan att orsaka verkliga systemfel."
+    },
+    "case5": {
+      "title": "Innehållsskapande och Videor",
+      "description": "Skapa engagerande innehåll med vår Blå Skärm av Döden simulator. Perfekt för tekniska kanaler, komedivideor eller utbildningsinnehåll om datorsystem och fel."
+    },
+    "case6": {
+      "title": "Testning och Utveckling",
+      "description": "Använd vår BSOD simulator för mjukvarutestning, UI-utveckling eller felhanteringsdemonstrationer. Säkert sätt att testa hur applikationer svarar på systemfelscenarier."
+    },
+    "case7": {
+      "title": "Skärmtestning och Kalibrering",
+      "description": "Använd vår BSOD simulator för visningstester, färgkalibrering och skärmdiagnostik. Perfekt för att testa monitornställningar och identifiera visningsproblem."
+    }
+  },
+  "howToUse": {
+    "title": "🧭 Hur man Använder Falsk Windows 10 Blå Skärm av Döden",
+    "steps": [
+      "Öppna sidan - Besök blue-screen-of-death-windows-10 i din webbläsare.",
+      "Helskärm - Klicka på \"Helskärm\" eller tryck F11 för att få det att se ut som en riktig Windows 10 systemkrasch.",
+      "Titta på falsk BSOD - Sidan visar det sorgsna ansiktet :(, QR-kod och stoppkodmeddelande — precis som en riktig Windows 10 blå skärm.",
+      "Använd för nöje eller undervisning - Perfekt för skämt, demolektioner eller retro Windows-stil visuella effekter.",
+      "Avsluta när som helst - Tryck Esc eller F11 igen för att säkert lämna helskärmsläge."
+    ]
+  },
+  "faq": {
+    "title": "FAQ – Falsk Windows 10 Blå Skärm av Döden",
+    "q1": "Vad är den Falska Windows 10 Blå Skärm av Döden?",
+    "a1": "Det är en online-simulering av den riktiga Windows 10 BSOD — komplett med det sorgsna ansiktet och QR-koden — gjord enbart för nöje eller utbildningsändamål.",
+    "q2": "Är den säker?",
+    "a2": "Ja. Den är helt webläsarbaserad och påverkar inte din dator alls.",
+    "q3": "Kan jag använda den för att skoja med någon?",
+    "a3": "Absolut! 😄 Öppna den i helskärm och titta på din vän få panik när \"systemkrasch\" visas!",
+    "q4": "Hur går jag ut från skärmen?",
+    "a4": "Tryck Esc eller F11 för att omedelbart återgå till normalt läge.",
+    "q5": "Fungerar den på macOS eller Linux?",
+    "a5": "Ja — även om den visar en Windows 10-stil krasch, fungerar den i vilken modern webläsare som helst.",
+    "q6": "Kan jag använda den i mina videor eller demos?",
+    "a6": "Ja! Den används ofta av tech-YouTubers, streamers och IT-tränare för realistiska kraschscener.",
+    "q7": "Orsakar den skada eller dataförlust?",
+    "a7": "Nej. Det är bara en visuell simulering. Din enhet och filer är 100% säkra."
+  },
+  "keywords": "falsk blå skärm av döden, BSOD simulator, Windows 10 crash, falsk Windows crash, blå skärm skämt, Windows fel simulator, falsk system crash, Windows 10 BSOD, crash skärm simulator, falskt Windows fel",
+  "additionalTools": {
+    "title": "Ytterligare Skärmverktyg",
+    "description": "Utforska vår samling av specialiserade skärmverktyg för olika ändamål.",
+    "colorScreens": "Färgskärmar",
+    "prankScreens": "Skämt Skärmar",
+    "systemScreens": "System Skärmar",
+    "screensavers": "Skärmsläckare"
+  }
+}

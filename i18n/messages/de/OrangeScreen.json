@@ -10,6 +10,26 @@
     }
   },
   "keywords": "Orange Screen, orange screen, blank orange screen, a orange screen, blank screens, full orange screen, pc orange screen, computer orange screen, total orange screen, plain orange screen, orange screen 10 hours, orange display, blank computer screen, full orange screen, total orange screen",
+  "colors": {
+    "Orange": "Oranger",
+    "White": "Weißer",
+    "Black": "Schwarzer",
+    "Red": "Roter",
+    "Blue": "Blauer",
+    "Green": "Grüner",
+    "Yellow": "Gelber",
+    "Purple": "Lila",
+    "Pink": "Rosa",
+    "Zoom Lighting": "Zoom-Beleuchtung"
+  },
+  "interface": {
+    "livePreview": "Live-Vorschau",
+    "clickForFullscreen": "Klicken für Vollbild",
+    "current": "Aktuell",
+    "chooseYourColor": "Wählen Sie Ihre Farbe",
+    "perfectFor": "Perfekt für Monitortests, Fotografie-Beleuchtung und Präsentationen",
+    "launchOrangeScreen": "Orangefarbenen Bildschirm starten"
+  },
   "colorPicker": {
     "title": "Wählen Sie Ihre Farbe",
     "custom": "Benutzerdefiniert",
@@ -67,8 +87,26 @@
       }
     ]
   },
+  "info": {
+    "professionalTool": "Professionelles Werkzeug",
+    "title": "Orangefarbener Bildschirm Hintergrund herunterladen",
+    "subtitle": "Verwenden Sie diesen Vollbild-Orangefarbenzeichschirm für Monitortests, Fotografie-Beleuchtung oder zum Erstellen eines orangefarbenen Hintergrunds. Sauber, schnell und werbefrei.",
+    "downloadReady": "Download bereit",
+    "downloadTitle": "Orangefarbener Bildschirm Hintergrund",
+    "downloadDescription": "Bevorzugen Sie ein statisches Orangefarbenzeichschirm-Bild? Verwenden Sie eines unserer hochauflösenden PNGs:",
+    "hdTitle": "1920x1080 Orangefarbener Bildschirm Hintergrund",
+    "hdDescription": "Perfekt für Standard-HD-Displays und Monitortests. Optimiert für Fotografie-Beleuchtung und Präsentationen.",
+    "hdButton": "HD herunterladen",
+    "fourKTitle": "4K Orangefarbener Bildschirm Hintergrund",
+    "fourKDescription": "Ultra-HD-Vollbild-orangefarbener Hintergrund für professionelle Monitortests und Fotografie. Perfekt für hochauflösende Displays.",
+    "fourKButton": "4K herunterladen",
+    "proTipBadge": "Profi-Tipp",
+    "proTipTitle": "Maximieren Sie Ihren Orangefarbenzeichschirm",
+    "proTipDescription": "Maximieren Sie die Bildschirmhelligkeit und verwenden Sie F11 für den Vollbildmodus, um den besten Effekt für Monitortests und Fotografie zu erzielen."
+  },
   "faq": {
     "title": "Häufig gestellte Fragen",
+    "description": "Finden Sie Antworten auf häufige Fragen zur Verwendung unseres orangefarbenen Bildschirm-Tools für verschiedene Zwecke.",
     "questions": [
       {
         "question": "Wofür wird ein Orange Screen Tool verwendet?",

@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "title": "Ubuntu 22.04 假更新 | 在线工具",
+    "description": "在我们的网站上体验真实的Ubuntu 22.04更新模拟。用我们逼真的Ubuntu 22.04假更新屏幕愚弄您的朋友。享受模拟更新过程的悬念和乐趣。",
+    "keywords": "Ubuntu假更新, Ubuntu 22.04更新模拟, 模拟Ubuntu 22.04更新, 假Ubuntu 22.04更新屏幕, 模拟Ubuntu 22.04更新, Ubuntu 22.04更新恶作剧, Ubuntu 22.04更新过程, 逼真的Ubuntu 22.04更新, 真实的Ubuntu 22.04更新屏幕, 用Ubuntu 22.04更新愚弄朋友, 真实的Ubuntu 22.04更新进度, 真正的Ubuntu 22.04更新模拟, 真实的Ubuntu 22.04更新消息, Ubuntu 22.04更新阶段, 有趣的Ubuntu 22.04更新恶作剧, 有趣的假Ubuntu 22.04更新, 享受模拟的Ubuntu 22.04更新, 用Ubuntu 22.04假更新恶作剧, 令人兴奋的Ubuntu 22.04更新体验, Ubuntu 22.04更新娱乐, Ubuntu 22.04更新恶作剧工具"
+  },
+  "hero": {
+    "title": "Ubuntu 虚假更新",
+    "description": "在我们的网站上体验逼真的 Ubuntu 22.04 更新模拟。用我们逼真的 Ubuntu 22.04 虚假更新屏幕欺骗您的朋友。",
+    "badge": "Ubuntu 系统更新",
+    "features": {
+      "noRegistration": "无需注册",
+      "worksOffline": "离线可用",
+      "allDevices": "所有设备"
+    }
+  },
+  "preview": {
+    "updateText": "正在安装更新... {progress}% 完成"
+  },
+  "keywords": "Ubuntu假更新, Ubuntu 22.04更新模拟, 模拟Ubuntu 22.04更新, 假Ubuntu 22.04更新屏幕, 模拟Ubuntu 22.04更新, Ubuntu 22.04更新恶作剧, Ubuntu 22.04更新过程, 逼真的Ubuntu 22.04更新, 真实的Ubuntu 22.04更新屏幕, 用Ubuntu 22.04更新愚弄朋友, 真实的Ubuntu 22.04更新进度, 真正的Ubuntu 22.04更新模拟, 真实的Ubuntu 22.04更新消息, Ubuntu 22.04更新阶段, 有趣的Ubuntu 22.04更新恶作剧, 有趣的假Ubuntu 22.04更新, 享受模拟的Ubuntu 22.04更新, 用Ubuntu 22.04假更新恶作剧, 令人兴奋的Ubuntu 22.04更新体验, Ubuntu 22.04更新娱乐, Ubuntu 22.04更新恶作剧工具",
+  "useCases": {
+    "title": "人们使用Ubuntu 22.04更新屏幕用于：",
+    "subtitle": "发现我们Ubuntu假更新屏幕的各种使用方法",
+    "pranks": {
+      "title": "Ubuntu假屏幕用于恶作剧",
+      "description": "动态的假Ubuntu更新屏幕是技术恶作剧的最爱，完美地愚弄同事相信他们的系统正在永久更新，在办公室创造轻松愉快的时刻。"
+    },
+    "simulation": {
+      "title": "用Ubuntu假屏幕模拟更新",
+      "description": "开发人员和IT专业人员使用假Ubuntu 22.04更新屏幕来模拟系统更新，测试用户耐心或对界面变化的反应，而不影响系统操作。"
+    },
+    "training": {
+      "title": "Ubuntu更新屏幕用于培训",
+      "description": "培训师利用假Ubuntu 22.04屏幕来教育IT学生系统更新过程，让他们熟悉实际Ubuntu升级的视觉提示。"
+    },
+    "content": {
+      "title": "用Ubuntu假更新进行内容创作",
+      "description": "内容创作者将动态Ubuntu假更新屏幕融入他们的视频和直播中，在讨论技术话题或创建系统升级教程时增加真实感。"
+    },
+    "staging": {
+      "title": "用假Ubuntu 22.04屏幕进行系统演示",
+      "description": "技术演示环境使用Ubuntu 22.04假更新屏幕来代表展会或软件演示等场景中的更新过程，而不进行实际更新。"
+    }
+  },
+  "howToUse": {
+    "title": "🐧 如何使用假Ubuntu更新屏幕",
+    "subtitle": "按照这些简单步骤开始使用我们的Ubuntu假更新屏幕",
+    "steps": {
+      "open": "打开页面",
+      "openDescription": "在您的桌面或笔记本电脑浏览器上访问  fake-ubuntu-update-screen。",
+      "fullscreen": "进入全屏",
+      "fullscreenDescription": "点击\"全屏\"或按F11键，让它看起来像真正的Ubuntu系统更新正在进行。",
+      "watch": "观看终端式更新文本",
+      "watchDescription": "假屏幕显示逼真的Ubuntu更新过程，包括加载条和软件包安装行——就像真正的apt-get升级一样。",
+      "use": "用于恶作剧或视频",
+      "useDescription": "非常适合对喜欢Linux的朋友进行恶作剧，或创建有趣的技术视频和直播。",
+      "exit": "随时退出",
+      "exitDescription": "按Esc或F11键立即退出全屏模式。不会对您的真实系统进行任何更改。"
+    },
+    "tips": {
+      "title": "快速提示",
+      "exit": "按Esc或F11键退出全屏模式",
+      "realistic": "动画看起来非常逼真和真实",
+      "safe": "完全安全 - 不会对系统进行任何实际更改",
+      "devices": "适用于所有现代浏览器和设备"
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "subtitle": "关于我们假Ubuntu更新屏幕的常见问题",
+    "whatIs": {
+      "question": "什么是假Ubuntu更新屏幕？",
+      "answer": "这是一个模仿Ubuntu更新过程的基于Web的模拟器。它看起来像一个真正的Linux终端在运行系统更新，但它只是用于娱乐或教育用途。"
+    },
+    "safe": {
+      "question": "安全吗？",
+      "answer": "是的。它不会运行任何实际命令或更改您的文件——它纯粹是视觉的。一切都在您的浏览器内发生。"
+    },
+    "pranks": {
+      "question": "我可以用它来恶作剧吗？",
+      "answer": "当然可以 😄 进入全屏，让它运行，看着您的朋友以为他们的Ubuntu系统在\"升级\"自己时惊慌失措。"
+    },
+    "exit": {
+      "question": "如何退出假更新屏幕？",
+      "answer": "只需按Esc或F11键退出全屏模式。"
+    },
+    "devices": {
+      "question": "它在Windows或macOS上能用吗？",
+      "answer": "是的，假Ubuntu更新屏幕在任何现代浏览器中都能工作——Chrome、Edge、Firefox或Safari——无论您使用什么操作系统。"
+    },
+    "real": {
+      "question": "我可以将它用于教学或演示吗？",
+      "answer": "当然可以。IT讲师和技术YouTuber经常使用这个模拟器来解释Linux更新过程的样子，而无需真正的Ubuntu安装。"
+    },
+    "content": {
+      "question": "它真的会更新我的系统吗？",
+      "answer": "不会——它只是一个视觉模拟器，不是真正的终端。您的系统保持完全不变。"
+    }
+  }
+}

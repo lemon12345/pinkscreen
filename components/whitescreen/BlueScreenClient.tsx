@@ -5,6 +5,7 @@ import BlueScreenInfo from "./BlueScreenInfo";
 import BlueScreenUseCases from "./BlueScreenUseCases";
 import BlueScreenFAQ from "./BlueScreenFAQ";
 import WhiteScreenHowToUse from "./WhiteScreenHowToUse";
+import OtherToolsSection from "../home/OtherToolsSection";
 
 export default function BlueScreenClient() {
   const [selectedColor, setSelectedColor] = useState("#0000FF");
@@ -147,6 +148,9 @@ export default function BlueScreenClient() {
         onFullscreen={handleFullscreen}
         onDownload={handleDownload}
       />
+
+      {/* Other Tools Section */}
+      <OtherToolsSection />
 
       <BlueScreenInfo
         selectedColor={selectedColor}

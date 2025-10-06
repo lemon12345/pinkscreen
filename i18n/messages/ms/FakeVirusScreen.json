@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Skrin Virus Palsu - Fail disulitkan",
+    "description": "Skrin virus palsu yang menuntut wang untuk penyahsulitan fail. Bergurau dengan kawan anda dengan membuka ini di mesin mereka!",
+    "badge": "Alat Gurauan Virus"
+  },
+  "keywords": "virus palsu, gurauan ransomware, hacker palsu, gurauan komputer, simulator virus, malware palsu, gurauan fail disulitkan, gurauan virus tidak berbahaya, keselamatan siber palsu, skrin gurauan",
+  "colorPicker": {
+    "title": "Gurauan Virus Palsu",
+    "description": "Skrin virus yang realistik untuk gurauan tidak berbahaya dan pendidikan keselamatan siber",
+    "launchButton": "Lancarkan Gurauan Virus",
+    "clickHint": "Klik butang di atas untuk melancarkan gurauan virus skrin penuh"
+  },
+  "useCases": {
+    "title": "Orang menggunakan gurauan virus untuk:",
+    "description": "Simulator virus palsu kami menyediakan pengalaman ransomware yang realistik untuk pendidikan dan gurauan tidak berbahaya.",
+    "cases": [
+      {
+        "icon": "🛡️",
+        "title": "Pendidikan Keselamatan Siber",
+        "description": "Ajar tentang ancaman ransomware dan kesedaran keselamatan siber dalam persekitaran yang selamat dan terkawal."
+      },
+      {
+        "icon": "😂",
+        "title": "Gurauan Pejabat Tidak Berbahaya",
+        "description": "Bergurau dengan selamat kepada rakan sekerja dengan skrin virus yang realistik yang mendedahkan dirinya sebagai gurauan tidak berbahaya."
+      },
+      {
+        "icon": "🎭",
+        "title": "Kandungan Media Sosial",
+        "description": "Cipta video reaksi yang menarik dan kandungan kesedaran keselamatan siber untuk platform sosial."
+      },
+      {
+        "icon": "📚",
+        "title": "Latihan IT",
+        "description": "Gunakan dalam kursus latihan IT untuk menunjukkan serangan ransomware dan prosedur tindak balas insiden."
+      },
+      {
+        "icon": "🎬",
+        "title": "Filem & Teater",
+        "description": "Sempurna untuk filem, rancangan TV atau produksi teater yang memerlukan adegan hacker/virus yang realistik."
+      },
+      {
+        "icon": "🎪",
+        "title": "April Fool",
+        "description": "Gurauan April Fool yang terbaik dengan antara muka ransomware yang meyakinkan dan pilihan pembayaran yang lucu."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Soalan Lazim",
+    "description": "Soalan biasa tentang simulator gurauan virus palsu",
+    "questions": [
+      {
+        "question": "Adakah gurauan virus ini benar-benar berbahaya?",
+        "answer": "Sudah tentu tidak! Ini adalah simulasi 100% tidak berbahaya. Tiada fail disulitkan, tiada data dicuri, dan tiada malware sebenar terlibat."
+      },
+      {
+        "question": "Adakah ini akan merosakkan komputer atau fail saya?",
+        "answer": "Tiada kerosakan sama sekali! Ia adalah simulasi visual semata-mata yang berjalan dalam pelayar anda. Semua fail anda kekal selamat dan tidak disentuh."
+      },
+      {
+        "question": "Betapa realistikkah ia kelihatan?",
+        "answer": "Sangat realistik! Ia meniru antara muka ransomware sebenar tetapi termasuk kaedah pembayaran yang lucu seperti 'Monopoly Money' dan 'buah pinggang' untuk memastikan ia jelas sebagai gurauan."
+      },
+      {
+        "question": "Bagaimana untuk keluar dari gurauan?",
+        "answer": "Tekan F11 atau kekunci ESC untuk keluar dari mod skrin penuh. Gurauan juga mendedahkan dirinya sebagai tidak berbahaya dengan arahan yang jelas."
+      },
+      {
+        "question": "Bolehkah saya menggunakannya untuk latihan keselamatan siber?",
+        "answer": "Ya! Ia sempurna untuk tujuan pendidikan untuk menunjukkan bagaimana ransomware kelihatan dan mengajar kesedaran keselamatan siber."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Alat Skrin Tambahan",
+    "description": "Terokai koleksi alat skrin khusus kami untuk pelbagai tujuan.",
+    "colorScreens": "Skrin Warna",
+    "prankScreens": "Skrin Gurauan",
+    "fakeUpdateScreens": "Skrin Kemas Kini Palsu",
+    "screensaverScreens": "Skrin Penjimat Skrin"
+  },
+  "howToUse": {
+    "title": "Cara Menggunakan",
+    "steps": [
+      "Klik butang pelancar untuk memasuki gurauan virus skrin penuh",
+      "Skrin ransomware palsu akan dipaparkan dengan pemasa undur",
+      "Tonton reaksi mangsa kepada mesej penyulitan yang realistik",
+      "Gurauan mendedahkan dirinya dengan pilihan pembayaran yang lucu",
+      "Tekan F11 atau ESC untuk keluar dari mod skrin penuh pada bila-bila masa"
+    ]
+  },
+  "techSpecs": {
+    "title": "Spesifikasi Teknikal",
+    "specs": [
+      "Antara muka: Simulasi ransomware/virus yang realistik",
+      "Ciri-ciri: Pemasa undur, mesej penyulitan palsu",
+      "Keselamatan: 100% tidak berbahaya - tiada virus atau malware sebenar",
+      "Keserasian: Semua pelayar dan peranti moden",
+      "Pendidikan: Sempurna untuk latihan kesedaran keselamatan siber"
+    ]
+  }
+}

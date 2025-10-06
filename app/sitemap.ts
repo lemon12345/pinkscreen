@@ -15,6 +15,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     // '/about',
     '/privacy-policy',
     '/terms-of-service',
+    // Color screens
     '/black-screen',
     '/blue-screen',
     '/green-screen',
@@ -24,6 +25,25 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/white-screen',
     '/yellow-screen',
     '/zoom-lighting',
+    // Special screens
+    '/bios',
+    '/broken-screen',
+    '/dvd-screensaver',
+    '/hacker-typer',
+    '/no-signal-smpte-color-bars-screensaver',
+    // Blue screen of death
+    '/blue-screen-of-death-windows',
+    '/blue-screen-of-death-windows-10',
+    // Fake screens
+    '/fake-android-update-screen',
+    '/fake-dos',
+    '/fake-mac-os-x-update-screen',
+    '/fake-ubuntu-update',
+    '/fake-virus',
+    '/fake-windows-10-update-screen',
+    '/fake-windows-11-update',
+    '/fake-windows-xp-update-screen',
+    '/fbi-warning',
   ]
 
   const pages = LOCALES.flatMap(locale => {

@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "title": "Schermo Rotto Finto",
+    "description": "Sblocca divertimento e creatività infiniti con il nostro strumento di schermo rotto falso a schermo intero. Perfetto per scherzi, creazione di contenuti e scopi educativi.",
+    "badge": "Effetto Schermo",
+    "features": {
+      "noRegistration": "Nessuna Registrazione",
+      "worksOffline": "Funziona Offline",
+      "allDevices": "Tutti i Dispositivi"
+    }
+  },
+  "keywords": "schermo rotto, schermo incrinato, scherzo schermo, falso schermo rotto, schermo telefono incrinato, schermo rotto, effetto schermo, strumento scherzo, simulatore schermo rotto, generatore schermo incrinato, falso schermo incrinato, scherzo schermo rotto, simulazione danno schermo, effetto schermo incrinato, schermo telefono rotto, simulatore crepa schermo, strumento scherzo schermo, generatore schermo rotto, effetto schermo incrinato, falso danno schermo",
+  "useCases": {
+    "title": "Le persone usano lo Schermo Rotto per:",
+    "description": "Scopri vari modi per usare il nostro effetto schermo rotto",
+    "cases": [
+      {
+        "title": "Spaventare i Tuoi Amici con uno Scherzo Realistico di Schermo Rotto",
+        "description": "Realizza lo scherzo definitivo facendo credere agli amici che lo schermo del loro dispositivo si sia frantumato."
+      },
+      {
+        "title": "Creare Contenuti Coinvolgenti con un Effetto di Schermo Incrinato",
+        "description": "Migliora i tuoi video o presentazioni aggiungendo una drammatica sovrapposizione di schermo incrinato."
+      },
+      {
+        "title": "Testare la Tua Reazione a un Display Rotto",
+        "description": "Osserva come reagiresti a imprevisti digitali simulando uno schermo rotto."
+      },
+      {
+        "title": "Usare un'Immagine di Schermo Rotto per Progetti Creativi",
+        "description": "Incorpora immagini di alta qualità di schermi rotti nella tua arte digitale o nei tuoi design creativi."
+      },
+      {
+        "title": "Educare sulla Durabilità delle Protezioni per lo Schermo",
+        "description": "Dimostra l'importanza della protezione dello schermo mostrando potenziali danni."
+      },
+      {
+        "title": "Ravvivare le Tue Recensioni Tech con uno Schermo Rotto Finto",
+        "description": "Aggiungi un tocco di originalità alle recensioni dei dispositivi simulando danni allo schermo e discutendo della durabilità."
+      },
+      {
+        "title": "Incorporare uno Schermo Incrinato Online nelle Tue Decorazioni di Halloween",
+        "description": "Trasforma i dispositivi in decorazioni spaventose con un'animazione a schermo intero di display rotto."
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "🧭 Come usare lo Schermo Rotto Falso",
+    "steps": [
+      "Apri la pagina - Visita la pagina schermo rotto falso sul tuo computer, tablet o telefono",
+      "Vai a schermo intero - Clicca \"Schermo Intero\" o premi F11 per far coprire tutto il tuo schermo dal falso schermo incrinato",
+      "Scegli il tuo effetto (se supportato) - Scegli tra diversi stili — vetro rotto, malfunzionamento LCD, o crepa a ragnatela per l'aspetto più realistico",
+      "Usalo per divertimento o test - Perfetto per scherzi, effetti video o calibrazione schermo"
+    ]
+  },
+  "faq": {
+    "title": "❓ FAQ – Schermo Rotto Falso",
+    "subtitle": "Domande comuni sul nostro Effetto Schermo Rotto",
+    "questions": [
+      {
+        "question": "1. Cos'è lo strumento Schermo Rotto Falso?",
+        "answer": "È un simulatore basato sul web che mostra un effetto schermo incrinato o danneggiato sul tuo schermo. Non danneggia il tuo dispositivo — è solo un'illusione visiva."
+      },
+      {
+        "question": "2. È sicuro da usare?",
+        "answer": "Sì! Non scarica o installa nulla. Mostra semplicemente una sovrapposizione di immagine nel tuo browser."
+      },
+      {
+        "question": "3. Posso fare uno scherzo a qualcuno con esso?",
+        "answer": "Assolutamente! 😄 Apri semplicemente a schermo intero e dai il tuo dispositivo a un amico — guarda la loro reazione!"
+      },
+      {
+        "question": "4. Come esco dall'effetto schermo rotto?",
+        "answer": "Premi Esc o F11 per tornare istantaneamente al tuo schermo normale."
+      },
+      {
+        "question": "5. Funziona su telefoni o tablet?",
+        "answer": "Sì, funziona su qualsiasi dispositivo — desktop, laptop o browser mobile."
+      }
+    ]
+  }
+}

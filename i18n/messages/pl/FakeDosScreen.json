@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Fałszywe Formatowanie Dysków - Żart DOS Online",
+    "description": "Oszukaj swoich przyjaciół online żartem DOS, który wygląda jak formatowanie dysku, ale w rzeczywistości nie wyrządza żadnej szkody.",
+    "badge": "Narzędzie Żartu DOS"
+  },
+  "keywords": "fałszywy DOS, żart formatowania dysku, żart DOS online, fałszywe formatowanie dysku, żart komputerowy, symulator DOS, żart promptu poleceń, fałszywy format C, nieszkodliwy żart, ekran DOS",
+  "colorPicker": {
+    "title": "Fałszywy Żart DOS",
+    "description": "Idealny do żartowania z przyjaciółmi realistyczną symulacją formatowania DOS",
+    "launchButton": "Uruchom Żart DOS",
+    "clickHint": "Kliknij przycisk powyżej, aby uruchomić żart DOS w trybie pełnoekranowym"
+  },
+  "useCases": {
+    "title": "Ludzie używają żartu DOS do:",
+    "description": "Nasz fałszywy symulator DOS zapewnia realistyczne doświadczenie formatowania DOS dla nieszkodliwych żartów i rozrywki.",
+    "cases": [
+      {
+        "icon": "😂",
+        "title": "Nieszkodliwe Żarty",
+        "description": "Bezpiecznie żartuj z przyjaciółmi i kolegami realistyczną symulacją formatowania DOS bez rzeczywistych szkód."
+      },
+      {
+        "icon": "🎭",
+        "title": "Filmy Rozrywkowe",
+        "description": "Twórz zabawne filmy reakcji i treści rozrywkowe z autentycznym interfejsem DOS."
+      },
+      {
+        "icon": "🎪",
+        "title": "Prima Aprilis",
+        "description": "Idealny na żarty Prima Aprilis i zaskakujące momenty rozrywki z przyjaciółmi."
+      },
+      {
+        "icon": "📱",
+        "title": "Treści Społecznościowe",
+        "description": "Generuj angażujące treści społecznościowe i zabawne posty techniczne dla swojej publiczności."
+      },
+      {
+        "icon": "🎬",
+        "title": "Film & Teatr",
+        "description": "Używaj w filmach, produkcjach teatralnych lub demonstracjach edukacyjnych wymagających interfejsu DOS."
+      },
+      {
+        "icon": "🎮",
+        "title": "Gry Retro",
+        "description": "Doświadcz nostalgicznego interfejsu DOS i przypomnij sobie klasyczną erę komputerową."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Często Zadawane Pytania",
+    "description": "Typowe pytania o fałszywy symulator żartu DOS",
+    "questions": [
+      {
+        "question": "Czy ten żart DOS jest bezpieczny w użyciu?",
+        "answer": "Absolutnie bezpieczny! To tylko symulacja internetowa, która imituje formatowanie DOS. Nie formatuje rzeczywiście ani nie uszkadza żadnych plików na Twoim komputerze."
+      },
+      {
+        "question": "Czy to rzeczywiście usunie moje pliki?",
+        "answer": "Nie! To czysto wizualna symulacja. Żadne pliki nie są usuwane, żadne formatowanie nie występuje. Jest całkowicie nieszkodliwy i bezpieczny."
+      },
+      {
+        "question": "Jak wyjść z żartu?",
+        "answer": "Naciśnij klawisz ESC lub F11, aby wyjść z trybu pełnoekranowego. Żart ujawni się również automatycznie po zakończeniu."
+      },
+      {
+        "question": "Czy mogę tego używać na urządzeniach mobilnych?",
+        "answer": "Tak! Żart DOS działa na wszystkich urządzeniach, w tym na smartfonach i tabletach z obsługą pełnego ekranu."
+      },
+      {
+        "question": "Czy to odpowiednie do żartów biurowych?",
+        "answer": "Chociaż nieszkodliwy, proszę używać odpowiedzialnie i rozważyć środowisko pracy przed żartowaniem z kolegami."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Dodatkowe Narzędzia Ekranu",
+    "description": "Odkryj naszą kolekcję specjalistycznych narzędzi ekranu do różnych celów.",
+    "colorScreens": "Ekrany Kolorowe",
+    "prankScreens": "Ekrany Żartów",
+    "fakeUpdateScreens": "Ekrany Fałszywych Aktualizacji",
+    "screensaverScreens": "Ekrany Wygaszaczy"
+  },
+  "howToUse": {
+    "title": "Jak Używać",
+    "steps": [
+      "Kliknij przycisk uruchomienia, aby wejść w żart DOS w trybie pełnoekranowym",
+      "Obserwuj, jak fałszywy proces formatowania rozpoczyna się automatycznie",
+      "System wyświetli realistyczne polecenia DOS i postęp",
+      "Po zakończeniu żart ujawni się z nieszkodliwym komunikatem",
+      "Naciśnij ESC lub F11, aby wyjść z trybu pełnoekranowego w dowolnym momencie"
+    ]
+  },
+  "techSpecs": {
+    "title": "Specyfikacje Techniczne",
+    "specs": [
+      "Interfejs: Autentyczna symulacja promptu poleceń DOS",
+      "Funkcje: Realistyczna animacja formatowania dysku",
+      "Bezpieczeństwo: 100% nieszkodliwy - żadne rzeczywiste formatowanie nie występuje",
+      "Kompatybilność: Wszystkie nowoczesne przeglądarki i urządzenia",
+      "Czas trwania: Automatyczna sekwencja żartu z ujawnieniem"
+    ]
+  }
+}

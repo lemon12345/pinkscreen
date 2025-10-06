@@ -1,0 +1,20 @@
+{
+  "title": "Collezione Schermi Colorati",
+  "description": "Esplora la nostra collezione completa di simulazioni di schermi colorati - dal classico schermo blu ai display arcobaleno vibranti. Perfetto per scherzi, test e progetti creativi.",
+  "badge": "Collezione Completa Schermi Colorati",
+  "screens": {
+    "pinkScreen": "Schermo Rosa",
+    "blueScreen": "Schermo Blu",
+    "redScreen": "Schermo Rosso",
+    "greenScreen": "Schermo Verde",
+    "yellowScreen": "Schermo Giallo",
+    "orangeScreen": "Schermo Arancione",
+    "purpleScreen": "Schermo Viola",
+    "blackScreen": "Schermo Nero",
+    "whiteScreen": "Schermo Bianco",
+    "zoomLighting": "Illuminazione Zoom"
+  },
+  "footer": {
+    "description": "Tutti gli schermi sono gratuiti e funzionano su tutti i dispositivi"
+  }
+}

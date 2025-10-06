@@ -1,0 +1,185 @@
+{
+  "hero": {
+    "title": "Actualización Falsa de Windows 11",
+    "description": "Experimenta una simulación realista de actualización de Windows 11 en nuestro sitio web. Engaña a tus amigos con nuestra pantalla de actualización falsa de Windows 11 de aspecto auténtico. Disfruta de la suspense y diversión de un proceso de actualización simulado.",
+    "badge": "Actualización del Sistema Windows 11",
+    "features": {
+      "noRegistration": "Sin Registro",
+      "worksOffline": "Funciona Sin Conexión",
+      "allDevices": "Todos los Dispositivos"
+    }
+  },
+  "keywords": "Falsa actualización de Windows 11, Simulación de actualización de Windows 11, Simular actualización de Windows 11, Pantalla de actualización falsa de Windows 11, Emular actualización de Windows 11, Broma de actualización de Windows 11, Proceso de actualización de Windows 11, Actualización de Windows 11 de aspecto auténtico, Pantalla de actualización de Windows 11 realista, Engañar a amigos con actualización de Windows 11, Progreso de actualización de Windows 11 realista, Simulación de actualización de Windows 11 genuina, Mensajes de actualización de Windows 11 auténticos, Etapa de actualización de Windows 11, Broma entretenida de actualización de Windows 11, Divertida falsa actualización de Windows 11, Disfrutar de la actualización simulada de Windows 11, Broma con falsa actualización de Windows 11, Experiencia emocionante de actualización de Windows 11, Actualización de Windows 11 para diversión, Herramienta de broma de actualización de Windows 11",
+  "preview": {
+    "updateText": "Trabajando en actualizaciones",
+    "completeText": " completado",
+    "dontTurnOffText": "No apagues tu PC. Esto tomará un tiempo.",
+    "restartText": "Tu PC puede reiniciarse varias veces",
+    "livePreview": "Vista Previa en Vivo",
+    "launchButton": "Iniciar Actualización de Windows 11"
+  },
+  "colorPicker": {
+    "title": "Elige Tu Color",
+    "custom": "Personalizado",
+    "description": "Perfecto para bromas y entretenimiento",
+    "launchButton": "Lanzar Actualización de Windows 11"
+  },
+  "systemSelection": {
+    "title": "Seleccionar Sistema",
+    "windows11": "Windows 11",
+    "windows10": "Windows 10",
+    "windowsXp": "Windows XP",
+    "macOsX": "Mac OS X",
+    "ubuntu": "Ubuntu 22.04",
+    "android": "Android"
+  },
+  "progressSettings": {
+    "title": "Configuración de Progreso",
+    "updateTime": "Tiempo de Actualización",
+    "startTime": "Tiempo de Inicio",
+    "minutes": "Minutos",
+    "percent": "%",
+    "restartProgress": "Reiniciar Progreso"
+  },
+  "description": "Perfecto para bromas, pruebas del sistema o simulación de actualización de Windows 11.",
+  "useCases": {
+    "title": "La gente usa la pantalla de actualización de Windows 11 para:",
+    "subtitle": "Descubre varias formas de usar nuestra pantalla de actualización falsa de Windows 11",
+    "simulate": {
+      "title": "Simular Actualización de Windows 11 para Pruebas de Software",
+      "description": "Utiliza nuestra herramienta de actualización falsa de Windows 11 para crear pantallas de actualización de aspecto auténtico para pruebas de software y propósitos de demostración."
+    },
+    "engage": {
+      "title": "Involucra a Tu Audiencia con una Pantalla de Actualización Realista de Windows 11",
+      "description": "Captura la atención de entusiastas de la tecnología mostrando una simulación genuina de actualización de Windows 11 durante presentaciones o blogs de tecnología."
+    },
+    "education": {
+      "title": "Eleva la Educación Tecnológica con Herramienta de Broma de Actualización de Windows 11",
+      "description": "Incorpora nuestra pantalla de actualización realista de Windows 11 en escenarios de educación tecnológica para enseñar sobre actualizaciones del sistema y diseño de interfaz de usuario."
+    },
+    "content": {
+      "title": "Crea Contenido Entretenido con Actualización Falsa de Windows 11",
+      "description": "Produce contenido de video atractivo o transmisiones en vivo usando una broma entretenida de actualización de Windows 11, añadiendo humor a las discusiones tecnológicas."
+    },
+    "prank": {
+      "title": "Bromea a Amigos con una Simulación Genuina de Actualización de Windows 11",
+      "description": "Sorprende a tus amigos usando nuestra herramienta para bromear con una actualización falsa de Windows 11, convirtiendo momentos ordinarios en bromas tecnológicas memorables."
+    },
+    "ux": {
+      "title": "Mejora el Aprendizaje de Diseño de Experiencia de Usuario con Actualizaciones Simuladas",
+      "description": "Usa la experiencia emocionante de actualización de Windows 11 para educar a diseñadores UX/UI sobre el impacto de las actualizaciones del sistema en la experiencia del usuario."
+    },
+    "recovery": {
+      "title": "Demuestra Escenarios de Recuperación del Sistema con Herramienta de Broma de Actualización de Windows 11",
+      "description": "Aprovecha la herramienta de actualización de Windows 11 de aspecto auténtico para simular procesos de recuperación del sistema para entrenamiento de TI y talleres."
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes sobre la Pantalla de Actualización Falsa de Windows 11",
+    "subtitle": "Preguntas comunes sobre nuestra pantalla de actualización falsa de Windows 11",
+    "whatIs": {
+      "question": "¿Qué es la Pantalla de Actualización Falsa de Windows 11?",
+      "answer": "La Pantalla de Actualización Falsa de Windows 11 es un simulador en línea divertido que imita el proceso real de actualización de Windows 11. Está diseñado para bromas inofensivas, videos de YouTube o presentaciones donde quieres hacer que parezca que una PC está \"actualizándose\"."
+    },
+    "safe": {
+      "question": "¿Es seguro usar esta pantalla de actualización falsa?",
+      "answer": "Sí. El simulador es 100% seguro. Se ejecuta completamente en tu navegador y no instala ni modifica nada en tu computadora. Solo muestra una animación de pantalla completa realista que parece una actualización real de Windows 11."
+    },
+    "howToUse": {
+      "question": "¿Cómo uso la Pantalla de Actualización Falsa de Windows 11?",
+      "answer": "Simplemente abre la página, haz clic en \"Pantalla Completa\" y la actualización falsa comenzará automáticamente. Puedes salir en cualquier momento presionando Esc o F11 en tu teclado."
+    },
+    "pranks": {
+      "question": "¿Puedo usarla para bromas o videos?",
+      "answer": "¡Absolutamente! Mucha gente la usa para bromear con amigos, grabar videos divertidos de TikTok o YouTube, o crear contenido de estilo tecnológico. Solo asegúrate de que tu broma sea amigable y respetuosa."
+    },
+    "realistic": {
+      "question": "¿Se ve exactamente como una actualización real de Windows 11?",
+      "answer": "Sí — está diseñada con las mismas fuentes, colores y animaciones que la pantalla real de actualización de Windows 11. Los espectadores a menudo no pueden notar la diferencia."
+    },
+    "otherScreens": {
+      "question": "¿Qué otras pantallas falsas puedo probar?",
+      "answer": "También puedes probar: Pantalla de Actualización Falsa de Windows 10, Broma de Pantalla Azul de la Muerte (BSOD), Pantalla Negra para Limpieza. Estas son geniales para diversión, pruebas o propósitos de visualización."
+    },
+    "exit": {
+      "question": "¿Cómo puedo salir de la pantalla de actualización falsa?",
+      "answer": "Para salir del modo de pantalla completa, presiona Esc. Si tu navegador no responde, también puedes usar Alt + Tab para cambiar entre ventanas."
+    },
+    "mobile": {
+      "question": "¿Puedo usarla en dispositivos móviles?",
+      "answer": "Sí, la pantalla de actualización falsa de Windows 11 funciona en la mayoría de smartphones y tablets. Para la mejor experiencia, gira tu teléfono horizontalmente (modo paisaje)."
+    },
+    "privacy": {
+      "question": "¿Este sitio web recopila algún dato?",
+      "answer": "No se recopilan datos personales. La página simplemente muestra un efecto visual en tu navegador. Es seguro y respeta la privacidad."
+    },
+    "difference": {
+      "question": "¿Cuál es la diferencia entre las pantallas de actualización falsas de Windows 10 y Windows 11?",
+      "answer": "La versión de Windows 11 presenta un fondo azul moderno, texto de progreso centrado y nuevos estilos de fuente — coincidiendo perfectamente con la apariencia oficial de Windows 11."
+    }
+  },
+  "additionalTools": {
+    "title": "Herramientas de Pantalla Adicionales",
+    "description": "Explora nuestra colección de herramientas de pantalla especializadas para varios propósitos.",
+    "colorScreens": "Pantallas de Color",
+    "prankScreens": "Pantallas de Broma",
+    "fakeUpdateScreens": "Pantallas de Actualización Falsa",
+    "screensaverScreens": "Pantallas de Protector de Pantalla"
+  },
+  "howToUse": {
+    "title": "¿Cómo Funciona?",
+    "subtitle": "Usar esta herramienta es simple:",
+    "stepByStepTitle": "Proceso Paso a Paso",
+    "keyFeaturesTitle": "Características Principales",
+    "steps": {
+      "chooseDuration": {
+        "title": "Elegir Duración",
+        "description": "Selecciona cuánto tiempo quieres que dure la actualización - desde unos minutos hasta horas."
+      },
+      "setStartingPercentage": {
+        "title": "Establecer Porcentaje de Inicio",
+        "description": "Elige un porcentaje de inicio para la actualización, como 10%, 15%, o cualquier otro punto."
+      },
+      "selectWindowsVersion": {
+        "title": "Seleccionar Versión de Windows",
+        "description": "Elige la versión de Windows que quieres simular (Windows 10, Windows 11, o Windows XP)."
+      },
+      "startSimulation": {
+        "title": "Iniciar Simulación",
+        "description": "Una vez que hayas establecido estas opciones, la herramienta mostrará la animación de actualización comenzando desde tu porcentaje elegido."
+      }
+    },
+    "features": {
+      "realisticAnimation": {
+        "title": "Animación Realista",
+        "description": "El proceso de actualización se ve exactamente como el real, con animaciones y diseños precisos."
+      },
+      "customizableSettings": {
+        "title": "Configuraciones Personalizables",
+        "description": "Ajusta la duración y el porcentaje de inicio para adaptarse a tus necesidades."
+      },
+      "fullscreenMode": {
+        "title": "Modo Pantalla Completa",
+        "description": "La herramienta se ejecuta en pantalla completa para máximo efecto."
+      },
+      "deviceCompatibility": {
+        "title": "Compatibilidad de Dispositivos",
+        "description": "Funciona en escritorios, laptops, tablets y más."
+      }
+    },
+    "footer": {
+      "title": "Simulador de Actualización Falsa de Windows",
+      "description": "Ofrece una experiencia altamente convincente para los usuarios. Replica la apariencia de una pantalla de actualización real de Windows, completa con barras de progreso y animaciones."
+    }
+  },
+  "techSpecs": {
+    "title": "Especificaciones Técnicas",
+    "specs": [
+      "Resolución: Hasta 8K (7680x4320)",
+      "Profundidad de Color: 24-bit RGB",
+      "Formato: PNG, JPEG, WebP",
+      "Compatibilidad: Todos los navegadores modernos",
+      "Funcionalidad Offline: Completamente disponible"
+    ]
+  }
+}

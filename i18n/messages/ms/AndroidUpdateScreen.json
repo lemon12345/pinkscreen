@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "badge": "Simulator Android Muktamad",
+    "title": "Kemas Kini Android Palsu",
+    "description": "Alami alat skrin kemas kini Android palsu yang realistik dalam skrin penuh. Sempurna untuk gurauan, tujuan pendidikan, atau demonstrasi teknikal.",
+    "keywords": "kemas kini Android palsu, Simulasi kemas kini Android, Kemas kini Android yang autentik, Gurauan kemas kini Android, Skrin kemas kini Android yang realistik, Simulasi kemas kini Android yang tulen, Gurauan kemas kini Android yang menghiburkan, Gurauan dengan kemas kini Android palsu, Pengalaman kemas kini Android yang menarik, Alat gurauan kemas kini Android",
+    "features": {
+      "noRegistration": "Tiada pendaftaran",
+      "worksOffline": "Berfungsi luar talian",
+      "allDevices": "Semua peranti"
+    }
+  },
+  "keywords": "ol",
+  "preview": {
+    "updateText": "Memasang kemas kini sistem"
+  },
+  "useCases": {
+    "title": "Orang menggunakan Skrin Kemas Kini Android Palsu untuk:",
+    "subtitle": "Temui pelbagai cara untuk menggunakan skrin kemas kini Android palsu kami",
+    "simulate": {
+      "title": "Simulasi Kemas Kini Android untuk Ujian Perisian",
+      "description": "Gunakan alat kemas kini Android palsu kami untuk mencipta skrin kemas kini yang kelihatan autentik untuk ujian perisian dan tujuan demonstrasi."
+    },
+    "engage": {
+      "title": "Libatkan Penonton Anda dengan Skrin Kemas Kini Android yang Realistik",
+      "description": "Tangkap perhatian penggemar teknologi dengan mempamerkan simulasi kemas kini Android yang tulen semasa pembentangan atau blog teknologi."
+    },
+    "education": {
+      "title": "Tingkatkan Pendidikan Teknologi dengan Alat Gurauan Kemas Kini Android",
+      "description": "Gabungkan skrin kemas kini Android yang realistik kami ke dalam senario pendidikan teknologi untuk mengajar tentang kemas kini sistem dan reka bentuk antara muka pengguna."
+    },
+    "content": {
+      "title": "Cipta Kandungan Menghiburkan dengan Kemas Kini Android Palsu",
+      "description": "Hasilkan kandungan video yang menarik atau siaran langsung menggunakan gurauan kemas kini Android yang menghiburkan, menambah humor kepada perbincangan teknologi."
+    },
+    "prank": {
+      "title": "Gurau Kawan dengan Simulasi Kemas Kini Android yang Tulen",
+      "description": "Kejutkan kawan anda dengan menggunakan alat kami untuk bergurau dengan kemas kini Android palsu, mengubah momen biasa menjadi gurauan teknologi yang berkesan."
+    },
+    "ux": {
+      "title": "Tingkatkan Pembelajaran Reka Bentuk UX dengan Kemas Kini yang Disimulasikan",
+      "description": "Gunakan pengalaman kemas kini Android yang menarik untuk mendidik pereka UX/UI tentang kesan kemas kini sistem terhadap pengalaman pengguna."
+    },
+    "recovery": {
+      "title": "Demonstrasi Senario Pemulihan Sistem dengan Alat Gurauan Kemas Kini Android",
+      "description": "Manfaatkan alat kemas kini Android yang kelihatan autentik untuk mensimulasikan proses pemulihan sistem untuk latihan IT dan bengkel."
+    }
+  },
+  "faq": {
+    "title": "Soalan Lazim",
+    "subtitle": "Soalan biasa tentang skrin kemas kini Android palsu kami",
+    "real": {
+      "question": "Adakah ini kemas kini Android yang sebenar?",
+      "answer": "Tidak, ini adalah skrin yang disimulasikan yang direka untuk tujuan hiburan dan ujian. Ia tidak boleh benar-benar mengemas kini peranti anda."
+    },
+    "pranks": {
+      "question": "Bolehkah saya menggunakannya untuk gurauan?",
+      "answer": "Ya! Alat ini sempurna untuk gurauan teknologi yang tidak berbahaya. Ingatlah untuk menggunakannya dengan bertanggungjawab dan dengan humor yang baik."
+    },
+    "realistic": {
+      "question": "Betapa realistikkah simulasi ini?",
+      "answer": "Skrin kemas kini Android kami direka untuk kelihatan sangat autentik, dengan bar kemajuan animasi dan jenama Android yang sesuai."
+    },
+    "safe": {
+      "question": "Adakah ia selamat untuk digunakan?",
+      "answer": "Sudah tentu! Ini adalah simulasi berasaskan web yang berjalan sepenuhnya dalam pelayar anda dan tidak boleh mengakses sistem atau peranti anda."
+    }
+  }
+}

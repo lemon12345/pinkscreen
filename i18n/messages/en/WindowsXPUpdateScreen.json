@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "title": "Windows XP Fake Update",
+    "description": "Experience a nostalgic Windows XP update simulation on our website. Fool your friends with our authentic-looking Windows XP fake update screen. Enjoy the classic blue screen and familiar progress of the legendary operating system.",
+    "badge": "Windows XP System Update",
+    "features": {
+      "noRegistration": "No Registration",
+      "worksOffline": "Works Offline",
+      "allDevices": "All Devices"
+    }
+  },
+  "keywords": "Windows XP fake update, Windows XP update simulation, Simulate Windows XP update, Fake Windows XP update screen, Emulate Windows XP update, Windows XP update prank, Windows XP update process, Authentic-looking Windows XP update, Realistic Windows XP update screen, Fool friends with Windows XP update, Realistic Windows XP update progress, Genuine Windows XP update simulation, Authentic Windows XP update messages, Windows XP update stage, Entertaining Windows XP update prank, Fun fake Windows XP update, Enjoy simulated Windows XP update, Prank with Windows XP fake update, Exciting Windows XP update experience, Windows XP update for amusement, Windows XP update prank tool",
+  "preview": {
+    "updateText": "Installing Windows Updates...",
+    "completeText": " complete",
+    "dontTurnOffText": "Do not turn off or unplug your computer.",
+    "restartText": "Your computer will restart automatically"
+  },
+  "useCases": {
+    "title": "People use Windows XP Update Screen for:",
+    "subtitle": "Discover various ways to use our Windows XP fake update screen",
+    "case1": {
+      "title": "Simulate Windows XP Update for Retro Testing",
+      "description": "Utilize our Windows XP fake update tool to create authentic-looking retro update screens for software testing and demonstration purposes."
+    },
+    "case2": {
+      "title": "Engage Your Audience with Nostalgic Windows XP Update",
+      "description": "Capture the attention of tech enthusiasts by showcasing a genuine Windows XP update simulation during presentations or retro tech content."
+    },
+    "case3": {
+      "title": "Elevate Tech Education with Windows XP Update Prank Tool",
+      "description": "Incorporate our realistic Windows XP update screen into tech education scenarios to teach about legacy systems and user interface evolution."
+    },
+    "case4": {
+      "title": "Create Entertaining Content with Windows XP Fake Update",
+      "description": "Produce engaging video content or live streams using an entertaining Windows XP update prank, adding nostalgia to tech discussions."
+    },
+    "case5": {
+      "title": "Prank Friends with Genuine Windows XP Update Simulation",
+      "description": "Surprise your friends by using our tool to prank with a Windows XP fake update, turning ordinary moments into memorable retro pranks."
+    },
+    "case6": {
+      "title": "Study Legacy UI Design with Simulated Updates",
+      "description": "Use the classic Windows XP update experience to educate UX/UI designers on the evolution of system update interfaces."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about our Windows XP Fake Update Screen",
+    "whatIs": {
+      "question": "What is the Windows XP Fake Update Screen?",
+      "answer": "It's a fun, nostalgic simulator that recreates the look of a real Windows XP update screen. You can open it in your browser to prank friends, make videos, or relive the early 2000s tech vibe."
+    },
+    "safe": {
+      "question": "Is it safe to use?",
+      "answer": "Yes — 100% safe. This page only shows a fake Windows XP update animation in your web browser. It doesn't download or install anything on your computer."
+    },
+    "pranks": {
+      "question": "How can I use it for a prank?",
+      "answer": "Just open the page, click Full Screen, and leave it running. The realistic loading text will make anyone believe your PC is \"updating Windows XP.\" Perfect for a harmless joke!"
+    },
+    "realistic": {
+      "question": "How realistic is the simulation?",
+      "answer": "Our Windows XP update screen is designed to look very authentic, featuring the classic blue background and proper Windows XP branding."
+    },
+    "exit": {
+      "question": "How do I exit the fake update screen?",
+      "answer": "Press Esc or F11 to leave full-screen mode instantly. Nothing will happen to your real system."
+    },
+    "content": {
+      "question": "Can I use it for YouTube videos or livestreams?",
+      "answer": "Yes! Many creators use the fake Windows XP update screen for comedy sketches, retro-style edits, or tech nostalgia videos."
+    },
+    "real": {
+      "question": "Does this really update Windows XP?",
+      "answer": "No — this is a visual simulator only. It doesn't affect your system or files in any way."
+    },
+    "devices": {
+      "question": "Does it work on modern computers?",
+      "answer": "Yes. The fake Windows XP update screen works on any modern browser — including Windows 10, 11, macOS, and even mobile devices."
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "title": "Fałszywy Ekran Wirusa - Pliki zaszyfrowane",
+    "description": "Fałszywy ekran wirusa żądający pieniędzy za deszyfrację plików. Oszukaj swoich przyjaciół otwierając to na ich maszynie!",
+    "badge": "Narzędzie Żartu Wirusa"
+  },
+  "keywords": "fałszywy wirus, żart ransomware, fałszywy haker, żart komputerowy, symulator wirusa, fałszywy malware, żart zaszyfrowanych plików, nieszkodliwy żart wirusa, fałszywa cyberbezpieczeństwo, ekran żartu",
+  "colorPicker": {
+    "title": "Fałszywy Żart Wirusa",
+    "description": "Realistyczny ekran wirusa do nieszkodliwych żartów i edukacji cyberbezpieczeństwa",
+    "launchButton": "Uruchom Żart Wirusa",
+    "clickHint": "Kliknij przycisk powyżej, aby uruchomić żart wirusa w trybie pełnoekranowym"
+  },
+  "useCases": {
+    "title": "Ludzie używają żartu wirusa do:",
+    "description": "Nasz fałszywy symulator wirusa zapewnia realistyczne doświadczenie ransomware dla edukacji i nieszkodliwych żartów.",
+    "cases": [
+      {
+        "icon": "🛡️",
+        "title": "Edukacja Cyberbezpieczeństwa",
+        "description": "Ucz o zagrożeniach ransomware i świadomości cyberbezpieczeństwa w bezpiecznym, kontrolowanym środowisku."
+      },
+      {
+        "icon": "😂",
+        "title": "Nieszkodliwe Żarty Biurowe",
+        "description": "Bezpiecznie żartuj z kolegami realistycznym ekranem wirusa, który ujawnia się jako nieszkodliwy żart."
+      },
+      {
+        "icon": "🎭",
+        "title": "Treści Społecznościowe",
+        "description": "Twórz angażujące filmy reakcji i treści świadomości cyberbezpieczeństwa dla platform społecznościowych."
+      },
+      {
+        "icon": "📚",
+        "title": "Szkolenie IT",
+        "description": "Używaj w kursach szkolenia IT do demonstracji ataków ransomware i procedur reagowania na incydenty."
+      },
+      {
+        "icon": "🎬",
+        "title": "Film & Teatr",
+        "description": "Idealny do filmów, programów TV lub produkcji teatralnych wymagających realistycznych scen haker/wirus."
+      },
+      {
+        "icon": "🎪",
+        "title": "Prima Aprilis",
+        "description": "Ostateczny żart Prima Aprilis z przekonującym interfejsem ransomware i humorystycznymi opcjami płatności."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Często Zadawane Pytania",
+    "description": "Typowe pytania o fałszywy symulator żartu wirusa",
+    "questions": [
+      {
+        "question": "Czy ten żart wirusa jest rzeczywiście niebezpieczny?",
+        "answer": "Absolutnie nie! To jest 100% nieszkodliwa symulacja. Żadne pliki nie są szyfrowane, żadne dane nie są kradzione, i żaden prawdziwy malware nie jest zaangażowany."
+      },
+      {
+        "question": "Czy to uszkodzi mój komputer lub pliki?",
+        "answer": "Żadnych szkód! To jest czysto wizualna symulacja działająca w Twojej przeglądarce. Wszystkie Twoje pliki pozostają całkowicie bezpieczne i nietknięte."
+      },
+      {
+        "question": "Jak realistycznie to wygląda?",
+        "answer": "Bardzo realistycznie! Imituje prawdziwe interfejsy ransomware, ale zawiera humorystyczne metody płatności jak 'Monopoly Money' i 'nerki', aby upewnić się, że to wyraźnie żart."
+      },
+      {
+        "question": "Jak wyjść z żartu?",
+        "answer": "Naciśnij F11 lub klawisz ESC, aby wyjść z trybu pełnoekranowego. Żart ujawnia się również jako nieszkodliwy z jasnymi instrukcjami."
+      },
+      {
+        "question": "Czy mogę tego używać do szkolenia cyberbezpieczeństwa?",
+        "answer": "Tak! Jest idealny do celów edukacyjnych, aby pokazać, jak wygląda ransomware i uczyć świadomości cyberbezpieczeństwa."
+      }
+    ]
+  },
+  "additionalTools": {
+    "title": "Dodatkowe Narzędzia Ekranu",
+    "description": "Odkryj naszą kolekcję specjalistycznych narzędzi ekranu do różnych celów.",
+    "colorScreens": "Ekrany Kolorowe",
+    "prankScreens": "Ekrany Żartów",
+    "fakeUpdateScreens": "Ekrany Fałszywych Aktualizacji",
+    "screensaverScreens": "Ekrany Wygaszaczy"
+  },
+  "howToUse": {
+    "title": "Jak Używać",
+    "steps": [
+      "Kliknij przycisk uruchomienia, aby wejść w żart wirusa w trybie pełnoekranowym",
+      "Fałszywy ekran ransomware wyświetli się z odliczającym czasomierzem",
+      "Obserwuj reakcję ofiary na realistyczną wiadomość szyfrowania",
+      "Żart ujawnia się z humorystycznymi opcjami płatności",
+      "Naciśnij F11 lub ESC, aby wyjść z trybu pełnoekranowego w dowolnym momencie"
+    ]
+  },
+  "techSpecs": {
+    "title": "Specyfikacje Techniczne",
+    "specs": [
+      "Interfejs: Realistyczna symulacja ransomware/wirusa",
+      "Funkcje: Odliczający czasomierz, fałszywa wiadomość szyfrowania",
+      "Bezpieczeństwo: 100% nieszkodliwy - żaden prawdziwy wirus lub malware",
+      "Kompatybilność: Wszystkie nowoczesne przeglądarki i urządzenia",
+      "Edukacja: Idealny do szkolenia świadomości cyberbezpieczeństwa"
+    ]
+  }
+}

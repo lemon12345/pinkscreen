@@ -85,28 +85,24 @@
     "proTipDescription": "Switch to orange screen in the evening for a softer light that's less likely to disrupt sleep rhythms."
   },
   "faq": {
-    "title": "Frequently Asked Questions",
+    "title": "🟠 Orange / Yellow Screen – FAQ",
     "description": "Find answers to common questions about using our orange screen tool for various purposes.",
     "questions": [
       {
-        "question": "What is an Orange Screen tool used for?",
-        "answer": "An Orange Screen tool displays an orange color in fullscreen mode, commonly used for screen testing, mood boards, eye comfort, content creation, and enhancing visual creativity."
+        "question": "What is the Orange or Yellow Screen used for?",
+        "answer": "It shows a warm color background for testing, design previews, or mood lighting."
       },
       {
-        "question": "How do I use Orange Screen for eye comfort?",
-        "answer": "The Orange Screen reduces blue light exposure, making it easier on your eyes during night-time browsing or long working hours. It helps reduce eye strain and improve visual comfort."
+        "question": "Can it reduce blue light at night?",
+        "answer": "Yes, orange and yellow tones are gentler on the eyes and can reduce sleep disruption."
       },
       {
-        "question": "Can I use Orange Screen for content creation?",
-        "answer": "Yes! The Orange Screen is perfect for creating warm, inviting backgrounds for online content, virtual classes, or live streams. It adds energy and positivity to your content."
+        "question": "Can I use it as a light source?",
+        "answer": "Yes, the warm hue can be used as a reading light or ambient glow."
       },
       {
-        "question": "Why use Orange Screen for screen testing?",
-        "answer": "Orange is an excellent color for testing display accuracy and color calibration. It helps identify color issues and fine-tune monitor settings for optimal viewing."
-      },
-      {
-        "question": "Is Orange Screen good for creativity?",
-        "answer": "Yes, orange is associated with creativity and optimism. An Orange Screen can inspire creative thinking and serve as a mood board for design projects and artistic work."
+        "question": "Does it work on all devices?",
+        "answer": "Yes. It runs smoothly on desktop, tablet, and mobile browsers."
       }
     ]
   },

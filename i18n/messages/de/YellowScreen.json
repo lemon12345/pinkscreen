@@ -10,6 +10,26 @@
     }
   },
   "keywords": "gelber Bildschirm, leerer gelber Bildschirm, ein gelber Bildschirm, leere Bildschirme, voller gelber Bildschirm, PC gelber Bildschirm, Computer gelber Bildschirm, total gelber Bildschirm, schlichter gelber Bildschirm, gelber Bildschirm 10 Stunden, gelbes Display, leerer Computerbildschirm, total gelber Bildschirm",
+  "colors": {
+    "Yellow": "Gelber",
+    "White": "Weißer",
+    "Black": "Schwarzer",
+    "Red": "Roter",
+    "Blue": "Blauer",
+    "Green": "Grüner",
+    "Purple": "Lila",
+    "Pink": "Rosa",
+    "Orange": "Oranger",
+    "Zoom Lighting": "Zoom-Beleuchtung"
+  },
+  "interface": {
+    "livePreview": "Live-Vorschau",
+    "clickForFullscreen": "Klicken für Vollbild",
+    "current": "Aktuell",
+    "chooseYourColor": "Wählen Sie Ihre Farbe",
+    "perfectFor": "Perfekt für Monitortests, Fotografie-Beleuchtung und Präsentationen",
+    "launchYellowScreen": "Gelben Bildschirm starten"
+  },
   "colorPicker": {
     "title": "Wählen Sie Ihre Farbe",
     "custom": "Benutzerdefiniert",
@@ -77,8 +97,26 @@
       }
     ]
   },
+  "info": {
+    "professionalTool": "Professionelles Werkzeug",
+    "title": "Gelber Bildschirm Hintergrund herunterladen",
+    "subtitle": "Verwenden Sie diesen Vollbild-Gelbzeichschirm für Monitortests, Fotografie-Beleuchtung oder zum Erstellen eines gelben Hintergrunds. Sauber, schnell und werbefrei.",
+    "downloadReady": "Download bereit",
+    "downloadTitle": "Gelber Bildschirm Hintergrund",
+    "downloadDescription": "Bevorzugen Sie ein statisches Gelbzeichschirm-Bild? Verwenden Sie eines unserer hochauflösenden PNGs:",
+    "hdTitle": "1920x1080 Gelber Bildschirm Hintergrund",
+    "hdDescription": "Perfekt für Standard-HD-Displays und Monitortests. Optimiert für Fotografie-Beleuchtung und Präsentationen.",
+    "hdButton": "HD herunterladen",
+    "fourKTitle": "4K Gelber Bildschirm Hintergrund",
+    "fourKDescription": "Ultra-HD-Vollbild-gelber Hintergrund für professionelle Monitortests und Fotografie. Perfekt für hochauflösende Displays.",
+    "fourKButton": "4K herunterladen",
+    "proTipBadge": "Profi-Tipp",
+    "proTipTitle": "Maximieren Sie Ihren Gelbzeichschirm",
+    "proTipDescription": "Maximieren Sie die Bildschirmhelligkeit und verwenden Sie F11 für den Vollbildmodus, um den besten Effekt für Monitortests und Fotografie zu erzielen."
+  },
   "faq": {
     "title": "Häufig gestellte Fragen",
+    "description": "Finden Sie Antworten auf häufige Fragen zur Verwendung unseres gelben Bildschirm-Tools für verschiedene Zwecke.",
     "questions": [
       {
         "question": "Wofür wird ein gelber Bildschirm verwendet?",

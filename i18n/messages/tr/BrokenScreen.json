@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "title": "Bozuk Ekran",
+    "description": "Şakalar, videolar ve eğlence için gerçekçi bozuk ekran efektleri oluşturun. Otantik görünümlü çatlak ekran simülasyonları ile arkadaşlarınızı kandırmak için mükemmel.",
+    "badge": "Ekran Efekti",
+    "features": {
+      "noRegistration": "Kayıt Yok",
+      "worksOffline": "Çevrimdışı Çalışır",
+      "allDevices": "Tüm Cihazlar"
+    }
+  },
+  "keywords": "bozuk ekran, çatlak ekran, ekran şakası, sahte bozuk ekran, çatlak telefon ekranı, bozuk ekran, ekran efekti, şaka aracı, bozuk ekran simülatörü, çatlak ekran üreticisi, sahte çatlak ekran, bozuk ekran şakası, ekran hasarı simülasyonu, çatlak ekran efekti, bozuk telefon ekranı, ekran çatlağı simülatörü, ekran şaka aracı, bozuk ekran üreticisi, çatlak ekran efekti, sahte ekran hasarı",
+  "useCases": {
+    "title": "💻 İnsanlar Sahte Bozuk Ekranı Şunun için Kullanır",
+    "description": "Bozuk ekran efektimizi kullanmanın çeşitli yollarını keşfedin",
+    "cases": [
+      {
+        "title": "😆 Şakalar ve espriler",
+        "description": "Arkadaşlarınızı ekranınızın az önce bozulduğunu düşünmelerini sağlayarak kandırın! Asla eskimeyen klasik zararsız bir şaka."
+      },
+      {
+        "title": "🎬 Video ve içerik oluşturma",
+        "description": "YouTube veya TikTok videolarınıza kırık cam efekti ekleyin — düzenleme gerekmez."
+      },
+      {
+        "title": "🧠 Ekran testi",
+        "description": "Bazı kullanıcılar monitör piksellerini, parlaklığı veya yansıma önleyici kaliteyi test etmek için çatlak ekran desenini kullanır."
+      },
+      {
+        "title": "🎥 Canlı yayın veya sahne görselleri",
+        "description": "Canlı yayınlar, sahne ekranları veya teknoloji temalı şovlar için arka plan efekti olarak harika."
+      },
+      {
+        "title": "💡 Teknoloji mizahı ve eğlenceli demolar",
+        "description": "BT eğitmenleri ve sunucular bunu eğlenceli mola slaydı olarak veya cihazlarınızla ne yapmamanız gerektiğini göstermek için kullanır."
+      },
+      {
+        "title": "📱 Mobil cihaz testi",
+        "description": "Mobil uygulamalarınızın bozuk ekran senaryolarını ve kenar durumlarını nasıl ele aldığını test edin."
+      },
+      {
+        "title": "🎃 Cadılar Bayramı şakaları",
+        "description": "Cadılar Bayramı partileri ve korkunç etkinlikler için dramatik efektler yaratmak için mükemmel."
+      }
+    ]
+  },
+  "howToUse": {
+    "title": "🧭 Sahte Bozuk Ekran Nasıl Kullanılır",
+    "steps": [
+      "Sayfayı açın - Bilgisayarınızda, tabletinizde veya telefonunuzda sahte bozuk ekran sayfasını ziyaret edin",
+      "Tam ekrana geçin - \"Tam Ekran\"a tıklayın veya sahte çatlak ekranın tüm ekranınızı kaplaması için F11'e basın",
+      "Efektinizi seçin (destekleniyorsa) - En gerçekçi görünüm için farklı stiller arasından seçim yapın — kırık cam, LCD arızası veya örümcek ağı çatlağı",
+      "Eğlence veya test için kullanın - Şakalar, video efektleri veya ekran kalibrasyonu için mükemmel"
+    ]
+  },
+  "faq": {
+    "title": "❓ SSS – Sahte Bozuk Ekran",
+    "subtitle": "Bozuk Ekran Efektimiz hakkında sık sorulan sorular",
+    "questions": [
+      {
+        "question": "1. Sahte Bozuk Ekran aracı nedir?",
+        "answer": "Ekranınızda çatlak veya hasarlı ekran efekti gösteren web tabanlı bir simülatördür. Cihazınıza zarar vermez — sadece görsel bir illüzyondur."
+      },
+      {
+        "question": "2. Kullanmak güvenli mi?",
+        "answer": "Evet! Hiçbir şey indirmez veya yüklemez. Sadece tarayıcınızda bir görüntü katmanı gösterir."
+      },
+      {
+        "question": "3. Bununla birine şaka yapabilir miyim?",
+        "answer": "Kesinlikle! 😄 Sadece tam ekranda açın ve cihazınızı bir arkadaşa verin — tepkilerini görün!"
+      },
+      {
+        "question": "4. Bozuk ekran efektinden nasıl çıkarım?",
+        "answer": "Normal ekranınıza anında dönmek için Esc veya F11'e basın."
+      },
+      {
+        "question": "5. Bu telefonlarda veya tabletlerde çalışır mı?",
+        "answer": "Evet, herhangi bir cihazda çalışır — masaüstü, dizüstü bilgisayar veya mobil tarayıcı."
+      }
+    ]
+  }
+}
