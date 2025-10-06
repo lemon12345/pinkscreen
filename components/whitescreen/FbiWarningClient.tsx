@@ -25,8 +25,43 @@ export default function FbiWarningClient() {
     };
   }, []);
 
+  // 全局键盘事件监听
+  useEffect(() => {
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === 'Escape' && (document.fullscreenElement || document.getElementById("fbi-warning-fullscreen"))) {
+        // 直接执行退出逻辑，不依赖 exitPrankRef
+        const fullscreenElement = document.getElementById("fbi-warning-fullscreen");
+        const styleElement = document.querySelector('style[data-fbi-warning]');
+        
+        if (fullscreenElement && document.body.contains(fullscreenElement)) {
+          document.body.removeChild(fullscreenElement);
+        }
+        if (styleElement && document.head.contains(styleElement)) {
+          document.head.removeChild(styleElement);
+        }
+        
+        setIsFullscreen(false);
+        
+        // 退出浏览器全屏模式
+        if (document.fullscreenElement) {
+          document.exitFullscreen().catch(() => {});
+        }
+      }
+    };
+
+    document.addEventListener('keydown', handleKeyDown);
+    return () => document.removeEventListener('keydown', handleKeyDown);
+  }, []);
+
   const handleFullscreen = async () => {
     if (!isFullscreen) {
+      // 首先进入浏览器全屏模式
+      try {
+        await document.documentElement.requestFullscreen();
+      } catch (err) {
+        console.log("Fullscreen not supported");
+      }
+
       const fullscreenElement = document.createElement("div");
       fullscreenElement.id = "fbi-warning-fullscreen";
 
@@ -455,16 +490,8 @@ export default function FbiWarningClient() {
       // 启动倒计时器
       timerInterval = setInterval(startTimer, 1000);
 
-      // ESC键退出
-      const handleKeyDown = (e: KeyboardEvent) => {
-        if (e.key === 'Escape' || e.key === 'F11') {
-          e.preventDefault();
-          exitPrank();
-        }
-      };
-
       // 退出函数
-      function exitPrank() {
+      const exitPrank = async () => {
         try {
           if (timerInterval) clearInterval(timerInterval);
           
@@ -477,15 +504,21 @@ export default function FbiWarningClient() {
           }
           
           setIsFullscreen(false);
-          document.removeEventListener("keydown", handleKeyDown);
+
+          // 退出浏览器全屏模式
+          try {
+            if (document.fullscreenElement) {
+              await document.exitFullscreen();
+            }
+          } catch (err) {
+            console.log("Exit fullscreen failed");
+          }
         } catch (error) {
           console.error("Error exiting FBI warning:", error);
           setIsFullscreen(false);
         }
-      }
+      };
 
-      // 添加事件监听器
-      document.addEventListener("keydown", handleKeyDown);
 
       // 点击退出
       fullscreenElement.addEventListener('click', (e) => {

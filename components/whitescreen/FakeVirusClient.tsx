@@ -27,6 +27,13 @@ export default function FakeVirusClient() {
 
   const handleFullscreen = async () => {
     if (!isFullscreen) {
+      // 首先进入浏览器全屏模式
+      try {
+        await document.documentElement.requestFullscreen();
+      } catch (err) {
+        console.log("Fullscreen not supported");
+      }
+
       const fullscreenElement = document.createElement("div");
       fullscreenElement.id = "fake-virus-fullscreen";
 
@@ -401,7 +408,7 @@ export default function FakeVirusClient() {
       };
 
       // 退出函数
-      function exitPrank() {
+      async function exitPrank() {
         try {
           if (timerInterval) clearInterval(timerInterval);
           
@@ -415,6 +422,15 @@ export default function FakeVirusClient() {
           
           setIsFullscreen(false);
           document.removeEventListener("keydown", handleKeyDown);
+
+          // 退出浏览器全屏模式
+          try {
+            if (document.fullscreenElement) {
+              await document.exitFullscreen();
+            }
+          } catch (err) {
+            console.log("Exit fullscreen failed");
+          }
         } catch (error) {
           console.error("Error exiting fake virus:", error);
           setIsFullscreen(false);

@@ -192,26 +192,29 @@ export default function BlueScreenOfDeathWindows10Hero({
   // CSS Variables for death screen text size - 优化全屏模式下的字体大小
   const getTextSize = () => {
     if (!isFullscreen) return "9px";
-    if (screenWidth <= 512) return "20px";
-    if (screenWidth <= 768) return "32px";
-    if (screenWidth <= 1024) return "40px";
-    return "48px"; // 大屏幕全屏模式下使用更大的字体
+    if (screenWidth <= 512) return "22px";
+    if (screenWidth <= 768) return "28px";
+    if (screenWidth <= 1024) return "34px";
+    if (screenWidth <= 1440) return "40px";
+    return "46px"; // 大屏幕全屏模式下使用更大的字体
   };
 
   const getSmileSize = () => {
     if (!isFullscreen) return "36px";
-    if (screenWidth <= 512) return "80px";
-    if (screenWidth <= 768) return "128px";
-    if (screenWidth <= 1024) return "160px";
-    return "192px"; // 大屏幕全屏模式下使用更大的表情符号
+    if (screenWidth <= 512) return "90px";
+    if (screenWidth <= 768) return "120px";
+    if (screenWidth <= 1024) return "150px";
+    if (screenWidth <= 1440) return "180px";
+    return "210px"; // 大屏幕全屏模式下使用更大的表情符号
   };
 
   const getSmallTextSize = () => {
     if (!isFullscreen) return "4px";
-    if (screenWidth <= 512) return "8px";
-    if (screenWidth <= 768) return "12px";
-    if (screenWidth <= 1024) return "16px";
-    return "20px"; // 大屏幕全屏模式下使用更大的小字体
+    if (screenWidth <= 512) return "10px";
+    if (screenWidth <= 768) return "14px";
+    if (screenWidth <= 1024) return "18px";
+    if (screenWidth <= 1440) return "22px";
+    return "26px"; // 大屏幕全屏模式下使用更大的小字体
   };
 
   const getQrCodeSize = () => {
@@ -222,29 +225,33 @@ export default function BlueScreenOfDeathWindows10Hero({
 
     // 全屏模式：使用响应式大小
     if (screenWidth <= 512) {
-      return "80px";
+      return "90px";
     } else if (screenWidth <= 768) {
-      return "120px";
+      return "130px";
     } else if (screenWidth <= 1024) {
-      return "160px";
+      return "170px";
+    } else if (screenWidth <= 1440) {
+      return "210px";
     } else {
-      return "200px"; // 大屏幕全屏模式下使用更大的QR码
+      return "250px"; // 大屏幕全屏模式下使用更大的QR码
     }
   };
 
   const getPadding = () => {
     if (!isFullscreen) return { left: "10%", right: "10%" };
-    if (screenWidth <= 512) return { left: "8%", right: "8%" };
-    if (screenWidth <= 768) return { left: "12%", right: "12%" };
-    if (screenWidth <= 1024) return { left: "15%", right: "15%" };
-    return { left: "20%", right: "20%" }; // 大屏幕全屏模式下使用更大的内边距
+    if (screenWidth <= 512) return { left: "6%", right: "6%" };
+    if (screenWidth <= 768) return { left: "10%", right: "10%" };
+    if (screenWidth <= 1024) return { left: "14%", right: "14%" };
+    if (screenWidth <= 1440) return { left: "18%", right: "18%" };
+    return { left: "22%", right: "22%" }; // 大屏幕全屏模式下使用更大的内边距
   };
 
   const getLineHeight = () => {
     if (!isFullscreen) return "1.2";
-    if (screenWidth <= 512) return "1.4";
-    if (screenWidth <= 768) return "1.5";
-    if (screenWidth <= 1024) return "1.6";
+    if (screenWidth <= 512) return "1.3";
+    if (screenWidth <= 768) return "1.4";
+    if (screenWidth <= 1024) return "1.5";
+    if (screenWidth <= 1440) return "1.6";
     return "1.7"; // 大屏幕全屏模式下使用更大的行高
   };
 

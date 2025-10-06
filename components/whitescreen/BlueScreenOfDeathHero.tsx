@@ -67,26 +67,29 @@ export default function BlueScreenOfDeathHero({
   // CSS Variables for death screen text size - 优化全屏模式下的字体大小
   const getTextSize = () => {
     if (!isFullscreen) return "7px";
-    if (screenWidth <= 512) return "16px";
+    if (screenWidth <= 512) return "18px";
     if (screenWidth <= 768) return "24px";
-    if (screenWidth <= 1024) return "32px";
-    return "40px"; // 大屏幕全屏模式下使用更大的字体
+    if (screenWidth <= 1024) return "28px";
+    if (screenWidth <= 1440) return "32px";
+    return "36px"; // 大屏幕全屏模式下使用更大的字体
   };
 
   const getLineHeight = () => {
     if (!isFullscreen) return "1.2";
-    if (screenWidth <= 512) return "1.4";
-    if (screenWidth <= 768) return "1.5";
-    if (screenWidth <= 1024) return "1.6";
+    if (screenWidth <= 512) return "1.3";
+    if (screenWidth <= 768) return "1.4";
+    if (screenWidth <= 1024) return "1.5";
+    if (screenWidth <= 1440) return "1.6";
     return "1.7"; // 大屏幕全屏模式下使用更大的行高
   };
 
   const getPadding = () => {
     if (!isFullscreen) return { top: "7%", left: "7%", right: "7%" };
-    if (screenWidth <= 512) return { top: "1%", left: "5%", right: "5%" };
-    if (screenWidth <= 768) return { top: "2%", left: "8%", right: "8%" };
-    if (screenWidth <= 1024) return { top: "3%", left: "10%", right: "10%" };
-    return { top: "4%", left: "12%", right: "12%" }; // 大屏幕全屏模式下大幅减少上方空白
+    if (screenWidth <= 512) return { top: "2%", left: "4%", right: "4%" };
+    if (screenWidth <= 768) return { top: "3%", left: "6%", right: "6%" };
+    if (screenWidth <= 1024) return { top: "4%", left: "8%", right: "8%" };
+    if (screenWidth <= 1440) return { top: "5%", left: "10%", right: "10%" };
+    return { top: "6%", left: "12%", right: "12%" }; // 大屏幕全屏模式下使用更大的内边距
   };
 
   const deathScreenTextSize = getTextSize();

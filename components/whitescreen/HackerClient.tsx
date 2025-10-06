@@ -13,7 +13,7 @@ export default function HackerClient() {
       // 创建全屏容器
       const fullscreenElement = document.createElement("div");
       fullscreenElement.id = "hacker-fullscreen";
-      
+
       // 完全复制原版HTML结构
       fullscreenElement.innerHTML = `
         <style>
@@ -30,12 +30,12 @@ export default function HackerClient() {
             user-select: none;
           }
           
-          #hacker-fullscreen {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100vw;
-            height: 100vh;
+        #hacker-fullscreen {
+          position: fixed;
+          top: 0;
+          left: 0;
+          width: 100vw;
+          height: 100vh;
             font-family: Arial, Sans-Serif;
             background-color: #1d1d1d;
             background-image: url('/image/hacker/bg.png');
@@ -44,13 +44,13 @@ export default function HackerClient() {
             background-position: center center;
             color: #ce0d18;
             overflow: hidden;
-            z-index: 9999;
+          z-index: 9999;
           }
           
           #console {
             font-family: Fixedsys, Sans-Serif;
             display: flex;
-            overflow: hidden;
+          overflow: hidden;
             flex-direction: column-reverse;
             max-height: 400px;
             padding: 10px;
@@ -72,7 +72,7 @@ export default function HackerClient() {
           .folder {
             width: 48px;
             height: 32px;
-            position: relative;
+          position: relative;
             background-color: rgba(0, 0, 0, 0);
             border-radius: 3px 3px 3px 3px;
             margin: 30px;
@@ -86,7 +86,7 @@ export default function HackerClient() {
             height: 6px;
             border-radius: 0 3px 0 0;
             background-color: rgba(0, 0, 0, 0);
-            position: absolute;
+          position: absolute;
             top: -6px;
             left: 0px;
             cursor: pointer;
@@ -154,7 +154,7 @@ export default function HackerClient() {
           }
           
           .dialog {
-            position: fixed;
+          position: fixed;
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
@@ -162,7 +162,7 @@ export default function HackerClient() {
             padding: 40px;
             border: 3px solid #00ff00;
             z-index: 9999;
-            display: none;
+          display: none;
             text-align: center;
             font-size: 36px;
             font-weight: bold;
@@ -189,9 +189,9 @@ export default function HackerClient() {
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
-            display: none;
-          }
-          
+          display: none;
+        }
+        
           #BigFolder {
             height: 450px;
             width: 600px;
@@ -199,7 +199,7 @@ export default function HackerClient() {
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
-            overflow-y: auto;
+          overflow-y: auto;
             display: none;
           }
           
@@ -581,9 +581,9 @@ Welcome to localhost!
               const granted = document.getElementById('AccessGranted');
               granted.style.display = 'block';
               setTimeout(() => { granted.style.display = 'none'; }, 2000);
-              return;
-            }
-            
+          return;
+        }
+
             // ENTER for access denied
             if (e.keyCode === 13) {
               const denied = document.getElementById('AccessDenied');
@@ -638,7 +638,7 @@ Welcome to localhost!
 
           // Automate button
           const button = document.getElementById('button');
-          if (button) {
+        if (button) {
             button.addEventListener('click', function() {
               if (automateInterval) {
                 clearInterval(automateInterval);
@@ -704,7 +704,7 @@ Welcome to localhost!
         if (!document.fullscreenElement) {
           // 用户按了ESC或F11退出全屏
           if (document.body.contains(fullscreenElement)) {
-            document.body.removeChild(fullscreenElement);
+        document.body.removeChild(fullscreenElement);
           }
           if (script && script.parentNode) {
             script.parentNode.removeChild(script);
@@ -733,4 +733,4 @@ Welcome to localhost!
       </div>
     </div>
   );
-}
+} 
