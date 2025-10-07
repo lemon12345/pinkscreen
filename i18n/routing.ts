@@ -21,8 +21,9 @@ export const LOCALE_NAMES: Record<string, string> = {
 export const routing = defineRouting({
   locales: LOCALES,
   defaultLocale: DEFAULT_LOCALE,
-  localeDetection: process.env.NEXT_PUBLIC_LOCALE_DETECTION && process.env.NEXT_PUBLIC_LOCALE_DETECTION === 'true' || false,
-
+  // 完全禁用语言自动检测，防止 Google 爬虫被重定向
+  localeDetection: false,
+  // 保持 'as-needed'：默认语言(en)不需要前缀，其他语言需要
   localePrefix: 'as-needed',
 });
 
