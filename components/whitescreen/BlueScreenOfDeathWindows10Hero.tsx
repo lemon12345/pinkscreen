@@ -262,6 +262,18 @@ export default function BlueScreenOfDeathWindows10Hero({
   const padding = getPadding();
   const lineHeight = getLineHeight();
 
+  // 监听全屏状态变化，重新计算字体大小
+  useEffect(() => {
+    if (previewRef.current) {
+      const element = previewRef.current;
+      // 强制重新渲染以应用新的字体大小
+      element.style.fontSize = deathScreenTextSize;
+      element.style.lineHeight = lineHeight;
+      element.style.paddingLeft = padding.left;
+      element.style.paddingRight = padding.right;
+    }
+  }, [isFullscreen, screenWidth, deathScreenTextSize, lineHeight, padding]);
+
   // 预加载图片
   useEffect(() => {
     const imageUrls = [
