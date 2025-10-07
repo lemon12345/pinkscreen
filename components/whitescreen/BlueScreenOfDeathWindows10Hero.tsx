@@ -239,11 +239,11 @@ export default function BlueScreenOfDeathWindows10Hero({
 
   const getPadding = () => {
     if (!isFullscreen) return { top: "0%", left: "10%", right: "10%", bottom: "0%" };
-    if (screenWidth <= 512) return { top: "5%", left: "6%", right: "6%", bottom: "5%" };
-    if (screenWidth <= 768) return { top: "8%", left: "10%", right: "10%", bottom: "8%" };
-    if (screenWidth <= 1024) return { top: "10%", left: "14%", right: "14%", bottom: "10%" };
-    if (screenWidth <= 1440) return { top: "12%", left: "18%", right: "18%", bottom: "12%" };
-    return { top: "15%", left: "22%", right: "22%", bottom: "15%" }; // 大屏幕全屏模式下使用更大的内边距
+    if (screenWidth <= 512) return { top: "3%", left: "6%", right: "6%", bottom: "3%" };
+    if (screenWidth <= 768) return { top: "4%", left: "10%", right: "10%", bottom: "4%" };
+    if (screenWidth <= 1024) return { top: "5%", left: "14%", right: "14%", bottom: "5%" };
+    if (screenWidth <= 1440) return { top: "6%", left: "18%", right: "18%", bottom: "6%" };
+    return { top: "8%", left: "22%", right: "22%", bottom: "8%" }; // 大屏幕全屏模式下使用更大的内边距
   };
 
   const getLineHeight = () => {
@@ -409,12 +409,20 @@ export default function BlueScreenOfDeathWindows10Hero({
                 onClick={handlePreviewClick}
               >
                 {selectedColor === "death-screen-10" && (
-                  <div className="w-full h-full flex flex-col justify-center text-white" style={{
+                  <div className="w-full h-full flex flex-col text-white" style={{
                     fontFamily: "'Segoe UI Light', sans-serif",
-                    textAlign: "start"
+                    textAlign: "start",
+                    justifyContent: isFullscreen ? "flex-start" : "center"
                   }}>
-                    <span className="block mb-2" style={{ fontSize: deathScreenSmileSize, fontWeight: "bold" }}>:(</span>
-                    <span className="block mb-2" style={{ fontSize: deathScreenTextSize }}>
+                    <span className="block" style={{ 
+                      fontSize: deathScreenSmileSize, 
+                      fontWeight: "bold",
+                      marginBottom: isFullscreen ? "1.5vh" : "8px"
+                    }}>:(</span>
+                    <span className="block" style={{ 
+                      fontSize: deathScreenTextSize,
+                      marginBottom: isFullscreen ? "2vh" : "8px"
+                    }}>
                       Your PC ran into a problem and needs to restart. We&apos;re<br />
                       just collecting some error info, and then we&apos;ll restart for<br />
                       you.<br /><br />
@@ -428,7 +436,8 @@ export default function BlueScreenOfDeathWindows10Hero({
                         style={{
                           width: qrCodeSize,
                           height: qrCodeSize,
-                          marginTop: isFullscreen ? "2px" : "0px"
+                          marginTop: isFullscreen ? "0.5vh" : "0px",
+                          flexShrink: 0
                         }}
                       />
                       <span className="block" style={{ fontSize: deathScreenSmallTextSize, paddingLeft: "15px" }}>
