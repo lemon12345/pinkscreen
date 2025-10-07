@@ -192,29 +192,29 @@ export default function BlueScreenOfDeathWindows10Hero({
   // CSS Variables for death screen text size - 优化全屏模式下的字体大小
   const getTextSize = () => {
     if (!isFullscreen) return "9px";
-    if (screenWidth <= 512) return "22px";
-    if (screenWidth <= 768) return "28px";
-    if (screenWidth <= 1024) return "34px";
-    if (screenWidth <= 1440) return "40px";
-    return "46px"; // 大屏幕全屏模式下使用更大的字体
+    if (screenWidth <= 512) return "16px";
+    if (screenWidth <= 768) return "20px";
+    if (screenWidth <= 1024) return "24px";
+    if (screenWidth <= 1440) return "28px";
+    return "32px"; // 大屏幕全屏模式下使用合适的字体
   };
 
   const getSmileSize = () => {
     if (!isFullscreen) return "36px";
-    if (screenWidth <= 512) return "90px";
-    if (screenWidth <= 768) return "120px";
-    if (screenWidth <= 1024) return "150px";
-    if (screenWidth <= 1440) return "180px";
-    return "210px"; // 大屏幕全屏模式下使用更大的表情符号
+    if (screenWidth <= 512) return "60px";
+    if (screenWidth <= 768) return "80px";
+    if (screenWidth <= 1024) return "100px";
+    if (screenWidth <= 1440) return "120px";
+    return "140px"; // 大屏幕全屏模式下使用合适的表情符号
   };
 
   const getSmallTextSize = () => {
     if (!isFullscreen) return "4px";
-    if (screenWidth <= 512) return "10px";
+    if (screenWidth <= 512) return "12px";
     if (screenWidth <= 768) return "14px";
-    if (screenWidth <= 1024) return "18px";
-    if (screenWidth <= 1440) return "22px";
-    return "26px"; // 大屏幕全屏模式下使用更大的小字体
+    if (screenWidth <= 1024) return "16px";
+    if (screenWidth <= 1440) return "18px";
+    return "20px"; // 大屏幕全屏模式下使用合适的小字体
   };
 
   const getQrCodeSize = () => {
@@ -225,15 +225,15 @@ export default function BlueScreenOfDeathWindows10Hero({
 
     // 全屏模式：使用响应式大小
     if (screenWidth <= 512) {
-      return "90px";
+      return "80px";
     } else if (screenWidth <= 768) {
-      return "130px";
+      return "100px";
     } else if (screenWidth <= 1024) {
-      return "170px";
+      return "120px";
     } else if (screenWidth <= 1440) {
-      return "210px";
+      return "140px";
     } else {
-      return "250px"; // 大屏幕全屏模式下使用更大的QR码
+      return "160px"; // 大屏幕全屏模式下使用合适的QR码
     }
   };
 
