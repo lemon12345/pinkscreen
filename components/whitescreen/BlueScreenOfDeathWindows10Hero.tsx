@@ -238,12 +238,12 @@ export default function BlueScreenOfDeathWindows10Hero({
   };
 
   const getPadding = () => {
-    if (!isFullscreen) return { left: "10%", right: "10%" };
-    if (screenWidth <= 512) return { left: "6%", right: "6%" };
-    if (screenWidth <= 768) return { left: "10%", right: "10%" };
-    if (screenWidth <= 1024) return { left: "14%", right: "14%" };
-    if (screenWidth <= 1440) return { left: "18%", right: "18%" };
-    return { left: "22%", right: "22%" }; // 大屏幕全屏模式下使用更大的内边距
+    if (!isFullscreen) return { top: "0%", left: "10%", right: "10%", bottom: "0%" };
+    if (screenWidth <= 512) return { top: "5%", left: "6%", right: "6%", bottom: "5%" };
+    if (screenWidth <= 768) return { top: "8%", left: "10%", right: "10%", bottom: "8%" };
+    if (screenWidth <= 1024) return { top: "10%", left: "14%", right: "14%", bottom: "10%" };
+    if (screenWidth <= 1440) return { top: "12%", left: "18%", right: "18%", bottom: "12%" };
+    return { top: "15%", left: "22%", right: "22%", bottom: "15%" }; // 大屏幕全屏模式下使用更大的内边距
   };
 
   const getLineHeight = () => {
@@ -269,8 +269,10 @@ export default function BlueScreenOfDeathWindows10Hero({
       // 强制重新渲染以应用新的字体大小
       element.style.fontSize = deathScreenTextSize;
       element.style.lineHeight = lineHeight;
+      element.style.paddingTop = padding.top;
       element.style.paddingLeft = padding.left;
       element.style.paddingRight = padding.right;
+      element.style.paddingBottom = padding.bottom;
     }
   }, [isFullscreen, screenWidth, deathScreenTextSize, lineHeight, padding]);
 
@@ -394,8 +396,10 @@ export default function BlueScreenOfDeathWindows10Hero({
                   fontWeight: 300,
                   lineHeight: lineHeight,
                   boxSizing: "border-box",
+                  paddingTop: padding.top,
                   paddingLeft: padding.left,
                   paddingRight: padding.right,
+                  paddingBottom: padding.bottom,
                   display: "flex",
                   flexDirection: "column",
                   justifyContent: "center",

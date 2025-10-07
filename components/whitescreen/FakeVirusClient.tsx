@@ -25,15 +25,8 @@ export default function FakeVirusClient() {
     };
   }, []);
 
-  const handleFullscreen = async () => {
+  const handleFullscreen = () => {
     if (!isFullscreen) {
-      // 首先进入浏览器全屏模式
-      try {
-        await document.documentElement.requestFullscreen();
-      } catch (err) {
-        console.log("Fullscreen not supported");
-      }
-
       const fullscreenElement = document.createElement("div");
       fullscreenElement.id = "fake-virus-fullscreen";
 
@@ -399,18 +392,28 @@ export default function FakeVirusClient() {
       // 启动倒计时器
       timerInterval = setInterval(startTimer, 1000);
 
-      // ESC键退出
+      // ESC键退出 - 按照 blue-screen-of-death-windows-10 的逻辑
       const handleKeyDown = (e: KeyboardEvent) => {
-        if (e.key === 'Escape' || e.key === 'F11') {
+        if ((e.key === 'Escape' || e.key === 'F11') && (document.fullscreenElement || (document as any).webkitFullscreenElement || (document as any).mozFullScreenElement || (document as any).msFullscreenElement)) {
           e.preventDefault();
-          exitPrank();
+          if (document.exitFullscreen) { document.exitFullscreen(); }
+          else if ((document as any).mozCancelFullScreen) { (document as any).mozCancelFullScreen(); }
+          else if ((document as any).webkitExitFullscreen) { (document as any).webkitExitFullscreen(); }
+          else if ((document as any).msExitFullscreen) { (document as any).msExitFullscreen(); }
         }
       };
 
       // 退出函数
-      async function exitPrank() {
+      function exitPrank() {
         try {
           if (timerInterval) clearInterval(timerInterval);
+          
+          // 移除事件监听器
+          document.removeEventListener("keydown", handleKeyDown);
+          document.removeEventListener("fullscreenchange", handleFullscreenChange);
+          document.removeEventListener("webkitfullscreenchange", handleFullscreenChange);
+          document.removeEventListener("mozfullscreenchange", handleFullscreenChange);
+          document.removeEventListener("MSFullscreenChange", handleFullscreenChange);
           
           // 安全地移除元素
           if (fullscreenElement && document.body.contains(fullscreenElement)) {
@@ -421,24 +424,25 @@ export default function FakeVirusClient() {
           }
           
           setIsFullscreen(false);
-          document.removeEventListener("keydown", handleKeyDown);
-
-          // 退出浏览器全屏模式
-          try {
-            if (document.fullscreenElement) {
-              await document.exitFullscreen();
-            }
-          } catch (err) {
-            console.log("Exit fullscreen failed");
-          }
         } catch (error) {
           console.error("Error exiting fake virus:", error);
           setIsFullscreen(false);
         }
       }
 
+      // 监听全屏变化事件
+      const handleFullscreenChange = () => {
+        if (!document.fullscreenElement && !(document as any).webkitFullscreenElement && !(document as any).mozFullScreenElement && !(document as any).msFullscreenElement) {
+          exitPrank();
+        }
+      };
+
       // 添加事件监听器
       document.addEventListener("keydown", handleKeyDown);
+      document.addEventListener("fullscreenchange", handleFullscreenChange);
+      document.addEventListener("webkitfullscreenchange", handleFullscreenChange);
+      document.addEventListener("mozfullscreenchange", handleFullscreenChange);
+      document.addEventListener("MSFullscreenChange", handleFullscreenChange);
 
       // 点击退出
       fullscreenElement.addEventListener('click', (e) => {
@@ -451,6 +455,12 @@ export default function FakeVirusClient() {
       document.head.appendChild(style);
       document.body.appendChild(fullscreenElement);
       setIsFullscreen(true);
+
+      // 进入浏览器全屏模式
+      if (fullscreenElement.requestFullscreen) { fullscreenElement.requestFullscreen(); }
+      else if ((fullscreenElement as any).mozRequestFullScreen) { (fullscreenElement as any).mozRequestFullScreen(); }
+      else if ((fullscreenElement as any).webkitRequestFullscreen) { (fullscreenElement as any).webkitRequestFullscreen(); }
+      else if ((fullscreenElement as any).msRequestFullscreen) { (fullscreenElement as any).msRequestFullscreen(); }
     }
   };
 
