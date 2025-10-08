@@ -1,8 +1,8 @@
 {
   "hero": {
     "badge": "Red Screen Tool",
-    "title": "Red Screen | Online Tool",
-    "description": "Use this fullscreen red screen to improve focus, test display pixels, or create ambient light. Works on all devices. Free and ad-free.",
+    "title": "Red Screen Online - Full Screen Red Color",
+    "description": "Full screen red tool - warmer alternative to white screen for night viewing. Improve focus, test display pixels, and create ambient light. Less eye strain than white screen. Works on all devices.",
     "features": {
       "noRegistration": "No Registration",
       "worksOffline": "Works Offline",
@@ -130,25 +130,5 @@
         "answer": "Yes. The Red Screen tool works perfectly on phones and tablets."
       }
     ]
-  },
-  "colors": {
-    "Red": "Red",
-    "White": "White",
-    "Black": "Black",
-    "Blue": "Blue",
-    "Green": "Green",
-    "Yellow": "Yellow",
-    "Purple": "Purple",
-    "Pink": "Pink",
-    "Orange": "Orange",
-    "Zoom Lighting": "Zoom Lighting"
-  },
-  "interface": {
-    "livePreview": "Live Preview",
-    "clickForFullscreen": "Click for fullscreen",
-    "current": "Current",
-    "chooseYourColor": "Choose Your Color",
-    "perfectFor": "Perfect for screen testing, creating vibrant mood boards, and adding warmth to virtual presentations",
-    "launchRedScreen": "Launch Red Screen"
   }
 }
