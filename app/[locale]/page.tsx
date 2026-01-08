@@ -1,55 +1,30 @@
 import HomeComponent from "@/components/home";
-import Script from "next/script";
+import { constructMetadata } from "@/lib/metadata";
+import { Locale } from "@/i18n/routing";
+import { Metadata } from "next";
+import { getTranslations } from "next-intl/server";
 
-const faqSchema = {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the purpose of the Purple (or Pink) Screen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It displays a soft purple or pink color, used for calming visuals, background light, or aesthetic effects."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I use it for lighting or mood setting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, many users use the purple or pink screen to create ambient lighting for rooms or photography."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Does it work on phones and tablets?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. It's mobile-friendly and adjusts automatically to your screen size."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is it safe for long use?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, but like all bright screens, take occasional breaks to rest your eyes."
-      }
-    }
-  ]
+type MetadataProps = {
+  params: Promise<{ locale: string }>;
 };
+
+export async function generateMetadata({
+  params,
+}: MetadataProps): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "Home" });
+
+  return constructMetadata({
+    page: "Home",
+    title: t("title"),
+    description: t("description"),
+    locale: locale as Locale,
+    path: `/`,
+  });
+}
 
 export default function Home() {
   return (
-    <>
-      <Script
-        id="faq-schema"
-        type="application/ld+json"
-        strategy="beforeInteractive"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-      />
       <HomeComponent />
-    </>
   );
 }
