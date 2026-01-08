@@ -9,15 +9,14 @@ import DiscordInviteWidget from "@/components/shared/DiscordInviteWidget";
 import { TailwindIndicator } from "@/components/TailwindIndicator";
 import { Toaster } from "@/components/ui/sonner";
 import { siteConfig } from "@/config/site";
-import { DEFAULT_LOCALE, Locale, routing } from "@/i18n/routing";
-import { constructMetadata } from "@/lib/metadata";
+import { DEFAULT_LOCALE, routing } from "@/i18n/routing";
 import { cn } from "@/lib/utils";
 import "@/styles/globals.css";
 import "@/styles/loading.css";
 import { Analytics } from "@vercel/analytics/react";
-import { Metadata, Viewport } from "next";
+import { Viewport } from "next";
 import { NextIntlClientProvider } from "next-intl";
-import { getMessages, getTranslations } from "next-intl/server";
+import { getMessages } from "next-intl/server";
 import { ThemeProvider } from "next-themes";
 import { Inter as FontSans } from "next/font/google";
 import { notFound } from "next/navigation";
@@ -26,25 +25,6 @@ export const fontSans = FontSans({
   subsets: ["latin"],
   variable: "--font-sans",
 });
-
-type MetadataProps = {
-  params: Promise<{ locale: string }>;
-};
-
-export async function generateMetadata({
-  params,
-}: MetadataProps): Promise<Metadata> {
-  const { locale } = await params;
-  const t = await getTranslations({ locale, namespace: "Home" });
-
-  return constructMetadata({
-    page: "Home",
-    title: t("title"),
-    description: t("description"),
-    locale: locale as Locale,
-    path: `/`,
-  });
-}
 
 export const viewport: Viewport = {
   themeColor: siteConfig.themeColors,
