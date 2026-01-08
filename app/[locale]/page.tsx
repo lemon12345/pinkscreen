@@ -1,54 +1,54 @@
 import HomeComponent from "@/components/home";
-import Head from "next/head";
+import Script from "next/script";
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the purpose of the Purple (or Pink) Screen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It displays a soft purple or pink color, used for calming visuals, background light, or aesthetic effects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use it for lighting or mood setting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, many users use the purple or pink screen to create ambient lighting for rooms or photography."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does it work on phones and tablets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. It's mobile-friendly and adjusts automatically to your screen size."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it safe for long use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but like all bright screens, take occasional breaks to rest your eyes."
+      }
+    }
+  ]
+};
 
 export default function Home() {
-  const faqSchema = {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "What is the purpose of the Purple (or Pink) Screen?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "It displays a soft purple or pink color, used for calming visuals, background light, or aesthetic effects."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Can I use it for lighting or mood setting?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, many users use the purple or pink screen to create ambient lighting for rooms or photography."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Does it work on phones and tablets?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. It's mobile-friendly and adjusts automatically to your screen size."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Is it safe for long use?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, but like all bright screens, take occasional breaks to rest your eyes."
-        }
-      }
-    ]
-  };
-
   return (
     <>
-      <Head>
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-        />
-      </Head>
+      <Script
+        id="faq-schema"
+        type="application/ld+json"
+        strategy="beforeInteractive"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
       <HomeComponent />
     </>
   );
