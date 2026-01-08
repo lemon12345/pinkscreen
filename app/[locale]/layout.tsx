@@ -14,12 +14,13 @@ import { cn } from "@/lib/utils";
 import "@/styles/globals.css";
 import "@/styles/loading.css";
 import { Analytics } from "@vercel/analytics/react";
-import { Viewport } from "next";
+import type { Viewport } from "next";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
 import { ThemeProvider } from "next-themes";
 import { Inter as FontSans } from "next/font/google";
 import { notFound } from "next/navigation";
+import { setRequestLocale } from "next-intl/server";
 
 export const fontSans = FontSans({
   subsets: ["latin"],
@@ -29,6 +30,10 @@ export const fontSans = FontSans({
 export const viewport: Viewport = {
   themeColor: siteConfig.themeColors,
 };
+
+export function generateStaticParams() {
+  return routing.locales.map((locale) => ({ locale }));
+}
 
 export default async function LocaleLayout({
   children,
@@ -43,6 +48,9 @@ export default async function LocaleLayout({
   if (!routing.locales.includes(locale as any)) {
     notFound();
   }
+
+  // Enable static rendering
+  setRequestLocale(locale);
 
   const messages = await getMessages();
 
