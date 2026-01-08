@@ -1,8 +1,8 @@
 {
   "hero": {
     "badge": "Black Screen Tool",
-    "title": "Black Screen Online - Full Screen Black Background",
-    "description": "Full screen black tool - the opposite of white screen for darkness and power saving. Clean your monitor, test stuck pixels, reduce eye strain and glare. Perfect alternative to white screen for OLED displays. Works on all devices.",
+    "title": "Black Screen – Fullscreen Dark Background for Cleaning, Focus & Display Testing",
+    "description": "Use this fullscreen black screen to clean your monitor, test stuck pixels, or reduce eye strain. 100% free, ad-free, and works on all devices.",
     "features": {
       "noRegistration": "No Registration",
       "worksOffline": "Works Offline",
@@ -117,21 +117,21 @@
   },
   "colors": {
     "Zoom Lighting": "Zoom Lighting",
-    "White": "White",
-    "Black": "Black",
-    "Red": "Red",
-    "Blue": "Blue",
-    "Green": "Green",
-    "Yellow": "Yellow",
-    "Purple": "Purple",
-    "Pink": "Pink",
-    "Orange": "Orange"
+    "White": "White Screen",
+    "Black": "Black Screen",
+    "Red": "Red Screen",
+    "Blue": "Blue Screen",
+    "Green": "Green Screen",
+    "Yellow": "Yellow Screen",
+    "Purple": "Purple Screen",
+    "Pink": "Pink Screen",
+    "Orange": "Orange Screen"
   },
   "interface": {
     "livePreview": "Live Preview",
     "clickForFullscreen": "Click for fullscreen",
     "current": "Current",
-    "chooseYourColor": "Choose Your Color",
+    "chooseYourColor": "Choose Your Color Screen",
     "perfectFor": "Ideal for screen testing, creating vibrant mood boards, and adding warmth to virtual presentations",
     "launchBlackScreen": "Launch Black Screen"
   }
