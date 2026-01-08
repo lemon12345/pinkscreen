@@ -68,15 +68,6 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale || DEFAULT_LOCALE} suppressHydrationWarning>
-      <head>
-        {process.env.NODE_ENV === "development" ? (
-          <></>
-        ) : (
-          <>
-            <ToltScript />
-          </>
-        )}
-      </head>
       <body
         className={cn(
           "min-h-screen bg-background flex flex-col",
@@ -111,6 +102,7 @@ export default async function LocaleLayout({
             <GoogleAnalytics />
             <GoogleAdsense />
             <PlausibleAnalytics />
+            <ToltScript />
           </>
         )}
       </body>
