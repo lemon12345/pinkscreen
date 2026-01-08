@@ -4,11 +4,8 @@ import { routing } from './i18n/routing';
 
 const intlMiddleware = createIntlMiddleware(routing);
 
-export async function proxy(request: NextRequest): Promise<NextResponse> {
-
-  const intlResponse = intlMiddleware(request);
-
-  return intlResponse;
+export default function middleware(request: NextRequest): NextResponse {
+  return intlMiddleware(request);
 }
 
 export const config = {
@@ -18,7 +15,7 @@ export const config = {
 
     // Set a cookie to remember the previous locale for
     // all requests that have a locale prefix
-    '/(en|zh|ja)/:path*',
+    '/(en|zh|ja|de|es|fr|it|ms|pl|pt|se|tr)/:path*',
 
     // Enable redirects that add missing locales
     // (e.g. `/pathnames` -> `/en/pathnames`)
